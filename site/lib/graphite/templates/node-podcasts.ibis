@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#">
+    <head>
+        <meta charset="utf-8">
+        <title>{{ node.meta_title || node.title || site.title }}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="@root/assets/fonts.css">
+        <link rel="stylesheet" href="@root/assets/graphite.css">
+        <link rel="stylesheet" href="@root/assets/pygments.css">
+        {% if node.meta_description %}
+        <meta name="description" content="{$ node.meta_description.strip() $}">
+        {% endif %}
+        {{ inc.head }}
+        <link type="application/rss+xml" rel="alternate" title="{{ node.title }}" href="{{ node.atom_link }}">
+        <link rel="canonical" href="{{ node.page_link }}">
+        <meta name="google-site-verification" content="KmsjTiQpiOr-6-ePmoHx_Q3qfMhc2Px1zUcoBRRS6aU">
+
+        <meta property="og:title" content="{{ node.title }}">
+        <meta property="og:description" content="{{ node.description }}">
+        <meta property="og:image" content="{{ node.image_url }}">
+        <meta property="og:image:alt" content="{{ node.image_title }}">
+    </head>
+    <body class="{$ classes|join(' ') $}">
+        <header class="masthead">
+            <h1><a href="@root/">{{ site.title || "Site Title" }}</a></h1>
+            {% if site.tagline %}
+            <p class="tagline">{{ site.tagline.strip() }}</p>
+            {% endif %}
+            {% if site.version %}
+            <p class="version">{{ site.version.strip() }}</p>
+            {% endif %}
+            <nav class="menu">
+                <input id="menu-check" type="checkbox"/>
+                <label id="menu-label" for="menu-check" class="unselectable">
+                    <span class="icon close-icon">✕</span>
+                    <span class="icon open-icon">☰</span>
+                    <span class="text">Menu</span>
+                </label>
+                {{ inc.menu || automenu }}
+            </nav>
+        </header>
+        <article class="main">
+            <header class="title">
+                <img src="{{ node.image_url }}" alt="{{ node.image_title }}">
+                <h1>{{ node.title }}</h1>
+                {% if node.subtitle %}
+                <p class="subtitle">{{ node.subtitle }}</p>
+                {% endif %}
+                <hr>
+            </header>
+            {{ node.html }}
+
+            <dl>
+            {% for entry in node.entries %}
+                <dt><a href="{{ entry.link }}">{{ entry.title }}</a>
+                <dd>{{ entry.published }} | {{ entry.summary }}
+            {% endfor %}
+
+            {% for kid in node.children %}
+                <dt><a href="{{ kid.url }}">{{ kid.title }}</a>
+                <dd>{{ kid.published }} {{ kid.html }}
+            {% endfor %}
+            </dl>
+
+        </article>
+        {{ inc.foot }}
+    </body>
+</html>

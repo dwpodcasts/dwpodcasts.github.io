@@ -7,7 +7,7 @@
 theme = "graphite"
 
 # Site title.
-title = "Podcasts by DW (Deutsche Welle)"
+title = "Podcasts by DW"
 
 # Site tagline.
-tagline = "German and European news, analysis, opinion and breaking news from Germany's international broadcaster."
+tagline = "German and European news, analysis, opinion and breaking news from Deutsche Welle, Germany's international broadcaster."

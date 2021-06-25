@@ -27,17 +27,18 @@ def is_language_learning(feed):
 def read_podcast(rss_url):
     print('feed', rss_url)
     d = feedparser.parse(rss_url)
-    print('Number of RSS posts :', len(d.entries))
+    print(' - # RSS posts :', len(d.entries))
 
     atom_link = find_atom_link(d)
     if not atom_link:
         print("NO ATOM LINK")
         return
 
+    print(" - atom", atom_link)
     id = re.sub('^/xml(hd)?/', '', urlparse(atom_link).path).lower()
-    print(id)
+    print(" - id", id)
 
-    print('- deutschkurs', is_language_learning(d))
+    print(' - deutschkurs', is_language_learning(d))
 
     dir = 'site/src/podcasts/'
 
@@ -47,6 +48,9 @@ def read_podcast(rss_url):
         dir += 'deutschkurs/'
     else:
         dir += language
+
+    page_link = re.sub('^http:', 'https:', d.feed.link)
+    page_link = re.sub('dw\.de/', 'dw.com/', page_link)
 
     os.makedirs(dir, exist_ok=True)
 
@@ -60,19 +64,18 @@ def read_podcast(rss_url):
         })
 
     with open(f'{dir}/{id}.stx', 'w') as f:
-        f.write(f'''
----
-title: {d.feed.title}
+        f.write(f'''---
+title: "{d.feed.title}"
 id: {id}
-published: {d.feed.published}
-page_url: {d.feed.link}
-atom_url: {atom_link}
+published: "{d.feed.published}"
+page_link: "{page_link}"
+atom_link: "{atom_link}"
 language: {language}
 deutschkurs: {deutschkurs}
-category: '{d.feed.get('category', '')}'
-tags: {', '.join(["'" + t.term + "'" for t in d.channel.get('tags', [])])}
+category: "{d.feed.get('category', '')}"
+tags: [ {', '.join(['"' + t.term + '"' for t in d.channel.get('tags', [])])} ]
 image_url: {d.feed.image.href}
-image_title: '{d.feed.image.get('title', '')}'
+image_title: "{d.feed.image.get('title', '')}"
 {yaml.dump(entries)}
 ---
 {textwrap.fill(d.feed.description)}
