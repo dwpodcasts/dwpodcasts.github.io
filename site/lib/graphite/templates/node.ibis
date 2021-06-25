@@ -11,6 +11,7 @@
         <meta name="description" content="{$ node.meta_description.strip() $}">
         {% endif %}
         {{ inc.head }}
+        <meta name="google-site-verification" content="KmsjTiQpiOr-6-ePmoHx_Q3qfMhc2Px1zUcoBRRS6aU">
     </head>
     <body class="{$ classes|join(' ') $}">
         <header class="masthead">
