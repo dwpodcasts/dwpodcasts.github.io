@@ -40,6 +40,11 @@
             </nav>
         </header>
         <article class="main">
+            {% if node.atom_link %}
+            <div style="float:right">
+                { <a href="{{ node.atom_link }}">RSS</a> }
+            </div>
+            {% endif %}
             <header class="title">
                 <img src="{{ node.image_url }}" alt="{{ node.image_title }}">
                 <h1>{{ node.title }}</h1>
