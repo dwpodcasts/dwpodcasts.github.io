@@ -1,7 +1,7 @@
 ---
 title: "ዜና፣ | Deutsche Welle"
 id: podcast_amh_nachrichten
-published: "Fri, 25 Jun 2021 21:30:33 GMT"
+published: "Mon, 28 Jun 2021 09:55:03 GMT"
 page_link: "https://www.dw.com?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_amh_nachrichten"
 language: am
@@ -11,6 +11,11 @@ tags: [ "News", "Politics" ]
 image_url: https://static.dw.com/image/2135752_7.jpg
 image_title: ""
 entries:
+- link: "https://www.dw.com/am/\u12DC\u1293/av-58058771?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
+  published: Sat, 26 Jun 2021 16:34:00 GMT
+  summary: "\u12E8\u1230\u1294 19 \u1240\u1295 2013 \u12D3 \u121D \u12E8\u12D3\u1208\
+    \u121D \u12DC\u1293"
+  title: "\u12DC\u1293"
 - link: "https://www.dw.com/am/\u12E8\u12D0\u122D\u1265-\u1230\u1294-18-\u1240\u1295\
     \u1363-2013-\u12D3-\u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-58052304?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Fri, 25 Jun 2021 17:35:00 GMT
@@ -289,10 +294,6 @@ entries:
   published: Sun, 18 Apr 2021 16:35:00 GMT
   summary: "\u12E8\u12D3\u1208\u121D \u12DC\u1293"
   title: "\u12DC\u1293"
-- link: "https://www.dw.com/am/\u12DC\u1293\u1363-\u121A\u12DA\u12EB-7\u1363-2013/av-57218396?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
-  published: Thu, 15 Apr 2021 16:39:00 GMT
-  summary: null
-  title: "\u12DC\u1293\u1363 \u121A\u12DA\u12EB 7\u1363 2013"
 
 ---
 ከሰኞ እስከ ዓርብ -   ከፖለቲካው - ከኤኮኖሚው  እና ከባህሉ ዓለም -  የ 10 ደቂቃ  አዲስ ዜና

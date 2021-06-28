@@ -1,7 +1,7 @@
 ---
 title: "Visión futuro: El magacín científico"
 id: podcast_vision-futuro
-published: "Fri, 25 Jun 2021 21:35:05 GMT"
+published: "Mon, 28 Jun 2021 09:58:34 GMT"
 page_link: "https://www.dw.com?maca=spa-podcast_vision-futuro-7599-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_vision-futuro"
 language: es
@@ -11,6 +11,13 @@ tags: [ "ciencia", "astronautica", "proteccion medioambiente", "ingenieria genet
 image_url: https://static.dw.com/image/43844307_7.png
 image_title: ""
 entries:
+- link: https://www.dw.com/es/wangari-maathai-una-vida-en-defensa-del-ambiente/av-58044332?maca=spa-podcast_vision-futuro-7599-xml-mrss
+  published: Sun, 27 Jun 2021 09:57:00 GMT
+  summary: "Que una activista ambiental recibiera en 2011 el Premio Nobel de la Paz\
+    \ sorprendi\xF3 a muchos. El \"Green Belt Movement\" creado por Wangari Maathai\
+    \ sigue hasta hoy cumpliendo un papel esencial para generar sociedades pac\xED\
+    ficas y autoabastecidas."
+  title: 'Wangari Maathai: una vida en defensa del ambiente'
 - link: "https://www.dw.com/es/trabajo-de-ensue\xF1o-astronauta/av-57852643?maca=spa-podcast_vision-futuro-7599-xml-mrss"
   published: Sun, 13 Jun 2021 23:30:00 GMT
   summary: "En la primavera de 2022, la astronauta de la ESA Samantha Cristoforetti\
@@ -57,11 +64,6 @@ entries:
   summary: "La pregunta del espectador llega esta semana de Arnulfo Quintanilla, de\
     \ El Salvador: \xBFc\xF3mo se forma una corriente marina?"
   title: "\xBFC\xF3mo se forma una corriente oce\xE1nica?"
-- link: "https://www.dw.com/es/\xBFpor-qu\xE9-es-importante-el-plancton/av-56714544?maca=spa-podcast_vision-futuro-7599-xml-mrss"
-  published: Sun, 28 Feb 2021 23:30:00 GMT
-  summary: "Esta semana Amaia Angarita, de Colombia, nos pregunta: \xBFPor qu\xE9\
-    \ el plancton es importante para la vida en la Tierra?"
-  title: "\xBFPor qu\xE9 es importante el plancton?"
 - link: "https://www.dw.com/es/un-futuro-sin-pl\xE1sticos/av-56714543?maca=spa-podcast_vision-futuro-7599-xml-mrss"
   published: Sun, 28 Feb 2021 23:30:00 GMT
   summary: "Las bolsas de pl\xE1stico de un solo uso est\xE1n prohibidas en Banglad\xE9\
@@ -69,6 +71,11 @@ entries:
     \ Un cient\xEDfico local quiere abordar el problema con bolsas biodegradables\
     \ de yute."
   title: "Un futuro sin pl\xE1sticos"
+- link: "https://www.dw.com/es/\xBFpor-qu\xE9-es-importante-el-plancton/av-56714544?maca=spa-podcast_vision-futuro-7599-xml-mrss"
+  published: Sun, 28 Feb 2021 23:30:00 GMT
+  summary: "Esta semana Amaia Angarita, de Colombia, nos pregunta: \xBFPor qu\xE9\
+    \ el plancton es importante para la vida en la Tierra?"
+  title: "\xBFPor qu\xE9 es importante el plancton?"
 - link: https://www.dw.com/es/europa-y-marte/av-56628875?maca=spa-podcast_vision-futuro-7599-xml-mrss
   published: Sun, 21 Feb 2021 23:30:00 GMT
   summary: "La comunidad espacial internacional est\xE1 en plena fiebre marciana.\
@@ -90,13 +97,6 @@ entries:
     \ de las primeras en usar el nuevo instrumento junto a su equipo una vez que sea\
     \ puesto en funcionamiento."
   title: "Ver m\xE1s all\xE1"
-- link: https://www.dw.com/es/el-universo-ante-nuestros-ojos/av-56172325?maca=spa-podcast_vision-futuro-7599-xml-mrss
-  published: Sun, 10 Jan 2021 23:30:00 GMT
-  summary: "El telescopio espacial Hubble orbita la Tierra lejos de su atm\xF3sfera.\
-    \ All\xED disfruta de una vista l\xEDmpida del espacio y puede observar fen\xF3\
-    menos imperceptibles desde el suelo.\u2002Este ojo celestial nos ha mostrado la\
-    \ belleza oculta del espacio y ha cambiado nuestra visi\xF3n del universo."
-  title: El universo ante nuestros ojos
 - link: https://www.dw.com/es/especaculares-tomas/av-56172327?maca=spa-podcast_vision-futuro-7599-xml-mrss
   published: Sun, 10 Jan 2021 23:30:00 GMT
   summary: "Son im\xE1genes que despiertan asombro, pero tambi\xE9n respeto.\u2002\
@@ -104,6 +104,13 @@ entries:
     \ visualizaci\xF3n de datos en el ESO (Observatorio Europeo Austral).\u2002Para\
     \ ellos, la ciencia se mezcla con el arte."
   title: Especaculares tomas
+- link: https://www.dw.com/es/el-universo-ante-nuestros-ojos/av-56172325?maca=spa-podcast_vision-futuro-7599-xml-mrss
+  published: Sun, 10 Jan 2021 23:30:00 GMT
+  summary: "El telescopio espacial Hubble orbita la Tierra lejos de su atm\xF3sfera.\
+    \ All\xED disfruta de una vista l\xEDmpida del espacio y puede observar fen\xF3\
+    menos imperceptibles desde el suelo.\u2002Este ojo celestial nos ha mostrado la\
+    \ belleza oculta del espacio y ha cambiado nuestra visi\xF3n del universo."
+  title: El universo ante nuestros ojos
 
 ---
 Visión futuro les acompaña semanalmente en el fascinante viaje por el

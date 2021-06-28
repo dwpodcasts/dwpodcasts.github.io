@@ -1,7 +1,7 @@
 ---
 title: "Kalenderblatt | Deutsche Welle"
 id: podcast_kalenderblatt
-published: "Fri, 25 Jun 2021 21:28:30 GMT"
+published: "Mon, 28 Jun 2021 09:57:10 GMT"
 page_link: "https://www.kalenderblatt.de/?maca=de-podcast_kalenderblatt-1086-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_kalenderblatt"
 language: de
@@ -11,6 +11,28 @@ tags: [ "News", "Politics" ]
 image_url: https://static.dw.com/image/2266447_7.jpg
 image_title: ""
 entries:
+- link: http://www.kalenderblatt.de/index.php?what=thmanu&lang=de&manu_id=1768&sdt=20210628&maca=de-podcast_kalenderblatt-1086-xml-mrss
+  published: Mon, 28 Jun 2021 00:00:00 GMT
+  summary: "Ob Waldkindergarten, Montessori, konfessionell oder Europakita - die Ans\xE4\
+    tze der Kleinkinderbetreuung sind heute von einem breiten P\xE4dagogikangebot\
+    \ getragen. Als Friedrich Fr\xF6bel am 28. Juni 1840 seinen ersten Kindergarten\
+    \ gr\xFCndete, war die Idee der Bildung f\xFCr Vorschulkinder neu."
+  title: '28.6.1840: Erster Kindergarten in Deutschland'
+- link: http://www.kalenderblatt.de/index.php?what=thmanu&lang=de&manu_id=182&sdt=20210627&maca=de-podcast_kalenderblatt-1086-xml-mrss
+  published: Sun, 27 Jun 2021 00:00:00 GMT
+  summary: "Drei Wochen zuvor vom deutschen Bundestag verabschiedet, traten am 27.\
+    \ Juni 1968 Notstandsgesetze in Kraft. Durch eine Erg\xE4nzung des Grundgesetzes\
+    \ wurde dem Staat hiermit ein rechtliches Mittel in die Hand gegeben, auf besondere\
+    \ Notlagen mit restriktiven Ma\xDFnahmen zu reagieren - u. a. mit der Einschr\xE4\
+    nkung von Grundrechten."
+  title: '27.6.1968: Notstandsgesetze in Kraft'
+- link: http://www.kalenderblatt.de/index.php?what=thmanu&lang=de&manu_id=563&sdt=20210626&maca=de-podcast_kalenderblatt-1086-xml-mrss
+  published: Sat, 26 Jun 2021 00:00:00 GMT
+  summary: "Eineinhalb Millionen Menschen s\xE4umten die Stra\xDFen, um den Pr\xE4\
+    sidenten der Vereinigten Staaten von Amerika zu feiern. Am 26. Juni 1963 machte\
+    \ John F. Kennedy Station in Berlin. Seine in englischer Sprache gehaltene Rede\
+    \ enth\xE4lt vier deutsche W\xF6rter: \"Ich bin ein Berliner\"."
+  title: '26.6.1963: John F. Kennedy in Berlin'
 - link: http://www.kalenderblatt.de/index.php?what=thmanu&lang=de&manu_id=179&sdt=20210624&maca=de-podcast_kalenderblatt-1086-xml-mrss
   published: Thu, 24 Jun 2021 00:00:00 GMT
   summary: "Fast ein Jahr lang sperrten die Sowjets Land- und Wasserwege zwischen\
@@ -111,24 +133,6 @@ entries:
     \ der F\xFChrung von Margaret Thatcher einen ebenso \xFCberraschenden wie \xFC\
     berw\xE4ltigenden Wahlsieg."
   title: "9.6.1983: Erneuter Wahlsieg f\xFCr die Eiserne Lady"
-- link: http://www.kalenderblatt.de/index.php?what=thmanu&lang=de&manu_id=1764&sdt=20210608&maca=de-podcast_kalenderblatt-1086-xml-mrss
-  published: Tue, 8 Jun 2021 00:00:00 GMT
-  summary: "Der Porsche 356 ist eine Rennsportlegende: Seine Geschichte beginnt am\
-    \ 8. Juni 1948. An diesem Tag rollt mit einer Einzelzulassung die \"Nr. 1\" aus\
-    \ der kleinen Porsche-Werkstatt im \xF6sterreichischen Gm\xFCnd."
-  title: '8.6.1948: Rennsportlegende: Der Porsche 356'
-- link: http://www.kalenderblatt.de/index.php?what=thmanu&lang=de&manu_id=162&sdt=20210607&maca=de-podcast_kalenderblatt-1086-xml-mrss
-  published: Mon, 7 Jun 2021 00:00:00 GMT
-  summary: "Inzwischen gibt es sie in vielen L\xE4ndern der Welt: In Deutschland wurde\
-    \ am 7. Juni 1958 das erste SOS-Kinderdorf gegr\xFCndet, um Waisen und heimatlose\
-    \ Kindern in einer familien\xE4hnlichen Gemeinschaft zu erziehen und zu betreuen."
-  title: '7.6.1958: SOS-Kinderdorf in Deutschland'
-- link: http://www.kalenderblatt.de/index.php?what=thmanu&lang=de&manu_id=161&sdt=20210606&maca=de-podcast_kalenderblatt-1086-xml-mrss
-  published: Sun, 6 Jun 2021 00:00:00 GMT
-  summary: "Heute eine Selbstverst\xE4ndlichkeit, damals eine Revolution im Waschzuber\
-    \ - der D\xFCsseldorfer Chemiekonzern Henkel brachte ein neues Waschmittel auf\
-    \ den Markt: Persil."
-  title: "6.6.1907: Persil \u2013 Revolution im Waschzuber"
 
 ---
 Das Kalenderblatt der Deutschen Welle informiert in unterhaltsamer

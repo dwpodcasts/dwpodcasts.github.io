@@ -1,7 +1,7 @@
 ---
 title: "Check-in: Das Reisemagazin"
 id: podcast_de_check-in
-published: "Fri, 25 Jun 2021 21:29:55 GMT"
+published: "Mon, 28 Jun 2021 09:54:32 GMT"
 page_link: "https://www.dw.com?maca=de-podcast_de_check-in-20794-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_de_check-in"
 language: de
@@ -11,6 +11,12 @@ tags: [ "Reise", "Society & Culture", "Places & Travel", "Business", "Non-Profit
 image_url: https://static.dw.com/image/49850442_7.jpg
 image_title: ""
 entries:
+- link: https://www.dw.com/de/architektur-des-20-jahrhunderts-in-deutschland/av-57990915?maca=de-podcast_de_check-in-20794-xml-mrss
+  published: Sat, 26 Jun 2021 14:02:00 GMT
+  summary: "In Deutschland gibt es 46 UNESCO-Welterbest\xE4tten, auch die Architektur\
+    \ der Moderne wird gew\xFCrdigt. Von den Bauhaus-St\xE4tten in Weimar, Dessau\
+    \ und Bernau bis zu den Siedlungen der Berliner Moderne."
+  title: Architektur des 20. Jahrhunderts in Deutschland
 - link: https://www.dw.com/de/sightseeingtour-durch-havanna/av-49194041?maca=de-podcast_de_check-in-20794-xml-mrss
   published: Sat, 19 Jun 2021 00:47:00 GMT
   summary: "Globetrotter Steve H\xE4nisch erkundet die kubanische Hauptstadt per Oldtimer,\
@@ -164,12 +170,6 @@ entries:
   summary: "Globetrotter Steve H\xE4nisch l\xE4sst sich in Lissabon die weihnachtlichen\
     \ Br\xE4uche Portugals zeigen."
   title: Weihnachten in Lissabon
-- link: https://www.dw.com/de/beethoven-haus-bonn/av-51608762?maca=de-podcast_de_check-in-20794-xml-mrss
-  published: Sat, 12 Dec 2020 02:31:00 GMT
-  summary: "Beethovens Geburtshaus in Bonn ist schon seit 1889 ein Ort des Gedenkens\
-    \ an den wohl ber\xFChmtesten Sohn der Stadt. Eine neue Dauerausstellung zeigt\
-    \ nicht nur den K\xFCnstler, sondern den Menschen Beethoven."
-  title: Beethoven-Haus Bonn
 
 ---
 Ob Zugspitze, Nordseeküste oder Berlin – das Reisemagazin Check-in

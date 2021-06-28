@@ -1,7 +1,7 @@
 ---
 title: "Check-in: The Travel Guide"
 id: podcast_en_check-in
-published: "Fri, 25 Jun 2021 21:32:34 GMT"
+published: "Mon, 28 Jun 2021 09:58:58 GMT"
 page_link: "https://www.dw.com?maca=en-podcast_en_check-in-20796-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_en_check-in"
 language: en
@@ -11,6 +11,12 @@ tags: [ "travel", "Society & Culture", "Places & Travel", "TV & Film" ]
 image_url: https://static.dw.com/image/49850442_7.jpg
 image_title: ""
 entries:
+- link: https://www.dw.com/en/spotlight-on-german-modernist-architecture/av-58044461?maca=en-podcast_en_check-in-20796-xml-mrss
+  published: Sun, 27 Jun 2021 02:57:00 GMT
+  summary: There are 46 UNESCO World Heritage sites in Germany, many of which were
+    built by modernist architects. These include Bauhaus constructions in Weimar,
+    Dessau and Bernau, as well as the Berlin Modernism Housing Estates.
+  title: Spotlight on German modernist architecture
 - link: https://www.dw.com/en/sightseeing-in-havana/av-49194241?maca=en-podcast_en_check-in-20796-xml-mrss
   published: Sat, 19 Jun 2021 00:51:00 GMT
   summary: "Steve H\xE4nisch explores the Cuban capital in a vintage car. Old Havana\
@@ -171,16 +177,6 @@ entries:
     \ which has been a UNESCO World Heritage Site since 1984. He also takes us to\
     \ the seaside village of Rincon del Mar."
   title: 'Cartagena: Colonial past and the Caribbean'
-- link: https://www.dw.com/en/something-new-in-the-german-capital/av-55974709?maca=en-podcast_en_check-in-20796-xml-mrss
-  published: Sat, 19 Dec 2020 08:16:00 GMT
-  summary: "Lukas\u2002Stege visits BER airport, which has finally opened its doors.\
-    \ And explores Humboldt\u2002Forum, which should soon follow suit."
-  title: Something new in the German capital
-- link: https://www.dw.com/en/christmas-in-lisbon/av-55974721?maca=en-podcast_en_check-in-20796-xml-mrss
-  published: Sat, 19 Dec 2020 08:12:00 GMT
-  summary: "Globetrotter\u2002Steve\u2002H\xE4nisch\u2002is introduced to Portuguese\
-    \ Christmas traditions."
-  title: Christmas in Lisbon
 
 ---
 From the Zugspitze to the North Sea or Berlin – every edition of

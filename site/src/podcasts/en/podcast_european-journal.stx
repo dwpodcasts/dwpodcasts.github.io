@@ -1,7 +1,7 @@
 ---
 title: "Focus on Europe | Video Podcast | Deutsche Welle"
 id: podcast_european-journal
-published: "Fri, 25 Jun 2021 21:32:25 GMT"
+published: "Mon, 28 Jun 2021 09:55:00 GMT"
 page_link: "https://dw.com/focusoneurope?maca=en-podcast_european-journal-2940-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_european-journal"
 language: en
@@ -11,6 +11,12 @@ tags: [ "News & Politics" ]
 image_url: https://static.dw.com/image/51017245_7.jpg
 image_title: ""
 entries:
+- link: https://www.dw.com/en/students-in-russia-fight-for-press-freedom/av-57989425?maca=en-podcast_european-journal-2940-xml-mrss
+  published: Sat, 26 Jun 2021 08:22:00 GMT
+  summary: Four writers and editors of the online student magazine 'Doxa' are currently
+    under house arrest for criticizing the Russian government. But for the young journalists,
+    accepting censorship is out of the question.
+  title: Students in Russia fight for press freedom
 - link: https://www.dw.com/en/pilgrims-back-on-the-way-of-st-james/av-57989426?maca=en-podcast_european-journal-2940-xml-mrss
   published: Thu, 24 Jun 2021 08:58:00 GMT
   summary: At the height of the pandemic, the Way of St. James was closed, and Santiago
@@ -18,12 +24,6 @@ entries:
     the route have reopened, in time for what is called a Holy Year on the Camino
     de Santiago.
   title: Pilgrims back on the Way of St. James
-- link: https://www.dw.com/en/students-in-russia-fight-for-press-freedom/av-57989425?maca=en-podcast_european-journal-2940-xml-mrss
-  published: Thu, 24 Jun 2021 08:57:00 GMT
-  summary: Four writers and editors of the online student magazine 'Doxa' are currently
-    under house arrest for criticizing the Russian government. But for the young journalists,
-    accepting censorship is out of the question.
-  title: Students in Russia fight for press freedom
 - link: https://www.dw.com/en/nigerian-human-traffickers-in-europe/av-57989423?maca=en-podcast_european-journal-2940-xml-mrss
   published: Thu, 24 Jun 2021 08:54:00 GMT
   summary: In Italy, thousands of Nigerian women are being forced into prostitution.
@@ -219,17 +219,17 @@ entries:
     \ warn against glorifying criminals. This idolization of \u201Cfalse heroes\u201D\
     \ is meant to lure young people into partaking in organized crime."
   title: 'Italy: Camorra mafia appeals to youths'
+- link: https://www.dw.com/en/black-snow-in-russia/av-56818508?maca=en-podcast_european-journal-2940-xml-mrss
+  published: Thu, 11 Mar 2021 10:29:00 GMT
+  summary: In a coal-mining region in Russia, polluted air colors the snow black.
+    Residents are suffering as a result of environmental pollution.
+  title: Black snow in Russia
 - link: https://www.dw.com/en/tensions-rise-on-the-canary-islands/av-56818495?maca=en-podcast_european-journal-2940-xml-mrss
   published: Thu, 11 Mar 2021 10:29:00 GMT
   summary: The population of the Canary Islands feels overwhelmed by high numbers
     of newly arrived refugees. Violence is increasing, and the government is only
     allowing small numbers of refugees onto the Spanish mainland.
   title: Tensions rise on the Canary Islands
-- link: https://www.dw.com/en/black-snow-in-russia/av-56818508?maca=en-podcast_european-journal-2940-xml-mrss
-  published: Thu, 11 Mar 2021 10:29:00 GMT
-  summary: In a coal-mining region in Russia, polluted air colors the snow black.
-    Residents are suffering as a result of environmental pollution.
-  title: Black snow in Russia
 - link: https://www.dw.com/en/sexual-abuse-in-germany-a-cardinal-under-pressure/av-56818494?maca=en-podcast_european-journal-2940-xml-mrss
   published: Thu, 11 Mar 2021 10:28:00 GMT
   summary: The Catholic archdiocese in Germany is facing heavy criticism for its mishandling
@@ -282,17 +282,12 @@ entries:
   summary: "In the Bosnian capital Sarajevo, people with lung disease fear both smog\
     \ and the coronavirus \u2013 it is a deadly mixture."
   title: 'Bosnia: Sarajevo - the dirty city'
-- link: https://www.dw.com/en/kosovo-finally-being-able-to-say-goodbye/av-56343915?maca=en-podcast_european-journal-2940-xml-mrss
-  published: Wed, 27 Jan 2021 22:30:00 GMT
-  summary: More than 20 years after the war in Kosovo, mass graves are still being
-    discovered. A pathologist is trying to identify the victims.
-  title: 'Kosovo: Finally being able to say goodbye'
-- link: https://www.dw.com/en/portugal-beloved-spot-for-digital-nomads/av-56131738?maca=en-podcast_european-journal-2940-xml-mrss
-  published: Sat, 23 Jan 2021 06:57:00 GMT
-  summary: "Digital nomads prefer sitting on a beach with their laptops to working\
-    \ at the office or in their homes\u2014a trend that's turning the working world\
-    \ on its head. London bankers want their employees to come back to England."
-  title: 'Portugal: Beloved spot for digital nomads'
+- link: https://www.dw.com/en/albania-no-girls-allowed/av-17953909?maca=en-podcast_european-journal-2940-xml-mrss
+  published: Wed, 24 Sep 2014 21:30:00 GMT
+  summary: Pregnant Albanian women have been aborting unborn baby girls. Albania's
+    traditional family structures place a premium on male off-spring, and today's
+    medical technology can tell parents the gender of an unborn baby well in advance.
+  title: 'Albania: No girls allowed'
 - link: https://www.dw.com/en/learning-german-with-marlene/av-17953923?maca=en-podcast_european-journal-2940-xml-mrss
   published: Wed, 24 Sep 2014 21:30:00 GMT
   summary: 'The number of Poles learning German is declining. As a consequence, many
@@ -311,12 +306,6 @@ entries:
     \ refugees stormed the port in an attempt to stow away on board a ferry headed\
     \ across the Channel."
   title: 'France: Refugees in Calais'
-- link: https://www.dw.com/en/albania-no-girls-allowed/av-17953909?maca=en-podcast_european-journal-2940-xml-mrss
-  published: Wed, 24 Sep 2014 21:30:00 GMT
-  summary: Pregnant Albanian women have been aborting unborn baby girls. Albania's
-    traditional family structures place a premium on male off-spring, and today's
-    medical technology can tell parents the gender of an unborn baby well in advance.
-  title: 'Albania: No girls allowed'
 - link: https://www.dw.com/en/yazidi-refugees-in-turkey/av-17931631?maca=en-podcast_european-journal-2940-xml-mrss
   published: Wed, 17 Sep 2014 21:30:00 GMT
   summary: "Tens of thousands of Yazidis are fleeing Iraq due to attacks by 'Islamic\
@@ -502,6 +491,17 @@ entries:
     \ are required to teach \"British values.\u201D The schools under investigation\
     \ have rejected the accusations."
   title: "Britain: Operation \"Trojan Horse\u201D"
+- link: https://www.dw.com/en/romania-the-sewer-dwellers-of-bucharest/av-17754519?maca=en-podcast_european-journal-2940-xml-mrss
+  published: Wed, 2 Jul 2014 21:30:00 GMT
+  summary: "An estimated 6,000 homeless people live in the network of sewers and tunnels\
+    \ beneath the streets of Bucharest. Many were born underground and are now having\
+    \ children themselves.\n\tIt's a world of its own, a world full of drugs, disease\
+    \ and poverty that's developed beneath the capital. The sewer dwellers live in\
+    \ the tunnels, canals, and sometimes in caves they've dug themselves, because\
+    \ they have nowhere else to go. Many have tuberculosis, hepatitis or are HIV positive,\
+    \ and live in tightly organized groups. Children in particular sniff paint to\
+    \ escape their misery -- at least for a while."
+  title: 'Romania: The Sewer Dwellers of Bucharest'
 - link: https://www.dw.com/en/ukraine-lviv-s-mayor/av-17754531?maca=en-podcast_european-journal-2940-xml-mrss
   published: Wed, 2 Jul 2014 21:30:00 GMT
   summary: "For many in Ukraine he's much like a pop star. Andriy Sadovyi has been\
@@ -522,27 +522,6 @@ entries:
     \ to become independent it wouldn't automatically qualify to stay in the EU. But\
     \ other practical issues remain unclear and are dividing the Scottish people."
   title: 'Scotland: A Nation Divided'
-- link: https://www.dw.com/en/romania-the-sewer-dwellers-of-bucharest/av-17754519?maca=en-podcast_european-journal-2940-xml-mrss
-  published: Wed, 2 Jul 2014 21:30:00 GMT
-  summary: "An estimated 6,000 homeless people live in the network of sewers and tunnels\
-    \ beneath the streets of Bucharest. Many were born underground and are now having\
-    \ children themselves.\n\tIt's a world of its own, a world full of drugs, disease\
-    \ and poverty that's developed beneath the capital. The sewer dwellers live in\
-    \ the tunnels, canals, and sometimes in caves they've dug themselves, because\
-    \ they have nowhere else to go. Many have tuberculosis, hepatitis or are HIV positive,\
-    \ and live in tightly organized groups. Children in particular sniff paint to\
-    \ escape their misery -- at least for a while."
-  title: 'Romania: The Sewer Dwellers of Bucharest'
-- link: https://www.dw.com/en/turkey-the-missing-children/av-17719579?maca=en-podcast_european-journal-2940-xml-mrss
-  published: Wed, 18 Jun 2014 21:30:00 GMT
-  summary: "More than 14,000 children have disappeared in Turkey in the last five\
-    \ years alone. A special police unit has been formed to look for those still missing.\n\
-    \tThe General Command of the Turkish Gendarmerie says human trafficking is involved\
-    \ in most cases, and that children are being kidnapped as laborers, child soldiers\
-    \ and even for the illegal organ trade. Although most have since been found, 834\
-    \ children who disappeared within the last five years remain missing. Currently\
-    \ the police are looking for almost 1500 children."
-  title: 'Turkey: The Missing Children'
 - link: https://www.dw.com/en/germany-rescuing-the-fawns/av-17719583?maca=en-podcast_european-journal-2940-xml-mrss
   published: Wed, 18 Jun 2014 21:30:00 GMT
   summary: "Every year tens of thousands of baby deer are inadvertently killed by\
@@ -556,6 +535,16 @@ entries:
     \ detecting their body heat. The color camera then ascertains whether they actually\
     \ are deer. So far, it's been a striking success."
   title: 'Germany: Rescuing the Fawns'
+- link: https://www.dw.com/en/turkey-the-missing-children/av-17719579?maca=en-podcast_european-journal-2940-xml-mrss
+  published: Wed, 18 Jun 2014 21:30:00 GMT
+  summary: "More than 14,000 children have disappeared in Turkey in the last five\
+    \ years alone. A special police unit has been formed to look for those still missing.\n\
+    \tThe General Command of the Turkish Gendarmerie says human trafficking is involved\
+    \ in most cases, and that children are being kidnapped as laborers, child soldiers\
+    \ and even for the illegal organ trade. Although most have since been found, 834\
+    \ children who disappeared within the last five years remain missing. Currently\
+    \ the police are looking for almost 1500 children."
+  title: 'Turkey: The Missing Children'
 - link: https://www.dw.com/en/spain-curbing-mass-tourism/av-17701555?maca=en-podcast_european-journal-2940-xml-mrss
   published: Wed, 11 Jun 2014 21:30:00 GMT
   summary: "Authorities on the island of Mallorca have had enough of cheap mass tourism.\
@@ -641,6 +630,16 @@ entries:
     \ a visit to the embattled eastern city of Sloviansk, where the ballot may be\
     \ derailed entirely."
   title: 'Ukraine: A difficult vote'
+- link: https://www.dw.com/en/european-elections-opponents-and-allies/av-17652610?maca=en-podcast_european-journal-2940-xml-mrss
+  published: Wed, 21 May 2014 21:30:00 GMT
+  summary: "Politically, the two main candidates for the president of the European\
+    \ Commission have a lot in common. But are there any differences?\n\tThe two top\
+    \ candidates for the post of European Commission president are Jean-Claude Juncker\
+    \ from Luxemburg and Martin Schulz from Germany. As the campaign heats up, they\
+    \ head for France, a country that is grappling with many problems. Though it is\
+    \ Europe\u2019s second largest economy, debt is rising, the far right is gaining\
+    \ in strength, and the government is lurching from one crisis to the next."
+  title: 'European Elections: Opponents and allies'
 - link: https://www.dw.com/en/sweden-slovenia-the-young-candidates/av-17652612?maca=en-podcast_european-journal-2940-xml-mrss
   published: Wed, 21 May 2014 21:30:00 GMT
   summary: "It\u2019s not just veteran politicians who are standing for European elections.\
@@ -652,16 +651,6 @@ entries:
     \ and Brussels, but is hoping to represent the conservative Slovenian People\u2019\
     s Party."
   title: 'Sweden/Slovenia: The young candidates'
-- link: https://www.dw.com/en/european-elections-opponents-and-allies/av-17652610?maca=en-podcast_european-journal-2940-xml-mrss
-  published: Wed, 21 May 2014 21:30:00 GMT
-  summary: "Politically, the two main candidates for the president of the European\
-    \ Commission have a lot in common. But are there any differences?\n\tThe two top\
-    \ candidates for the post of European Commission president are Jean-Claude Juncker\
-    \ from Luxemburg and Martin Schulz from Germany. As the campaign heats up, they\
-    \ head for France, a country that is grappling with many problems. Though it is\
-    \ Europe\u2019s second largest economy, debt is rising, the far right is gaining\
-    \ in strength, and the government is lurching from one crisis to the next."
-  title: 'European Elections: Opponents and allies'
 - link: https://www.dw.com/en/britain-taking-on-the-eurosceptics/av-17637573?maca=en-podcast_european-journal-2940-xml-mrss
   published: Wed, 14 May 2014 21:30:00 GMT
   summary: "Euroscepticism has a long tradition in Britain, particularly among conservatives.\
@@ -740,6 +729,16 @@ entries:
     \ the Italian police broke up a group which had acquired weapons from the Albanian\
     \ mafia and planned to declare Venetian independence on St. Mark's Square."
   title: 'Italy: Venetian Separatists'
+- link: https://www.dw.com/en/portugal-plagued-by-plastic/av-17554563?maca=en-podcast_european-journal-2940-xml-mrss
+  published: Wed, 9 Apr 2014 21:30:00 GMT
+  summary: "The Portuguese have a dubious claim to fame - their country is known as\
+    \ the \"plastic bag\" capital of Europe. Every minute, thousands of plastic bags\
+    \ are toted out of shopping centers.\n\tPortugal adopted western European consumption\
+    \ habits and the throw-away mentality when it joined the European Union. Now every\
+    \ Portuguese uses around 500 plastic tote bags a year, adding their contribution\
+    \ to the EU total of eight billion. That was reason enough for a video maker to\
+    \ poke fun at this aspect of Portuguese lifestyle."
+  title: 'Portugal: Plagued by Plastic'
 - link: https://www.dw.com/en/france-the-chinese-cemetery/av-17554565?maca=en-podcast_european-journal-2940-xml-mrss
   published: Wed, 9 Apr 2014 21:30:00 GMT
   summary: "Tens of thousands of Chinese laborers supported Allied forces in World\
@@ -751,16 +750,6 @@ entries:
     \ graves. It is located in Noyelles-sur-Mer, not far from Abbeville. Once a year,\
     \ Chinese from all over Paris visit the site."
   title: 'France: The Chinese Cemetery'
-- link: https://www.dw.com/en/portugal-plagued-by-plastic/av-17554563?maca=en-podcast_european-journal-2940-xml-mrss
-  published: Wed, 9 Apr 2014 21:30:00 GMT
-  summary: "The Portuguese have a dubious claim to fame - their country is known as\
-    \ the \"plastic bag\" capital of Europe. Every minute, thousands of plastic bags\
-    \ are toted out of shopping centers.\n\tPortugal adopted western European consumption\
-    \ habits and the throw-away mentality when it joined the European Union. Now every\
-    \ Portuguese uses around 500 plastic tote bags a year, adding their contribution\
-    \ to the EU total of eight billion. That was reason enough for a video maker to\
-    \ poke fun at this aspect of Portuguese lifestyle."
-  title: 'Portugal: Plagued by Plastic'
 - link: https://www.dw.com/en/germany-lead-in-game/av-17566704?maca=en-podcast_european-journal-2940-xml-mrss
   published: Wed, 9 Apr 2014 21:30:00 GMT
   summary: "Most hunters in Germany cling stubbornly to their lead ammunition even\
@@ -772,6 +761,17 @@ entries:
     \ they consume the remains of animals that have been shot. And people are said\
     \ to be at risk from lead a well."
   title: 'Germany: Lead in Game'
+- link: https://www.dw.com/en/spain-madrid-s-clean-sweep/av-17538115?maca=en-podcast_european-journal-2940-xml-mrss
+  published: Wed, 2 Apr 2014 21:30:00 GMT
+  summary: "Madrid\u2019s street performers are facing a new challenge. A new noise\
+    \ reduction law pushed through by the mayor now requires them to pass an audition\
+    \ to obtain a permit.\n\tAccording to the city, one-third of the musicians didn\u2019\
+    t pass muster at the auditions. Those that did also have to follow new rules,\
+    \ including remaining at least 75 meters away from other buskers. Madrid\u2019\
+    s mayor, Ana Botella, has also called for a ban on downtown protests. She has\
+    \ been sharply criticized for these moves and some even say she is more repressive\
+    \ than General Franco."
+  title: "Spain: Madrid\u2019s Clean Sweep"
 - link: https://www.dw.com/en/italy-the-fallen-bank/av-17538113?maca=en-podcast_european-journal-2940-xml-mrss
   published: Wed, 2 Apr 2014 21:30:00 GMT
   summary: "Monte dei Paschi di Siena is the world\u2019s oldest bank, and it is on\
@@ -784,17 +784,6 @@ entries:
     \ facing possible bankruptcy. And it fears that the scandal may harm Siena\u2019\
     s chances to be a 2019 European Capital of Culture."
   title: 'Italy: The Fallen Bank'
-- link: https://www.dw.com/en/spain-madrid-s-clean-sweep/av-17538115?maca=en-podcast_european-journal-2940-xml-mrss
-  published: Wed, 2 Apr 2014 21:30:00 GMT
-  summary: "Madrid\u2019s street performers are facing a new challenge. A new noise\
-    \ reduction law pushed through by the mayor now requires them to pass an audition\
-    \ to obtain a permit.\n\tAccording to the city, one-third of the musicians didn\u2019\
-    t pass muster at the auditions. Those that did also have to follow new rules,\
-    \ including remaining at least 75 meters away from other buskers. Madrid\u2019\
-    s mayor, Ana Botella, has also called for a ban on downtown protests. She has\
-    \ been sharply criticized for these moves and some even say she is more repressive\
-    \ than General Franco."
-  title: "Spain: Madrid\u2019s Clean Sweep"
 - link: https://www.dw.com/en/austria-in-the-valley-of-the-ruble-millionaires/av-17522643?maca=en-podcast_european-journal-2940-xml-mrss
   published: Wed, 26 Mar 2014 21:30:00 GMT
   summary: "Austria is popular with wealthy Russians. The small town of Kitzb\xFC\
@@ -808,6 +797,17 @@ entries:
     \ In doing so, they're combining business with pleasure, because Austria offers\
     \ favorable tax conditions to well-heeled private investors."
   title: 'Austria: In the Valley of the Ruble Millionaires'
+- link: https://www.dw.com/en/germany-light-guerillas/av-17509319?maca=en-podcast_european-journal-2940-xml-mrss
+  published: Wed, 19 Mar 2014 21:30:00 GMT
+  summary: "If you get into their sights, you're suddenly in the limelight; a group\
+    \ of German light artists and activists hunt down controversial buildings and\
+    \ forgotten memorials at night.\n\tThe light guerrillas find subjects all over\
+    \ Europe: television towers that are set to be privatized, industrial buildings\
+    \ that face ruin, and building projects that swallow millions in tax money. As\
+    \ soon as it gets dark, they arrange a meeting and light up a building with mobile\
+    \ floodlights for five to ten minutes. Before the owners can react, the light\
+    \ guerrillas have disappeared into the night."
+  title: 'Germany: Light Guerillas'
 - link: https://www.dw.com/en/turkey-child-marriages/av-17509316?maca=en-podcast_european-journal-2940-xml-mrss
   published: Wed, 19 Mar 2014 21:30:00 GMT
   summary: Forced marriage involving minors is on the rise in the southeast of Turkey.
@@ -820,17 +820,6 @@ entries:
     Outraged human rights activists point out that many of the girls end up at the
     mercy of pedophiles and rapists.
   title: 'Turkey: Child Marriages'
-- link: https://www.dw.com/en/germany-light-guerillas/av-17509319?maca=en-podcast_european-journal-2940-xml-mrss
-  published: Wed, 19 Mar 2014 21:30:00 GMT
-  summary: "If you get into their sights, you're suddenly in the limelight; a group\
-    \ of German light artists and activists hunt down controversial buildings and\
-    \ forgotten memorials at night.\n\tThe light guerrillas find subjects all over\
-    \ Europe: television towers that are set to be privatized, industrial buildings\
-    \ that face ruin, and building projects that swallow millions in tax money. As\
-    \ soon as it gets dark, they arrange a meeting and light up a building with mobile\
-    \ floodlights for five to ten minutes. Before the owners can react, the light\
-    \ guerrillas have disappeared into the night."
-  title: 'Germany: Light Guerillas'
 
 ---
 What drives people in Europe? How do Europeans lead their lives? What

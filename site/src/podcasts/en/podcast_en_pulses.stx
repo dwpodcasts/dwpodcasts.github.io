@@ -1,7 +1,7 @@
 ---
 title: "Pulse"
 id: podcast_en_pulses
-published: "Fri, 25 Jun 2021 21:32:46 GMT"
+published: "Mon, 28 Jun 2021 09:54:19 GMT"
 page_link: "https://www.dw.com?maca=en-podcast_en_pulses-6245-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_en_pulses"
 language: en
@@ -57,13 +57,6 @@ entries:
     bringing girls together in a safe space where they can play football, organize
     activities, become leaders and discuss issues that matter for girls.
   title: 'Pulse: Empowering girls through football in Kenya'
-- link: https://www.dw.com/en/pulse-living-with-hiv-in-uganda/av-41658959?maca=en-podcast_en_pulses-6245-xml-mrss
-  published: Wed, 6 Dec 2017 16:30:00 GMT
-  summary: HIV/AIDS remains one of the world's most significant public health challenges.
-    Africa accounts for almost two-thirds of all new infections. Stigma and discrimination
-    remain barriers to having a HIV-free generation. To commemorate World AIDS day,
-    Frank Yiga went to meet some young people living with HIV in Uganda.
-  title: 'Pulse: Living with HIV in Uganda'
 - link: https://www.dw.com/en/pulse-fighting-hiv-means-fighting-stigma/av-41659442?maca=en-podcast_en_pulses-6245-xml-mrss
   published: Wed, 6 Dec 2017 16:30:00 GMT
   summary: "Fighting HIV means fighting stigma \u2014 we meet some young people in\
@@ -72,6 +65,13 @@ entries:
     \ empowered. All that and more on this jam-packed edition of Pulse with host Jessie\
     \ Wingard."
   title: 'Pulse: Fighting HIV means fighting stigma'
+- link: https://www.dw.com/en/pulse-living-with-hiv-in-uganda/av-41658959?maca=en-podcast_en_pulses-6245-xml-mrss
+  published: Wed, 6 Dec 2017 16:30:00 GMT
+  summary: HIV/AIDS remains one of the world's most significant public health challenges.
+    Africa accounts for almost two-thirds of all new infections. Stigma and discrimination
+    remain barriers to having a HIV-free generation. To commemorate World AIDS day,
+    Frank Yiga went to meet some young people living with HIV in Uganda.
+  title: 'Pulse: Living with HIV in Uganda'
 - link: https://www.dw.com/en/pulse-expectations-of-young-zimbabweans/av-41562518?maca=en-podcast_en_pulses-6245-xml-mrss
   published: Tue, 28 Nov 2017 16:21:00 GMT
   summary: "It\u2019s a new dawn in Zimbabwe, many especially the young people are\

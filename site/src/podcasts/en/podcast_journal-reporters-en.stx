@@ -1,7 +1,7 @@
 ---
 title: "Reporter | Video Podcast | Deutsche Welle"
 id: podcast_journal-reporters-en
-published: "Fri, 25 Jun 2021 21:29:52 GMT"
+published: "Mon, 28 Jun 2021 09:54:24 GMT"
 page_link: "https://www.dw.com/english/?maca=en-podcast_journal-reporters-en-4892-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_journal-reporters-en"
 language: en
@@ -11,6 +11,12 @@ tags: [ "News", "Politics", "Society & Culture", "Personal Journals" ]
 image_url: https://static.dw.com/image/49814969_7.png
 image_title: ""
 entries:
+- link: https://www.dw.com/en/lesbos-football-coach-gives-refugees-hope/av-58053953?maca=en-podcast_journal-reporters-en-4892-xml-mrss
+  published: Sat, 26 Jun 2021 03:06:00 GMT
+  summary: "The Greek island of Lesbos is struggling with a tide of refugees. Dire\
+    \ conditions in the camps keep making negative headlines around the world. Evangelos\
+    \ Spanos wants to give refugees some hope \u2014 and is using soccer to do it."
+  title: 'Lesbos: Football coach gives refugees hope'
 - link: https://www.dw.com/en/orlando-5-years-after-the-pulse-massacre/av-57961911?maca=en-podcast_journal-reporters-en-4892-xml-mrss
   published: Sat, 19 Jun 2021 01:00:00 GMT
   summary: Five years ago, 49 people died and 53 were wounded when an "Islamic State"
@@ -144,13 +150,6 @@ entries:
     didn't think she would make it. The 48-year-old is traumatized by her near-death
     experience.
   title: Overcoming COVID-19 - Yet a long way from healthy
-- link: "https://www.dw.com/en/reporter-j\xF6rg\u2002can-dance-on-stage-with-down-syndrome/av-55600080?maca=en-podcast_journal-reporters-en-4892-xml-mrss"
-  published: Sat, 14 Nov 2020 11:13:00 GMT
-  summary: "The dance company\u2002SZENE\u20022WEI\u2002brings together performers\
-    \ with and without disabilities. J\xF6rg, a dancer with Down syndrome, is training\
-    \ with the company. He wants to be a professional dancer.\u2002The company sees\
-    \ his talent rather than any disability."
-  title: "Reporter - J\xF6rg\u2002Can Dance! On Stage with Down Syndrome"
 
 ---
 "DW-Reporter" is a video podcasting offer from Deutsche Welle. It's

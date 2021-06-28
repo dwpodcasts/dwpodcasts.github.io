@@ -1,7 +1,7 @@
 ---
 title: "Fokus Europa | Video Podcast | Deutsche Welle"
 id: podcast_europa-aktuell
-published: "Fri, 25 Jun 2021 21:32:05 GMT"
+published: "Mon, 28 Jun 2021 09:54:27 GMT"
 page_link: "https://dw.com/fokuseuropa?maca=de-podcast_europa-aktuell-2169-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_europa-aktuell"
 language: de
@@ -11,6 +11,12 @@ tags: [ "News", "Politics" ]
 image_url: https://static.dw.com/image/49852952_7.jpg
 image_title: ""
 entries:
+- link: "https://www.dw.com/de/nigerianische-menschenh\xE4ndler-in-europa/av-57955156?maca=de-podcast_europa-aktuell-2169-xml-mrss"
+  published: Sun, 27 Jun 2021 00:00:00 GMT
+  summary: Tausende Nigerianerinnen werden in Italien zur Prostitution gezwungen.
+    Drahtzieher ist die nigerianische Mafia. Insider warnen vor der Gefahr, die von
+    dieser "neuen Mafia" ausgehe, die mit den italienischen Clans vernetzt sei.
+  title: "Nigerianische Menschenh\xE4ndler in Europa"
 - link: "https://www.dw.com/de/pilger-kehren-zur\xFCck-auf-den-jakobsweg/av-57955215?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Wed, 23 Jun 2021 16:03:00 GMT
   summary: "Santiago de Compostela war in der Corona-Pandemie f\xFCr Pilger unerreichbar.\
@@ -20,16 +26,10 @@ entries:
 - link: "https://www.dw.com/de/studierende-in-russland-k\xE4mpfen-f\xFCr-pressefreiheit/av-57955193?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Wed, 23 Jun 2021 16:01:00 GMT
   summary: "Trotz Repressionen gegen die Presse in Russland berichten die Redakteure\
-    \ des Studierendenmagazins \u201EDoxa\u201C kritisch. Vier Studierende stehen\
-    \ bereits unter Hausarrest. Doch Selbstzensur kommt f\xFCr die jungen Journalisten\
-    \ nicht in Frage."
+    \ des Studierendenmagazins \"Doxa\" kritisch. Vier Studierende stehen bereits\
+    \ unter Hausarrest. Doch Selbstzensur kommt f\xFCr die jungen Journalisten nicht\
+    \ in Frage."
   title: "Studierende in Russland k\xE4mpfen f\xFCr Pressefreiheit"
-- link: "https://www.dw.com/de/nigerianische-menschenh\xE4ndler-in-europa/av-57955156?maca=de-podcast_europa-aktuell-2169-xml-mrss"
-  published: Wed, 23 Jun 2021 15:59:00 GMT
-  summary: Tausende Nigerianerinnen werden in Italien zur Prostitution gezwungen.
-    Drahtzieher ist die nigerianische Mafia. Insider warnen vor der Gefahr, die von
-    dieser "neuen Mafia" ausgehe, die mit den italienischen Clans vernetzt sei.
-  title: "Nigerianische Menschenh\xE4ndler in Europa"
 - link: "https://www.dw.com/de/t\xFCrkei-sch\xFCler-leiden-unter-hartem-corona-lockdown/av-57674359?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Sat, 19 Jun 2021 06:41:00 GMT
   summary: "In der T\xFCrkei sind die Schulen seit \xFCber einem Jahr fast komplett\
@@ -249,24 +249,6 @@ entries:
     \ M\xE4nnern vorbehalten. Noch immer gelten rund 100 Berufe in Russland als \u201E\
     zu gef\xE4hrlich f\xFCr Frauen\u201C und sind per Arbeitsgesetz f\xFCr diese verboten."
   title: "Russland: Freie Fahrt f\xFCr Frauen"
-- link: "https://www.dw.com/de/bosnien-gefl\xFCchtete-im-winterchaos/av-56629002?maca=de-podcast_europa-aktuell-2169-xml-mrss"
-  published: Wed, 24 Feb 2021 18:03:00 GMT
-  summary: "Trotz Schnee und Eis harren gefl\xFCchtete Menschen an den EU-Grenzen\
-    \ aus. Ihre Helfer geraten immer st\xE4rker unter Druck."
-  title: "Bosnien: Gefl\xFCchtete im Winterchaos"
-- link: https://www.dw.com/de/deutsch-lernen-mal-ganz-anders/av-17951075?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Thu, 25 Sep 2014 01:03:00 GMT
-  summary: "Immer weniger Polen wollen Deutsch lernen. Das bekommen auch die Deutschlehrer\
-    \ zu sp\xFCren. Viele haben bereits ihren Job verloren. Eine arbeitslose Lehrerin\
-    \ hat sich etwas ganz Besonderes einfallen lassen: Marlena Uzieblo tourt durch\
-    \ Polen und tr\xE4gt Lieder von Marlene Dietrich vor."
-  title: Deutsch lernen mal ganz anders
-- link: "https://www.dw.com/de/albanien-m\xE4dchen-unerw\xFCnscht/av-17951068?maca=de-podcast_europa-aktuell-2169-xml-mrss"
-  published: Thu, 25 Sep 2014 01:03:00 GMT
-  summary: "In Albanien werden M\xE4dchen gezielt abgetrieben, denn in den traditionellen\
-    \ Clan- und Familienstrukturen werden m\xE4nnliche Nachfahren h\xF6her bewertet.\
-    \ Die moderne Diagnostik kommt diesen Familien gerade recht."
-  title: "Albanien: M\xE4dchen unerw\xFCnscht"
 - link: "https://www.dw.com/de/frankreich-fl\xFCchtlinge-in-calais/av-17951066?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Thu, 25 Sep 2014 01:03:00 GMT
   summary: "In Calais droht die Fl\xFCchtlingslage au\xDFer Kontrolle zu geraten.\
@@ -280,6 +262,19 @@ entries:
     \ hatten 80 Fl\xFCchtlinge den Hafen gest\xFCrmt, weil sie als blinde Passagiere\
     \ auf die F\xE4hre \xFCber den Kanal wollten."
   title: "Frankreich: Fl\xFCchtlinge in Calais"
+- link: https://www.dw.com/de/deutsch-lernen-mal-ganz-anders/av-17951075?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Thu, 25 Sep 2014 01:03:00 GMT
+  summary: "Immer weniger Polen wollen Deutsch lernen. Das bekommen auch die Deutschlehrer\
+    \ zu sp\xFCren. Viele haben bereits ihren Job verloren. Eine arbeitslose Lehrerin\
+    \ hat sich etwas ganz Besonderes einfallen lassen: Marlena Uzieblo tourt durch\
+    \ Polen und tr\xE4gt Lieder von Marlene Dietrich vor."
+  title: Deutsch lernen mal ganz anders
+- link: "https://www.dw.com/de/albanien-m\xE4dchen-unerw\xFCnscht/av-17951068?maca=de-podcast_europa-aktuell-2169-xml-mrss"
+  published: Thu, 25 Sep 2014 01:03:00 GMT
+  summary: "In Albanien werden M\xE4dchen gezielt abgetrieben, denn in den traditionellen\
+    \ Clan- und Familienstrukturen werden m\xE4nnliche Nachfahren h\xF6her bewertet.\
+    \ Die moderne Diagnostik kommt diesen Familien gerade recht."
+  title: "Albanien: M\xE4dchen unerw\xFCnscht"
 - link: "https://www.dw.com/de/zufluchtsort-f\xFCr-die-\xE4rmsten-in-bulgarien/av-17928863?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Thu, 18 Sep 2014 01:03:00 GMT
   summary: "Bulgarien geh\xF6rt zu den \xE4rmsten L\xE4ndern Europas. Fast die H\xE4\
@@ -312,13 +307,6 @@ entries:
     \ um ihre Sicherheit. Das Veterin\xE4ramt sieht keinen Grund zum Eingreifen -\
     \ schlie\xDFlich m\xFCsse der Besitzer f\xFCr die Tiere haften."
   title: "B\xF6hmisches Br\xFCllen: Ein Ort und seine L\xF6wen"
-- link: "https://www.dw.com/de/griechenland-sch\xFCsse-auf-erntehelfer/av-17898273?maca=de-podcast_europa-aktuell-2169-xml-mrss"
-  published: Thu, 4 Sep 2014 01:03:00 GMT
-  summary: "Tausende illegale Saisonkr\xE4fte arbeiten in Griechenland. Auf der Halbinsel\
-    \ Peloponnes ernten sie f\xFCr einen Hungerlohn Erdbeeren und Kartoffeln. Im vergangenen\
-    \ Jahr wurden 20 Plantagenarbeiter von ihrem Vorarbeiter mit einem Schrotgewehr\
-    \ beschossen. Die Hinterm\xE4nner der Tat wurden freigesprochen."
-  title: "Griechenland: Sch\xFCsse auf Erntehelfer"
 - link: https://www.dw.com/de/frankreich-fasziniert-vom-dschihad/av-17898275?maca=de-podcast_europa-aktuell-2169-xml-mrss
   published: Thu, 4 Sep 2014 01:03:00 GMT
   summary: "Immer mehr Jugendliche aus Europa schlie\xDFen sich dem bewaffneten Dschihad\
@@ -326,6 +314,13 @@ entries:
     \ Allein in Frankreich lie\xDFen sich schon mehr als 700 Jungen und M\xE4dchen\
     \ nach Syrien locken. Dort erwartet sie ein blutiger Alltag."
   title: 'Frankreich: Fasziniert vom Dschihad'
+- link: "https://www.dw.com/de/griechenland-sch\xFCsse-auf-erntehelfer/av-17898273?maca=de-podcast_europa-aktuell-2169-xml-mrss"
+  published: Thu, 4 Sep 2014 01:03:00 GMT
+  summary: "Tausende illegale Saisonkr\xE4fte arbeiten in Griechenland. Auf der Halbinsel\
+    \ Peloponnes ernten sie f\xFCr einen Hungerlohn Erdbeeren und Kartoffeln. Im vergangenen\
+    \ Jahr wurden 20 Plantagenarbeiter von ihrem Vorarbeiter mit einem Schrotgewehr\
+    \ beschossen. Die Hinterm\xE4nner der Tat wurden freigesprochen."
+  title: "Griechenland: Sch\xFCsse auf Erntehelfer"
 - link: "https://www.dw.com/de/furchtlose-sch\xE4fer-in-den-karpaten/av-17885333?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Thu, 28 Aug 2014 01:03:00 GMT
   summary: "Ihr Leben ist arm, archaisch und nicht ungef\xE4hrlich. St\xE4ndig sind\
@@ -423,19 +418,6 @@ entries:
     \ Syrien stammen. Wer es dennoch \xFCber die Grenze schafft, den erwarten in Bulgarien\
     \ Notunterk\xFCnfte mit unzureichenden Sanit\xE4ranlagen."
   title: 'Bulgarien: Eine Mauer gegen das Elend'
-- link: "https://www.dw.com/de/spanien-t\xF6dliche-gefahr-f\xFCr-europas-geier/av-17804271?maca=de-podcast_europa-aktuell-2169-xml-mrss"
-  published: Thu, 24 Jul 2014 01:03:00 GMT
-  summary: "In Spanien lebt die gr\xF6\xDFte Geierpopulation Europas. Doch der Bestand\
-    \ wird immer kleiner. Ein neues Medikament f\xFCr Rinder k\xF6nnte die Geier nun\
-    \ ganz ausrotten.\n\tSein schlechter Ruf macht dem Geier in Spanien schon lange\
-    \ zu schaffen. Immer wieder werden Tiere illegal vergiftet, weil sie angeblich\
-    \ lebende Rinder angegriffen haben sollen. Jetzt hat die EU das Medikament Diclofenac\
-    \ in Spanien und Italien zum Einsatz in der Viehhaltung zugelassen - eine t\xF6\
-    dliche Bedrohung f\xFCr die dort lebenden vier Geierarten. Das schmerz- und entz\xFC\
-    ndungshemmende Mittel hat bereits in Indien, Pakistan und Nepal fast zur Ausrottung\
-    \ der Geierpopulation gef\xFChrt. Die Aasfresser nehmen die Substanz auf, wenn\
-    \ sie verendete Rinder fressen und sterben an Nierenversagen."
-  title: "Spanien: T\xF6dliche Gefahr f\xFCr Europas Geier"
 - link: "https://www.dw.com/de/italien-europas-m\xE4chtigster-vulkan/av-17804273?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Thu, 24 Jul 2014 01:03:00 GMT
   summary: "Der \xC4tna ist faszinierend, gef\xFCrchtet und zieht jedes Jahr tausende\
@@ -449,6 +431,30 @@ entries:
     \ Bewegung des \xC4tna, denn ein Ausbruch ist - rein theoretisch - jederzeit m\xF6\
     glich."
   title: "Italien: Europas m\xE4chtigster Vulkan"
+- link: "https://www.dw.com/de/spanien-t\xF6dliche-gefahr-f\xFCr-europas-geier/av-17804271?maca=de-podcast_europa-aktuell-2169-xml-mrss"
+  published: Thu, 24 Jul 2014 01:03:00 GMT
+  summary: "In Spanien lebt die gr\xF6\xDFte Geierpopulation Europas. Doch der Bestand\
+    \ wird immer kleiner. Ein neues Medikament f\xFCr Rinder k\xF6nnte die Geier nun\
+    \ ganz ausrotten.\n\tSein schlechter Ruf macht dem Geier in Spanien schon lange\
+    \ zu schaffen. Immer wieder werden Tiere illegal vergiftet, weil sie angeblich\
+    \ lebende Rinder angegriffen haben sollen. Jetzt hat die EU das Medikament Diclofenac\
+    \ in Spanien und Italien zum Einsatz in der Viehhaltung zugelassen - eine t\xF6\
+    dliche Bedrohung f\xFCr die dort lebenden vier Geierarten. Das schmerz- und entz\xFC\
+    ndungshemmende Mittel hat bereits in Indien, Pakistan und Nepal fast zur Ausrottung\
+    \ der Geierpopulation gef\xFChrt. Die Aasfresser nehmen die Substanz auf, wenn\
+    \ sie verendete Rinder fressen und sterben an Nierenversagen."
+  title: "Spanien: T\xF6dliche Gefahr f\xFCr Europas Geier"
+- link: "https://www.dw.com/de/t\xFCrkei-kurdische-tr\xE4ume/av-17790868?maca=de-podcast_europa-aktuell-2169-xml-mrss"
+  published: Thu, 17 Jul 2014 01:03:00 GMT
+  summary: "Die K\xE4mpfe mit Dschihadisten im Irak er\xF6ffnen den Kurden im Norden\
+    \ des Landes neue M\xF6glichkeiten. F\xFCr viele t\xFCrkische Kurden sind die\
+    \ Nachbarn l\xE4ngst zum Vorbild geworden.\n\tMit Sorge aber auch Hoffnung blicken\
+    \ viele Kurden in der T\xFCrkei in diesen Tagen in Richtung Irak. W\xE4hrend die\
+    \ Terrorgruppe Isis immer weiter Richtung Bagdad vordringt, festigen die Kurden\
+    \ in den autonomen Gebieten immer mehr ihre Macht. L\xE4ngst ist die Rede von\
+    \ einem eigenst\xE4ndigen kurdischen Staat, der auch \xFCber die Grenzen des Irak\
+    \ reichen soll."
+  title: "T\xFCrkei: Kurdische Tr\xE4ume"
 - link: "https://www.dw.com/de/rum\xE4nien-trockene-fl\xFCsse/av-17790872?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Thu, 17 Jul 2014 01:03:00 GMT
   summary: "Wasserkraftwerke erleben in Rum\xE4nien einen wahren Boom. Vom Staat mit\
@@ -462,17 +468,18 @@ entries:
     \ und die \xF6kologischen Folgen sind fatal. Anwohner k\xE4mpfen um die letzten\
     \ unber\xFChrten B\xE4che und Fl\xFCsse in Rum\xE4nien."
   title: "Rum\xE4nien: Trockene Fl\xFCsse"
-- link: "https://www.dw.com/de/t\xFCrkei-kurdische-tr\xE4ume/av-17790868?maca=de-podcast_europa-aktuell-2169-xml-mrss"
-  published: Thu, 17 Jul 2014 01:03:00 GMT
-  summary: "Die K\xE4mpfe mit Dschihadisten im Irak er\xF6ffnen den Kurden im Norden\
-    \ des Landes neue M\xF6glichkeiten. F\xFCr viele t\xFCrkische Kurden sind die\
-    \ Nachbarn l\xE4ngst zum Vorbild geworden.\n\tMit Sorge aber auch Hoffnung blicken\
-    \ viele Kurden in der T\xFCrkei in diesen Tagen in Richtung Irak. W\xE4hrend die\
-    \ Terrorgruppe Isis immer weiter Richtung Bagdad vordringt, festigen die Kurden\
-    \ in den autonomen Gebieten immer mehr ihre Macht. L\xE4ngst ist die Rede von\
-    \ einem eigenst\xE4ndigen kurdischen Staat, der auch \xFCber die Grenzen des Irak\
-    \ reichen soll."
-  title: "T\xFCrkei: Kurdische Tr\xE4ume"
+- link: https://www.dw.com/de/polen-kinder-aus-dem-glas/av-17771161?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Thu, 10 Jul 2014 01:03:00 GMT
+  summary: "Retortenbabys - auch in Polen erf\xFCllen sich kinderlose Paare durch\
+    \ die Befruchtung im Reagenzglas ihren Kinderwunsch. Eine Warschauerin bekommt\
+    \ schon ihr zweites Kind auf diese Weise.\n\tDas Besondere: W\xE4hrend f\xFCr\
+    \ die erste k\xFCnstliche Befruchtung noch die ganze Familie Geld sammeln musste,\
+    \ wird die Geburt ihres zweiten Retortenbabys sogar vom Staat bezahlt. Eine gesetzliche\
+    \ Lockerung im erzkatholischen Polen, wo manch ein Priester einem In-Vitro-Baby\
+    \ die kirchliche Taufe verweigert. Trotzdem wird in Polen die Befruchtung im Glas\
+    \ schon seit 1987 durchgef\xFChrt und jetzt beteiligt sich der Staat sogar an\
+    \ den Kosten f\xFCr die teure Reproduktionstechnik."
+  title: 'Polen: Kinder aus dem Glas'
 - link: "https://www.dw.com/de/gro\xDFbritannien-operation-trojanisches-pferd/av-17771159?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Thu, 10 Jul 2014 01:03:00 GMT
   summary: "Seit Monaten diskutiert ganz Birmingham \xFCber die Rolle des Islam an\
@@ -487,18 +494,16 @@ entries:
     \ in allen Schulen gelehrt. Doch die betroffenen Schulen weisen die Vorw\xFCrfe\
     \ scharf zur\xFCck."
   title: "Gro\xDFbritannien: Operation \"Trojanisches Pferd\""
-- link: https://www.dw.com/de/polen-kinder-aus-dem-glas/av-17771161?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Thu, 10 Jul 2014 01:03:00 GMT
-  summary: "Retortenbabys - auch in Polen erf\xFCllen sich kinderlose Paare durch\
-    \ die Befruchtung im Reagenzglas ihren Kinderwunsch. Eine Warschauerin bekommt\
-    \ schon ihr zweites Kind auf diese Weise.\n\tDas Besondere: W\xE4hrend f\xFCr\
-    \ die erste k\xFCnstliche Befruchtung noch die ganze Familie Geld sammeln musste,\
-    \ wird die Geburt ihres zweiten Retortenbabys sogar vom Staat bezahlt. Eine gesetzliche\
-    \ Lockerung im erzkatholischen Polen, wo manch ein Priester einem In-Vitro-Baby\
-    \ die kirchliche Taufe verweigert. Trotzdem wird in Polen die Befruchtung im Glas\
-    \ schon seit 1987 durchgef\xFChrt und jetzt beteiligt sich der Staat sogar an\
-    \ den Kosten f\xFCr die teure Reproduktionstechnik."
-  title: 'Polen: Kinder aus dem Glas'
+- link: https://www.dw.com/de/schottland-die-gespaltene-nation/av-17754645?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Thu, 3 Jul 2014 01:03:00 GMT
+  summary: "Der Countdown l\xE4uft. Nur noch zweieinhalb Monate, dann werden die Schotten\
+    \ entscheiden: Wollen sie weiter zu Gro\xDFbritannien geh\xF6ren oder unabh\xE4\
+    ngig sein?\n\tGeht es nach den Umfragen sind kurz vor dem Referendum immer noch\
+    \ rund 30 Prozent der Schotten unentschieden. Dass sie im Falle einer Abspaltung\
+    \ nicht automatisch in der EU bleiben k\xF6nnen, das hat Br\xFCssel schon klargemacht.\
+    \ Aber viele andere praktische Fragen sind nach wie vor ungekl\xE4rt und spalten\
+    \ die schottische Bev\xF6lkerung."
+  title: 'Schottland: Die gespaltene Nation'
 - link: "https://www.dw.com/de/ukraine-lembergs-b\xFCrgermeister/av-17754641?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Thu, 3 Jul 2014 01:03:00 GMT
   summary: "F\xFCr viele Ukrainer ist er so etwas wie ein Pop Star. Andriy Sadovyi\
@@ -511,16 +516,6 @@ entries:
     \ in Kiew m\xFCsse zentrale Macht abtreten, denn die Menschen vor Ort k\xF6nnten\
     \ die Dinge am besten selbst anpacken."
   title: "Ukraine: Lembergs B\xFCrgermeister"
-- link: https://www.dw.com/de/schottland-die-gespaltene-nation/av-17754645?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Thu, 3 Jul 2014 01:03:00 GMT
-  summary: "Der Countdown l\xE4uft. Nur noch zweieinhalb Monate, dann werden die Schotten\
-    \ entscheiden: Wollen sie weiter zu Gro\xDFbritannien geh\xF6ren oder unabh\xE4\
-    ngig sein?\n\tGeht es nach den Umfragen sind kurz vor dem Referendum immer noch\
-    \ rund 30 Prozent der Schotten unentschieden. Dass sie im Falle einer Abspaltung\
-    \ nicht automatisch in der EU bleiben k\xF6nnen, das hat Br\xFCssel schon klargemacht.\
-    \ Aber viele andere praktische Fragen sind nach wie vor ungekl\xE4rt und spalten\
-    \ die schottische Bev\xF6lkerung."
-  title: 'Schottland: Die gespaltene Nation'
 - link: "https://www.dw.com/de/t\xFCrkei-die-vermissten-kinder/av-17719420?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Thu, 19 Jun 2014 01:03:00 GMT
   summary: "Mehr als 14.000 Kinder sind innerhalb von f\xFCnf Jahren in der T\xFC\
@@ -581,19 +576,6 @@ entries:
     \ fanden in Polen erstmals seit dem Zweiten Weltkrieg teilweise freie Parlamentswahlen\
     \ statt. Die \"polnische Wende\" war vollbracht."
   title: 'Polen: 25 Jahre Demokratie'
-- link: "https://www.dw.com/de/rum\xE4nien-kleinbauern-in-der-klemme/av-17669407?maca=de-podcast_europa-aktuell-2169-xml-mrss"
-  published: Thu, 29 May 2014 01:03:00 GMT
-  summary: "Die rum\xE4nische Landwirtschaft ist ganz auf EU-Kurs. Gro\xDFbetriebe\
-    \ werden bevorzugt, die Kleinen haben das Nachsehen.\n\tDie meisten Bauern in\
-    \ Rum\xE4nien sind Kleinproduzenten mit ein bisschen Land. Ihre Produktion ist\
-    \ wenig effizient und die EU-Gesetze sind auf Gro\xDFbetriebe zugeschnitten, Familienunternehmen\
-    \ haben das Nachsehen. Zun\xE4chst sch\xFCtzte eine Ausnahmegenehmigung die kleinen\
-    \ H\xF6fe, doch die ist nun ausgelaufen und EU-weite Hygienestandards m\xFCssen\
-    \ eingehalten werden. F\xFCr die meisten ist das aber zu kostspielig, und auf\
-    \ Hilfe vom Staat warten die Kleinbauern vergeblich. Erste Folge sind bereits\
-    \ sp\xFCrbar: traditionelle Lebensmittel wie bestimmte Tomaten- und K\xE4sesorten\
-    \ drohen vom Markt zu verschwinden."
-  title: "Rum\xE4nien: Kleinbauern in der Klemme"
 - link: https://www.dw.com/de/serbien-folgen-der-flut/av-17669402?maca=de-podcast_europa-aktuell-2169-xml-mrss
   published: Thu, 29 May 2014 01:03:00 GMT
   summary: "Nach den verheerenden \xDCberschwemmungen in Serbien und Bosnien kommen\
@@ -618,6 +600,41 @@ entries:
     \ anzuschlie\xDFen. Zur Begr\xFCndung verwies die Volkspartei insbesondere auf\
     \ den rechtsextremen Front National aus Frankreich."
   title: "Europawahl: Rechtsruck in D\xE4nemark"
+- link: "https://www.dw.com/de/rum\xE4nien-kleinbauern-in-der-klemme/av-17669407?maca=de-podcast_europa-aktuell-2169-xml-mrss"
+  published: Thu, 29 May 2014 01:03:00 GMT
+  summary: "Die rum\xE4nische Landwirtschaft ist ganz auf EU-Kurs. Gro\xDFbetriebe\
+    \ werden bevorzugt, die Kleinen haben das Nachsehen.\n\tDie meisten Bauern in\
+    \ Rum\xE4nien sind Kleinproduzenten mit ein bisschen Land. Ihre Produktion ist\
+    \ wenig effizient und die EU-Gesetze sind auf Gro\xDFbetriebe zugeschnitten, Familienunternehmen\
+    \ haben das Nachsehen. Zun\xE4chst sch\xFCtzte eine Ausnahmegenehmigung die kleinen\
+    \ H\xF6fe, doch die ist nun ausgelaufen und EU-weite Hygienestandards m\xFCssen\
+    \ eingehalten werden. F\xFCr die meisten ist das aber zu kostspielig, und auf\
+    \ Hilfe vom Staat warten die Kleinbauern vergeblich. Erste Folge sind bereits\
+    \ sp\xFCrbar: traditionelle Lebensmittel wie bestimmte Tomaten- und K\xE4sesorten\
+    \ drohen vom Markt zu verschwinden."
+  title: "Rum\xE4nien: Kleinbauern in der Klemme"
+- link: "https://www.dw.com/de/t\xFCrkei-der-bedr\xE4ngte-premierminister/av-17652579?maca=de-podcast_europa-aktuell-2169-xml-mrss"
+  published: Thu, 22 May 2014 01:03:00 GMT
+  summary: "Nach dem schlimmsten Industrieungl\xFCck in der Geschichte der T\xFCrkei\
+    \ ger\xE4t Recep Tayyip Erdogan zunehmend in die Kritik.\n\tSeit Monaten schon\
+    \ hatte er schlechte Presse, das Bergwerksungl\xFCck in Soma bringt das Fass zum\
+    \ \xDCberlaufen. Die Menschen in der T\xFCrkei emp\xF6ren sich geradezu \xFCber\
+    \ den t\xFCrkischen Regierungschef, werfen ihm Vers\xE4umnisse vor. Nach den Gezi-Protesten\
+    \ und dem Korruptionsskandal ger\xE4t Erdogan politisch in die Defensive. Im August\
+    \ will der angeschlagene Politiker bei der Pr\xE4sidentschaftswahl antreten, aber\
+    \ wie stark ist Erdogan noch?"
+  title: "T\xFCrkei: Der bedr\xE4ngte Premierminister"
+- link: "https://www.dw.com/de/schweden-slowenien-die-jungen-wahlk\xE4mpferinnen/av-17652574?maca=de-podcast_europa-aktuell-2169-xml-mrss"
+  published: Thu, 22 May 2014 01:03:00 GMT
+  summary: "Bei der Europawahl treten nicht nur gestandene Politiker an. Auch die\
+    \ junge Generation will Europa mitgestalten und setzt die Etablierten unter Druck.\n\
+    \tDie Vorsitzende der Europ\xE4ischen Piratenpartei, Amelia Andersdotter aus Schweden,\
+    \ ist seit Ende 2011 Europaabgeordnete. Die 27-j\xE4hrige Internetexpertin kandidiert\
+    \ zum zweiten Mal f\xFCr das Europaparlament. Hier kann ihr im Bereich Datensicherheit\
+    \ keiner so leicht etwas vormachen. Die junge Slowenin Nezika Pavlic dagegen hat\
+    \ noch keine Erfahrungen mit Stra\xDFburg und Br\xFCssel. Ihr gro\xDFer Traum:\
+    \ Ein Sitz im Europaparlament f\xFCr die Konservativen aus Slowenien."
+  title: "Schweden/Slowenien: Die jungen Wahlk\xE4mpferinnen"
 - link: https://www.dw.com/de/europawahl-die-gleichgesinnten-kontrahenten/av-17652572?maca=de-podcast_europa-aktuell-2169-xml-mrss
   published: Thu, 22 May 2014 01:03:00 GMT
   summary: "Eigentlich sind sie sich in allen wichtigen Punkten einig: Jean-Claude\
@@ -631,17 +648,6 @@ entries:
     \ taumelt durch die Krise, und die starke Rechte macht den etablierten Parteien\
     \ zu schaffen."
   title: 'Europawahl: Die gleichgesinnten Kontrahenten'
-- link: "https://www.dw.com/de/schweden-slowenien-die-jungen-wahlk\xE4mpferinnen/av-17652574?maca=de-podcast_europa-aktuell-2169-xml-mrss"
-  published: Thu, 22 May 2014 01:03:00 GMT
-  summary: "Bei der Europawahl treten nicht nur gestandene Politiker an. Auch die\
-    \ junge Generation will Europa mitgestalten und setzt die Etablierten unter Druck.\n\
-    \tDie Vorsitzende der Europ\xE4ischen Piratenpartei, Amelia Andersdotter aus Schweden,\
-    \ ist seit Ende 2011 Europaabgeordnete. Die 27-j\xE4hrige Internetexpertin kandidiert\
-    \ zum zweiten Mal f\xFCr das Europaparlament. Hier kann ihr im Bereich Datensicherheit\
-    \ keiner so leicht etwas vormachen. Die junge Slowenin Nezika Pavlic dagegen hat\
-    \ noch keine Erfahrungen mit Stra\xDFburg und Br\xFCssel. Ihr gro\xDFer Traum:\
-    \ Ein Sitz im Europaparlament f\xFCr die Konservativen aus Slowenien."
-  title: "Schweden/Slowenien: Die jungen Wahlk\xE4mpferinnen"
 - link: https://www.dw.com/de/ukraine-die-schwierige-wahl/av-17652582?maca=de-podcast_europa-aktuell-2169-xml-mrss
   published: Thu, 22 May 2014 01:03:00 GMT
   summary: "Am 25. Mai wird in der Ukraine ein neuer Pr\xE4sident gew\xE4hlt. Ein\
@@ -656,27 +662,6 @@ entries:
     \ Reporterin reist aber auch in die umk\xE4mpfte Stadt Slowiansk in der Ostukraine,\
     \ wo die Menschen wahrscheinlich gar nicht zur Wahl gehen werden."
   title: 'Ukraine: Die schwierige Wahl'
-- link: "https://www.dw.com/de/t\xFCrkei-der-bedr\xE4ngte-premierminister/av-17652579?maca=de-podcast_europa-aktuell-2169-xml-mrss"
-  published: Thu, 22 May 2014 01:03:00 GMT
-  summary: "Nach dem schlimmsten Industrieungl\xFCck in der Geschichte der T\xFCrkei\
-    \ ger\xE4t Recep Tayyip Erdogan zunehmend in die Kritik.\n\tSeit Monaten schon\
-    \ hatte er schlechte Presse, das Bergwerksungl\xFCck in Soma bringt das Fass zum\
-    \ \xDCberlaufen. Die Menschen in der T\xFCrkei emp\xF6ren sich geradezu \xFCber\
-    \ den t\xFCrkischen Regierungschef, werfen ihm Vers\xE4umnisse vor. Nach den Gezi-Protesten\
-    \ und dem Korruptionsskandal ger\xE4t Erdogan politisch in die Defensive. Im August\
-    \ will der angeschlagene Politiker bei der Pr\xE4sidentschaftswahl antreten, aber\
-    \ wie stark ist Erdogan noch?"
-  title: "T\xFCrkei: Der bedr\xE4ngte Premierminister"
-- link: https://www.dw.com/de/griechenland-linksruck-im-europawahlkampf/av-17635659?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Thu, 15 May 2014 01:03:00 GMT
-  summary: "Europas linke Parteien werden ihren Stimmenanteil bei der Europawahl voraussichtlich\
-    \ verdoppeln. Angef\xFChrt werden sie dabei von einem Vertreter aus Griechenland.\n\
-    \tIn Griechenland f\xFChrt die linke Partei Syriza die Umfragen f\xFCr die Europawahl\
-    \ an. Ihr Vorsitzender Alexis Tsipras ist zugleich die Spitze der europ\xE4ischen\
-    \ Linken im EU-Wahlkampf. Der ausgewiesene Europaskeptiker spricht sich gegen\
-    \ eine neo-liberale Politik auf EU-Ebene aus und macht sich f\xFCr h\xF6here Sozialausgaben\
-    \ stark. Auch in Griechenland strebt Tsipras mit seiner Partei an die Macht."
-  title: 'Griechenland: Linksruck im Europawahlkampf'
 - link: "https://www.dw.com/de/gro\xDFbritannien-gegen-den-strom-der-euroskeptiker/av-17635652?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Thu, 15 May 2014 01:03:00 GMT
   summary: "Europaskepsis hat in Gro\xDFbritannien eine lange Tradition, vor allem\
@@ -689,6 +674,29 @@ entries:
     \ die rechte UK Independence Party f\xFCr einen Austritt aus der EU wirbt, trifft\
     \ er auf viel Kritik. Unterst\xFCtzung bekommt er vor allem von der Wirtschaft."
   title: "Gro\xDFbritannien: Gegen den Strom der Euroskeptiker"
+- link: https://www.dw.com/de/griechenland-linksruck-im-europawahlkampf/av-17635659?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Thu, 15 May 2014 01:03:00 GMT
+  summary: "Europas linke Parteien werden ihren Stimmenanteil bei der Europawahl voraussichtlich\
+    \ verdoppeln. Angef\xFChrt werden sie dabei von einem Vertreter aus Griechenland.\n\
+    \tIn Griechenland f\xFChrt die linke Partei Syriza die Umfragen f\xFCr die Europawahl\
+    \ an. Ihr Vorsitzender Alexis Tsipras ist zugleich die Spitze der europ\xE4ischen\
+    \ Linken im EU-Wahlkampf. Der ausgewiesene Europaskeptiker spricht sich gegen\
+    \ eine neo-liberale Politik auf EU-Ebene aus und macht sich f\xFCr h\xF6here Sozialausgaben\
+    \ stark. Auch in Griechenland strebt Tsipras mit seiner Partei an die Macht."
+  title: 'Griechenland: Linksruck im Europawahlkampf'
+- link: https://www.dw.com/de/frankreich-der-rechte-osten/av-17618433?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Thu, 8 May 2014 01:03:00 GMT
+  summary: "Bei der Europawahl rechnet sich der Front National gute Chancen aus. Die\
+    \ rechtsextreme Partei wirbt mit ausl\xE4nderfeindlichen Parolen um die W\xE4\
+    hlerstimmen.\n\tDie Partei will so an den Erfolg bei den Kommunalwahlen in Frankreich\
+    \ anschlie\xDFen. Dabei konnte der Front National gleich mehrere Rath\xE4user\
+    \ erobern, darunter auch in dem St\xE4dtchen Hayange im Osten des Landes. Die\
+    \ Partnerst\xE4dte im belgischen Arlon und im luxemburgischen Diekirch haben mittlerweile\
+    \ den offiziellen Kontakt zu Hayange abgebrochen. Den B\xFCrgermeister schert\
+    \ das aber wenig. Seine Partei ist nicht nur f\xFCr einen Einwanderungsstopp und\
+    \ die R\xFCckkehr zur nationalen W\xE4hrung, sondern auch generell gegen die Freiz\xFC\
+    gigkeit innerhalb der EU."
+  title: 'Frankreich: Der rechte Osten'
 - link: https://www.dw.com/de/ungarn-streit-um-nazi-besatzungsdenkmal/av-17618446?maca=de-podcast_europa-aktuell-2169-xml-mrss
   published: Thu, 8 May 2014 01:03:00 GMT
   summary: "In Budapest l\xE4sst die Regierung ein Denkmal errichten, das an die Besatzungszeit\
@@ -703,19 +711,17 @@ entries:
     r den ehemaligen ungarischen Reichsverweser und Hitler-Verb\xFCndeten Miklos Horthy\
     \ aufgestellt hatte."
   title: 'Ungarn: Streit um Nazi-Besatzungsdenkmal'
-- link: https://www.dw.com/de/frankreich-der-rechte-osten/av-17618433?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Thu, 8 May 2014 01:03:00 GMT
-  summary: "Bei der Europawahl rechnet sich der Front National gute Chancen aus. Die\
-    \ rechtsextreme Partei wirbt mit ausl\xE4nderfeindlichen Parolen um die W\xE4\
-    hlerstimmen.\n\tDie Partei will so an den Erfolg bei den Kommunalwahlen in Frankreich\
-    \ anschlie\xDFen. Dabei konnte der Front National gleich mehrere Rath\xE4user\
-    \ erobern, darunter auch in dem St\xE4dtchen Hayange im Osten des Landes. Die\
-    \ Partnerst\xE4dte im belgischen Arlon und im luxemburgischen Diekirch haben mittlerweile\
-    \ den offiziellen Kontakt zu Hayange abgebrochen. Den B\xFCrgermeister schert\
-    \ das aber wenig. Seine Partei ist nicht nur f\xFCr einen Einwanderungsstopp und\
-    \ die R\xFCckkehr zur nationalen W\xE4hrung, sondern auch generell gegen die Freiz\xFC\
-    gigkeit innerhalb der EU."
-  title: 'Frankreich: Der rechte Osten'
+- link: https://www.dw.com/de/italien-venedigs-separatisten/av-17588332?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Thu, 24 Apr 2014 01:03:00 GMT
+  summary: "Sie fordern die Unabh\xE4ngigkeit Venetiens vom Rest Italiens und setzen\
+    \ zunehmend auf Gewalt: Die radikalen Separatisten der Gruppe L'Allianza.\n\t\
+    Venetien geh\xF6rt zu den wohlhabendsten Gegenden Italiens. Aber seit der Wirtschaftskrise\
+    \ sind viele ver\xE4rgert, dass ihr Geld vor allem im S\xFCden Italiens ausgegeben\
+    \ wird. Das ist Wasser auf die M\xFChlen der Separatisten, die sich immer radikaler\
+    \ geben. Vor kurzem hat die italienische Polizei eine Gruppe der Unabh\xE4ngigkeitsk\xE4\
+    mpfer zerschlagen, die sich Waffen bei der albanischen Mafia besorgte und am Markusplatz\
+    \ eine unabh\xE4ngige Regierung ausrufen wollte."
+  title: 'Italien: Venedigs Separatisten'
 - link: "https://www.dw.com/de/wem-geh\xF6rt-der-goldschatz-von-der-krim/av-17588317?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Thu, 24 Apr 2014 01:03:00 GMT
   summary: "Nach dem politischen und milit\xE4rischen Streit um die Krim geht es jetzt\
@@ -729,40 +735,6 @@ entries:
     tze zur\xFCckgegeben werden sollen - der Ukraine, der Krim oder sollen sie gar\
     \ in Amsterdam bleiben?"
   title: "Wem geh\xF6rt der Goldschatz von der Krim?"
-- link: https://www.dw.com/de/italien-venedigs-separatisten/av-17588332?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Thu, 24 Apr 2014 01:03:00 GMT
-  summary: "Sie fordern die Unabh\xE4ngigkeit Venetiens vom Rest Italiens und setzen\
-    \ zunehmend auf Gewalt: Die radikalen Separatisten der Gruppe L'Allianza.\n\t\
-    Venetien geh\xF6rt zu den wohlhabendsten Gegenden Italiens. Aber seit der Wirtschaftskrise\
-    \ sind viele ver\xE4rgert, dass ihr Geld vor allem im S\xFCden Italiens ausgegeben\
-    \ wird. Das ist Wasser auf die M\xFChlen der Separatisten, die sich immer radikaler\
-    \ geben. Vor kurzem hat die italienische Polizei eine Gruppe der Unabh\xE4ngigkeitsk\xE4\
-    mpfer zerschlagen, die sich Waffen bei der albanischen Mafia besorgte und am Markusplatz\
-    \ eine unabh\xE4ngige Regierung ausrufen wollte."
-  title: 'Italien: Venedigs Separatisten'
-- link: https://www.dw.com/de/deutschland-blei-im-wild/av-17566699?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Thu, 10 Apr 2014 01:03:00 GMT
-  summary: "Die meisten J\xE4ger in Deutschland halten hartn\xE4ckig an bleihaltiger\
-    \ Jagdmunition fest. Dabei zeigen Studien, dass das giftige Schwermetall Mensch\
-    \ und Tier belastet.\n\tIn anderen europ\xE4ischen L\xE4ndern mit einer langen\
-    \ Jagdtradition wie Schweden oder Gro\xDFbritannien ist Bleimunition l\xE4ngst\
-    \ verboten. Doch in deutschen W\xE4ldern gelangen weiterhin jedes Jahr tonnenweise\
-    \ Blei durch die Jagd in die Umwelt. Umweltsch\xFCtzer schlagen seit Jahren Alarm,\
-    \ dass vor allem Raubv\xF6gel bedroht sind, die die vergifteten \xDCberreste eines\
-    \ geschossenen Tiers verzehren. Auch f\xFCr Menschen ist die Bleibelastung nicht\
-    \ unbedenklich."
-  title: 'Deutschland: Blei im Wild'
-- link: https://www.dw.com/de/portugal-plastik-als-plage/av-17554443?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Thu, 10 Apr 2014 01:03:00 GMT
-  summary: "Die Portugiesen tragen einen fragw\xFCrdigen Titel - sie sind Europas\
-    \ Plastikt\xFCtenchampions. Ganze T\xFCtenheere verlassen min\xFCtlich die Einkaufszentren.\n\
-    \tMit dem Beitritt zur Europ\xE4ischen Union hat Portugal auch die westeurop\xE4\
-    ischen Konsumgewohnheiten \xFCbernommen - samt Wegwerfmentalit\xE4t. Heute verbraucht\
-    \ jeder Portugiese rund 500 Kunststofftaschen pro Jahr, in der gesamten EU sind\
-    \ es acht Milliarden Plastikt\xFCten. Grund genug f\xFCr einen Videok\xFCnstler,\
-    \ den absurden Lebensstil seiner Landsleute aufs Korn zu nehmen, denn die Plastikt\xFC\
-    te habe die Portugiesen l\xE4ngst im Griff."
-  title: 'Portugal: Plastik als Plage'
 - link: https://www.dw.com/de/frankreich-der-chinesenfriedhof/av-17554414?maca=de-podcast_europa-aktuell-2169-xml-mrss
   published: Thu, 10 Apr 2014 01:03:00 GMT
   summary: "Zehntausende chinesische Arbeiter unterst\xFCtzten im Ersten Weltkrieg\
@@ -776,6 +748,29 @@ entries:
     \ Somme liegen heute 841 Gr\xE4ber. Einmal im Jahr wird der Friedhof zur Pilgerst\xE4\
     tte f\xFCr Chinesen aus ganz Paris."
   title: 'Frankreich: Der Chinesenfriedhof'
+- link: https://www.dw.com/de/portugal-plastik-als-plage/av-17554443?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Thu, 10 Apr 2014 01:03:00 GMT
+  summary: "Die Portugiesen tragen einen fragw\xFCrdigen Titel - sie sind Europas\
+    \ Plastikt\xFCtenchampions. Ganze T\xFCtenheere verlassen min\xFCtlich die Einkaufszentren.\n\
+    \tMit dem Beitritt zur Europ\xE4ischen Union hat Portugal auch die westeurop\xE4\
+    ischen Konsumgewohnheiten \xFCbernommen - samt Wegwerfmentalit\xE4t. Heute verbraucht\
+    \ jeder Portugiese rund 500 Kunststofftaschen pro Jahr, in der gesamten EU sind\
+    \ es acht Milliarden Plastikt\xFCten. Grund genug f\xFCr einen Videok\xFCnstler,\
+    \ den absurden Lebensstil seiner Landsleute aufs Korn zu nehmen, denn die Plastikt\xFC\
+    te habe die Portugiesen l\xE4ngst im Griff."
+  title: 'Portugal: Plastik als Plage'
+- link: https://www.dw.com/de/deutschland-blei-im-wild/av-17566699?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Thu, 10 Apr 2014 01:03:00 GMT
+  summary: "Die meisten J\xE4ger in Deutschland halten hartn\xE4ckig an bleihaltiger\
+    \ Jagdmunition fest. Dabei zeigen Studien, dass das giftige Schwermetall Mensch\
+    \ und Tier belastet.\n\tIn anderen europ\xE4ischen L\xE4ndern mit einer langen\
+    \ Jagdtradition wie Schweden oder Gro\xDFbritannien ist Bleimunition l\xE4ngst\
+    \ verboten. Doch in deutschen W\xE4ldern gelangen weiterhin jedes Jahr tonnenweise\
+    \ Blei durch die Jagd in die Umwelt. Umweltsch\xFCtzer schlagen seit Jahren Alarm,\
+    \ dass vor allem Raubv\xF6gel bedroht sind, die die vergifteten \xDCberreste eines\
+    \ geschossenen Tiers verzehren. Auch f\xFCr Menschen ist die Bleibelastung nicht\
+    \ unbedenklich."
+  title: 'Deutschland: Blei im Wild'
 - link: https://www.dw.com/de/spanien-das-saubere-madrid/av-17537835?maca=de-podcast_europa-aktuell-2169-xml-mrss
   published: Thu, 3 Apr 2014 01:03:00 GMT
   summary: "Madrids Stra\xDFenmusiker stehen unter Druck. Die B\xFCrgermeisterin will\

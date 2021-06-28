@@ -1,7 +1,7 @@
 ---
 title: "Le Journal | Deutsche Welle"
 id: podcast_journal
-published: "Fri, 25 Jun 2021 21:31:20 GMT"
+published: "Mon, 28 Jun 2021 09:54:38 GMT"
 page_link: "https://www.dw.com?maca=fra-podcast_journal-1774-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_journal"
 language: fr
@@ -11,6 +11,11 @@ tags: [ "News", "Politics" ]
 image_url: https://static.dw.com/image/2135752_7.jpg
 image_title: ""
 entries:
+- link: https://www.dw.com/fr/info-matin-7h-tu-28-06-21/av-58073381?maca=fra-podcast_journal-1774-xml-mrss
+  published: Mon, 28 Jun 2021 08:01:00 GMT
+  summary: "R\xE9actions apr\xE8s l'attaque contre des soldats allemands au Mali.\
+    \ Difficult\xE9s des retrait\xE9s tchadiens. Flamb\xE9e des prix au B\xE9nin."
+  title: Info Matin 7h TU (28.06.21)
 - link: https://www.dw.com/fr/journal-17htu-24-06-2021/av-58038010?maca=fra-podcast_journal-1774-xml-mrss
   published: Thu, 24 Jun 2021 17:56:00 GMT
   summary: "Parmi les sujets au menu : le projet de loi pr\xE9voyant d'amnistier les\
@@ -212,15 +217,6 @@ entries:
   summary: "D\xE9l\xE9gation centrafricaine au Tchad. Le syst\xE8me Covax \xE0 l'\xE9\
     preuve. Interview avec le ministre burkinab\xE8 de l'Education."
   title: Info Matin 7h TU (02.06.21)
-- link: https://www.dw.com/fr/journal-17h-tu-01-06-2021/av-57750055?maca=fra-podcast_journal-1774-xml-mrss
-  published: Tue, 1 Jun 2021 17:37:00 GMT
-  summary: "La tension entre le Tchad et la Centrafrique. En RDC, depuis les r\xE9\
-    cents t\xE9moignagent qui d\xE9signent l\u2019ancien chef de la police John Numbi\
-    \ comme le commanditaire du meurtre de Floribert Chebeya et son chauffeur Fid\xE8\
-    le Bazana, le point sur la proc\xE9dure judiciaire. Les d\xE9tails sur l\u2019\
-    audition de Brahim Gali. Le chef du Front Polisario a \xE9t\xE9 entendu par la\
-    \ justice en Espagne."
-  title: Journal 17h TU (01.06.2021)
 
 ---
 Journal d'informations internationales et africaines.

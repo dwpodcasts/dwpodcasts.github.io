@@ -1,9 +1,9 @@
 ---
 title: "Deutsche Welle: DW.com Wirtschaft"
 id: rss-de-eco
-published: "Fri, 25 Jun 2021 21:29:40 GMT"
+published: "Mon, 28 Jun 2021 09:58:04 GMT"
 page_link: "https://www.dw.com/s-1503?maca=de-rss-de-eco-1018-xml-mrss"
-atom_link: "https://rss.dw.com/xml/rss-de-eco"
+atom_link: "https://rss.dw.com/xml/rss-de-eco?0.52733393878162=1"
 language: de
 deutschkurs: False
 category: ""
@@ -11,24 +11,30 @@ tags: [  ]
 image_url: https://rss.dw.com/images/DW-L-RGB_whitebg.png
 image_title: "Deutsche Welle: DW.com Wirtschaft"
 entries:
+- link: https://www.dw.com/de/kanal-istanbul-erdogan-startet-megaprojekt/a-57498965?maca=de-rss-de-eco-1018-xml-mrss
+  published: Sat, 26 Jun 2021 10:05:00 GMT
+  summary: "Mit der Grundsteinlegung f\xFCr eine Br\xFCcke startet der t\xFCrkische\
+    \ Pr\xE4sident sein neues Gro\xDFprojekt: Recep Tayyip Erdogan l\xE4sst einen\
+    \ Kanal vom Marmarameer zum Schwarzen Meer graben. Ein Albtraum f\xFCr viele Anwohner."
+  title: 'Kanal Istanbul: Erdogan startet Megaprojekt'
+- link: https://www.dw.com/de/europas-eisenbahnprojekt-kommt-voran-vorbehalte-bleiben/a-58045561?maca=de-rss-de-eco-1018-xml-mrss
+  published: Sun, 27 Jun 2021 10:25:00 GMT
+  summary: "Schon seit den 1990er-Jahren begehren die Menschen im Susa-Tal gegen eine\
+    \ geplante Hochgeschwindigkeitsstrecke auf. F\xFCr Europa geht es dabei um eine\
+    \ Herzst\xFCck der zuk\xFCnftigen Infrastruktur. Sergio Matalucci berichtet."
+  title: Europas Eisenbahnprojekt kommt voran, Vorbehalte bleiben
+- link: https://www.dw.com/de/die-pandemie-belastet-die-psyche-eine-branche-profitiert/a-58036353?maca=de-rss-de-eco-1018-xml-mrss
+  published: Sun, 27 Jun 2021 00:00:00 GMT
+  summary: "Ob Moodpath, Talkspace oder Mindshine: Digitale Gesundheits-Startups boomen\
+    \ seit der Pandemie. Doch h\xE4lt der Trend, der schon vor Jahren in den USA begann,\
+    \ auch nach der Krise an?"
+  title: Die Pandemie belastet die Psyche, eine Branche profitiert
 - link: "https://www.dw.com/de/elektroauto-\xF6kobilanz-wird-jetzt-alles-gut/a-58042356?maca=de-rss-de-eco-1018-xml-mrss"
   published: Fri, 25 Jun 2021 10:47:00 GMT
   summary: "Wie umweltfreundlich sind Elektroautos? \xDCber diese Frage wird besonders\
     \ h\xE4ufig gestritten - auch schon mal zwischen Experten. Dabei kommen wichtige\
     \ Aspekte oft zu kurz."
   title: "Elektroauto-\xD6kobilanz: Wird jetzt alles gut?"
-- link: https://www.dw.com/de/die-pandemie-belastet-die-psyche-eine-branche-profitiert/a-58036353?maca=de-rss-de-eco-1018-xml-mrss
-  published: Fri, 25 Jun 2021 10:47:00 GMT
-  summary: "Ob Moodpath, Talkspace oder Mindshine: Digitale Gesundheits-Startups boomen\
-    \ seit der Pandemie. Doch h\xE4lt der Trend, der schon vor Jahren in den USA begann,\
-    \ auch nach der Krise an?"
-  title: Die Pandemie belastet die Psyche, eine Branche profitiert
-- link: https://www.dw.com/de/europas-eisenbahnprojekt-kommt-voran-vorbehalte-bleiben/a-58045561?maca=de-rss-de-eco-1018-xml-mrss
-  published: Fri, 25 Jun 2021 12:55:00 GMT
-  summary: "Schon seit den 90er Jahren begehren die Menschen im Susa-Tal gegen eine\
-    \ geplante Hochgeschwindigkeitsstrecke auf. F\xFCr Europa geht es dabei um eine\
-    \ Herzst\xFCck der zuk\xFCnftigen Infrastruktur. Sergio Matalucci berichtet."
-  title: Europas Eisenbahnprojekt kommt voran, Vorbehalte bleiben
 - link: "https://www.dw.com/de/der-gef\xE4hrliche-siegeszug-der-stablecoins/a-58032457?maca=de-rss-de-eco-1018-xml-mrss"
   published: Fri, 25 Jun 2021 14:57:00 GMT
   summary: "Wenn Bitcoin und Co an Wert verlieren, parken Krypto-Anleger ihr Geld\
@@ -72,12 +78,6 @@ entries:
     \ wird aber langfristig von den Erfahrungen bei der Entwicklung von Impfstoffen\
     \ und Medikamenten gegen COVID-19 profitieren."
   title: Corona mischt die Pharmabranche auf
-- link: https://www.dw.com/de/im-libanon-geht-langsam-das-licht-aus/a-57954646?maca=de-rss-de-eco-1018-xml-mrss
-  published: Sat, 19 Jun 2021 02:25:00 GMT
-  summary: "Der Libanon bewegt sich seit Monaten gef\xE4hrlich nahe am Staatsbankrott.\
-    \ Dem Land gehen die Devisen aus und damit auch der Kraftstoff, die Medikamente\
-    \ und der Strom. Das hat auch massive Auswirkungen auf die Bildung."
-  title: Im Libanon geht langsam das Licht aus
 
 ---
 Deutsche Welle: DW.com Wirtschaft
