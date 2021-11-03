@@ -1,7 +1,7 @@
 ---
 title: "Wissen & Umwelt | DW.com"
 id: rss-de-wissenschaft
-published: "Mon, 28 Jun 2021 09:58:13 GMT"
+published: "Wed, 3 Nov 2021 19:30:47 GMT"
 page_link: "https://www.dw.com/s-12296?maca=de-rss-de-wissenschaft-4019-xml-mrss"
 atom_link: "https://rss.dw.com/xml/rss-de-wissenschaft"
 language: de
@@ -11,54 +11,91 @@ tags: [  ]
 image_url: https://rss.dw.com/images/DW-L-RGB_whitebg.png
 image_title: "Wissen & Umwelt | DW.com"
 entries:
-- link: "https://www.dw.com/de/prek\xE4re-arbeitsbedingungen-in-der-wissenschaft/a-58042950?maca=de-rss-de-wissenschaft-4019-xml-mrss"
-  published: Fri, 25 Jun 2021 15:33:00 GMT
-  summary: "In Deutschland verschaffen sich desillusionierte Forschende auf Twitter\
-    \ unter #IchbinHannah Geh\xF6r. Prek\xE4re Arbeitsbedingungen sind auch an Unis\
-    \ in anderen EU-L\xE4ndern und Gro\xDFbritannien ein Problem."
-  title: "Prek\xE4re Arbeitsbedingungen in der Wissenschaft"
-- link: "https://www.dw.com/de/biontech-und-moderna-herzentz\xFCndungen-nach-mrna-impfungen/a-58028975?maca=de-rss-de-wissenschaft-4019-xml-mrss"
-  published: Thu, 24 Jun 2021 11:48:00 GMT
-  summary: "Die US-Gesundheitsbeh\xF6rde CDC best\xE4tigt, dass es nach mRNA-Impfungen\
-    \ unter jungen Menschen zu Myokarditis und Perikarditis kommen kann. Die F\xE4\
-    lle sind indes selten. Mediziner raten weiterhin zur Impfung."
-  title: "BioNTech und Moderna: Herzentz\xFCndungen nach mRNA-Impfungen"
-- link: "https://www.dw.com/de/b\xFCrgerrat-klima-endlich-ernst-machen/a-58002471?maca=de-rss-de-wissenschaft-4019-xml-mrss"
-  published: Thu, 24 Jun 2021 09:48:00 GMT
-  summary: "Deutschland hinkt seinen Klimazielen hinterher. Der B\xFCrgerrat Klima,\
-    \ ein Pilotprojekt partizipativer Demokratie,hat seine Empfehlungen vorgelegt\
-    \ und greift der Regierung unter die Arme."
-  title: "B\xFCrgerrat Klima: Endlich ernst machen!"
-- link: "https://www.dw.com/de/raum-f\xFCr-menschen-statt-autos-in-belo-horizonte/a-57924844?maca=de-rss-de-wissenschaft-4019-xml-mrss"
-  published: Thu, 24 Jun 2021 07:50:00 GMT
-  summary: "Fahrradwege, Tempo-30-Zonen - in Brasilien oft Fehlanzeige. Anders in\
-    \ Belo Horizonte. Die Metropole schafft mehr Platz f\xFCr Radfahrer und Fu\xDF\
-    g\xE4nger. Das Ergebnis: bessere Luft, mehr Verkehrssicherheit, mehr Gemeinschaft."
-  title: "Raum f\xFCr Menschen statt Autos in Belo Horizonte"
-- link: "https://www.dw.com/de/alarm-am-s\xFCdpol-die-antarktis-vor-der-klimakatastrophe/a-58002148?maca=de-rss-de-wissenschaft-4019-xml-mrss"
-  published: Wed, 23 Jun 2021 01:56:00 GMT
-  summary: "Der Antarktis-Vertrag sch\xFCtzt das Gebiet um den S\xFCdpol vor menschlichen\
-    \ Eingriffen, wie etwa dem Rohstoffabbau. Doch der Klimawandel macht genau diesen\
-    \ Schutz zunichte."
-  title: "Alarm am S\xFCdpol: Die Antarktis vor der Klimakatastrophe"
-- link: "https://www.dw.com/de/indigenes-wissen-als-vorbild-f\xFCr-us-farmer/a-57954007?maca=de-rss-de-wissenschaft-4019-xml-mrss"
-  published: Wed, 23 Jun 2021 01:00:00 GMT
-  summary: "Die Meskwaki, Nachfolger von Ureinwohnern in den USA, bauen Lebensmittel\
-    \ mit regenerativen Methoden an. Indigene Landwirtschaftstechniken k\xF6nnten\
-    \ auch konventionellen US-Farmern helfen, im Klimawandel zu bestehen."
-  title: "Indigenes Wissen als Vorbild f\xFCr US-Farmer?"
-- link: https://www.dw.com/de/schwachstelle-von-alptraum-bakterium-entdeckt/a-57991876?maca=de-rss-de-wissenschaft-4019-xml-mrss
-  published: Tue, 22 Jun 2021 13:32:00 GMT
-  summary: "Resistente Keime k\xF6nnen in Krankenh\xE4usern zur t\xF6dlichen Bedrohung\
-    \ werden. Ohne einen bestimmten Regulator wird das bislang resistente Bakterium\
-    \ Pseudomonas aeruginosa harmlos, fanden Forschende der Uni Genf heraus."
-  title: Schwachstelle von "Alptraum-Bakterium" entdeckt
-- link: https://www.dw.com/de/anorexie-magersucht-kann-lebensbedrohliche-folgen-haben/a-57987677?maca=de-rss-de-wissenschaft-4019-xml-mrss
-  published: Tue, 22 Jun 2021 13:24:00 GMT
-  summary: "Etwa zehn Prozent aller Magers\xFCchtigen sterben an ihrer Erkrankung.\
-    \ Im Teenager-Alter f\xE4ngt es meistens an. Einige k\xF6nnen den Gewichtsverlust\
-    \ irgendwann nicht mehr stoppen, magern mehr und mehr ab."
-  title: 'Anorexie: Magersucht kann lebensbedrohliche Folgen haben'
+- link: "https://www.dw.com/de/cop26-zu-wenig-vertreter-aus-entwicklungsl\xE4ndern-in-glasgow/a-59711803?maca=de-rss-de-wissenschaft-4019-xml-mrss"
+  published: Wed, 3 Nov 2021 17:54:00 GMT
+  summary: "Vertreter der L\xE4nder, die am meisten unter Klimafolgen leiden, sind\
+    \ bei der COP26 unterrepr\xE4sentiert. Dabei gilt sie als \"beste letzte Chance\"\
+    , den Klimawandel noch zu bremsen. Was hei\xDFt das f\xFCr die Verhandlungen?"
+  title: "COP26: Zu wenig Vertreter aus Entwicklungsl\xE4ndern in Glasgow"
+- link: "https://www.dw.com/de/ende-der-abholzung-2030-leeres-versprechen-oder-bald-realit\xE4\
+    t/a-59707123?maca=de-rss-de-wissenschaft-4019-xml-mrss"
+  published: Wed, 3 Nov 2021 14:44:00 GMT
+  summary: "Die Abholzung bis 2030 zu beenden ist die erste gro\xDFe Zusage bei der\
+    \ Klimakonferenz COP26 in Glasgow. Doch Umweltsch\xFCtzer betonen: Politische\
+    \ Erkl\xE4rungen allein werden die W\xE4lder nicht retten."
+  title: "Ende der Abholzung 2030: Leeres Versprechen oder bald Realit\xE4t?"
+- link: https://www.dw.com/de/solarthermie-chiles-umbau-weg-von-den-kohlekraftwerken-hin-zu-erneuerbaren-energien/a-59684481?maca=de-rss-de-wissenschaft-4019-xml-mrss
+  published: Wed, 3 Nov 2021 10:12:00 GMT
+  summary: "Durch Solarthermie kann die Sonnenenergie im W\xE4rmekraftwerk Cerro Dominador\
+    \ in Chile rund 17 Stunden lang gespeichert werden. Schon bald sollen sogar alte\
+    \ Kohlekraftwerke auf Solartechnik umgestellt werden."
+  title: "Solarthermie \u2013 Chiles Umbau weg von den Kohlekraftwerken hin zu erneuerbaren\
+    \ Energien"
+- link: https://www.dw.com/de/deutscher-eiszeitforscher-und-seine-tochter-in-paraguay-brutal-ermordet/a-59694752?maca=de-rss-de-wissenschaft-4019-xml-mrss
+  published: Tue, 2 Nov 2021 15:01:00 GMT
+  summary: Vor vier Jahren war Bernard von Bredow mit seiner Tochter nach Paraguay
+    ausgewandert. Nun wurden ihre Leichen in ihrem Haus entdeckt. Die Ermittler vermuten
+    Raubmord.
+  title: Deutscher Eiszeitforscher und seine Tochter in Paraguay brutal ermordet
+- link: "https://www.dw.com/de/neben-den-korallenriffen-auf-den-malediven-natursch\xFC\
+    tzer-k\xE4mpfen-f\xFCr-den-erhalt-von-seegras/a-59684464?maca=de-rss-de-wissenschaft-4019-xml-mrss"
+  published: Tue, 2 Nov 2021 11:33:00 GMT
+  summary: "Seegras ist ein hocheffektiver CO2-Speicher. Auf den Malediven wurde es\
+    \ jedoch jahrelang abgebaggert - um die Str\xE4nde attraktiver f\xFCr Urlauber\
+    \ zu machen. Nun hat ein Umdenken eingesetzt - auch in der Torurismusindustrie."
+  title: "Neben den Korallenriffen auf den Malediven: Natursch\xFCtzer k\xE4mpfen\
+    \ f\xFCr den Erhalt von Seegras"
+- link: https://www.dw.com/de/vulkanausbruch-auf-la-palma-leid-und-faszination/a-59400637?maca=de-rss-de-wissenschaft-4019-xml-mrss
+  published: Tue, 2 Nov 2021 11:00:00 GMT
+  summary: "Lavafont\xE4nen, Ascheregen und Vulkanbomben locken am Vulkan Cumbre Vieja\
+    \ Touristen an. Lava und Asche zerst\xF6ren H\xE4user und Plantagen, aber langfristig\
+    \ sorgt die fruchtbare Lava auch f\xFCr neues Leben."
+  title: 'Vulkanausbruch auf La Palma: Leid und Faszination'
+- link: https://www.dw.com/de/cop26-die-klimakrise-in-11-grafiken/a-59662624?maca=de-rss-de-wissenschaft-4019-xml-mrss
+  published: Tue, 2 Nov 2021 09:51:00 GMT
+  summary: "Die UN Klimakonferenz in Glasgow r\xFCckt die Klimakrise erneut in den\
+    \ Brennpunkt. Wir zeigen die wichtigsten Fakten, wie sich der Planet jetzt schon\
+    \ ver\xE4ndert hat."
+  title: 'COP26: Die Klimakrise in 11 Grafiken'
+- link: "https://www.dw.com/de/klimaschutz-g20-bleiben-hinter-den-erwartungen-zur\xFC\
+    ck/a-59678662?maca=de-rss-de-wissenschaft-4019-xml-mrss"
+  published: Sun, 31 Oct 2021 17:15:00 GMT
+  summary: "Ein \"starkes Signal\" sollte nach dem Willen des Gastgebers eigentlich\
+    \ vom G20-Gipfel in Rom f\xFCr die Weltklimakonferenz ausgehen. Doch daraus wird\
+    \ offenbar nichts."
+  title: "Klimaschutz: G20 bleiben hinter den Erwartungen zur\xFCck"
+- link: https://www.dw.com/de/china-vermeldet-rekord-leistung-bei-quantencomputern/a-59654510?maca=de-rss-de-wissenschaft-4019-xml-mrss
+  published: Sat, 30 Oct 2021 08:45:00 GMT
+  summary: "\xDCber Prozessoren mit bis zu 66-Qubits berichten chinesische Forschende.\
+    \ Ihre Quantencomputer sollen deutlich leistungsf\xE4higer sein als die bisherigen\
+    \ Rekordhalter, die 54-Qubit-Prozessoren von Google."
+  title: China vermeldet Rekord-Leistung bei Quantencomputern
+- link: "https://www.dw.com/de/stern-report-fr\xFChe-warnung-vor-den-folgen-der-klimakrise/a-59661125?maca=de-rss-de-wissenschaft-4019-xml-mrss"
+  published: Sat, 30 Oct 2021 01:57:00 GMT
+  summary: "Vor 15 Jahren rechnete der Ex-Weltbank-\xD6konom Nicholas Stern der Welt\
+    \ \xFCberzeugend vor: Klimaschutz ist vielleicht teuer; kein Klimaschutz kostet\
+    \ aber sehr viel mehr. Heute sieht er sich best\xE4tigt."
+  title: "Stern-Report: Fr\xFChe Warnung vor den Folgen der Klimakrise"
+- link: "https://www.dw.com/de/leben-und-arbeiten-auf-georgiens-gr\xF6\xDFter-m\xFC\
+    llkippe/a-59618214?maca=de-rss-de-wissenschaft-4019-xml-mrss"
+  published: Fri, 29 Oct 2021 13:00:00 GMT
+  summary: "Am Rande von Batumi liegt die Gonio-M\xFClldeponie. Um die Umwelt vor\
+    \ Giften zu sch\xFCtzen, soll die Halde geschlossen werden. F\xFCr die vielen\
+    \ M\xFCllsammler bedeutet das eine ungewisse Zukunft."
+  title: "Leben und Arbeiten auf Georgiens gr\xF6\xDFter M\xFCllkippe"
+- link: "https://www.dw.com/de/pinktober-r\xFCckt-brustkrebs-im-nahen-osten-ins-\xF6\
+    ffentliche-bewusstsein/a-59650452?maca=de-rss-de-wissenschaft-4019-xml-mrss"
+  published: Fri, 29 Oct 2021 08:29:00 GMT
+  summary: "In den L\xE4ndern des Nahen Ostens steigen die Brustkrebsraten. Es mangelt\
+    \ an Aufkl\xE4rung. Brustkrebs ist dort noch immer ein Tabu-Thema. Der internationale\
+    \ Brustkrebsmonat \u201CPinktober\u201C soll das \xE4ndern."
+  title: "\"Pinktober\" r\xFCckt Brustkrebs im Nahen Osten ins \xF6ffentliche Bewusstsein"
+- link: https://www.dw.com/de/faktencheck-gibt-es-langzeitfolgen-von-corona-impfungen/a-59627413?maca=de-rss-de-wissenschaft-4019-xml-mrss
+  published: Thu, 28 Oct 2021 12:48:00 GMT
+  summary: "Viele Menschen, so auch Fu\xDFballstar Joshua Kimmich, stehen einer COVID-Impfung\
+    \ kritisch gegen\xFCber. Ein h\xE4ufig genannter Grund ist die Angst vor Langzeitfolgen.\
+    \ Doch gibt es diese \xFCberhaupt? Ein Faktencheck."
+  title: 'Faktencheck: Gibt es Langzeitfolgen von Corona-Impfungen?'
 
 ---
 Wissen & Umwelt | DW.com

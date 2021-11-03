@@ -8,7 +8,7 @@ import sys
 import textwrap
 from urllib.parse import urlparse
 import yaml
-
+import http
 
 def find_atom_link(feed):
     for link in feed.channel.get('links', []):
@@ -88,7 +88,10 @@ def read_podcasts(csv_filename):
         for row in reader:
             rss_url = row[4].strip()
             if rss_url != '' and re.match('^https?:', rss_url):
-                read_podcast(rss_url)
+                try:
+                    read_podcast(rss_url)
+                except http.client.IncompleteRead:
+                    print("### IncompleteRead")
 
 
 if __name__ == '__main__':

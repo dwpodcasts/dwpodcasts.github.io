@@ -1,7 +1,7 @@
 ---
 title: "Insight Germany: Talk Show"
 id: podcast_insight_germany
-published: "Mon, 28 Jun 2021 09:59:04 GMT"
+published: "Wed, 3 Nov 2021 19:32:42 GMT"
 page_link: "https://www.dw.com?maca=en-podcast_insight_germany-12069-xml-mrsshd"
 atom_link: "https://rss.dw.com/xmlhd/podcast_insight_germany"
 language: en
@@ -11,6 +11,14 @@ tags: [ "TV & Film" ]
 image_url: https://static.dw.com/image/15774489_7.jpg
 image_title: ""
 entries:
+- link: https://www.dw.com/en/insight-germany-guest-us-singer-songwriter-ian-hooper/av-18307113?maca=en-podcast_insight_germany-12069-xml-mrsshd
+  published: Wed, 11 Mar 2015 16:15:00 GMT
+  summary: Our guest today is a musician originally from Washington State. Ian Hooper
+    is a member of The Mighty Oaks whose first album Howl went straight into the German
+    top ten. Ian dropped by the studio to talk about the hard work that goes into
+    an "overnight success", to explain how he became an intern in the office of a
+    German member of parliament and to sing a solo version of the band's new single.
+  title: 'Insight Germany - Guest: US Singer-songwriter Ian Hooper'
 - link: https://www.dw.com/en/insight-germany-guest-musician-and-producer-mark-reeder/av-17669569?maca=en-podcast_insight_germany-12069-xml-mrsshd
   published: Wed, 25 Feb 2015 16:15:00 GMT
   summary: "Musician and record producer Mark Reeder, who moved to Berlin in 1978,\
@@ -22,6 +30,12 @@ entries:
   published: Wed, 4 Feb 2015 16:15:00 GMT
   summary: null
   title: Insight Germany - Talk Show
+- link: https://www.dw.com/en/insight-germany-guest-bulgarian-academic-hristo-kyuchukov/av-18137068?maca=en-podcast_insight_germany-12069-xml-mrsshd
+  published: Wed, 17 Dec 2014 16:15:00 GMT
+  summary: Hristo Kyuchukov is a Bulgarian of Romani descent, a specialist in Romani
+    psycholinguistics and education of Roma children in Europe, and author of a number
+    of books. He is currently a visiting professor at the Free University in Berlin.
+  title: 'Insight Germany - Guest: Bulgarian Academic Hristo Kyuchukov'
 - link: https://www.dw.com/en/insight-germany-guest-us-organ-player-cameron-carpenter/av-17364971?maca=en-podcast_insight_germany-12069-xml-mrsshd
   published: Wed, 26 Nov 2014 16:15:00 GMT
   summary: Our flamboyant guest in this edition is the first organist ever to be nominated

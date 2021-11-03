@@ -1,7 +1,7 @@
 ---
 title: "Enlaces: Ventana abierta al mundo digital"
 id: podcast_enlaces
-published: "Mon, 28 Jun 2021 09:55:21 GMT"
+published: "Wed, 3 Nov 2021 19:41:52 GMT"
 page_link: "https://www.dw.com?maca=spa-podcast_enlaces-7583-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_enlaces"
 language: es
@@ -11,18 +11,158 @@ tags: [ "internet", "mundo digital", "ordenador", "computadora", "inteligencia a
 image_url: https://static.dw.com/image/15774455_7.jpg
 image_title: ""
 entries:
-- link: "https://www.dw.com/es/protecci\xF3n-a-perseguidos-pol\xEDticos/av-56058656?maca=spa-podcast_enlaces-7583-xml-mrss"
-  published: Thu, 17 Jun 2021 13:10:00 GMT
-  summary: "La Darknet ofrece a activistas pol\xEDticos protecci\xF3n contra cualquier\
-    \ represi\xF3n. Ah\xED tienen la posibilidad de tener acceso a p\xE1ginas censuradas\
-    \ en otros pa\xEDses y permanecer en el anonimato."
-  title: "Protecci\xF3n a perseguidos pol\xEDticos"
+- link: "https://www.dw.com/es/soberan\xEDa-digital-y-de-datos-\u202F/av-59655053?maca=spa-podcast_enlaces-7583-xml-mrss"
+  published: Thu, 28 Oct 2021 14:29:00 GMT
+  summary: "Las tecnolog\xEDas digitales se basan en los datos. \xBFQui\xE9n tiene\
+    \ acceso a ellos? \xBFQui\xE9n puede utilizarlos? La soberan\xEDa de datos consiste\
+    \ en que los propios ciudadanos decidan c\xF3mo se utilizan."
+  title: "Soberan\xEDa digital y de datos"
+- link: https://www.dw.com/es/una-jurista-contra-big-tech/av-59655005?maca=spa-podcast_enlaces-7583-xml-mrss
+  published: Thu, 28 Oct 2021 14:25:00 GMT
+  summary: "Lina Khan es la nueva presidenta de la Comisi\xF3n Federal de Comercio\
+    \ de EE. UU, y una cr\xEDtica de las grandes tecnol\xF3gicas. Exige que las leyes\
+    \ antimonopolio se adapten a la nueva econom\xEDa digital."
+  title: Una jurista contra Big Tech
+- link: "https://www.dw.com/es/los-datos-preferidos-de-las-apps-de-mensajer\xEDa/av-59573238?maca=spa-podcast_enlaces-7583-xml-mrss"
+  published: Thu, 21 Oct 2021 18:08:00 GMT
+  summary: "\xBFQu\xE9 tipo de informaci\xF3n sobre nosotros pueden guardar Whatsapp,\
+    \ Telegram y otras plataformas? Lo primero antes de decidirse por un servicio,\
+    \ es conocer los tipos de datos que pueden retener de sus usuarios."
+  title: "Los datos preferidos de las apps de mensajer\xEDa"
+- link: "https://www.dw.com/es/espionaje-a-periodistas-en-m\xE9xico/av-59505030?maca=spa-podcast_enlaces-7583-xml-mrss"
+  published: Thu, 14 Oct 2021 12:25:00 GMT
+  summary: "De la filtraci\xF3n de datos de Pegasus, con m\xE1s de 50.000 n\xFAmeros\
+    \ de tel\xE9fono intervenidos, 15.000 son de M\xE9xico. Uno de ellos es el de\
+    \ la reconocida periodista de investigaci\xF3n Marcela Turati."
+  title: "Espionaje a periodistas en M\xE9xico"
+- link: "https://www.dw.com/es/mundos-virtuales-para-entrenar-veh\xEDculos-aut\xF3\
+    nomos/av-59361517?maca=spa-podcast_enlaces-7583-xml-mrss"
+  published: Thu, 30 Sep 2021 09:34:00 GMT
+  summary: "La empresa estadounidense Nvidia ha creado una plataforma de simulaci\xF3\
+    n para entrenar autos aut\xF3nomos en un entorno virtual con grandes cantidades\
+    \ de datos. Este entorno permite crear cualquier situaci\xF3n de tr\xE1nsito."
+  title: "Mundos virtuales para entrenar veh\xEDculos aut\xF3nomos"
+- link: https://www.dw.com/es/rachel-una-puerta-al-mundo-digital/av-56376110?maca=spa-podcast_enlaces-7583-xml-mrss
+  published: Thu, 23 Sep 2021 16:22:00 GMT
+  summary: "La asociaci\xF3n \"Mundo Posible\" es el cap\xEDtulo guatemalteco de la\
+    \ organizaci\xF3n World Possible. Con la biblioteca offline Rachel, ofrecen contenidos\
+    \ educativos digitales a treinta mil ni\xF1os de escuelas rurales y promueven\
+    \ la educaci\xF3n biling\xFCe. Lo m\xE1s importante: Rachel funciona fuera de\
+    \ l\xEDnea, en un pa\xEDs donde menos del 1% de las escuelas tiene conexi\xF3\
+    n a Internet."
+  title: Rachel, una puerta al mundo digital
+- link: "https://www.dw.com/es/teleclases-debido-a-la-pandemia-\xBFaumenta-el-uso-del-celular/av-56376077?maca=spa-podcast_enlaces-7583-xml-mrss"
+  published: Thu, 23 Sep 2021 16:21:00 GMT
+  summary: "Durante semanas no ha habido clases. Los ni\xF1os aprenden en casa. As\xED\
+    \ ha sido en los \xFAltimos meses para casi todos los escolares. Y eso ha dejado\
+    \ huellas, pues durante ese tiempo ha aumentado enormemente la importancia del\
+    \ celular. \xBFCu\xE1les son las consecuencias?"
+  title: "Teleclases debido a la pandemia - \xBFAumenta el uso del celular?"
+- link: https://www.dw.com/es/derechistas-en-instagram/av-59206028?maca=spa-podcast_enlaces-7583-xml-mrss
+  published: Thu, 16 Sep 2021 16:47:00 GMT
+  summary: "Los extremistas de derecha reclutan sangre nueva en Instagram con buenas\
+    \ im\xE1genes y sutiles mensajes sobre el hogar y las tradiciones. Una exintegrante\
+    \ de la escena cuenta c\xF3mo funciona desde dentro."
+  title: Derechistas en Instagram
+- link: "https://www.dw.com/es/descifrar-los-algoritmos-de-las-rrss-\xBFmisi\xF3n-imposible/av-59206045?maca=spa-podcast_enlaces-7583-xml-mrss"
+  published: Thu, 16 Sep 2021 16:47:00 GMT
+  summary: "\xBFFavorece el algoritmo de Instagram a determinados pol\xEDticos o temas?\
+    \ La organizaci\xF3n sin \xE1nimo de lucro Algorithmwatch trat\xF3 de investigarlo\
+    \ mediante voluntarios. Pero a Facebook no le gust\xF3. Y no es un caso aislado."
+  title: "Descifrar los algoritmos de las rrss, \xBFmisi\xF3n imposible?"
+- link: https://www.dw.com/es/el-invernadero-del-futuro/av-55725268?maca=spa-podcast_enlaces-7583-xml-mrss
+  published: Thu, 9 Sep 2021 12:40:00 GMT
+  summary: "Cuantas m\xE1s personas necesiten alimentos, m\xE1s agua, fertilizantes\
+    \ y energ\xEDa consumir\xE1 la agricultura. Un moderno invernadero equipado con\
+    \ sensores calcula con precisi\xF3n cient\xEDfica las necesidades de sus plantas."
+  title: El invernadero del futuro
+- link: "https://www.dw.com/es/el-fot\xF3grafo-que-hizo-visible-en-la-red-a-su-pa\xED\
+    s/av-59067527?maca=spa-podcast_enlaces-7583-xml-mrss"
+  published: Sat, 4 Sep 2021 02:24:00 GMT
+  summary: "El fot\xF3grafo Tawanda Kanhema no encontr\xF3 las calles de su ciudad\
+    \ natal, Harare, en los mapas de Google Street View. Y decidi\xF3 ocuparse \xE9\
+    l mismo: equipado con una c\xE1mara, recorri\xF3 3.000 kil\xF3metros y los subi\xF3\
+    \ al servidor."
+  title: "El fot\xF3grafo que hizo visible en la red a su pa\xEDs"
+- link: https://www.dw.com/es/invisibilidad-digital-para-las-2-000-lenguas-africanas/av-59067565?maca=spa-podcast_enlaces-7583-xml-mrss
+  published: Fri, 3 Sep 2021 10:38:00 GMT
+  summary: "El proyecto Common Voice de Mozilla quiere digitalizar tantos idiomas\
+    \ como sea posible. Y es que los idiomas minoritarios, especialmente de \xC1frica,\
+    \ apenas se encuentran online o en los sistemas de asistencia por voz."
+  title: Invisibilidad digital para las 2.000 lenguas africanas
+- link: "https://www.dw.com/es/una-app-de-idiomas-para-comunicarse-con-mam\xE1/av-59067566?maca=spa-podcast_enlaces-7583-xml-mrss"
+  published: Fri, 3 Sep 2021 10:37:00 GMT
+  summary: "Bonaventure Dossou creci\xF3 en Ben\xEDn y solo habla franc\xE9s. Su madre\
+    \ habla el idioma local, el fon. El joven, que estudia en Alemania, ha programado\
+    \ una aplicaci\xF3n de traducci\xF3n para poder comunicarse con ella."
+  title: "Una app de idiomas para comunicarse con mam\xE1"
+- link: "https://www.dw.com/es/\xE1frica-conf\xEDa-en-el-internet-satelital/av-59068537?maca=spa-podcast_enlaces-7583-xml-mrss"
+  published: Fri, 3 Sep 2021 10:13:00 GMT
+  summary: "Internet de alta velocidad desde el espacio: eso promete el proyecto Starlink\
+    \ de Elon Musk. \xBFUna soluci\xF3n para los que solo tienen un acceso limitado\
+    \ a la red? Un periodista local comparte su experiencia y sus esperanzas."
+  title: "\xC1frica conf\xEDa en el internet satelital"
+- link: "https://www.dw.com/es/\xBFqu\xE9-hace-a-tiktok-adictivo/av-58907437?maca=spa-podcast_enlaces-7583-xml-mrss"
+  published: Thu, 19 Aug 2021 11:43:00 GMT
+  summary: "TikTok registra el comportamiento de los usuarios con mucha precisi\xF3\
+    n. Su algoritmo ha optimizado la selecci\xF3n de videos seg\xFAn las preferencias\
+    \ personales. Un clip sigue al otro cautivando a los usuarios."
+  title: "\xBFQu\xE9 hace a TikTok adictivo?"
+- link: https://www.dw.com/es/la-ia-resuelve-un-puzle-de-600-millones-de-piezas/av-55118282?maca=spa-podcast_enlaces-7583-xml-mrss
+  published: Fri, 13 Aug 2021 03:12:00 GMT
+  summary: "Un software desarrollado en Berl\xEDn podr\xEDa reensamblar 600 millones\
+    \ de archivos triturados del servicio secreto de la RDA. El ePuzzler tambi\xE9\
+    n se utiliza internacionalmente para reconstruir documentos destruidos."
+  title: La IA resuelve un puzle de 600 millones de piezas
+- link: https://www.dw.com/es/despegue-y-aterrizaje-vertical-en-el-futuro/av-56451738?maca=spa-podcast_enlaces-7583-xml-mrss
+  published: Thu, 29 Jul 2021 09:31:00 GMT
+  summary: "Los veh\xEDculos el\xE9ctricos de despegue y aterrizaje vertical (eVTOL)\
+    \ son silenciosos y no producen emisiones. Pero sus bater\xEDas a\xFAn no admiten\
+    \ distancias largas. \xBFQui\xE9n desarrollar\xE1 el primer modelo comercializable?"
+  title: Despegue y aterrizaje vertical en el futuro
+- link: "https://www.dw.com/es/jap\xF3n-lidera-el-desarrollo-de-taxis-voladores/av-56451737?maca=spa-podcast_enlaces-7583-xml-mrss"
+  published: Thu, 29 Jul 2021 09:19:00 GMT
+  summary: "Los taxis a\xE9reos comerciales pronto volar\xE1n en Jap\xF3n, desarrollados,\
+    \ entre otros, por la start-up SkyDrive. La reportera de DW Cassandra Boh pudo\
+    \ echar un vistazo en exclusiva a su centro de investigaci\xF3n secreto."
+  title: "Jap\xF3n lidera el desarrollo de taxis voladores"
+- link: https://www.dw.com/es/ugo-un-multitalento-en-casa/av-58281434?maca=spa-podcast_enlaces-7583-xml-mrss
+  published: Thu, 15 Jul 2021 15:25:00 GMT
+  summary: "La start up Mira Robotics comercializa un robot que sirve para ayudar\
+    \ en las tareas dom\xE9sticas. Tiene 22 sensores y 3 c\xE1maras pero debe ser\
+    \ operado a distancia por un empleado."
+  title: 'UGO: un multitalento en casa'
+- link: "https://www.dw.com/es/\xBFqu\xE9-es-exactamente-un-meme/av-58201229?maca=spa-podcast_enlaces-7583-xml-mrss"
+  published: Thu, 8 Jul 2021 09:45:00 GMT
+  summary: "Memes como el de \"Bad Luck Brian\" o \"Hotline Bling\" de Drake son conocidos\
+    \ en todo el mundo. Pero tambi\xE9n hay memes mucho m\xE1s complejos y cr\xED\
+    pticos."
+  title: "\xBFQu\xE9 es exactamente un meme?"
+- link: "https://www.dw.com/es/\xBFson-las-criptomonedas-el-dinero-del-futuro/av-56058673?maca=spa-podcast_enlaces-7583-xml-mrss"
+  published: Thu, 17 Jun 2021 13:13:00 GMT
+  summary: "\xBFVendr\xE1 luego del auge el descalabro? \xBFO se transformar\xE1n\
+    \ las criptomonedas en el dinero del futuro? La posibilidad est\xE1 ah\xED, al\
+    \ menos para las transacciones entre m\xE1quinas, como explican en la startup\
+    \ berlinesa IOTA."
+  title: "\xBFSon las criptomonedas el dinero del futuro?"
+- link: "https://www.dw.com/es/\xBFlos-bitcoins-sirven-solo-para-especular/av-56058666?maca=spa-podcast_enlaces-7583-xml-mrss"
+  published: Thu, 17 Jun 2021 13:12:00 GMT
+  summary: "Los bitcoins fueron creados para revolucionar un sistema financiero que\
+    \ generaba desconfianza entre la ciudadan\xEDa. Pero hace mucho que los bancos\
+    \ y los grandes inversores se subieron al carro. \xBFQu\xE9 fue de la idea original?"
+  title: "\xBFLos bitcoins sirven solo para especular?"
 - link: https://www.dw.com/es/pedofilia-en-la-darknet/av-56058625?maca=spa-podcast_enlaces-7583-xml-mrss
   published: Thu, 17 Jun 2021 13:10:00 GMT
   summary: "Cuando las autoridades cerraron la plataforma Elysium dentro de la Darknet,\
     \ hab\xEDa m\xE1s de 111.000 cuentas registradas. Esta plataforma suministr\xF3\
     \ a ped\xF3filos de todo el mundo con fotos y videos de menores desde Alemania."
   title: Pedofilia en la Darknet
+- link: "https://www.dw.com/es/protecci\xF3n-a-perseguidos-pol\xEDticos/av-56058656?maca=spa-podcast_enlaces-7583-xml-mrss"
+  published: Thu, 17 Jun 2021 13:10:00 GMT
+  summary: "La Darknet ofrece a activistas pol\xEDticos protecci\xF3n contra cualquier\
+    \ represi\xF3n. Ah\xED tienen la posibilidad de tener acceso a p\xE1ginas censuradas\
+    \ en otros pa\xEDses y permanecer en el anonimato."
+  title: "Protecci\xF3n a perseguidos pol\xEDticos"
 - link: https://www.dw.com/es/las-drogas-el-negocio-principal-en-la-darknet/av-56058624?maca=spa-podcast_enlaces-7583-xml-mrss
   published: Thu, 17 Jun 2021 13:09:00 GMT
   summary: "Las drogas constituyen un tercio de las mercanc\xEDas ofertadas en la\
@@ -42,255 +182,6 @@ entries:
     \ Una colecci\xF3n accesible digitalmente para lectores y usuarios de todo el\
     \ mundo."
   title: "Biblioteca en tr\xE1nsito: del papel al formato digital"
-- link: https://www.dw.com/es/chatear-en-plataformas-de-juego/av-57691890?maca=spa-podcast_enlaces-7583-xml-mrss
-  published: Thu, 27 May 2021 14:53:00 GMT
-  summary: "Discord era originalmente una plataforma de juego con un programa de chat\
-    \ integrado. Pero debido a su gran diversidad de funciones, la aplicaci\xF3n se\
-    \ est\xE1 haciendo cada vez m\xE1s popular fuera del \xE1mbito de los juegos."
-  title: Chatear en plataformas de juego
-- link: https://www.dw.com/es/telegram-la-alternativa-a-whatsapp/av-57691881?maca=spa-podcast_enlaces-7583-xml-mrss
-  published: Thu, 27 May 2021 14:52:00 GMT
-  summary: "La alternativa m\xE1s exitosa a WhatsApp se llama Telegram. La aplicaci\xF3\
-    n de los rusos Pavel y Nikolai Durov ha ganado 150 millones de nuevos usuarios\
-    \ en 2021 y se beneficia de la ola de abandono de WhatsApp."
-  title: 'Telegram: la alternativa a WhatsApp'
-- link: https://www.dw.com/es/un-paso-hacia-la-movilidad-total/av-57520845?maca=spa-podcast_enlaces-7583-xml-mrss
-  published: Fri, 14 May 2021 00:56:00 GMT
-  summary: "El exoesqueleto HAL permite a las personas con movilidad reducida volver\
-    \ a andar de forma independiente. A trav\xE9s de se\xF1ales neuronales consigue\
-    \ adaptarse al usuario. Nuestra reportera Cassandra Boh lo prob\xF3 y qued\xF3\
-    \ fascinada."
-  title: Un paso hacia la movilidad total
-- link: "https://www.dw.com/es/trabajo-ergon\xF3mico-sin-romperse-la-espalda/av-57520844?maca=spa-podcast_enlaces-7583-xml-mrss"
-  published: Fri, 14 May 2021 00:55:00 GMT
-  summary: "Gracias a la tecnolog\xEDa rob\xF3tica existen exoesqueletos que facilitan\
-    \ enormemente el trabajo f\xEDsico. Algunos son tan peque\xF1os y ligeros como\
-    \ una mochila. Representan el futuro de la industria automotriz y log\xEDstica."
-  title: "Trabajo ergon\xF3mico sin romperse la espalda"
-- link: https://www.dw.com/es/defender-los-derechos-digitales/av-55432793?maca=spa-podcast_enlaces-7583-xml-mrss
-  published: Thu, 6 May 2021 12:45:00 GMT
-  summary: "Mar\xEDa Paz Canales nos explica el estado de la legislaci\xF3n sobre\
-    \ protecci\xF3n de datos en Am\xE9rica Latina y por qu\xE9 esta cuesti\xF3n nos\
-    \ afecta tanto individual como colectivamente."
-  title: Defender los derechos digitales
-- link: https://www.dw.com/es/los-avatares-como-modelos-sexuales/av-55432996?maca=spa-podcast_enlaces-7583-xml-mrss
-  published: Thu, 6 May 2021 12:44:00 GMT
-  summary: "\xBFQu\xE9 consecuencias tiene el poder configurar el aspecto de la pareja\
-    \ sexual virtual? Los psic\xF3logos advierten de que los modelos virtuales podr\xED\
-    an generar expectativas imposibles de hacer realidad."
-  title: Los avatares como modelos sexuales
-- link: https://www.dw.com/es/secretos-de-un-productor-de-porno-rv/av-55433000?maca=spa-podcast_enlaces-7583-xml-mrss
-  published: Thu, 6 May 2021 12:43:00 GMT
-  summary: "Yoshiaki Nomoto es uno de los principales productores de pornograf\xED\
-    a de RV de Jap\xF3n. Nos explica por qu\xE9 rueda en un estudio blanco y c\xF3\
-    mo crea m\xE1s posibilidades de interacci\xF3n."
-  title: Secretos de un productor de porno RV
-- link: "https://www.dw.com/es/pornograf\xEDa-y-rv-en-jap\xF3n/av-55433008?maca=spa-podcast_enlaces-7583-xml-mrss"
-  published: Thu, 6 May 2021 12:42:00 GMT
-  summary: "Soft on Demand es una de las mayores productoras de porno en Asia. Cuenta\
-    \ con unos 70 sex shops de realidad virtual en Jap\xF3n. \xBFEl objetivo? Experiencias\
-    \ m\xE1s intensas."
-  title: "Pornograf\xEDa y RV en Jap\xF3n"
-- link: "https://www.dw.com/es/fraude-y-falsificaci\xF3n-con-nfts/av-57373895?maca=spa-podcast_enlaces-7583-xml-mrss"
-  published: Thu, 29 Apr 2021 10:13:00 GMT
-  summary: "En teor\xEDa, cualquiera puede crear un NFT de un objeto de arte digital\
-    \ y ponerlo a la venta. Esto supone un peligro para los artistas. \xBFC\xF3mo\
-    \ pueden proteger sus obras en la red?"
-  title: "Fraude y falsificaci\xF3n con NFTs"
-- link: "https://www.dw.com/es/entrenamiento-la-clave-del-\xE9xito/av-57212033?maca=spa-podcast_enlaces-7583-xml-mrss"
-  published: Thu, 15 Apr 2021 09:00:00 GMT
-  summary: "Visitamos la sede del equipo T1, en Seul, donde 70 j\xF3venes gamers se\
-    \ entrenan a diario para llegar a ser los mejores del mundo en eSports. No es\
-    \ nada f\xE1cil."
-  title: "Entrenamiento: la clave del \xE9xito"
-- link: "https://www.dw.com/es/\xA1vente-al-pc-bang/av-57212030?maca=spa-podcast_enlaces-7583-xml-mrss"
-  published: Thu, 15 Apr 2021 09:00:00 GMT
-  summary: "As\xED se conoce a los salones donde juegan los fan\xE1ticos de los eSports\
-    \ de Corea del Sur. Estos locales se llenan de estudiantes, sobre todo en fines\
-    \ de semana."
-  title: "\xA1Vente al PC Bang!"
-- link: "https://www.dw.com/es/\xE1frica-reclama-su-sitio-en-los-esports/av-57212090?maca=spa-podcast_enlaces-7583-xml-mrss"
-  published: Thu, 15 Apr 2021 08:59:00 GMT
-  summary: "Muchos africanos desean hacer carrera en los eSports. En la capital de\
-    \ Costa de Marfil, Abiy\xE1n, j\xF3venes entrenan duro para convertirse en profesionales."
-  title: "\xC1frica reclama su sitio en los eSports"
-- link: https://www.dw.com/es/por-un-deporte-igualitario/av-57212089?maca=spa-podcast_enlaces-7583-xml-mrss
-  published: Thu, 15 Apr 2021 08:59:00 GMT
-  summary: "Con frecuencia se dan casos de misoginia en la comunidad de eSports. La\
-    \ 'gamer' Indiana Black dej\xF3 de comentar encuentros por los ataques de los\
-    \ usuarios."
-  title: Por un deporte igualitario
-- link: https://www.dw.com/es/penalizado-por-el-sistema/av-57079245?maca=spa-podcast_enlaces-7583-xml-mrss
-  published: Thu, 1 Apr 2021 13:46:00 GMT
-  summary: "\xBFContribuye la inteligencia artificial a crear un mundo m\xE1s justo?\
-    \ Probablemente no. \xBFQu\xE9 falla en los algoritmos?"
-  title: Penalizado por el sistema
-- link: https://www.dw.com/es/el-salto-del-juguete-a-la-realidad-aumentada/av-55285973?maca=spa-podcast_enlaces-7583-xml-mrss
-  published: Thu, 25 Mar 2021 13:41:00 GMT
-  summary: "La start-up berlinesa Augmented Robotics intenta conectar mediante la\
-    \ tecnolog\xEDa de realidad aumentada el mundo del juguete anal\xF3gico con el\
-    \ de los juegos digitales. Hablamos con ellos en la IFA 2020."
-  title: El salto del juguete a la realidad aumentada
-- link: "https://www.dw.com/es/juegos-serios-m\xE1s-que-s\xF3lo-un-pasatiempo/av-55285967?maca=spa-podcast_enlaces-7583-xml-mrss"
-  published: Thu, 25 Mar 2021 13:34:00 GMT
-  summary: "Aprender jugando: los llamados \"juegos serios\" tambi\xE9n contribuyen\
-    \ a la educaci\xF3n pol\xEDtica. En \"Through\u202Fthe\u202FDarkest\u202Fof\u202F\
-    Times\", los jugadores se meten en la piel de luchadores de la resistencia contra\
-    \ el r\xE9gimen nazi."
-  title: "Juegos serios: m\xE1s que s\xF3lo un pasatiempo"
-- link: https://www.dw.com/es/aplicaciones-de-ia-para-probar/av-56913314?maca=spa-podcast_enlaces-7583-xml-mrss
-  published: Thu, 18 Mar 2021 10:52:00 GMT
-  summary: "Con programas como Musenet, Deepart y Gaugan, cualquiera puede convertirse\
-    \ en artista gracias a la inteligencia artificial. Toonify, por ejemplo, permite\
-    \ transformar tu propio retrato en un personaje de c\xF3mic."
-  title: Aplicaciones de IA para probar
-- link: https://www.dw.com/es/periodistas-en-el-punto-de-mira-del-odio-en-internet/av-56770969?maca=spa-podcast_enlaces-7583-xml-mrss
-  published: Thu, 4 Mar 2021 18:52:00 GMT
-  summary: "La reportera de DW Manira Chaudhary ha sido una y otra vez objeto de insultos\
-    \ y comentarios de odio en Internet. Seg\xFAn ella, es la forma que tienen de\
-    \ hacer callar a las mujeres que, como ella, dan p\xFAblicamente su opini\xF3\
-    n."
-  title: Periodistas en el punto de mira del odio en Internet
-- link: "https://www.dw.com/es/\xBFc\xF3mo-defenderse-de-la-violencia-en-internet/av-56770970?maca=spa-podcast_enlaces-7583-xml-mrss"
-  published: Thu, 4 Mar 2021 18:51:00 GMT
-  summary: "La periodista azerbaiyana Arzu Geybulla lucha ha sufrido en propia persona\
-    \ el odio en Internet y ha luchado contra \xE9l. Ahora ayuda a otras mujeres a\
-    \ plantar cara. Sin embargo, no hay un m\xE9todo que garantice el \xE9xito."
-  title: "\xBFC\xF3mo defenderse de la violencia en internet?"
-- link: "https://www.dw.com/es/mujeres-que-luchan-juntas-contra-los-ataques-en-l\xED\
-    nea/av-56770971?maca=spa-podcast_enlaces-7583-xml-mrss"
-  published: Thu, 4 Mar 2021 18:51:00 GMT
-  summary: "Las mujeres han conseguido apoyarse mutuamente en la lucha contra los\
-    \ trolls en internet. A ello ha contribuido la campa\xF1a mundial \"MeToo\", que\
-    \ ha hecho mucho m\xE1s visibles las preocupaciones de las mujeres tambi\xE9n\
-    \ en el mundo \xE1rabe."
-  title: "Mujeres que luchan juntas contra los ataques en l\xEDnea"
-- link: https://www.dw.com/es/mike-rockenfeller-entre-la-pista-y-el-simulador/av-54957146?maca=spa-podcast_enlaces-7583-xml-mrss
-  published: Thu, 25 Feb 2021 18:01:00 GMT
-  summary: "Mike Rockenfeller, piloto ganador de Le Mans y DTM, nos presenta su proyecto\
-    \ World_Ex: un campeonato del mundo virtual, donde la pasi\xF3n por la velocidad\
-    \ y el motor puede vivirse a tope sin que el clima salga perdiendo."
-  title: 'Mike Rockenfeller: entre la pista y el simulador'
-- link: "https://www.dw.com/es/\xBFc\xF3mo-sonar\xE1n-los-autos-del-futuro/av-54956464?maca=spa-podcast_enlaces-7583-xml-mrss"
-  published: Thu, 25 Feb 2021 18:00:00 GMT
-  summary: "El viejo ruido del motor de combusti\xF3n dejar\xE1 en alg\xFAn momento\
-    \ de atronar nuestras calles. Pero los autos el\xE9ctricos no pueden ser silenciosos.\
-    \ Visitamos el taller de sonidos de Audi."
-  title: "\xBFC\xF3mo sonar\xE1n los autos del futuro?"
-- link: "https://www.dw.com/es/persona-vs-m\xE1quina-\xBFqui\xE9n-maneja-mejor/av-54956449?maca=spa-podcast_enlaces-7583-xml-mrss"
-  published: Thu, 25 Feb 2021 17:56:00 GMT
-  summary: "Se prev\xE9 que en 2030 uno de cada diez veh\xEDculos en circulaci\xF3\
-    n sea aut\xF3nomo. \xBFPero son seguros los autos sin conductor? \xBFQui\xE9n\
-    \ maneja mejor, la inteligencia artificial o el ser humano? Tres expertos responden\
-    \ a eso."
-  title: "Persona vs. m\xE1quina: \xBFqui\xE9n maneja mejor?"
-- link: "https://www.dw.com/es/obst\xE1culo-para-los-veh\xEDculos-aut\xF3nomos-el-ser-humano/av-54956447?maca=spa-podcast_enlaces-7583-xml-mrss"
-  published: Thu, 25 Feb 2021 17:55:00 GMT
-  summary: "Peatones, ciclistas y todo aquel que circula por las calles son un reto\
-    \ para los veh\xEDculos aut\xF3nomos. Los sistemas de IA tienen que aprender a\
-    \ pronosticar su comportamiento, y este difiere seg\xFAn el entorno cultural."
-  title: "Obst\xE1culo para los veh\xEDculos aut\xF3nomos: el ser humano"
-- link: "https://www.dw.com/es/\xBFqu\xE9-diferentes-tipos-de-datos-capturan-las-empresas-digitales/av-56617299?maca=spa-podcast_enlaces-7583-xml-mrss"
-  published: Mon, 22 Feb 2021 10:56:00 GMT
-  summary: "\xBFQu\xE9 tipo de informaci\xF3n sobre nosotros pueden guardar Whatsapp,\
-    \ Telegram y otras plataformas? Lo primero antes de decidirse por un servicio,\
-    \ es conocer los tipos de datos que pueden retener de sus usuarios."
-  title: "\xBFQu\xE9 diferentes tipos de datos capturan las empresas digitales?"
-- link: "https://www.dw.com/es/un-d\xEDa-sin-smartphone-\xBFmisi\xF3n-imposible/av-56617284?maca=spa-podcast_enlaces-7583-xml-mrss"
-  published: Thu, 18 Feb 2021 19:36:00 GMT
-  summary: "Desde hacer compras hasta buscar pareja... Hoy casi todo se puede hacer\
-    \ mediante el celular, en tiempo real y desde cualquier sitio. Pero, \xBFes posible\
-    \ pasar un d\xEDa sin este pr\xE1ctico ayudante? \xA1Hacemos la prueba!"
-  title: "Un d\xEDa sin smartphone: \xBFmisi\xF3n imposible?"
-- link: "https://www.dw.com/es/teleclases-debido-a-la-pandemia-\xBFaumenta-el-uso-del-celular/av-56376077?maca=spa-podcast_enlaces-7583-xml-mrss"
-  published: Wed, 27 Jan 2021 23:30:00 GMT
-  summary: "Durante semanas no ha habido clases. Los ni\xF1os aprenden en casa. As\xED\
-    \ ha sido en los \xFAltimos meses para casi todos los escolares. Y eso ha dejado\
-    \ huellas, pues durante ese tiempo ha aumentado enormemente la importancia del\
-    \ celular. \xBFCu\xE1les son las consecuencias?"
-  title: "Teleclases debido a la pandemia - \xBFAumenta el uso del celular?"
-- link: https://www.dw.com/es/rachel-una-puerta-al-mundo-digital/av-56376110?maca=spa-podcast_enlaces-7583-xml-mrss
-  published: Wed, 27 Jan 2021 23:30:00 GMT
-  summary: "La asociaci\xF3n \"Mundo Posible\" es el cap\xEDtulo guatemalteco de la\
-    \ organizaci\xF3n World Possible. Con la biblioteca offline Rachel, ofrecen contenidos\
-    \ educativos digitales a treinta mil ni\xF1os de escuelas rurales y promueven\
-    \ la educaci\xF3n biling\xFCe. Lo m\xE1s importante: Rachel funciona fuera de\
-    \ l\xEDnea, en un pa\xEDs donde menos del 1% de las escuelas tiene conexi\xF3\
-    n a Internet."
-  title: Rachel, una puerta al mundo digital
-- link: https://www.dw.com/es/26-palabras-hicieron-posible-internet/av-56303117?maca=spa-podcast_enlaces-7583-xml-mrss
-  published: Thu, 21 Jan 2021 17:04:00 GMT
-  summary: "La Secci\xF3n 230 de la Communications Decency Act se considera la piedra\
-    \ angular jur\xEDdica de la Internet 2.0. La reforma de este p\xE1rrafo cambiar\xED\
-    a las reglas del juego en cuanto a la moderaci\xF3n de los contenidos de terceros."
-  title: 26 palabras hicieron posible Internet
-- link: "https://www.dw.com/es/libertad-de-expresi\xF3n-en-las-redes-sociales/av-56303081?maca=spa-podcast_enlaces-7583-xml-mrss"
-  published: Thu, 21 Jan 2021 17:03:00 GMT
-  summary: Muchos usuarios, sobre todo conservadores, abandonan redes consolidadas,
-    como Facebook y Twitter, porque sienten que en ellas no se pueden expresar con
-    libertad. A cambio, abren cuentas en redes como Parler, Gab y MeWe.
-  title: "Libertad de expresi\xF3n en las redes sociales"
-- link: "https://www.dw.com/es/robots-mascota-\xBFy-los-sentimientos/av-54460993?maca=spa-podcast_enlaces-7583-xml-mrss"
-  published: Thu, 7 Jan 2021 08:14:00 GMT
-  summary: "\xBFPuede un robot sustituir al 100% a una mascota de carne y hueso? La\
-    \ psic\xF3loga Alejandra Roncancio analiza la faceta emocional de los robots mascota."
-  title: "Robots mascota: \xBFy los sentimientos?"
-- link: https://www.dw.com/es/un-gato-que-nunca-saca-las-garras/av-54460914?maca=spa-podcast_enlaces-7583-xml-mrss
-  published: Thu, 7 Jan 2021 08:13:00 GMT
-  summary: "\"Qoobo\u201D es un coj\xEDn de peluche que reacciona al tacto y tiene\
-    \ una cola con 40 movimientos diferentes. Un t\xEDpico robot de la empresa de\
-    \ rob\xF3tica de Tokio, Yukai Engineering, cuya principal misi\xF3n es: divertir."
-  title: Un gato que nunca saca las garras
-- link: "https://www.dw.com/es/aibo-el-perro-robot-de-\xFAltima-generaci\xF3n/av-54460913?maca=spa-podcast_enlaces-7583-xml-mrss"
-  published: Thu, 7 Jan 2021 08:12:00 GMT
-  summary: "Aibo est\xE1 equipado con c\xE1maras, sensores t\xE1ctiles y de reconocimento\
-    \ de voz. De esta manera el perro robot reconoce a su due\xF1o e interact\xFA\
-    a con \xE9l. Los datos que genera se almacenan en la nube."
-  title: "Aibo, el perro robot de \xFAltima generaci\xF3n"
-- link: https://www.dw.com/es/lovot-un-robot-para-mimar/av-54460912?maca=spa-podcast_enlaces-7583-xml-mrss
-  published: Thu, 7 Jan 2021 08:10:00 GMT
-  summary: "El robot mascota Lovot es un verdadero robot para mimar. Su misi\xF3n\
-    \ es crear un lazo emocional con su due\xF1o. Sus acciones se generan a trav\xE9\
-    s de mecanismos de aprendizaje autom\xE1tico."
-  title: Lovot, un robot para mimar
-- link: https://www.dw.com/es/inteligencia-artificial-contra-el-coronavirus/av-53779876?maca=spa-podcast_enlaces-7583-xml-mrss
-  published: Mon, 4 Jan 2021 09:22:00 GMT
-  summary: "Un sistema de Inteligencia Artificial lanz\xF3 la alarma con los primeros\
-    \ casos de coronavirus. Algoritmos de aprendizaje autom\xE1tico analizan masas\
-    \ de datos y visualizan la expansi\xF3n de la pandemia ayudando a frenarla."
-  title: Inteligencia Artificial contra el coronavirus
-- link: "https://www.dw.com/es/la-rv-recupera-el-monumento-m\xE1s-famoso-de-francia/av-53779773?maca=spa-podcast_enlaces-7583-xml-mrss"
-  published: Mon, 4 Jan 2021 09:20:00 GMT
-  summary: "Desde el devastador incendio de abril de 2019, la Catedral de Notre Dame\
-    \ de Par\xEDs est\xE1 cerrada. Un equipo de filmaci\xF3n de RV acompa\xF1a la\
-    \ reconstrucci\xF3n, permitiendo as\xED a los visitantes hacer un tour virtual\
-    \ de las obras."
-  title: "La RV recupera el monumento m\xE1s famoso de Francia"
-- link: "https://www.dw.com/es/viajando-en-la-selva-amaz\xF3nica/av-53779865?maca=spa-podcast_enlaces-7583-xml-mrss"
-  published: Mon, 4 Jan 2021 09:20:00 GMT
-  summary: "Nadar en el r\xEDo Amazonas como un caim\xE1n: esto es posible en la instalaci\xF3\
-    n de RV \"Inside Tumucumaque\". Aqu\xED se puede experimentar una zona de 400\
-    \ hect\xE1reas en la selva brasile\xF1a desde la perspectiva de cinco animales."
-  title: "Viajando en la selva amaz\xF3nica"
-- link: "https://www.dw.com/es/\xBFqui\xE9n-utiliza-la-realidad-virtual/av-53779741?maca=spa-podcast_enlaces-7583-xml-mrss"
-  published: Mon, 4 Jan 2021 09:19:00 GMT
-  summary: "La Realidad Virtual atrae cada vez a m\xE1s usuarios. Algunos buscan entretenimiento,\
-    \ otros juegan en el espacio virtual. Pero tambi\xE9n hay usuarios que usan la\
-    \ RV profesionalmente para crear visualizaciones m\xE1s tangibles."
-  title: "\xBFQui\xE9n utiliza la Realidad Virtual?"
-- link: "https://www.dw.com/es/\xBFson-las-criptomonedas-el-dinero-del-futuro/av-56058673?maca=spa-podcast_enlaces-7583-xml-mrss"
-  published: Fri, 25 Dec 2020 12:06:00 GMT
-  summary: "\xBFVendr\xE1 luego del auge el descalabro? \xBFO se transformar\xE1n\
-    \ las criptomonedas en el dinero del futuro? La posibilidad est\xE1 ah\xED, al\
-    \ menos para las transacciones entre m\xE1quinas, como explican en la startup\
-    \ berlinesa IOTA."
-  title: "\xBFSon las criptomonedas el dinero del futuro?"
-- link: "https://www.dw.com/es/\xBFlos-bitcoins-sirven-solo-para-especular/av-56058666?maca=spa-podcast_enlaces-7583-xml-mrss"
-  published: Fri, 25 Dec 2020 12:05:00 GMT
-  summary: "Los bitcoins fueron creados para revolucionar un sistema financiero que\
-    \ generaba desconfianza entre la ciudadan\xEDa. Pero hace mucho que los bancos\
-    \ y los grandes inversores se subieron al carro. \xBFQu\xE9 fue de la idea original?"
-  title: "\xBFLos bitcoins sirven solo para especular?"
 
 ---
 ¿Puedo usar cadenas de bloques en mi vida diaria? ¿La inteligencia

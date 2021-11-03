@@ -1,7 +1,7 @@
 ---
 title: "Shift: Living in the Digital Age"
 id: podcast_shift_en
-published: "Mon, 28 Jun 2021 09:58:29 GMT"
+published: "Wed, 3 Nov 2021 19:32:22 GMT"
 page_link: "https://www.dw.com/dw/0,,30417,00.html?maca=en-podcast_shift_en-7877-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_shift_en"
 language: en
@@ -11,6 +11,143 @@ tags: [ "Shift", "internet", "Computer", "YouTube", "algorithms", "virtual reali
 image_url: https://static.dw.com/image/15774501_7.jpg
 image_title: ""
 entries:
+- link: https://www.dw.com/en/ai-applications-to-try-at-home/av-56847700?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 29 Oct 2021 08:21:00 GMT
+  summary: With AI programs like Musenet, Deepart and GauGAN, anyone can become an
+    artist - in cooperation with artificial intelligence. With Toonify, your self-portrait
+    can be turned into a cartoon figure.
+  title: AI applications to try at home
+- link: https://www.dw.com/en/ai-systems-helps-create-music/av-56847671?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 29 Oct 2021 08:13:00 GMT
+  summary: Music shows how well humans and machines can work together. An AI application
+    makes suggestions for the next line of a song. But humans still have creative
+    control.
+  title: AI-systems helps create music
+- link: https://www.dw.com/en/digital-sovereignty-and-data-sovereignty/av-59586862?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Sat, 23 Oct 2021 01:57:00 GMT
+  summary: "Digital technologies are data-driven.\u2002But who has access to the data,\
+    \ and who is allowed to use it? Digital sovereignty means that people can decide\
+    \ for themselves how their data is used."
+  title: Digital sovereignty and data sovereignty
+- link: https://www.dw.com/en/a-day-without-a-smartphone-is-that-still-possible/av-56545478?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 15 Oct 2021 09:45:00 GMT
+  summary: Thanks to smartphones, everything from shopping to searching for partners
+    can happen in real time online. How uncomfortable is it to go a full day without
+    these do-it-all mobile devices?
+  title: "A day without a smartphone\u2014Is that still possible?"
+- link: https://www.dw.com/en/are-brain-computer-interfaces-risky/av-59450003?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 8 Oct 2021 15:34:00 GMT
+  summary: What would happen if medical professionals and tech entrepreneurs could
+    control the impulses in our brains? Some diseases, such as addiction, could potentially
+    be cured. But how would this impact a person's personality?
+  title: Are brain-computer interfaces risky?
+- link: https://www.dw.com/en/wearables-to-help-control-devices-with-your-mind/av-59449897?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 8 Oct 2021 15:33:00 GMT
+  summary: "Non-invasive brain-computer interfaces fit into headphones or headbands.\
+    \ They allow you to dim the lights, play a video or measure your productivity\
+    \ \u2013 using only the power of your thoughts."
+  title: Wearables to help control devices with your mind
+- link: https://www.dw.com/en/the-impact-of-future-mobility/av-59295087?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 24 Sep 2021 16:03:00 GMT
+  summary: Discussions on the future of road-use have so far focused on the safety
+    of self-driving vehicles. But the acceptance of future mobility also depends on
+    factors such as data protection and sustainability.
+  title: The impact of future mobility
+- link: https://www.dw.com/en/virtual-training-for-safe-self-driving-cars/av-59294667?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 24 Sep 2021 15:59:00 GMT
+  summary: The US company Nvidia has created a driving simulation platform to train
+    self-driving cars. A virtual world with large data sets, where all possible traffic
+    situations are played out.
+  title: Virtual training for safe self-driving cars
+- link: https://www.dw.com/en/the-brain-of-a-self-driving-car/av-59294924?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 24 Sep 2021 09:46:00 GMT
+  summary: "In self-driving vehicles, the engine will no longer be so important. It's\
+    \ all about the computer\u2014as data from radar, lidar and other sensors must\
+    \ be analyzed in real time and processed by the AI."
+  title: The brain of a self-driving car
+- link: https://www.dw.com/en/facebook-blocks-algorithm-research/av-59141648?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 10 Sep 2021 09:32:00 GMT
+  summary: Does the Instagram algorithm favor certain politicians or topics? The non-profit
+    organization AlgorithmWatch launched a study to answer these questions. Once again,
+    Facebook hindered the research into its algorithms.
+  title: Facebook blocks algorithm research
+- link: https://www.dw.com/en/how-right-wing-extremists-are-weaponizing-instagram/av-59141565?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 10 Sep 2021 09:20:00 GMT
+  summary: On Instagram, right-wing extremists use beautiful photos and subtle captions
+    about home and tradition to lure new recruits. One young woman who used to be
+    part of this scene explains how the process works.
+  title: How right-wing extremists are weaponizing Instagram
+- link: https://www.dw.com/en/greenhouse-of-the-future/av-55675060?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Sat, 4 Sep 2021 01:54:00 GMT
+  summary: The more people that must be fed, the more water, soil, fertilizer and
+    energy is used in farming. In modern greenhouses, sensors measure exactly which
+    and how much of these resources plants need.
+  title: Greenhouse of the future
+- link: https://www.dw.com/en/african-languages-at-a-digital-disadvantage/av-59002605?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Sat, 28 Aug 2021 00:00:00 GMT
+  summary: Mozilla's Common Voice project wants to use crowdsourcing to digitize as
+    many languages as possible, because minority languages - especially those from
+    Africa - are rarely found online or in language assistance systems.
+  title: African languages at a digital disadvantage
+- link: https://www.dw.com/en/voice-app-for-a-digitally-neglected-language/av-59002760?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 27 Aug 2021 12:25:00 GMT
+  summary: Bonaventure Dossou speaks French, his mother only speaks Fon - a local
+    language of Benin. The Beninese IT student is now programming a translation app.
+  title: Voice app for a digitally neglected language
+- link: https://www.dw.com/en/making-zimbabwe-visible-online/av-59002470?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 27 Aug 2021 12:12:00 GMT
+  summary: "Tawanda Kanhema took action when he discovered that his hometown of Harare\
+    \ was not shown on Google Street View. He used a 360\xB0 camera to shoot more\
+    \ than 3,000 kilometers of Zimbabwe to upload online."
+  title: Making Zimbabwe visible online
+- link: https://www.dw.com/en/why-is-tiktok-so-addictive/av-58852826?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 13 Aug 2021 09:10:00 GMT
+  summary: TikTok tracks its users' behavior very precisely. The platform's AI-supported
+    algorithm accurately selects videos based on personal preferences. When a user
+    opens the app, the videos start playing immediately. It's hard to stop.
+  title: Why is TikTok so addictive?
+- link: https://www.dw.com/en/how-ai-could-solve-a-600-million-piece-puzzle/av-58776046?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 6 Aug 2021 06:00:00 GMT
+  summary: A software developed in Berlin might be able to reconstitute files belonging
+    to the GDR secret service that were torn into 600 million pieces. The ePuzzler
+    is also being employed internationally to reconstruct destroyed files.
+  title: How AI could solve a 600 million piece puzzle
+- link: https://www.dw.com/en/high-flyer-for-the-mobility-of-the-future/av-56381283?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Sat, 24 Jul 2021 04:59:00 GMT
+  summary: Electric aircraft that take off and land vertically - eVTOLs - are light,
+    quiet and emission-free. But their battery technology is not yet good enough for
+    longer journeys. Who will develop the first marketable model?
+  title: High flyer for the mobility of the future
+- link: https://www.dw.com/en/japan-takes-off-in-the-development-of-air-taxis/av-56381284?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Sat, 24 Jul 2021 04:57:00 GMT
+  summary: Japan plans to have commercial flying air taxis. Some are being developed
+    by the start-up SkyDrive. DW reporter Cassandra Boh got to go on an exclusive
+    tour of their secret research center.
+  title: Japan takes off in the development of air taxis
+- link: https://www.dw.com/en/robots-in-the-medical-field/av-55585618?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 9 Jul 2021 08:05:00 GMT
+  summary: Robots have been used to assist in medical procedures for quite some time.
+    For example, the "DaVinci Surgical Robot" from the US is used to remove tumors
+    from patients with prostate cancer.
+  title: Robots in the medical field
+- link: https://www.dw.com/en/robot-colleagues-the-future-of-the-workplace/av-55585608?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 9 Jul 2021 08:05:00 GMT
+  summary: Moving away from industrial robots towards personal service robots! This
+    is the trend at big international robotics fairs like iREX in Tokyo. But can robots
+    work closely with people?
+  title: "Robot Colleagues \u2013 The future of the workplace"
+- link: https://www.dw.com/en/ugo-the-multi-purpose-household-robot-of-the-future/av-55585607?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 9 Jul 2021 07:57:00 GMT
+  summary: The start-up Mira Robotics marketed the robot UGO as an alternative to
+    a maid. Even though it has 22 sensors and three cameras for space and object recognition,
+    it still needs to be remotely controlled by an employee.
+  title: UGO - The multi-purpose household robot of the future
+- link: https://www.dw.com/en/what-exactly-is-a-meme/av-58135277?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 2 Jul 2021 10:41:00 GMT
+  summary: "Memes like \"Bad Luck Brian\"\u2014the photo of a young man that represents\
+    \ persistent misfortune\u2014are known worldwide. But there are also more multi-layered\
+    \ memes that only certain insiders will understand."
+  title: What exactly is a meme?
 - link: https://www.dw.com/en/darknet-protection-for-the-politically-persecuted/av-55987539?maca=en-podcast_shift_en-7877-xml-mrss
   published: Fri, 11 Jun 2021 09:44:00 GMT
   summary: The darknet offers political activists worldwide protection from state
@@ -41,18 +178,18 @@ entries:
     But thanks to its great wealth of features, the app is becoming increasingly popular
     outside the gaming scene too.
   title: Chatting on a gaming platform
-- link: https://www.dw.com/en/are-you-allowed-to-say-anything-on-the-internet/av-55827962?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 14 May 2021 07:34:00 GMT
-  summary: Laws determine what you can say online. Freedom of speech is well protected,
-    especially in the USA and in many EU countries. But does this also apply to hate
-    speech?
-  title: Are you allowed to say anything on the internet?
 - link: https://www.dw.com/en/hateaid-help-against-hate-speech/av-55828211?maca=en-podcast_shift_en-7877-xml-mrss
   published: Fri, 14 May 2021 07:34:00 GMT
   summary: "Many people who become targets of online hate speech attacks feel completely\
     \ overwhelmed \u2013 especially when it is happening to them for the first time.\
     \ Organizations like HateAid, which specialize in digital violence, can help."
   title: 'HateAid: Help against hate speech'
+- link: https://www.dw.com/en/are-you-allowed-to-say-anything-on-the-internet/av-55827962?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 14 May 2021 07:34:00 GMT
+  summary: Laws determine what you can say online. Freedom of speech is well protected,
+    especially in the USA and in many EU countries. But does this also apply to hate
+    speech?
+  title: Are you allowed to say anything on the internet?
 - link: https://www.dw.com/en/working-ergonomically-thanks-to-robo-technology/av-57457591?maca=en-podcast_shift_en-7877-xml-mrss
   published: Fri, 7 May 2021 16:13:00 GMT
   summary: "Exoskeletons are robotic suits that give people super strength. Even though\
@@ -89,171 +226,6 @@ entries:
     ownership can now be ascribed. The so-called smart contract contains information
     on the edition of the work, its creator, and its owner.
   title: What dangers are hidden within the crypto art craze?
-- link: https://www.dw.com/en/esports-in-abidijan-a-game-changer/av-57145210?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 9 Apr 2021 12:08:00 GMT
-  summary: "Thousands of people in Africa dream of an esports career. Abidjan is the\
-    \ largest metropolis in C\xF4te d'Ivoire in West Africa. There, young people train\
-    \ hard every afternoon to have a shot at an esports career."
-  title: 'Esports in Abidijan: A game changer'
-- link: https://www.dw.com/en/esports-and-sexism-enough-is-enough/av-57145161?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 9 Apr 2021 12:05:00 GMT
-  summary: Esports commentator Indiana Black says there's too much sexism in the industry.
-    As a result, she's no longer working as a commentator for the games.
-  title: 'Esports and sexism: Enough is enough'
-- link: https://www.dw.com/en/hanging-out-in-pc-bangs/av-57145141?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 9 Apr 2021 12:03:00 GMT
-  summary: 'PC Bangs sound like parties, but they''re actually popular gaming centers
-    for South Korea''s eSport fans. Pro tip: They are especially packed on the weekends!'
-  title: Hanging out in PC Bangs
-- link: https://www.dw.com/en/esports-bar-homebase-for-legends/av-57145153?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 9 Apr 2021 12:01:00 GMT
-  summary: In South Korea, esports are trumping soccer when it comes to public screenings.
-    Fans often meet to watch League of Legends in bars. Especially during tournaments,
-    many gamers prefer collective viewings to watching alone at home.
-  title: 'Esports bar: Homebase for legends'
-- link: https://www.dw.com/en/gadgets-that-read-emotions-wearable-mood-trackers/av-53782784?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 2 Apr 2021 07:54:00 GMT
-  summary: "Bracelets, rings and other smart gadgets do far more than just count steps;\
-    \ they measure biometric data and analyze users\u2019 emotions. Then, they recommend\
-    \ meditation or breathing exercises based on the moods they detect."
-  title: 'Gadgets that Read Emotions: Wearable Mood Trackers'
-- link: https://www.dw.com/en/systemic-discrimination-in-ai/av-57014432?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Sat, 27 Mar 2021 06:15:00 GMT
-  summary: Algorithms and artificial intelligence-based systems view the world on
-    the basis of data. But who controls these data sets and what conclusions do they
-    allow? The lack of computer ethics is a problem.
-  title: Systemic discrimination in AI
-- link: https://www.dw.com/en/coded-bias-how-did-ai-become-racist/av-57014307?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 26 Mar 2021 13:53:00 GMT
-  summary: Director Shalini Kantayya's documentary "Coded Bias" reveals the racist
-    and sexist nature of AI programming and highlights the threats it poses to society.
-  title: Coded Bias - How did AI become racist?
-- link: https://www.dw.com/en/sexism-in-google-image-search/av-57014319?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 26 Mar 2021 10:46:00 GMT
-  summary: Do all German women become politicians? Are Eastern European and South
-    American women always looking for a man? A DW analysis shows how Google's image
-    search reinforces sexist and racist stereotypes.
-  title: Sexism in Google Image Search
-- link: https://www.dw.com/en/serious-games-more-than-just-a-hobby/av-55223380?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 19 Mar 2021 09:45:00 GMT
-  summary: "Gaming as a learning tool\u2014that's the idea behind Serious Games, which\
-    \ are used for educational purposes. For the game \"Through the Darkest of Times,\"\
-    \ players take on the role of resistance fighters in Nazi Germany."
-  title: 'Serious games: More than just a hobby'
-- link: https://www.dw.com/en/ai-applications-to-try-at-home/av-56847700?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 12 Mar 2021 15:32:00 GMT
-  summary: With AI programs like Musenet, Deepart and GauGAN, anyone can become an
-    artist - in cooperation with artificial intelligence. With Toonify, your self-portrait
-    can be turned into a cartoon figure.
-  title: AI applications to try at home
-- link: https://www.dw.com/en/ai-systems-helps-create-music/av-56847671?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 12 Mar 2021 15:31:00 GMT
-  summary: Music shows how well humans and machines can work together. An AI application
-    makes suggestions for the next line of a song. But humans still have creative
-    control.
-  title: AI-systems helps create music
-- link: https://www.dw.com/en/how-can-women-defend-themselves-against-violence-online/av-56716191?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 26 Feb 2021 14:25:00 GMT
-  summary: "Arzu Geybulla is an Azerbaijani journalist who\u2019s had to fight against\
-    \ online hate. Now she helps other women defend themselves against online abuse.\
-    \ But there\u2019s no one right way to do it."
-  title: How can women defend themselves against violence online?
-- link: https://www.dw.com/en/women-unite-in-the-fight-against-online-attacks/av-56715782?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 26 Feb 2021 14:12:00 GMT
-  summary: 'Women are supporting each other in the fight against online trolls. The
-    worldwide #metoo movement has also been a major catalyst in making the issues
-    that women in the Arab world face more visible.'
-  title: Women unite in the fight against online attacks
-- link: https://www.dw.com/en/female-journalists-face-violence-online/av-56715781?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 26 Feb 2021 14:11:00 GMT
-  summary: DW reporter Mania Chaudbary has frequently been the target of insults and
-    hate speech online. Online trolls often try to silence women like her from speaking
-    out politically or as a journalist.
-  title: Female journalists face violence online
-- link: https://www.dw.com/en/man-vs-machine-who-is-the-safer-driver/av-54892773?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 19 Feb 2021 10:10:00 GMT
-  summary: "It\u2019s predicted that 1 out of every 10 vehicles on the road will be\
-    \ autonomous by 2030. But how safe are self-driving cars? Does AI actually drive\
-    \ more safely than humans? Three experts answer these questions."
-  title: 'Man vs. Machine: Who is the safer driver?'
-- link: https://www.dw.com/en/a-day-without-a-smartphone-is-that-still-possible/av-56545478?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 12 Feb 2021 09:34:00 GMT
-  summary: Thanks to smartphones, everything from shopping to searching for partners
-    can happen in real time online. How uncomfortable is it to go a full day without
-    these do-it-all mobile devices?
-  title: "A day without a smartphone\u2014Is that still possible?"
-- link: https://www.dw.com/en/high-flyer-for-the-mobility-of-the-future/av-56381283?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 29 Jan 2021 12:07:00 GMT
-  summary: Electric aircraft that take off and land vertically - eVTOLs - are light,
-    quiet and emission-free. But their battery technology is not yet good enough for
-    longer journeys. Who will develop the first marketable model?
-  title: High flyer for the mobility of the future
-- link: https://www.dw.com/en/japan-takes-off-in-the-development-of-air-taxis/av-56381284?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 29 Jan 2021 12:06:00 GMT
-  summary: Japan plans to have commercial flying air taxis. Some are being developed
-    by the start-up SkyDrive. DW reporter Cassandra Boh got to go on an exclusive
-    tour of their secret research center.
-  title: Japan takes off in the development of air taxis
-- link: https://www.dw.com/en/section-230-26-words-that-created-the-internet/av-56237353?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 15 Jan 2021 13:14:00 GMT
-  summary: "Section 230 of the Communications Decency Act could be seen as the legal\
-    \ foundation that today\u2019s Internet rests upon. But that might soon change.\
-    \ What impact would it have if platforms were regulated for user content?"
-  title: "Section 230: \u201C26 words that created the Internet\u201D"
-- link: https://www.dw.com/en/free-speech-on-social-networks/av-56237328?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 15 Jan 2021 13:14:00 GMT
-  summary: Conservative users are increasingly jumping ship from major social networks
-    like Facebook and Twitter, and heading for platforms like Parler, Gab and MeWe.
-    Many feel their right to freedom of speech is under threat.
-  title: Free speech on social networks
-- link: https://www.dw.com/en/qoobo-the-joyous-cushion/av-54394811?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 1 Jan 2021 10:35:00 GMT
-  summary: '"Qoobo" is a fluffly pillow that responds to touch, and whose tail can
-    move in 40 different ways. It''s a signature toy from the Tokyo company Yukai
-    Engineering and aims to cheer people up.'
-  title: "Qoobo \u2013 The joyous cushion"
-- link: https://www.dw.com/en/aibo-the-next-generation-pet/av-54394812?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 1 Jan 2021 10:33:00 GMT
-  summary: '"Aibo" is outfitted with cameras, voice recognition, and motion sensors.
-    These let the robo-pup recognize and react to its owner. Data generated by "Aibo"
-    is kept in cloud storage.'
-  title: "\"Aibo\" \u2013 The next generation pet"
-- link: https://www.dw.com/en/lovot-the-lovable-robot/av-54394813?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 1 Jan 2021 10:31:00 GMT
-  summary: The "Lovot" robot is a true cuddle-bot. It is designed to develop a highly
-    emotional connection with its owner. Its decisions are steered by machine-learning
-    algorithms.
-  title: "\"Lovot\" \u2013 the Lovable Robot"
-- link: https://www.dw.com/en/who-uses-virtual-reality/av-56059367?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Sat, 26 Dec 2020 06:15:00 GMT
-  summary: Virtual reality is attracting ever more users. Some want to be entertained,
-    others want to interact with the gaming worlds they are immersed in. And still
-    others use VR for their work, to enhance visualization.
-  title: Who uses Virtual Reality?
-- link: https://www.dw.com/en/vr-at-france-s-most-famous-construction-site/av-56059441?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 25 Dec 2020 14:38:00 GMT
-  summary: Ever since the devastating fire in April 2019, Paris's Notre Dame cathedral
-    has been off-limits. A VR film crew is accompanying its reconstruction, and allowing
-    guests to virtually tour the construction site.
-  title: VR at France's most famous construction site
-- link: https://www.dw.com/en/flying-through-the-amazon-rainforest/av-56059475?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 25 Dec 2020 14:37:00 GMT
-  summary: Swim along the Amazon River as a caiman - the "Inside Tumucumaque" VR experience
-    lets you do just that. Users can explore 400 hectars in a protected Brazilian
-    rainforest from the point of view of five native species.
-  title: Flying through the Amazon rainforest
-- link: https://www.dw.com/en/how-to-do-online-activism/av-54215554?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 11 Dec 2020 08:59:00 GMT
-  summary: Journalist and digital-rights activist Markus Beckedahl discusses ways
-    to protest effectively on social media. Reaching an audience, making a mark, making
-    a difference -- none of that happens by itself. Here is some expert advice.
-  title: How to do online activism
-- link: https://www.dw.com/en/humans-the-biggest-hurdle-for-self-driving-cars/av-54892735?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Sat, 12 Sep 2020 06:15:00 GMT
-  summary: Dealing with pedestrians and cyclists is a major challenge for self-driving
-    cars. The artificial intelligence in the vehicles must learn how to predict individuals'
-    behavior, which is different in each culture.
-  title: "Humans \u2014 The biggest hurdle for self-driving cars"
 
 ---
 Can I use blockchain technology? Will artificial intelligence take

@@ -1,7 +1,7 @@
 ---
 title: "fit & gesund | Video Podcast | Deutsche Welle"
 id: podcast_fit-und-gesund
-published: "Mon, 28 Jun 2021 09:53:50 GMT"
+published: "Wed, 3 Nov 2021 19:35:01 GMT"
 page_link: "https://www.dw.com/german/?maca=de-podcast_fit-und-gesund-4077-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_fit-und-gesund"
 language: de
@@ -17,6 +17,12 @@ entries:
     \ und was es zu beachten gilt. Unter Anleitung und in der Gruppe ist Crossfit\
     \ eine effiziente Methode, schnell fit und stark zu werden."
   title: "Hartes Training \u2013 gro\xDFer Erfolg: Crossfit"
+- link: "https://www.dw.com/de/z\xF6liakie-oft-unerkannt/a-38393296?maca=de-podcast_fit-und-gesund-4077-xml-mrss"
+  published: Fri, 7 Apr 2017 21:30:00 GMT
+  summary: "Prof. Dr. Andreas Sturm spricht \xFCber die Ursachen von Z\xF6liakie und\
+    \ was dabei im K\xF6rper passiert. Er ist Chefarzt der Klinik f\xFCr Innere Medizin\
+    \ - Schwerpunkt Gastroenterologie an den DRK Kliniken in Berlin."
+  title: "Z\xF6liakie - oft unerkannt"
 - link: "https://www.dw.com/de/hoffnung-f\xFCr-patienten-mit-nesselsucht/a-19134156?maca=de-podcast_fit-und-gesund-4077-xml-mrss"
   published: Thu, 24 Nov 2016 00:00:00 GMT
   summary: "Prof. Dr. Marcus Maurer spricht \xFCber die Ursachen und Behandlungsm\xF6\
@@ -228,6 +234,19 @@ entries:
     \ Orthorexie. Essst\xF6rungen geh\xF6ren zu den h\xE4ufigsten psychosomatischen\
     \ Krankheitsbildern, die in allen Altersgruppen auftreten k\xF6nnen."
   title: "Essst\xF6rungen \u2013 Wege aus der Sucht"
+- link: https://www.dw.com/de/stadtleben-so-vermeiden-sie-stress/a-18703051?maca=de-podcast_fit-und-gesund-4077-xml-mrss
+  published: Thu, 25 Feb 2016 00:00:00 GMT
+  summary: "Stress and the City: Macht die Stadt unsere Seele krank? Der Psychiater\
+    \ und Stressforscher Dr. Mazda Adli \xFCber die Gefahren des Gro\xDFstadtlebens\
+    \ f\xFCr die Psyche.\n\tPrivatdozent Dr. Mazda Adli ist Chefarzt der Fliedner\
+    \ Klinik Berlin. Er erforscht unter anderem die Folgen des Stadtlebens auf die\
+    \ psychische Gesundheit. Studien zufolge ist in der Stadt das Risiko, an einer\
+    \ Depression zu erkranken, anderthalb mal so hoch wie auf dem Land. Auch das Risiko\
+    \ f\xFCr Schizophrenie oder Angstst\xF6rungen ist deutlich erh\xF6ht. Als Hauptursachen\
+    \ beschreibt Mazda Adli die soziale Dichte bei gleichzeitiger sozialer Vereinsamung.\n\
+    \n\tPriv.-Doz. Dr. med. Mazda Adli\n\tChefarzt der Fliedner Klinik Berlin\n\t\
+    Kontakt\n\tTelefon +49-30-20 45 97-0\n\tinfo@fliednerklinikberlin.de"
+  title: "Stadtleben \u2013 so vermeiden Sie Stress"
 - link: "https://www.dw.com/de/die-z\xE4hne-erhalten-das-m\xFCssen-sie-tun/a-18570379?maca=de-podcast_fit-und-gesund-4077-xml-mrss"
   published: Thu, 18 Feb 2016 00:00:00 GMT
   summary: "Bei guter Pflege und Betreuung durch den Zahnarzt kann man sein Gebiss\
