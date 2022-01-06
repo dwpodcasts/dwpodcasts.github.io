@@ -1,7 +1,7 @@
 ---
 title: "Living Planet | Deutsche Welle"
 id: podcast_living-planet
-published: "Thu, 6 Jan 2022 07:54:47 GMT"
+published: "Thu, 6 Jan 2022 15:29:26 GMT"
 page_link: "https://www.dw.com?maca=en-podcast_living-planet-948-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_living-planet"
 language: en
@@ -11,6 +11,14 @@ tags: [ "Science", "Nature" ]
 image_url: https://static.dw.com/image/56922987_7.png
 image_title: ""
 entries:
+- link: https://www.dw.com/en/the-future-of-water-floating-cities-geothermal-power-and-water-scarcity/av-60348817?maca=en-podcast_living-planet-948-xml-mrss
+  published: Thu, 6 Jan 2022 15:00:00 GMT
+  summary: "We live on a watery planet \u2014 nearly three-quarters of the Earth's\
+    \ surface is underwater. As climate change raises temperatures, water is being\
+    \ pushed in new and more extreme directions. But are there ways we could use water\
+    \ to our advantage, environmentally? This week, we hear from communities trying\
+    \ to push back the seas and others suffering from diminishing water supplies."
+  title: 'The future of water: Floating cities, geothermal power and water scarcity'
 - link: https://www.dw.com/en/how-to-save-our-dying-forests-special-episode/av-60146257?maca=en-podcast_living-planet-948-xml-mrss
   published: Thu, 30 Dec 2021 13:00:00 GMT
   summary: This week, we bring you an episode of DW's On the Green Fence, hosted by
@@ -248,15 +256,6 @@ entries:
     \ world of frog songs."
   title: Avocado farming in the right place, frog love songs & reviving life underwater
     in Scotland
-- link: https://www.dw.com/en/fighting-coal-in-ghana-ibiza-s-ancient-seeds-the-art-of-climate-science-and-germany-s-car-questions/av-57843956?maca=en-podcast_living-planet-948-xml-mrss
-  published: Thu, 10 Jun 2021 14:00:00 GMT
-  summary: We examine how thinking outside the box can lead to changes big and small.
-    2020 Goldman Environmental Prize winner Chibeze Ezekiel tells us how he led a
-    successful grassroots campaign against Ghana's first coal-fired power plant. We
-    find out how we can make sense of science through art. Female farmers discover
-    the power of ancient seeds on Ibiza. And we delve into Germany's car-conundrum.
-  title: Fighting coal in Ghana, Ibiza's ancient seeds, the art of climate science
-    and Germany's car questions
 
 ---
 Every Thursday, a new episode of Living Planet brings you environment

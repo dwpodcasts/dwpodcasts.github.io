@@ -1,7 +1,7 @@
 ---
 title: "World in Progress | Deutsche Welle"
 id: podcast_world-in-progress
-published: "Thu, 6 Jan 2022 07:58:22 GMT"
+published: "Thu, 6 Jan 2022 15:31:15 GMT"
 page_link: "https://www.dw.com?maca=en-podcast_world-in-progress-1951-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_world-in-progress"
 language: en
@@ -11,6 +11,13 @@ tags: [ "Society & Culture", "Documentary", "News", "Politics" ]
 image_url: https://static.dw.com/image/2380459_7.jpg
 image_title: ""
 entries:
+- link: https://www.dw.com/en/world-in-progress-fetal-alcohol-syndrome-affects-millions-of-kids-in-south-africa/av-60239593?maca=en-podcast_world-in-progress-1951-xml-mrss
+  published: Thu, 6 Jan 2022 09:00:00 GMT
+  summary: When pregnant women drink alcohol, the impact on their babies' health can
+    be severe. In South Africa, more than ten percent of kids suffer from Fetal Alcohol
+    symptome - the highest figure worldwide.
+  title: 'World in Progress: Fetal Alcohol Syndrome affects millions of kids in South
+    Africa'
 - link: https://www.dw.com/en/world-in-progress-how-climate-change-impacts-lives-around-kilimanjaro/av-60239594?maca=en-podcast_world-in-progress-1951-xml-mrss
   published: Thu, 30 Dec 2021 09:00:00 GMT
   summary: The warming climate melts the snow peak on Mount Kilimanjaro and increasingly
@@ -95,6 +102,13 @@ entries:
     And amid this threat, educators and Nigeriens alike say it's all the more reason
     to keep kids going to school, if anything to combat the scourge of radicalization.
   title: 'World in Progress: How Niger is fighting radicalization with education'
+- link: https://www.dw.com/en/kabul-artist-laments-exile/av-59425744?maca=en-podcast_world-in-progress-1951-xml-mrss
+  published: Wed, 6 Oct 2021 13:29:00 GMT
+  summary: "Among the people who were able to escape Kabul after the Taliban takeover\
+    \ was a local artist named Omaid Sharifi. Sharifi might be best known for a project\
+    \ involving painting colorful and poetic murals onto the city\u2019s many blast\
+    \ walls. Now the Taliban are painting over them."
+  title: Kabul artist laments exile
 - link: https://www.dw.com/en/world-in-progress-what-just-happened/av-59425745?maca=en-podcast_world-in-progress-1951-xml-mrss
   published: Wed, 6 Oct 2021 13:29:00 GMT
   summary: On this week's show, we travel to the Cambodian city Sihanoukville, which
@@ -103,13 +117,6 @@ entries:
     from afar as the Taliban destroys his work. Plus, an interview with Dr. Azza Karam,
     of Religions for Peace International on how the pandemic is affecting religion.
   title: 'World in Progress: What just happened?'
-- link: https://www.dw.com/en/kabul-artist-laments-exile/av-59425744?maca=en-podcast_world-in-progress-1951-xml-mrss
-  published: Wed, 6 Oct 2021 13:29:00 GMT
-  summary: "Among the people who were able to escape Kabul after the Taliban takeover\
-    \ was a local artist named Omaid Sharifi. Sharifi might be best known for a project\
-    \ involving painting colorful and poetic murals onto the city\u2019s many blast\
-    \ walls. Now the Taliban are painting over them."
-  title: Kabul artist laments exile
 - link: https://www.dw.com/en/world-in-progress-the-power-of-music/av-59352571?maca=en-podcast_world-in-progress-1951-xml-mrss
   published: Wed, 29 Sep 2021 11:20:00 GMT
   summary: We'll hear about how music is playing an important role in the conflict
@@ -222,15 +229,6 @@ entries:
     homes in the capital Port-au-Prince. And the pandemic has intensified the strain
     on humanitarian aid as funding dropped. Where do we go from here?
   title: 'World in Progress: Hidden crises'
-- link: https://www.dw.com/en/world-in-progress-solutions-in-sight/av-57923573?maca=en-podcast_world-in-progress-1951-xml-mrss
-  published: Wed, 16 Jun 2021 14:00:00 GMT
-  summary: "Global problems often need local solutions \u2014 but who can find them?\
-    \ In Congo, there has been low take-up for COVID vaccines but health workers and\
-    \ officials are fighting this. It is the poorest who are hit hardest by hyperinflation,\
-    \ but digital currency could help. Workers in Bangladesh hope a new German law\
-    \ can change working conditions. And in the Maldives, tourists are put off by\
-    \ mosquitoes."
-  title: 'World in Progress: Solutions in sight'
 
 ---
 News, Analysis and Service from Germany and Europe - in 30 Languages

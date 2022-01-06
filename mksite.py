@@ -86,7 +86,7 @@ def read_podcasts(csv_filename):
     with open(csv_filename) as csvfile:
         reader = csv.reader(csvfile, delimiter='\t')
         for row in reader:
-            rss_url = row[4].strip()
+            rss_url = row[1].strip()
             if rss_url != '' and re.match('^https?:', rss_url):
                 try:
                     read_podcast(rss_url)
