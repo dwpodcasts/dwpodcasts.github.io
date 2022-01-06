@@ -1,7 +1,7 @@
 ---
 title: "Reporter | Video Podcast | Deutsche Welle"
 id: podcast_journal-reporters-en
-published: "Wed, 3 Nov 2021 19:33:15 GMT"
+published: "Thu, 6 Jan 2022 07:56:32 GMT"
 page_link: "https://www.dw.com/english/?maca=en-podcast_journal-reporters-en-4892-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_journal-reporters-en"
 language: en
@@ -11,6 +11,19 @@ tags: [ "News", "Politics", "Society & Culture", "Personal Journals" ]
 image_url: https://static.dw.com/image/49814969_7.png
 image_title: ""
 entries:
+- link: https://www.dw.com/en/intimacy-despite-disabilities-part-one/av-60254685?maca=en-podcast_journal-reporters-en-4892-xml-mrss
+  published: Sat, 25 Dec 2021 08:59:00 GMT
+  summary: 'Love and sex between people with intellectual disabilities is often still
+    taboo. At a supported living facility in Langenhagen, Germany, the approach is:
+    No one should be denied the right to experience love and intimacy.'
+  title: Intimacy Despite Disabilities | Part One
+- link: https://www.dw.com/en/fresh-faces-in-the-bundestag-what-will-they-be-pushing-for/av-59954723?maca=en-podcast_journal-reporters-en-4892-xml-mrss
+  published: Sat, 27 Nov 2021 07:53:00 GMT
+  summary: "Germany is undergoing a sea change after sixteen years with Angela Merkel\
+    \ as chancellor. Elections this fall gave parliamentary seats to many younger\
+    \ politicians, including Kassem Taher Saleh of the Green Party and Ria Schr\xF6\
+    der of the liberal FDP."
+  title: 'Fresh faces in the Bundestag: What will they be pushing for?'
 - link: https://www.dw.com/en/rescued-from-afghanistan-to-the-us/av-59524349?maca=en-podcast_journal-reporters-en-4892-xml-mrss
   published: Sat, 16 Oct 2021 05:39:00 GMT
   summary: Ahmad made it out of Afghanistan. He's now part of one of the world's largest
@@ -131,21 +144,6 @@ entries:
     now she has just one. To pay her room rental of $600 a month, she collects bottles
     every day. Alcohol claimed the life of Sixta's youngest son during the pandemic.
   title: "Poor in New York \u2013 Survival and the city"
-- link: https://www.dw.com/en/reporter-the-limits-of-learning-kids-in-crisis/av-57468847?maca=en-podcast_journal-reporters-en-4892-xml-mrss
-  published: Sat, 8 May 2021 06:24:00 GMT
-  summary: "Surveys\u2002show\u2002that\u2002the\u2002majority\u2002of\u2002German\u2002\
-    students\u2002feel\u2002hopeless,\u2002listless\u2002and\u2002even\u2002depressed\u2002\
-    as\u2002a\u2002result\u2002of\u2002the\u2002long\u2002lockdown.\u2002Homeschooling\u2002\
-    is\u2002overwhelming\u2002for\u2002many\u2002of\u2002them,\u2002and\u2002some\
-    \ families\u2002are struggling\u2002to\u2002cope.\u2002We\u2002visited\u2002students\u2002\
-    at\u2002home."
-  title: Reporter - The Limits of Learning - Kids in Crisis
-- link: https://www.dw.com/en/reporter-the-congo-militias-and-violence/av-57321381?maca=en-podcast_journal-reporters-en-4892-xml-mrss
-  published: Sat, 24 Apr 2021 09:12:00 GMT
-  summary: Militias rule northeastern Congo through fear and bloodshed. The central
-    government has little to no authority here. Mama Faida saw her own family murdered
-    - and joined a militia to seek revenge.
-  title: 'Reporter - The Congo: Militias and Violence'
 
 ---
 "DW-Reporter" is a video podcasting offer from Deutsche Welle. It's

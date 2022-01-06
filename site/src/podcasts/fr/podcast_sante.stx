@@ -1,7 +1,7 @@
 ---
 title: "Santé | Deutsche Welle"
 id: podcast_sante
-published: "Wed, 3 Nov 2021 19:42:05 GMT"
+published: "Thu, 6 Jan 2022 07:55:26 GMT"
 page_link: "https://www.dw.com?maca=fra-podcast_sante-1858-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_sante"
 language: fr
@@ -11,6 +11,70 @@ tags: [ "Health & Fitness", "Nutrition", "Alternative Health" ]
 image_url: https://static.dw.com/image/2367653_7.jpg
 image_title: ""
 entries:
+- link: "https://www.dw.com/fr/bien-manger-pour-\xEAtre-en-bonne-sant\xE9/av-60317357?maca=fra-podcast_sante-1858-xml-mrss"
+  published: Mon, 3 Jan 2022 14:20:00 GMT
+  summary: "Faire attention \xE0 la qualit\xE9 des aliments mais aussi \xE0 la quantit\xE9\
+    \ que l'on consomme, notamment durant les f\xEAtes, pour \xE9viter certains d\xE9\
+    sagr\xE9ments plus tard...\nCette semaine dans le magazine sant\xE9, il est question\
+    \ de sant\xE9 et nutrition. Pour en parler, nous irons au Cameroun pour des t\xE9\
+    moignages et conseils."
+  title: "Bien manger pour \xEAtre en bonne sant\xE9"
+- link: "https://www.dw.com/fr/la-difficile-prise-en-charge-des-enfants-de-la-lune-en-alg\xE9\
+    rie/av-60269512?maca=fra-podcast_sante-1858-xml-mrss"
+  published: Mon, 27 Dec 2021 21:44:00 GMT
+  summary: "On les appelle \"les enfants de la lune\" car ils sont sensibles aux rayons\
+    \ ultraviolets. Ils ont pour la plupart en effet une r\xE9action cutan\xE9e excessive\
+    \ \xE0 l'exposition solaire. Cette semaine dans le magazine sant\xE9 on s'int\xE9\
+    resse \xE0 une maladie assez particuli\xE8re: le xeroderma pigmentosum. Pour en\
+    \ parler nous irons en Algerie."
+  title: "La difficile prise en charge des \"enfants de la lune\" en Alg\xE9rie"
+- link: https://www.dw.com/fr/cancer-de-la-prostate-un-sujet-encore-tabou/av-60197132?maca=fra-podcast_sante-1858-xml-mrss
+  published: Mon, 20 Dec 2021 15:40:00 GMT
+  summary: "Il fait partie des cancers les plus fr\xE9quents chez les hommes... le\
+    \ cancer de la prostate reste une source d'inqui\xE9tude et on en parle cette\
+    \ semaine dans le magazine sant\xE9.\nEn seconde partie d'\xE9mission il sera\
+    \ question de l'assurance maladie en Afrique."
+  title: Cancer de la prostate, un sujet encore tabou
+- link: "https://www.dw.com/fr/informer-sur-le-diab\xE8te-pour-une-meilleure-prise-en-charge/av-60104562?maca=fra-podcast_sante-1858-xml-mrss"
+  published: Mon, 13 Dec 2021 14:22:00 GMT
+  summary: "En 2019, le diab\xE8te a \xE9t\xE9 la cause directe de 1,5 million de\
+    \ d\xE9c\xE8s selon l'Organisation mondiale de la sant\xE9. Dans ce num\xE9ro\
+    \ du magazine sant\xE9, nous irons en Centrafrique pour parler de la prise en\
+    \ charge des diab\xE9tiques.\nEn seconde partie d'\xE9mission, il sera question\
+    \ du d\xE9ploiement du vaccin contre le paludisme, le RTS,S."
+  title: "Informer sur le diab\xE8te pour une meilleure prise en charge"
+- link: "https://www.dw.com/fr/lutte-contre-la-covid-19-quelle-place-pour-la-m\xE9\
+    decine-traditionnelle/av-60034255?maca=fra-podcast_sante-1858-xml-mrss"
+  published: Mon, 6 Dec 2021 14:41:00 GMT
+  summary: "Associer m\xE9d\xE9cine traditionnelle et conventionnelle pour lutter\
+    \ contre la Covid-19, c'est l'option que semble privil\xE9gier certains pays comme\
+    \ le Cameroun. Le pays a officiellement autoris\xE9 depuis quelques mois d\xE9\
+    j\xE0 la mise sur le march\xE9 local de m\xE9dicaments traditionnels am\xE9lior\xE9\
+    s (MTA) pour lutter contre la pand\xE9mie. Nous ferons le point."
+  title: "Lutte contre la Covid-19: quelle place pour la m\xE9decine traditionnelle\
+    \ ?"
+- link: https://www.dw.com/fr/innover-pour-mettre-fin-au-sida/av-59976464?maca=fra-podcast_sante-1858-xml-mrss
+  published: Tue, 30 Nov 2021 10:25:00 GMT
+  summary: "Mettre fin aux in\xE9galit\xE9s. Mettre fin au sida. Mettre fin aux pand\xE9\
+    mies. Cette ann\xE9e, l\u2019ONUSIDA met l\u2019accent sur l\u2019\xE9radication\
+    \ urgente des in\xE9galit\xE9s qui alimentent l\u2019\xE9pid\xE9mie de sida et\
+    \ d\u2019autres pand\xE9mies dans le monde. Une \xE9radication qui passe notamment\
+    \ par la d\xE9couverte et l'administration des bons traitements."
+  title: Innover pour mettre fin au sida
+- link: "https://www.dw.com/fr/covid-19-o\xF9-en-est-la-production-de-vaccin-en-afrique/av-59902016?maca=fra-podcast_sante-1858-xml-mrss"
+  published: Mon, 22 Nov 2021 17:07:00 GMT
+  summary: "Dans ce num\xE9ro du magazine sant\xE9 on s'int\xE9resse \xE0 la production\
+    \ de vaccins contre la Covid-19 sur le continent africain, et on en parle avec\
+    \ le docteur Alain Alsahani. Il travaille comme pharmacien \xE0 la campagne d'action\
+    \ m\xE9dicaments essentiels de M\xE9decins Sans Fronti\xE8res."
+  title: "Covid-19 : o\xF9 en est la production de vaccin en Afrique?"
+- link: "https://www.dw.com/fr/burundi-des-mamans-lumi\xE8re-pour-lutter-contre-la-malnutrition-infantile/av-59839502?maca=fra-podcast_sante-1858-xml-mrss"
+  published: Tue, 16 Nov 2021 17:54:00 GMT
+  summary: "Au Burundi, des femmes surnomm\xE9es\" mamans lumi\xE8re\" s'activent\
+    \ pour lutter contre la malnutrition infantile. En seconde partie d'\xE9mission\
+    \ on ira en RDC pour parler de la \" Bomb\xE9 \" une drogue bon march\xE9 aux\
+    \ effets tr\xE8s puissants qui fait de plus en plus parler d'elle dans le pays."
+  title: "Burundi : des \"mamans lumi\xE8re\" pour lutter contre la malnutrition infantile"
 - link: "https://www.dw.com/fr/de-l-eau-potable-pour-\xE9viter-certaines-maladies/av-59647717?maca=fra-podcast_sante-1858-xml-mrss"
   published: Thu, 28 Oct 2021 06:52:00 GMT
   summary: "L'eau, source de vie peut parfois aussi \xEAtre \xE0 l'origine de maladies\
@@ -342,69 +406,6 @@ entries:
     galement de nutrition ou plut\xF4t de risque de malnutrition en cette p\xE9riode\
     \ de pand\xE9mie de Covid-19."
   title: "Une alimentation bio pour lutter contre la malnutrition des enfants \n (5/5)"
-- link: https://www.dw.com/fr/perdre-efficacement-du-poids-4-5/av-54255870?maca=fra-podcast_sante-1858-xml-mrss
-  published: Wed, 29 Jul 2020 10:09:00 GMT
-  summary: "Un r\xE9gime sans viande, sans graisse et beaucoup d\u2019activit\xE9\
-    \ physique pour pr\xE9server sa sant\xE9.\_Perdre du poids, c'est bien mais il\
-    \ faut aussi redouter\_l'effet contraire si l'on n'adopte pas les bons r\xE9flexes\
-    \ alimentaires. Nous en parlons dans ce nouveau num\xE9ro de votre magazine Sant\xE9\
-    \ avec le nutritionniste b\xE9ninois, Daniel Dossou."
-  title: Perdre efficacement du poids (4/5)
-- link: https://www.dw.com/fr/contamination-alimentaire-comment-limiter-les-risques-3-5/av-54171417?maca=fra-podcast_sante-1858-xml-mrss
-  published: Mon, 20 Jul 2020 17:13:00 GMT
-  summary: "Bien manger, c'est n\xE9cessaire et primordial pour notre bien-\xEAtre.\
-    \ Pourtant, beaucoup parmi nous ont connu une maladie li\xE9e \xE0 l'alimentation.\
-    \ Pour \xE9viter de souffrir d'une telle maladie, il est important de s'assurer\
-    \ que les aliments que nous mangeons ne soient pas contamin\xE9s par des bact\xE9\
-    ries, des parasites ou des produits toxiques."
-  title: 'Contamination alimentaire : comment limiter les risques? (3/5)'
-- link: "https://www.dw.com/fr/ob\xE9sit\xE9-diab\xE8te-sucr\xE9-hypertension-ces-maladies-qui-ont-un-lien-avec-notre-alimentation-2-5/av-54153375?maca=fra-podcast_sante-1858-xml-mrss"
-  published: Wed, 15 Jul 2020 10:32:00 GMT
-  summary: "Deuxi\xE8me volet de notre s\xE9rie consacr\xE9e \xE0 la sant\xE9 et la\
-    \ nutrition, cette semaine nous nous int\xE9ressons aux pathologies li\xE9es \xE0\
-    \ l\u2019alimentation. Dans ce num\xE9ro nous ferons \xE9galement un focus sur\
-    \ l\u2019ulc\xE8re d'estomac."
-  title: "Ob\xE9sit\xE9, diab\xE8te sucr\xE9, hypertension... ces maladies qui ont\
-    \ un lien avec notre alimentation (2/5)"
-- link: "https://www.dw.com/fr/que-ton-aliment-soit-ton-m\xE9dicament-1-5/av-54117266?maca=fra-podcast_sante-1858-xml-mrss"
-  published: Thu, 9 Jul 2020 18:19:00 GMT
-  summary: "Qu\u2019est qu\u2019une alimentation bonne alimentations, adapt\xE9e et\
-    \ \xE9quilibr\xE9e ? Que faut-il manger pour rester en bonne sant\xE9 ? Quelles\
-    \ sont les maladies li\xE9es \xE0 l\u2019alimentation ? ... \xE0 travers une s\xE9\
-    rie d\u2019\xE9missions nous allons tenter de r\xE9pondre \xE0 vos interrogations."
-  title: "\u201CQue ton aliment soit ton m\xE9dicament\u201D (1/5)"
-- link: "https://www.dw.com/fr/covid-19-la-pol\xE9mique-sur-les-m\xE9dicaments-alternatifs-continue/av-53649782?maca=fra-podcast_sante-1858-xml-mrss"
-  published: Mon, 1 Jun 2020 17:00:00 GMT
-  summary: "Trois mois apr\xE8s la d\xE9tection officielle du premier cas de Covid-19\
-    \ en Afrique subsaharienne, on fait le point cette semaine sur l\u2019\xE9volution\
-    \ de la pand\xE9mie sur le continent et sur les d\xE9bats concernant la chloroquine\
-    \ et l\u2019artemisia, deux rem\xE8des qui continuent de faire pol\xE9mique. Et\
-    \ puis on s\u2019int\xE9resse aussi aux dangers de la maladie pour les femmes\
-    \ enceintes et leur b\xE9b\xE9."
-  title: "Covid-19 : la pol\xE9mique sur les m\xE9dicaments alternatifs continue"
-- link: "https://www.dw.com/fr/sage-femme-un-m\xE9tier-passionnant-4-4/av-53661456?maca=fra-podcast_sante-1858-xml-mrss"
-  published: Mon, 25 May 2020 18:00:00 GMT
-  summary: "Quatri\xE8me et dernier volet de notre s\xE9rie consacr\xE9e aux professionnels\
-    \ du secteur m\xE9dical. Cette semaine nous nous int\xE9ressons \xE0 un m\xE9\
-    tier particulier, celui de sage-femme. Nous irons au B\xE9nin \xE0 la rencontre\
-    \ de Yabo Onibon-Yayi qui exerce ce m\xE9tier depuis douze ans."
-  title: "Sage-femme, un m\xE9tier passionnant! (4/4)"
-- link: "https://www.dw.com/fr/infimiers-et-infirmi\xE8res-une-vocation-3-4/av-53484692?maca=fra-podcast_sante-1858-xml-mrss"
-  published: Mon, 18 May 2020 18:00:00 GMT
-  summary: "Nous nous penchons cette semaine sur le beau mais difficile m\xE9tier\
-    \ d\u2019infirmier et d\u2019infirmi\xE8re. Reportage au Niger et entretien avec\
-    \ Dieudonn\xE9e Soubeiga, directeur g\xE9n\xE9ral de l\u2019IFRIS, un institut\
-    \ pionnier en mati\xE8re de formation pour les infirmiers et les sages-femmes.\
-    \ Il est bas\xE9 au Burkina Faso."
-  title: "Infimiers et infirmi\xE8res, une vocation (3/4)"
-- link: https://www.dw.com/fr/urgence-sanitaire-les-organisations-internationales-au-front-2-4/av-53418365?maca=fra-podcast_sante-1858-xml-mrss
-  published: Tue, 12 May 2020 18:58:00 GMT
-  summary: "Au menu du magazine sant\xE9 cette semaine, nous continuons de nous int\xE9\
-    resser aux m\xE9tiers du secteur de la sant\xE9. Qui sont les hommes et les femmes\
-    \ qui prennent soin de nous quand nous n\u2019allons pas bien. Aujourd\u2019hui,\
-    \ zoom sur le secteur des urgences avec notamment les organisations internationales\
-    \ qui \u0153uvrent sur le terrain en temps d'\xE9pid\xE9mies ou pas."
-  title: Urgence sanitaire, les organisations internationales au front (2/4)
 
 ---
 Une information concrète et vivante sur les grands thèmes de santé.

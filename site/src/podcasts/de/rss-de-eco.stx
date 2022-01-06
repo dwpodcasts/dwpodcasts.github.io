@@ -1,7 +1,7 @@
 ---
 title: "Deutsche Welle: DW.com Wirtschaft"
 id: rss-de-eco
-published: "Wed, 3 Nov 2021 19:33:57 GMT"
+published: "Thu, 6 Jan 2022 07:50:36 GMT"
 page_link: "https://www.dw.com/s-1503?maca=de-rss-de-eco-1018-xml-mrss"
 atom_link: "https://rss.dw.com/xml/rss-de-eco"
 language: de
@@ -11,67 +11,72 @@ tags: [  ]
 image_url: https://rss.dw.com/images/DW-L-RGB_whitebg.png
 image_title: "Deutsche Welle: DW.com Wirtschaft"
 entries:
-- link: "https://www.dw.com/de/erst-chips-jetzt-magnesium-autoherstellern-droht-n\xE4\
-    chster-engpass/a-59698161?maca=de-rss-de-eco-1018-xml-mrss"
-  published: Wed, 3 Nov 2021 07:53:00 GMT
-  summary: China produziert wegen Energieproblemen derzeit viel weniger Magnesium.
-    Das wiederum stellt die Hersteller von Aluminium vor Probleme, deren Produkte
-    in der Autoindustrie gebraucht werden.
-  title: "Erst Chips, jetzt Magnesium: Autoherstellern droht n\xE4chster Engpass"
-- link: https://www.dw.com/de/40-000-beim-web-summit-2021-in-lissabon/a-59704001?maca=de-rss-de-eco-1018-xml-mrss
-  published: Wed, 3 Nov 2021 08:33:00 GMT
-  summary: Mit 3G-Regel, Abstand und Masken netzwerken Besucher, Startups und Investoren
-    noch bis Donnerstag auf dem globalen Tech-Event in Lissabon.
-  title: 40.000 beim Web Summit 2021 in Lissabon
-- link: "https://www.dw.com/de/gaia-x-ein-sicherer-hafen-f\xFCr-europas-daten/a-59629149?maca=de-rss-de-eco-1018-xml-mrss"
-  published: Tue, 2 Nov 2021 12:19:00 GMT
-  summary: "Digitale Wege sind genauso wichtig f\xFCr Europas Zukunft wie seine Stra\xDF\
-    en, Flugh\xE4fen und Bahnnetze. Gaia-X soll eine solche digitale Infrastruktur\
-    \ werden. Mit dabei ist auch die amerikanische Konkurrenz."
-  title: "Gaia-X: Ein sicherer Hafen f\xFCr Europas Daten"
-- link: https://www.dw.com/de/cop26-die-klimakrise-in-11-grafiken/a-59662624?maca=de-rss-de-eco-1018-xml-mrss
-  published: Tue, 2 Nov 2021 09:51:00 GMT
-  summary: "Die UN Klimakonferenz in Glasgow r\xFCckt die Klimakrise erneut in den\
-    \ Brennpunkt. Wir zeigen die wichtigsten Fakten, wie sich der Planet jetzt schon\
-    \ ver\xE4ndert hat."
-  title: 'COP26: Die Klimakrise in 11 Grafiken'
-- link: https://www.dw.com/de/solarthermie-chiles-umbau-weg-von-den-kohlekraftwerken-hin-zu-erneuerbaren-energien/a-59684481?maca=de-rss-de-eco-1018-xml-mrss
-  published: Wed, 3 Nov 2021 10:12:00 GMT
-  summary: "Durch Solarthermie kann die Sonnenenergie im W\xE4rmekraftwerk Cerro Dominador\
-    \ in Chile rund 17 Stunden lang gespeichert werden. Schon bald sollen sogar alte\
-    \ Kohlekraftwerke auf Solartechnik umgestellt werden."
-  title: "Solarthermie \u2013 Chiles Umbau weg von den Kohlekraftwerken hin zu erneuerbaren\
-    \ Energien"
-- link: "https://www.dw.com/de/halten-windr\xE4der-dem-raueren-wetter-stand/a-59684025?maca=de-rss-de-eco-1018-xml-mrss"
-  published: Tue, 2 Nov 2021 02:00:00 GMT
-  summary: "Auch dies ist eine Folge des Klimawandels: Extremwetterlagen werden heftiger.\
-    \ Gleichzeitig werden Windr\xE4der immer gr\xF6\xDFer und bieten mehr Angriffsfl\xE4\
-    che. Wie gut sind sie f\xFCr Hagel, Sturm und Schneemassen gewappnet?"
-  title: "Halten Windr\xE4der dem raueren Wetter stand?"
-- link: https://www.dw.com/de/emirate-weniger-staat-mehr-markt/a-59642590?maca=de-rss-de-eco-1018-xml-mrss
-  published: Tue, 2 Nov 2021 17:29:00 GMT
-  summary: "Die Vereinigten Arabischen Emirate haben ein gro\xDFes F\xF6rderprogramm\
-    \ aufgelegt, das die B\xFCrger zur Arbeit im Privatsektor animieren soll. Die\
-    \ bevorzugten bislang den Staatsdienst. Nun scheint ein Mentalit\xE4tswechsel\
-    \ n\xF6tig."
-  title: 'Emirate: Weniger Staat, mehr Markt'
-- link: "https://www.dw.com/de/die-krise-bei-skoda-gef\xE4hrdet-tschechiens-wirtschaft/a-59685287?maca=de-rss-de-eco-1018-xml-mrss"
-  published: Tue, 2 Nov 2021 09:17:00 GMT
-  summary: "Tschechiens gr\xF6\xDFter Autohersteller musste wegen fehlender Mikrochips\
-    \ zeitweilig die Produktion einstellen. Nun wurde sie wieder aufgenommen - aber\
-    \ niemand wei\xDF, f\xFCr wie lange, da weiter Teile und Rohstoffe fehlen."
-  title: "Die Krise bei Skoda gef\xE4hrdet Tschechiens Wirtschaft"
-- link: "https://www.dw.com/de/l\xE4sst-sich-irans-wirtschaft-vom-atomabkommen-abkoppeln/a-59667653?maca=de-rss-de-eco-1018-xml-mrss"
-  published: Mon, 1 Nov 2021 05:00:00 GMT
-  summary: Eine Charmeoffensive in der Region soll Irans Wirtschaft in Schwung bringen.
-    Trotz leichten Wirtschaftswachstums sind Experten skeptisch.
-  title: "L\xE4sst sich Irans Wirtschaft vom Atomabkommen abkoppeln?"
-- link: https://www.dw.com/de/warum-hip-hop-gut-zur-wirtschaft-passt/a-59631789?maca=de-rss-de-eco-1018-xml-mrss
-  published: Mon, 1 Nov 2021 01:00:00 GMT
-  summary: "\"Der Wille zum Erfolg ist in der DNA der Hip-Hop-Kultur fest verankert\"\
-    , sagt der Unternehmensberater Tobias Kargoll. Im DW-Gespr\xE4ch erkl\xE4rt er,\
-    \ warum das Underdog-Mindset als Businessfaktor so erfolgreich ist."
-  title: Warum Hip-Hop gut zur Wirtschaft passt
+- link: https://www.dw.com/de/wie-algorithmen-die-energiewende-vorantreiben/a-60149851?maca=de-rss-de-eco-1018-xml-mrss
+  published: Thu, 6 Jan 2022 07:30:00 GMT
+  summary: Mit speziell zugeschnittenen Algorithmen versorgt das Startup Esforin aus
+    Essen Industriekunden im Bruchteil von Sekunden mit Strom. Von der flexiblen Steuerung
+    beim Kauf profitiert auch die Umwelt.
+  title: Wie Algorithmen die Energiewende vorantreiben
+- link: https://www.dw.com/de/werften-das-dicke-ende-kommt-erst-noch/a-60329611?maca=de-rss-de-eco-1018-xml-mrss
+  published: Thu, 6 Jan 2022 02:14:00 GMT
+  summary: "Zurzeit scheint niemand neue Ozeanriesen zu brauchen, auch nicht von Meyer\
+    \ an der Ems. Die gr\xF6\xDFte deutsche Werft sucht nach jeder Art neuer Auftr\xE4\
+    ge. Schwierig, da das Virus die Kreuzfahrtbranche weiter im Griff hat."
+  title: 'Werften: Das dicke Ende kommt erst noch'
+- link: "https://www.dw.com/de/la-r\xE9union-will-zentraler-internetknoten-werden/a-60266052?maca=de-rss-de-eco-1018-xml-mrss"
+  published: Wed, 5 Jan 2022 20:59:00 GMT
+  summary: "Ein Firmen-Konsortium will aus dem franz\xF6sischen \xDCberseeterritorium\
+    \ La R\xE9union einen globalen Digitalhub machen. Das k\xF6nnte auch der gebeutelten\
+    \ lokalen Wirtschaft helfen."
+  title: "La R\xE9union will zentraler Internetknoten werden"
+- link: https://www.dw.com/de/afrika-ein-jahr-freihandel-zeigt-wenig-wirkung/a-60213367?maca=de-rss-de-eco-1018-xml-mrss
+  published: Sat, 1 Jan 2022 14:34:00 GMT
+  summary: "Die Freihandelszone AfCFTA zeigt nach einem Jahr wenig Erfolge. Die Pandemie\
+    \ unterbricht Lieferketten, indes verbessert der digitale Schub Firmenkooperationen.\
+    \ Ein gro\xDFes Manko: das Datenloch im afrikanischen Handel."
+  title: 'Afrika: Ein Jahr Freihandel zeigt wenig Wirkung'
+- link: https://www.dw.com/de/luftfahrt-2022-auf-der-suche-nach-nachhaltigkeit/a-60302544?maca=de-rss-de-eco-1018-xml-mrss
+  published: Tue, 4 Jan 2022 11:50:00 GMT
+  summary: "Das vergangene Jahr war f\xFCr die internationale Luftfahrt ein Desaster:\
+    \ f\xFCr Airlines, Flugzeugbauer und Flughafenbetreiber. Doch trotz der anhaltenden\
+    \ Pandemie blickt die Branche verhalten optimistisch auf das neue Jahr."
+  title: 'Luftfahrt 2022: auf der Suche nach Nachhaltigkeit'
+- link: "https://www.dw.com/de/20-jahre-euro-als-bargeld-f\xFCnf-prognosen-im-faktencheck/a-60199216?maca=de-rss-de-eco-1018-xml-mrss"
+  published: Sat, 1 Jan 2022 00:00:00 GMT
+  summary: "Seit dem 1. Januar 2002 gibt es den Euro als Bargeld. Viele Hoffnungen,\
+    \ aber auch Bef\xFCrchtungen wurden damals mit der neuen W\xE4hrung verkn\xFC\
+    pft. Was hat sich davon bewahrheitet oder als v\xF6lliger Quatsch herausgestellt?"
+  title: "20 Jahre Euro als Bargeld: F\xFCnf Prognosen im Faktencheck"
+- link: "https://www.dw.com/de/corona-und-klimakrise-teure-aussichten-f\xFCr-2022/a-60213701?maca=de-rss-de-eco-1018-xml-mrss"
+  published: Fri, 31 Dec 2021 22:57:00 GMT
+  summary: Die Pandemie hat ein tiefes Loch in die deutsche Staatskasse gerissen.
+    Gestopft wird es mit immer neuen Krediten. Der Schuldenberg des Bundes ist auf
+    gut 1,4 Billionen Euro angewachsen. 2022 wird weiteres Geld gebraucht.
+  title: "Corona und Klimakrise: Teure Aussichten f\xFCr 2022"
+- link: "https://www.dw.com/de/meinung-die-wirtschaft-2022-zwischen-d\xFCsternis-und-hoffnungsschimmer/a-60066224?maca=de-rss-de-eco-1018-xml-mrss"
+  published: Fri, 31 Dec 2021 06:50:00 GMT
+  summary: "Corona hat es bislang nicht geschafft, die Wirtschaft in die Knie zu zwingen.\
+    \ Aber kommt nun im neuen Jahr die wirkliche Erholung? Seri\xF6se Prognosen sind\
+    \ unm\xF6glich, meint Henrik B\xF6hme."
+  title: "Meinung: Die Wirtschaft 2022 - zwischen D\xFCsternis und Hoffnungsschimmer"
+- link: "https://www.dw.com/de/2022-f\xFCnf-gefahren-f\xFCr-die-weltwirtschaft/a-60195619?maca=de-rss-de-eco-1018-xml-mrss"
+  published: Thu, 30 Dec 2021 12:08:00 GMT
+  summary: "Die Erholung der Weltwirtschaft wird durch die anhaltende COVID-Pandemie\
+    \ gebremst. Es gibt jedoch noch weitere Risiken f\xFCr die Wirtschaft. Die f\xFC\
+    nf gr\xF6\xDFten Probleme."
+  title: "2022: F\xFCnf Gefahren f\xFCr die Weltwirtschaft"
+- link: "https://www.dw.com/de/schwellenl\xE4nder-bleiben-2022-in-schwierigem-fahrwasser/a-60286968?maca=de-rss-de-eco-1018-xml-mrss"
+  published: Thu, 30 Dec 2021 08:05:00 GMT
+  summary: "Schwellenl\xE4nder-Aktien erlitten 2021 herbe Verluste. Auch f\xFCr 2022\
+    \ stehen die Zeichen schlecht: COVID-19 und steigende Zinsen tr\xFCben den Ausblick.\
+    \ Vor allem China und Lateinamerika werden sich schwer tun."
+  title: "Schwellenl\xE4nder bleiben 2022 in schwierigem Fahrwasser"
+- link: https://www.dw.com/de/wachsender-druck-auf-tech-unternehmen/a-60223887?maca=de-rss-de-eco-1018-xml-mrss
+  published: Wed, 29 Dec 2021 09:33:00 GMT
+  summary: "Technologie hat das Leben w\xE4hrend der Pandemie ertr\xE4glicher und\
+    \ sicherer gemacht. Doch zu welchem Preis, fragen Regulierer mit Blick auf die\
+    \ gro\xDFen Tech-Firmen."
+  title: Wachsender Druck auf Tech-Unternehmen
 
 ---
 Deutsche Welle: DW.com Wirtschaft

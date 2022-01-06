@@ -1,7 +1,7 @@
 ---
 title: "Arts.21: The Cultural Magazine"
 id: podcast_arts21
-published: "Wed, 3 Nov 2021 19:32:23 GMT"
+published: "Thu, 6 Jan 2022 07:57:41 GMT"
 page_link: "https://www.dw.com?maca=en-podcast_arts21-3523-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_arts21"
 language: en
@@ -11,18 +11,44 @@ tags: [ "arts", "Arts.21", "Arts", "Books", "Performing Arts", "Visual Arts" ]
 image_url: https://static.dw.com/image/48813696_7.png
 image_title: ""
 entries:
-- link: "https://www.dw.com/en/antje-r\xE1vik-strubel-blue-woman/av-59582044?maca=en-podcast_arts21-3523-xml-mrss"
-  published: Sat, 23 Oct 2021 19:31:00 GMT
-  summary: "Antje R\xE1vik Strubel's novel about power and powerlessness tells the\
-    \ story of a young woman from the Czech Republic who struggles to reclaim her\
-    \ life after being raped, weaving together various fates and narrative layers."
-  title: "Antje R\xE1vik Strubel: Blue Woman"
+- link: https://www.dw.com/en/dance-against-sexism-in-chile-baila-capucha-baila/av-59881637?maca=en-podcast_arts21-3523-xml-mrss
+  published: Sun, 21 Nov 2021 02:47:00 GMT
+  summary: Red ski masks are their trademark. In Santiago de Chile, the Baila Capucha
+    Baila dance collective has taken the fight against patriarchy and injustice to
+    the streets. They aim to empower more women to speak out against sexual violence.
+  title: "Dance against sexism in Chile \u2013 Baila Capucha Baila"
+- link: "https://www.dw.com/en/flamenco-queer-manuel-li\xF1\xE1n-takes-on-tradition/av-59881653?maca=en-podcast_arts21-3523-xml-mrss"
+  published: Sat, 20 Nov 2021 17:53:00 GMT
+  summary: "Manuel Li\xF1\xE1n of Spain is widely acclaimed as one of the best flamenco\
+    \ dancers on stage today. In his show Viva!, he and his cast of male dancers defy\
+    \ gender roles for an exuberant celebration of an old tradition."
+  title: "Flamenco queer \u2013 Manuel Li\xF1\xE1n takes on tradition"
+- link: https://www.dw.com/en/dance-against-the-odds-choreographer-lia-rodrigues/av-59881659?maca=en-podcast_arts21-3523-xml-mrss
+  published: Sat, 20 Nov 2021 16:29:00 GMT
+  summary: "Lia Rodrigues wants to launch a revolution with dance. She founded an\
+    \ arts and culture center in a favela in Rio de Janeiro, and trains dancers at\
+    \ no cost. Her award-winning Companhia de Dan\xE7as is inspired by a vision of\
+    \ a better future."
+  title: Dance against the odds  - choreographer Lia Rodrigues
+- link: https://www.dw.com/en/2021-pritzker-prize-big-comfort-on-a-small-budget/av-58047279?maca=en-podcast_arts21-3523-xml-mrss
+  published: Sat, 13 Nov 2021 18:54:00 GMT
+  summary: "Anne Lacaton and Jean-Philippe Vassal don\u2019t tear things down. They\
+    \ restore buildings sustainably with surprisingly modest means, while meeting\
+    \ the needs of residents. Their socially and ecologically conscious work won them\
+    \ the 2021 Pritzer Prize."
+  title: '2021 Pritzker Prize: Big comfort on a small budget'
 - link: https://www.dw.com/en/norbert-gstrein-the-second-jacob/av-59582046?maca=en-podcast_arts21-3523-xml-mrss
   published: Sat, 23 Oct 2021 19:31:00 GMT
   summary: An actor wrestles with his past. A profound novel about a man trying to
     preserve a sense of agency over his life, which becomes even more complex in the
     midst of difficult questions like, what is guilt? And what is fate?
   title: 'Norbert Gstrein: The Second Jacob'
+- link: "https://www.dw.com/en/antje-r\xE1vik-strubel-blue-woman/av-59582044?maca=en-podcast_arts21-3523-xml-mrss"
+  published: Sat, 23 Oct 2021 19:31:00 GMT
+  summary: "Antje R\xE1vik Strubel's novel about power and powerlessness tells the\
+    \ story of a young woman from the Czech Republic who struggles to reclaim her\
+    \ life after being raped, weaving together various fates and narrative layers."
+  title: "Antje R\xE1vik Strubel: Blue Woman"
 - link: https://www.dw.com/en/re-connect/av-59581963?maca=en-podcast_arts21-3523-xml-mrss
   published: Sat, 23 Oct 2021 08:01:00 GMT
   summary: "The Frankfurt Book Fair is the world's most important meeting place for\
@@ -56,13 +82,6 @@ entries:
     endless conflict: The West-Eastern Divan Orchestra as a guest at the Rheingau
     Music Festival.'
   title: West-Eastern harmony
-- link: https://www.dw.com/en/2021-pritzker-prize-big-comfort-on-a-small-budget/av-58047279?maca=en-podcast_arts21-3523-xml-mrss
-  published: Sat, 26 Jun 2021 09:10:00 GMT
-  summary: "Anne Lacaton and Jean-Philippe Vassal don\u2019t tear things down. They\
-    \ restore buildings sustainably with surprisingly modest means, while meeting\
-    \ the needs of residents. Their socially and ecologically conscious work won them\
-    \ the 2021 Pritzer Prize."
-  title: '2021 Pritzker Prize: Big comfort on a small budget'
 
 ---
 Discover culture. Germany is becoming a crossroads for the creative

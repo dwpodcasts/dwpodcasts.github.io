@@ -1,7 +1,7 @@
 ---
 title: "Reporter | Video Podcast | Deutsche Welle"
 id: podcast_journal-reporter
-published: "Wed, 3 Nov 2021 19:32:28 GMT"
+published: "Thu, 6 Jan 2022 07:55:29 GMT"
 page_link: "https://www.dw.com/german/?maca=de-podcast_journal-reporter-2043-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_journal-reporter"
 language: de
@@ -11,6 +11,20 @@ tags: [ "News", "Politics" ]
 image_url: https://static.dw.com/image/49814969_7.png
 image_title: ""
 entries:
+- link: https://www.dw.com/de/liebe-und-sex-mit-behinderung-folge-eins/av-60254303?maca=de-podcast_journal-reporter-2043-xml-mrss
+  published: Sat, 25 Dec 2021 06:38:00 GMT
+  summary: "Liebe und Sex von Menschen mit kognitiver Beeintr\xE4chtigung ist oft\
+    \ noch ein Tabu. Im Wohnheim der Lebenshilfe in Langenhagen, einer Hilfseinrichtung\
+    \ bei Hannover, findet man: Jeder soll sein Bed\xFCrfnis nach N\xE4he selbstbestimmt\
+    \ ausleben k\xF6nnen."
+  title: Liebe und Sex mit Behinderung | Folge eins
+- link: https://www.dw.com/de/bundestag-was-wollen-die-jungen/av-59954722?maca=de-podcast_journal-reporter-2043-xml-mrss
+  published: Sun, 28 Nov 2021 05:11:00 GMT
+  summary: "Nach sechzehn Jahren Kanzlerin Angela Merkel sortiert sich Deutschland\
+    \ politisch neu. Die Bundestagswahl hat auch vielen jungen Politikern ihr erstes\
+    \ Mandat beschert, darunter Kassem Taher Saleh (Gr\xFCne) und Ria Schr\xF6der\
+    \ (FDP)."
+  title: 'Bundestag: Was wollen die Jungen?'
 - link: https://www.dw.com/de/holocaust-junge-deutsche-in-auschwitz/av-59455870?maca=de-podcast_journal-reporter-2043-xml-mrss
   published: Sat, 9 Oct 2021 06:41:00 GMT
   summary: "Maria hat noch nie eine KZ-Gedenkst\xE4tte besucht, Vida auch nicht. Jetzt\
@@ -129,19 +143,6 @@ entries:
     \ werden nicht nur die Angeklagten, sondern auch das Assad-Regime. \xDCberlebende\
     \ hoffen auf Gerechtigkeit."
   title: 'Deutschland: Syrische Folter vor Gericht'
-- link: https://www.dw.com/de/deutschland-letzte-chance-kirche/av-57091040?maca=de-podcast_journal-reporter-2043-xml-mrss
-  published: Sat, 3 Apr 2021 09:58:00 GMT
-  summary: "In der Kirche von Pfarrer Martens leben Christen aus dem Iran. Sie sind\
-    \ nach Deutschland gefl\xFCchtet, weil sie wegen ihrer Religion im Iran verfolgt\
-    \ wurden. Trotzdem droht ihnen nun die Abschiebung. Mit dem Kirchenasyl will der\
-    \ Pfarrer das verhindern."
-  title: 'Deutschland: Letzte Chance Kirche'
-- link: https://www.dw.com/de/kolumbien-camilos-kampf-gegen-corona/av-57023049?maca=de-podcast_journal-reporter-2043-xml-mrss
-  published: Tue, 30 Mar 2021 08:59:00 GMT
-  summary: "Der Chirurg Camilo Prieto f\xFChrt ein privilegiertes Leben in Bogot\xE1\
-    . Seit der Pandemie hat er eine Mission: Er fliegt D\xF6rfer in Kolumbiens Hinterland\
-    \ an, um dort gegen Corona zu k\xE4mpfen."
-  title: 'Kolumbien: Camilos Kampf gegen Corona'
 - link: "https://www.dw.com/de/geld-f\xFCr-alle-ein-dorf-und-sein-lottogewinn/a-36901473?maca=de-podcast_journal-reporter-2043-xml-mrss"
   published: Sat, 24 Dec 2016 11:01:00 GMT
   summary: "Das spanische Dorf Sodeto r\xE4umte vor f\xFCnf Jahren bei der Weihnachts-Lotterie\
@@ -609,13 +610,6 @@ entries:
     \ Frauen in ihren traditionellen Kleidern liebevoll genannt werden. Nun wagt sie\
     \ sich ins Musikgesch\xE4ft."
   title: "Eine Bolivianerin k\xE4mpft f\xFCr ihre Musik"
-- link: "https://www.dw.com/de/terror-in-paris-eine-nachbarschaft-h\xE4lt-zusammen/a-18866316?maca=de-podcast_journal-reporter-2043-xml-mrss"
-  published: Sat, 21 Nov 2015 12:19:00 GMT
-  summary: "Bei den Anschl\xE4gen in Paris ermordeten Terroristen 129 Menschen. Viele\
-    \ Bewohner stehen unter Schock.\n\tBei den Anschl\xE4gen in Paris ermordeten islamistische\
-    \ Terroristen 129 Menschen. Einer der Tatorte liegt im Herzen der Stadt. Die Attent\xE4\
-    ter erschossen hier am 13. November 2015 wahllos Menschen vor zwei Restaurants."
-  title: "Terror in Paris: Eine Nachbarschaft h\xE4lt zusammen"
 
 ---
 „DW-Reporter“ ist ein Video-Podcasting-Angebot der Deutschen Welle.

@@ -1,7 +1,7 @@
 ---
 title: "Video-Thema | Videos | DW Deutsch lernen"
 id: dkpodcast_videothema_de
-published: "Wed, 3 Nov 2021 19:33:32 GMT"
+published: "Thu, 6 Jan 2022 07:51:26 GMT"
 page_link: "https://www.dw.com/videothema?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
 atom_link: "https://rss.dw.com/xml/Dkpodcast_videothema_de"
 language: de
@@ -11,223 +11,345 @@ tags: [ "Education", "Language Learning" ]
 image_url: https://static.dw.com/image/18800097_7.jpg
 image_title: ""
 entries:
-- link: https://www.dw.com/de/naturparadies-im-ehemaligen-todesstreifen/l-58980245?maca=de-DKpodcast_videothema_de-3866-xml-mrss
+- link: "https://learngerman.dw.com/de/s\xFC\xDFe-schokolade-bitterer-nachgeschmack/l-60336846?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+  published: Wed, 5 Jan 2022 15:04:00 GMT
+  summary: "Schokolade ist lecker \u2013 aber unter welchen Bedingungen Kakao angebaut\
+    \ wird, wird oft vergessen. Ausbeutung, Kinderarbeit, Sklavenarbeit: Die Probleme\
+    \ in der Kakaoproduktion sind seit Jahrzehnten bekannt."
+  title: "S\xFC\xDFe Schokolade \u2013 bitterer Nachgeschmack"
+- link: https://learngerman.dw.com/de/gemeinsam-mit-dem-rad-zur-schule-der-bicibus/l-60285344?maca=de-DKpodcast_videothema_de-3866-xml-mrss
+  published: Wed, 29 Dec 2021 14:28:00 GMT
+  summary: "In Barcelona fahren jeden Freitag Kinder in einer organisierten Fahrradtour\
+    \ zur Schule. Die Stra\xDFen sind dann f\xFCr Autos gesperrt. Das von Eltern initiierte\
+    \ Projekt \u201EBicibus\u201C soll Radfahren f\xFCr Kinder sicherer machen."
+  title: 'Gemeinsam mit dem Rad zur Schule: der Bicibus'
+- link: "https://learngerman.dw.com/de/terror-in-berlin-f\xFCnf-jahre-danach/l-60226815?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+  published: Wed, 22 Dec 2021 15:40:00 GMT
+  summary: "Am 19. Dezember 2016 fuhr ein Terrorist mit einem LKW auf den Weihnachtsmarkt\
+    \ am Berliner Breitscheidplatz und t\xF6tete mehrere Menschen. Viele wurden verletzt.\
+    \ Ein Mahnmal auf dem Platz erinnert heute an die Opfer."
+  title: "Terror in Berlin: f\xFCnf Jahre danach"
+- link: "https://learngerman.dw.com/de/n\xFCrnberger-lebkuchen-ein-rezept-mit-tradition/l-60130692?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+  published: Wed, 15 Dec 2021 15:20:00 GMT
+  summary: "N\xFCrnberger Lebkuchen sind weltber\xFChmt und eng mit der Geschichte\
+    \ der Stadt verbunden. Im Mittelalter wurden sie in den Kl\xF6stern gebacken.\
+    \ Sp\xE4ter entstand der Beruf des Lebk\xFCchners. Was macht die Lebkuchen so\
+    \ besonders?"
+  title: "N\xFCrnberger Lebkuchen \u2013 ein Rezept mit Tradition"
+- link: "https://learngerman.dw.com/de/k\xF6hlern-ein-altes-handwerk/l-60056646?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+  published: Wed, 8 Dec 2021 14:40:00 GMT
+  summary: "Das K\xF6hlern war fr\xFCher ein wichtiger Wirtschaftszweig. Heute gilt\
+    \ das alte Handwerk nahezu als ausgestorben. DW-Reporter Hendrik Welling besucht\
+    \ eine der letzten K\xF6hlerfamilien und lernt, wie man aus Holz Kohle macht."
+  title: "K\xF6hlern: ein altes Handwerk"
+- link: https://learngerman.dw.com/de/wie-algorithmen-lernen-fair-zu-sein/l-59985976?maca=de-DKpodcast_videothema_de-3866-xml-mrss
+  published: Wed, 1 Dec 2021 14:03:00 GMT
+  summary: "K\xFCnstliche Intelligenz lernt sehr schnell. Dabei besteht jedoch die\
+    \ Gefahr, dass Algorithmen diskriminierende Inhalte im Internet als normal speichern.\
+    \ Forscher in Kopenhagen versuchen, das zu \xE4ndern."
+  title: Wie Algorithmen lernen, fair zu sein
+- link: "https://learngerman.dw.com/de/flamenco-f\xFCr-mehr-vielfalt-und-toleranz/l-59917082?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+  published: Wed, 24 Nov 2021 14:35:00 GMT
+  summary: "Flamenco galt lange als Tanz der Frauen. Der weltber\xFChmte Flamencot\xE4\
+    nzer Manuel Li\xF1\xE1n und sein Ensemble interpretieren den andalusischen Tanz\
+    \ neu und setzen sich f\xFCr mehr Vielfalt und Toleranz in der Gesellschaft ein."
+  title: "Flamenco f\xFCr mehr Vielfalt und Toleranz"
+- link: https://learngerman.dw.com/de/als-erste-schwarze-frau-im-bundestag/l-59844363?maca=de-DKpodcast_videothema_de-3866-xml-mrss
+  published: Wed, 17 Nov 2021 14:56:00 GMT
+  summary: "Awet Tesfaiesus ist schon lange in der Kommunalpolitik aktiv. Nach einem\
+    \ rechtsradikalen Anschlag in ihrem Bundesland beschloss sie, zu bleiben und zu\
+    \ k\xE4mpfen. Nun wurde sie in den Bundestag gew\xE4hlt."
+  title: Als erste schwarze Frau im Bundestag
+- link: https://learngerman.dw.com/de/unterwegs-mit-einer-mode-influencerin/l-59776379?maca=de-DKpodcast_videothema_de-3866-xml-mrss
+  published: Wed, 10 Nov 2021 15:46:00 GMT
+  summary: "Von einer Modenschau zur n\xE4chsten, immer in den schicksten Kleidern\
+    \ von Luxus-Labels. Leonie Hannes Leben gleicht einem Traum. Doch was auf ihrem\
+    \ Instagram-Account so leicht aussieht, ist in Wirklichkeit harte Arbeit."
+  title: Unterwegs mit einer Mode-Influencerin
+- link: "https://learngerman.dw.com/de/nach-der-corona-pause-zur\xFCck-im-cockpit/l-59707545?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+  published: Wed, 3 Nov 2021 15:41:00 GMT
+  summary: "Durch die Pandemie war der Flugverkehr bis vor Kurzem sehr eingeschr\xE4\
+    nkt. Nun w\xE4chst die Nachfrage nach Flugreisen wieder. Wie f\xFChlt es sich\
+    \ f\xFCr die Piloten an, nach einer langen Pause wieder im Cockpit zu sitzen?"
+  title: "Nach der Corona-Pause zur\xFCck im Cockpit"
+- link: "https://learngerman.dw.com/de/schweizer-k\xE4se-jetzt-auch-vegan/l-59640305?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+  published: Wed, 27 Oct 2021 15:20:00 GMT
+  summary: "Schweizer K\xE4se ist ber\xFChmt. Doch in Zeiten des Klimawandels suchen\
+    \ immer mehr Verbraucherinnen und Verbraucher nach Alternativen zu Tierprodukten.\
+    \ Viele traditionelle K\xE4serezepte lassen sich auch vegan umsetzen."
+  title: "Schweizer K\xE4se: jetzt auch vegan"
+- link: "https://learngerman.dw.com/de/ein-altersheim-f\xFCr-k\xFChe/l-59562190?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+  published: Wed, 20 Oct 2021 15:09:00 GMT
+  summary: "Auf dem Butenland-Hof in Norddeutschland werden K\xFChe versorgt, die\
+    \ sonst auf dem Schlachthof gelandet w\xE4ren. In dem tierischen Altersheim genie\xDF\
+    en sie in Ruhe ihre letzten Jahre. Das Projekt hat viele Unterst\xFCtzer."
+  title: "Ein Altersheim f\xFCr K\xFChe"
+- link: https://learngerman.dw.com/de/traumjob-stuntfrau-nicht-nur-bei-james-bond/l-59492956?maca=de-DKpodcast_videothema_de-3866-xml-mrss
+  published: Wed, 13 Oct 2021 14:53:00 GMT
+  summary: "Die Berlinerin Marie Mouroum arbeitet als Stuntfrau \u2013 zuletzt war\
+    \ sie im neuen James-Bond-Film \u201EKeine Zeit zu sterben\u201C zu sehen. Doch\
+    \ bis zum internationalen Erfolg war es ein langer Weg."
+  title: "Traumjob Stuntfrau \u2013 nicht nur bei James Bond"
+- link: "https://learngerman.dw.com/de/ein-leben-auf-der-b\xFChne/l-59425035?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+  published: Wed, 6 Oct 2021 14:28:00 GMT
+  summary: "Christina Tipeva-Lawman war in ihrer Jugend Leistungssportlerin in Bulgarien.\
+    \ Heute tritt sie als Artistin im Phantasialand bei K\xF6ln auf. Auch nach 20\
+    \ Jahren im Gesch\xE4ft steht sie noch gerne auf der B\xFChne."
+  title: "Ein Leben auf der B\xFChne"
+- link: "https://learngerman.dw.com/de/angela-merkel-ein-r\xFCckblick-in-bildern/l-59353754?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+  published: Wed, 29 Sep 2021 15:07:00 GMT
+  summary: "Fotos transportieren Botschaften und l\xF6sen Emotionen aus. Von Angela\
+    \ Merkel gibt es Tausende von Bildern. Wie hat sie sich im Laufe ihrer Karriere\
+    \ ver\xE4ndert? Und was sagen die Fotos \xFCber ihren Politikstil aus?"
+  title: "Angela Merkel: ein R\xFCckblick in Bildern"
+- link: "https://learngerman.dw.com/de/kaum-geh\xF6rt-junge-stimmen-in-der-politik/l-59262616?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+  published: Wed, 22 Sep 2021 15:20:00 GMT
+  summary: "Die Stimmen der jungen Generation werden in der Politik kaum geh\xF6rt.\
+    \ Vor der Bundestagswahl sind viele junge Menschen von den Parteien entt\xE4uscht.\
+    \ Daher versuchen sie, anderweitig Einfluss auf die Politik zu nehmen."
+  title: "Kaum geh\xF6rt: Junge Stimmen in der Politik"
+- link: https://learngerman.dw.com/de/wie-rechtsextreme-auf-social-media-manipulieren/l-59189440?maca=de-DKpodcast_videothema_de-3866-xml-mrss
+  published: Wed, 15 Sep 2021 14:00:00 GMT
+  summary: "Auf Youtube und Instagram ver\xF6ffentlichen auch rechte Influencer Bilder\
+    \ und Videos. Doch auf den ersten Blick ist oft nicht zu erkennen, dass damit\
+    \ Fremdenhass verbreitet werden soll."
+  title: Wie Rechtsextreme auf Social Media manipulieren
+- link: "https://learngerman.dw.com/de/wo-die-meisten-nichtw\xE4hler-leben/l-59123107?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+  published: Wed, 8 Sep 2021 14:22:00 GMT
+  summary: "Duisburg-Hochfeld ist der Wahlkreis mit den meisten Nichtw\xE4hlern Deutschlands.\
+    \ Nur 20 Prozent gaben bei der letzten Kommunalwahl ihre Stimme ab. Doch warum\
+    \ ist das so? Ein Bundestagskandidat sucht nach Antworten."
+  title: "Wo die meisten Nichtw\xE4hler leben"
+- link: "https://learngerman.dw.com/de/sylt-eine-urlaubsinsel-f\xFCr-alle/l-59051165?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+  published: Wed, 1 Sep 2021 13:21:00 GMT
+  summary: "Die Reichen und Sch\xF6nen haben Sylt ber\xFChmt gemacht. Bis heute feiert\
+    \ man dort gerne Partys oder geht shoppen. Aber die Insel hat viel mehr zu bieten:\
+    \ Von ruhigen Spazierg\xE4ngen bis zum Wassersport ist dort alles m\xF6glich."
+  title: "Sylt: eine Urlaubsinsel f\xFCr alle"
+- link: https://learngerman.dw.com/de/naturparadies-im-ehemaligen-todesstreifen/l-58980245?maca=de-DKpodcast_videothema_de-3866-xml-mrss
   published: Wed, 25 Aug 2021 15:17:00 GMT
   summary: "Fr\xFCher durfte niemand den K\xFCstenstreifen auf dem Dar\xDF an der\
     \ Ostsee betreten. Heute ist das Gebiet Teil eines Nationalparks. Eine der gr\xF6\
     \xDFten Attraktionen f\xFCr Touristen: die 90.000 Kraniche, die hier durchziehen."
   title: Naturparadies im ehemaligen Todesstreifen
-- link: https://www.dw.com/de/die-fuggerei-soziales-wohnen-seit-500-jahren/l-58896176?maca=de-DKpodcast_videothema_de-3866-xml-mrss
+- link: https://learngerman.dw.com/de/die-fuggerei-soziales-wohnen-seit-500-jahren/l-58896176?maca=de-DKpodcast_videothema_de-3866-xml-mrss
   published: Wed, 18 Aug 2021 14:25:00 GMT
   summary: "88 Cent im Jahr: So hoch ist die Miete in der Augsburger Fuggerei, der\
     \ \xE4ltesten Sozialsiedlung der Welt. Bis heute sind die Bewohnerinnen und Bewohner\
     \ verpflichtet, t\xE4glich drei Gebete zu sprechen."
   title: 'Die Fuggerei: Soziales Wohnen seit 500 Jahren'
-- link: https://www.dw.com/de/nach-dem-mauerfall-kam-die-kunst/l-58829977?maca=de-DKpodcast_videothema_de-3866-xml-mrss
+- link: https://learngerman.dw.com/de/nach-dem-mauerfall-kam-die-kunst/l-58829977?maca=de-DKpodcast_videothema_de-3866-xml-mrss
   published: Wed, 11 Aug 2021 14:21:00 GMT
   summary: "Wo fr\xFCher die Berliner Mauer stand, entsteht heute Kunst. Das ehemalige\
     \ Niemandsland ist ein kreativer Ort voller Kulturzentren. Nur noch wenig erinnert\
     \ daran, dass die deutsche Hauptstadt einmal geteilt war."
   title: Nach dem Mauerfall kam die Kunst
-- link: https://www.dw.com/de/kommt-nach-der-flut-corona/l-58672893?maca=de-DKpodcast_videothema_de-3866-xml-mrss
+- link: https://learngerman.dw.com/de/auf-weltreise-in-deutschland/l-58755497?maca=de-DKpodcast_videothema_de-3866-xml-mrss
+  published: Wed, 4 Aug 2021 15:09:00 GMT
+  summary: "Auslandsreisen waren w\xE4hrend der Corona-Pandemie kaum m\xF6glich. Autor\
+    \ Christoph Karrasch hat die Zeit genutzt, um innerhalb Deutschlands auf Weltreise\
+    \ zu gehen \u2013 und dabei viel entdeckt."
+  title: Auf Weltreise in Deutschland
+- link: https://learngerman.dw.com/de/kommt-nach-der-flut-corona/l-58672893?maca=de-DKpodcast_videothema_de-3866-xml-mrss
   published: Wed, 28 Jul 2021 15:10:00 GMT
   summary: "Starke Regenf\xE4lle haben im Westen Deutschlands zu einer Flutkatastrophe\
     \ gef\xFChrt. Viele Menschen sind \xFCber Nacht obdachlos geworden und brauchen\
     \ Hilfe. Dazu kommt noch die Gefahr durch Corona."
   title: Kommt nach der Flut Corona?
-- link: "https://www.dw.com/de/der-d\xF6ner-eine-t\xFCrkisch-deutsche-erfolgsgeschichte/l-58580191?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+- link: "https://learngerman.dw.com/de/der-d\xF6ner-eine-t\xFCrkisch-deutsche-erfolgsgeschichte/l-58580191?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
   published: Wed, 21 Jul 2021 15:22:00 GMT
   summary: "Der D\xF6ner gilt allgemein als t\xFCrkisches Gericht. Aber so, wie wir\
     \ ihn in Deutschland kennen, wird er in der T\xFCrkei gar nicht serviert. Wie\
     \ ist der \u201Edeutsche D\xF6ner\u201D entstanden und was sagen t\xFCrkische\
     \ D\xF6ner-Experten dazu?"
   title: "Der D\xF6ner \u2013 eine t\xFCrkisch-deutsche Erfolgsgeschichte"
-- link: "https://www.dw.com/de/vegetarische-spitzenk\xFCche-aus-n\xFCrnberg/l-58264814?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+- link: "https://learngerman.dw.com/de/vegetarische-spitzenk\xFCche-aus-n\xFCrnberg/l-58264814?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
   published: Wed, 14 Jul 2021 15:55:00 GMT
   summary: "Im N\xFCrnberger Restaurant Essigbr\xE4tlein kocht der K\xFCchenchef mit\
     \ frischem Gem\xFCse aus der Region. Die Zutaten sammelt er selbst. Ihn interessieren\
     \ vor allem die Teile der Pflanzen, die normalerweise nicht verwendet werden."
   title: "Vegetarische Spitzenk\xFCche aus N\xFCrnberg"
-- link: https://www.dw.com/de/zwei-stasi-opfer-berichten/l-58189736?maca=de-DKpodcast_videothema_de-3866-xml-mrss
+- link: https://learngerman.dw.com/de/zwei-stasi-opfer-berichten/l-58189736?maca=de-DKpodcast_videothema_de-3866-xml-mrss
   published: Wed, 7 Jul 2021 14:33:00 GMT
   summary: "Ilona Seeber und Silke Orphal wollten raus aus der DDR. Deswegen begann\
     \ die Stasi sie zu beobachten, fast kamen sie ins Gef\xE4ngnis. Jahrzehnte sp\xE4\
     ter lesen sie Berichte, in denen ihr Alltag genau beschrieben wird."
   title: Zwei Stasi-Opfer berichten
-- link: https://www.dw.com/de/klimafreundlich-unterwegs/l-58109942?maca=de-DKpodcast_videothema_de-3866-xml-mrss
+- link: https://learngerman.dw.com/de/klimafreundlich-unterwegs/l-58109942?maca=de-DKpodcast_videothema_de-3866-xml-mrss
   published: Wed, 30 Jun 2021 13:48:00 GMT
   summary: "Es gibt zahlreiche Ideen, wie wir in Zukunft umweltfreundlicher von A\
     \ nach B kommen k\xF6nnen \u2013 zum Beispiel auf Pop-up-Radwegen in Innenst\xE4\
     dten, durch den Ausbau des \xF6ffentlichen Nahverkehrs oder durch Carsharing."
   title: Klimafreundlich unterwegs
-- link: "https://www.dw.com/de/als-tibetische-gefl\xFCchtete-in-der-schweiz/l-58016323?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+- link: "https://learngerman.dw.com/de/als-tibetische-gefl\xFCchtete-in-der-schweiz/l-58016323?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
   published: Wed, 23 Jun 2021 14:54:00 GMT
   summary: "Sie sind aus Tibet in die Schweiz geflohen: Tenzin und Chemey wollen mit\
     \ ihren Kindern ein normales Leben f\xFChren. Doch ihr Asylantrag wurde abgelehnt.\
     \ In Tibet sind sie nicht sicher. Wie soll es weitergehen?"
   title: "Als tibetische Gefl\xFCchtete in der Schweiz"
-- link: https://www.dw.com/de/vorsicht-bei-gesundheitstipps-aus-dem-internet/l-57921685?maca=de-DKpodcast_videothema_de-3866-xml-mrss
+- link: https://learngerman.dw.com/de/vorsicht-bei-gesundheitstipps-aus-dem-internet/l-57921685?maca=de-DKpodcast_videothema_de-3866-xml-mrss
   published: Wed, 16 Jun 2021 15:47:00 GMT
   summary: "Egal ob man abnehmen will oder Fragen zu einer bestimmten Krankheit hat:\
     \ Im Internet findet man Tipps und Antworten. Aber sind sie auch zuverl\xE4ssig?\
     \ Kommunikationsexperte Frank Stratmann wei\xDF, worauf man achten sollte."
   title: Vorsicht bei Gesundheitstipps aus dem Internet
-- link: "https://www.dw.com/de/alice-im-wunderland-seit-\xFCber-150-jahren-faszinierend/l-57829849?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+- link: "https://learngerman.dw.com/de/alice-im-wunderland-seit-\xFCber-150-jahren-faszinierend/l-57829849?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
   published: Wed, 9 Jun 2021 15:17:00 GMT
   summary: 'Es ist eine spannende Geschichte voller fantasievoller Figuren: Alice
     im Wunderland fasziniert auch heute noch Jung und Alt. Eine Ausstellung in London
     zeigt, wie sehr sie Kunst und Kultur beeinflusst hat.'
   title: "Alice im Wunderland \u2013 seit \xFCber 150 Jahren faszinierend"
-- link: "https://www.dw.com/de/mit-dem-esel-\xFCber-die-alpen/l-57757696?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+- link: "https://learngerman.dw.com/de/mit-dem-esel-\xFCber-die-alpen/l-57757696?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
   published: Wed, 2 Jun 2021 14:23:00 GMT
   summary: "Seit ihrer Kindheit w\xFCnschte sich Lotta Lubkoll, mit einem Esel auf\
     \ Wanderschaft zu gehen. Mit ihrem tierischen Begleiter Jonny machte sie den Traum\
     \ wahr und \xFCberquerte im Sommer 2018 die Alpen."
   title: "Mit dem Esel \xFCber die Alpen"
-- link: https://www.dw.com/de/venedigs-zukunft-nach-der-pandemie/l-57670762?maca=de-DKpodcast_videothema_de-3866-xml-mrss
+- link: https://learngerman.dw.com/de/venedigs-zukunft-nach-der-pandemie/l-57670762?maca=de-DKpodcast_videothema_de-3866-xml-mrss
   published: Wed, 26 May 2021 13:46:00 GMT
   summary: Venedig hat seit vielen Jahren Probleme mit dem Massentourismus, gleichzeitig
     lebt die Stadt vom Tourismus. In der Pandemie hatten viele Menschen keine Arbeit.
     Doch kann es weitergehen wie vor Corona?
   title: Venedigs Zukunft nach der Pandemie
-- link: "https://www.dw.com/de/stricken-nicht-nur-etwas-f\xFCr-omas/l-57582928?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+- link: "https://learngerman.dw.com/de/stricken-nicht-nur-etwas-f\xFCr-omas/l-57582928?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
   published: Wed, 19 May 2021 14:30:00 GMT
   summary: "Pullover, M\xFCtzen, Schals \u2013 Stricken liegt im Trend. L\xE4ngst\
     \ haben auch M\xE4nner und J\xFCngere das Stricken f\xFCr sich entdeckt. Strickdesigner\
     \ Stephen West hat sein Hobby sogar zum Beruf gemacht."
   title: "Stricken \u2013 nicht nur etwas f\xFCr Omas"
-- link: https://www.dw.com/de/beton-ist-wieder-in/l-57507481?maca=de-DKpodcast_videothema_de-3866-xml-mrss
+- link: https://learngerman.dw.com/de/beton-ist-wieder-in/l-57507481?maca=de-DKpodcast_videothema_de-3866-xml-mrss
   published: Wed, 12 May 2021 15:35:00 GMT
   summary: "Ab den 1950er-Jahren entstand in Berlin Architektur im Stil des Brutalismus.\
     \ Viele finden die riesigen Geb\xE4ude aus rohem Beton h\xE4sslich, andere sind\
     \ heute aufs Neue von der ungew\xF6hnlichen Baukunst fasziniert."
   title: Beton ist wieder in
-- link: "https://www.dw.com/de/apfelstrudel-s\xFC\xDF-sauer-k\xF6stlich/l-57436258?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+- link: "https://learngerman.dw.com/de/apfelstrudel-s\xFC\xDF-sauer-k\xF6stlich/l-57436258?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
   published: Wed, 5 May 2021 15:04:00 GMT
   summary: "Apfelstrudel \u2013 wie lecker! Die Kombination aus d\xFCnnem Teig, \xC4\
     pfeln und Rosinen ist eine beliebte S\xFC\xDFspeise. Der Wiener Zuckerb\xE4cker\
     \ Rudolf Swonar wei\xDF genau, wie man sie am besten zubereitet."
   title: "Apfelstrudel: s\xFC\xDF, sauer, k\xF6stlich"
-- link: "https://www.dw.com/de/im-land-der-kleinen-burgen-und-schl\xF6sser/l-57364829?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+- link: "https://learngerman.dw.com/de/im-land-der-kleinen-burgen-und-schl\xF6sser/l-57364829?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
   published: Wed, 28 Apr 2021 15:15:00 GMT
   summary: "\xDCber 80 Burgen und Schl\xF6sser hat G\xFCnther Beinert in seinem Leben\
     \ gebaut \u2013 alle in Handarbeit. In seiner Heimatstadt Gerbstedt f\xFChrt ein\
     \ Wanderweg an seinen Modellen vorbei: nicht nur f\xFCr Kinder eine Attraktion."
   title: "Im Land der kleinen Burgen und Schl\xF6sser"
-- link: https://www.dw.com/de/altersarmut-in-einem-reichen-land/l-57277181?maca=de-DKpodcast_videothema_de-3866-xml-mrss
+- link: https://learngerman.dw.com/de/altersarmut-in-einem-reichen-land/l-57277181?maca=de-DKpodcast_videothema_de-3866-xml-mrss
   published: Wed, 21 Apr 2021 14:35:00 GMT
   summary: "Sie m\xFCssen beim Einkauf sparen und bekommen Lebensmittel von sozialen\
     \ Organisationen: In Deutschland leben \xFCber drei Millionen arme Rentnerinnen\
     \ und Rentner. Doch warum ist das so in einem der reichsten L\xE4nder der Welt?"
   title: Altersarmut in einem reichen Land
-- link: https://www.dw.com/de/corona-und-familie-zu-hause-leben-lernen-und-arbeiten/l-57198219?maca=de-DKpodcast_videothema_de-3866-xml-mrss
+- link: https://learngerman.dw.com/de/corona-und-familie-zu-hause-leben-lernen-und-arbeiten/l-57198219?maca=de-DKpodcast_videothema_de-3866-xml-mrss
   published: Wed, 14 Apr 2021 14:31:00 GMT
   summary: "Wegen der Coronakrise findet bei Familie Burgdorff fast alles in der eigenen\
     \ Wohnung statt: Sohn Leandro lernt f\xFCr die Schule, beide Eltern arbeiten von\
     \ zu Hause aus. Das kann ziemlich herausfordernd sein."
   title: 'Corona und Familie: zu Hause leben, lernen und arbeiten'
-- link: "https://www.dw.com/de/so-s\xE4hen-kinderzeichnungen-im-echten-leben-aus/l-57121178?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+- link: "https://learngerman.dw.com/de/so-s\xE4hen-kinderzeichnungen-im-echten-leben-aus/l-57121178?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
   published: Wed, 7 Apr 2021 14:19:00 GMT
   summary: "Kinderzeichnungen sehen oft ziemlich seltsam aus. Doch was passiert, wenn\
     \ man sie am Computer Wirklichkeit werden l\xE4sst? In seinem Projekt \u201EThings\
     \ I have Drawn\u201C hat der britische K\xFCnstler Tom Curtis genau das getan."
   title: "So s\xE4hen Kinderzeichnungen im echten Leben aus"
-- link: https://www.dw.com/de/wie-ein-postbote-zum-shanty-star-wurde/l-57064183?maca=de-DKpodcast_videothema_de-3866-xml-mrss
+- link: https://learngerman.dw.com/de/wie-ein-postbote-zum-shanty-star-wurde/l-57064183?maca=de-DKpodcast_videothema_de-3866-xml-mrss
   published: Wed, 31 Mar 2021 15:40:00 GMT
   summary: "Mit dem Seemannslied \u201ESoon May the Wellerman Come\u201C hat der Schotte\
     \ Nathan Evans im Internet einen Hit gelandet. Inzwischen kommen im Netz Menschen\
     \ aus aller Welt zusammen, um den Song gemeinsam zu singen."
   title: Wie ein Postbote zum Shanty-Star wurde
-- link: "https://www.dw.com/de/kreative-pause-im-k\xFCnstlerdorf/l-56974238?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+- link: "https://learngerman.dw.com/de/kreative-pause-im-k\xFCnstlerdorf/l-56974238?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
   published: Wed, 24 Mar 2021 16:23:00 GMT
   summary: "\xDCber 200 Menschen arbeiten im K\xFCnstlerdorf Holzmarkt 25 in Berlin.\
     \ In der Pandemie bleibt die Gastronomie geschlossen, Veranstaltungen fallen aus.\
     \ Doch die K\xFCnstler und K\xFCnstlerinnen geben trotzdem nicht auf."
   title: "Kreative Pause im K\xFCnstlerdorf"
-- link: https://www.dw.com/de/schaufensterpuppen-auf-pandemie-tour/l-56901688?maca=de-DKpodcast_videothema_de-3866-xml-mrss
+- link: https://learngerman.dw.com/de/schaufensterpuppen-auf-pandemie-tour/l-56901688?maca=de-DKpodcast_videothema_de-3866-xml-mrss
   published: Wed, 17 Mar 2021 16:13:00 GMT
   summary: "Ins Museum gehen, Ski fahren, Party feiern: 111 Schaufensterpuppen machen\
     \ derzeit all das, was Menschen in der Pandemie nicht d\xFCrfen. Die ungew\xF6\
     hnliche Kunstinstallation zeigt, wie sehr der ganz normale Alltag fehlt."
   title: Schaufensterpuppen auf Pandemie-Tour
-- link: "https://www.dw.com/de/der-mensch-die-gr\xF6\xDFte-bedrohung-f\xFCr-die-natur/l-56827458?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+- link: "https://learngerman.dw.com/de/der-mensch-die-gr\xF6\xDFte-bedrohung-f\xFC\
+    r-die-natur/l-56827458?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
   published: Wed, 10 Mar 2021 15:22:00 GMT
   summary: "Jedes Jahr sterben tausende Tier- und Pflanzenarten aus, weil wir ihre\
     \ Lebensr\xE4ume zerst\xF6ren. Um ihnen wirklich zu helfen, m\xFCssten gro\xDF\
     e Teile der Erde vor dem Einfluss des Menschen gesch\xFCtzt werden."
   title: "Der Mensch \u2013 die gr\xF6\xDFte Bedrohung f\xFCr die Natur"
-- link: "https://www.dw.com/de/familie-g\xFCltekin-nach-den-morden-von-hanau/l-56759762?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+- link: "https://learngerman.dw.com/de/familie-g\xFCltekin-nach-den-morden-von-hanau/l-56759762?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
   published: Wed, 3 Mar 2021 15:44:00 GMT
   summary: "Im Februar 2020 ermordete ein Rechtsextremist neun Menschen. Eines seiner\
     \ Opfer war G\xF6khan G\xFCltekin. Seine Familie ist seitdem traumatisiert \u2013\
     \ und wirft den Beh\xF6rden vor, nicht genug zu tun."
   title: "Familie G\xFCltekin nach den Morden von Hanau"
-- link: https://www.dw.com/de/modernes-judentum-frauen-im-rabbineramt/l-56675089?maca=de-DKpodcast_videothema_de-3866-xml-mrss
+- link: https://learngerman.dw.com/de/modernes-judentum-frauen-im-rabbineramt/l-56675089?maca=de-DKpodcast_videothema_de-3866-xml-mrss
   published: Wed, 24 Feb 2021 15:39:00 GMT
   summary: "Frauen, die als Rabbinerinnen arbeiten \u2013 das gibt es noch nicht lange.\
     \ Zwei Frauen erz\xE4hlen, was sie bewegt und welche K\xE4mpfe sie f\xFChren mussten.\
     \ Beide setzen sich f\xFCr ein modernes, vielf\xE4ltiges Judentum ein."
   title: "Modernes Judentum \u2013 Frauen im Rabbineramt"
-- link: "https://www.dw.com/de/\xFCberfordert-im-homeoffice-was-tun/l-56599672?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+- link: "https://learngerman.dw.com/de/\xFCberfordert-im-homeoffice-was-tun/l-56599672?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
   published: Wed, 17 Feb 2021 15:57:00 GMT
   summary: "Wer von zu Hause aus arbeitet, ist durch moderne Kommunikation st\xE4\
     ndig erreichbar. Doch wenn wir immer sofort auf Nachrichten reagieren, leidet\
     \ unsere Arbeit. Um nicht den \xDCberblick zu verlieren, helfen einige Tipps."
   title: "\xDCberfordert im Homeoffice: Was tun?"
-- link: "https://www.dw.com/de/medienbilder-original-oder-f\xE4lschung/l-56523500?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+- link: "https://learngerman.dw.com/de/medienbilder-original-oder-f\xE4lschung/l-56523500?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
   published: Wed, 10 Feb 2021 15:11:00 GMT
   summary: "Sie sehen vollkommen echt aus, sind aber am Computer entstanden: Gef\xE4\
     lschte Bilder von Politikern, K\xFCnstlern oder Personen, die es gar nicht gibt.\
     \ F\xFCr Hollywood ist das faszinierend, f\xFCr die Demokratie aber gef\xE4hrlich."
   title: "Medienbilder: Original oder F\xE4lschung?"
-- link: https://www.dw.com/de/die-schneekugel-eine-erfindung-aus-wien/l-56442105?maca=de-DKpodcast_videothema_de-3866-xml-mrss
+- link: https://learngerman.dw.com/de/die-schneekugel-eine-erfindung-aus-wien/l-56442105?maca=de-DKpodcast_videothema_de-3866-xml-mrss
   published: Wed, 3 Feb 2021 15:35:00 GMT
   summary: "Schneekugeln gibt es \xFCberall auf der Welt zu kaufen \u2013 doch erfunden\
     \ wurden sie vor \xFCber 120 Jahren in Wien. Der Enkel des Erfinders Erwin Perzy\
     \ produziert bis heute Schneekugeln im Familienbetrieb."
   title: "Die Schneekugel \u2013 eine Erfindung aus Wien"
-- link: "https://www.dw.com/de/deutschlands-gr\xF6\xDFtes-raubtier/l-56360842?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+- link: "https://learngerman.dw.com/de/deutschlands-gr\xF6\xDFtes-raubtier/l-56360842?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
   published: Wed, 27 Jan 2021 15:02:00 GMT
   summary: "Sie sind s\xFC\xDF, aber auch gef\xE4hrlich: Kegelrobben sind die gr\xF6\
     \xDFten frei lebenden Raubtiere in Deutschland. Die Insel Helgoland ist ihre Kinderstube.\
     \ Hier werden jedes Jahr Hunderte kleine Robben geboren."
   title: "Deutschlands gr\xF6\xDFtes Raubtier"
-- link: https://www.dw.com/de/homeschooling-in-der-coronakrise-gar-nicht-so-einfach/l-56285462?maca=de-DKpodcast_videothema_de-3866-xml-mrss
+- link: https://learngerman.dw.com/de/homeschooling-in-der-coronakrise-gar-nicht-so-einfach/l-56285462?maca=de-DKpodcast_videothema_de-3866-xml-mrss
   published: Wed, 20 Jan 2021 15:04:00 GMT
   summary: "Die Frage, ob die Schulen wegen Corona geschlossen bleiben sollten, wird\
     \ hei\xDF diskutiert. Denn Homeschooling ist in Deutschland noch immer schwierig:\
     \ nicht nur f\xFCr die Kinder, sondern auch f\xFCr Eltern und Lehrer."
   title: 'Homeschooling in der Coronakrise: gar nicht so einfach'
-- link: "https://www.dw.com/de/schwere-vorw\xFCrfe-deutscher-turnerinnen/l-56213088?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+- link: "https://learngerman.dw.com/de/schwere-vorw\xFCrfe-deutscher-turnerinnen/l-56213088?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
   published: Wed, 13 Jan 2021 15:36:00 GMT
   summary: "Beleidigungen, Mobbing, Training trotz Schmerzen: Die Turnerinnen Naomi\
     \ und Ruby van Dijk sprechen dar\xFCber, was sie an Trainingszentren erlebt haben."
   title: "Schwere Vorw\xFCrfe deutscher Turnerinnen"
-- link: https://www.dw.com/de/jerusalema-ein-tanz-song-geht-um-die-welt/l-56144747?maca=de-DKpodcast_videothema_de-3866-xml-mrss
+- link: https://learngerman.dw.com/de/jerusalema-ein-tanz-song-geht-um-die-welt/l-56144747?maca=de-DKpodcast_videothema_de-3866-xml-mrss
   published: Wed, 6 Jan 2021 14:49:00 GMT
   summary: "Im Corona-Jahr 2020 begeisterte der Song \u201EJerusalema\u201C Millionen\
     \ von Menschen von Afrika bis Australien. Rund um den Globus entstand so ein Gemeinschaftsgef\xFC\
     hl \u2013 \xFCber alle Grenzen hinweg."
   title: "\u201EJerusalema\u201C: Ein Tanz-Song geht um die Welt"
-- link: "https://www.dw.com/de/e-zigaretten-ges\xFCnder-oder-gef\xE4hrlicher-als-tabak/l-56096950?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+- link: "https://learngerman.dw.com/de/e-zigaretten-ges\xFCnder-oder-gef\xE4hrlicher-als-tabak/l-56096950?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
   published: Wed, 30 Dec 2020 14:49:00 GMT
   summary: "E-Zigaretten werden als ges\xFCndere Alternative zu herk\xF6mmlichen Zigaretten\
     \ verkauft. Doch stimmt das wirklich? In vielen L\xE4ndern sind E-Zigaretten verboten.\
     \ \xDCber die gesundheitlichen Folgen wei\xDF man noch wenig."
   title: "E-Zigaretten: Ges\xFCnder oder gef\xE4hrlicher als Tabak?"
-- link: https://www.dw.com/de/berlin-hat-k-ein-neues-schloss/l-56044994?maca=de-DKpodcast_videothema_de-3866-xml-mrss
+- link: https://learngerman.dw.com/de/berlin-hat-k-ein-neues-schloss/l-56044994?maca=de-DKpodcast_videothema_de-3866-xml-mrss
   published: Wed, 23 Dec 2020 15:13:00 GMT
   summary: "\xDCber diesen Neubau wurde lange diskutiert: Im Dezember 2020 wurde in\
     \ Berlin das neue Humboldt Forum er\xF6ffnet \u2013 und es sieht fast so aus wie\
     \ das alte Berliner Stadtschloss. Auch die Ausstellung darin ist umstritten."
   title: Berlin hat (k)ein neues Schloss
-- link: https://www.dw.com/de/die-weihnachtsgurke/l-55960021?maca=de-DKpodcast_videothema_de-3866-xml-mrss
+- link: https://learngerman.dw.com/de/die-weihnachtsgurke/l-55960021?maca=de-DKpodcast_videothema_de-3866-xml-mrss
   published: Wed, 16 Dec 2020 14:22:00 GMT
   summary: "US-Amerikaner glauben, dass man in Deutschland eine Gurke aus Glas in\
     \ den Weihnachtsbaum h\xE4ngt. Doch hier pflegt kaum jemand diese Tradition. Woher\
     \ kommt sie also?"
   title: Die Weihnachtsgurke
-- link: "https://www.dw.com/de/mit-kr\xFCcken-auf-der-baustelle/l-55882463?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+- link: "https://learngerman.dw.com/de/mit-kr\xFCcken-auf-der-baustelle/l-55882463?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
   published: Wed, 9 Dec 2020 15:23:00 GMT
   summary: "Walter Stuber leitet seit fast 20 Jahren ein erfolgreiches Bauunternehmen\
     \ \u2013 und ist gehbehindert. Seine Kr\xFCcken haben ihn in seiner Karriere nicht\
@@ -239,382 +361,12 @@ entries:
     \ dem Affen und dem Pferd Kinder und Erwachsene. Die schwedische Schriftstellerin\
     \ Astrid Lindgren hat Pippi Langstrumpf erfunden."
   title: 'Pippi Langstrumpf: Eine Kinderheldin wird 75'
-- link: "https://www.dw.com/de/ein-ort-wo-m\xE4rchen-wahr-werden/l-55713829?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
+- link: "https://learngerman.dw.com/de/ein-ort-wo-m\xE4rchen-wahr-werden/l-55713829?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
   published: Wed, 25 Nov 2020 14:21:00 GMT
   summary: "In der Schweiz gibt es einen magischen Ort: Der K\xFCnstler Bruno Weber\
     \ hat dort sein Haus und den dazugeh\xF6rigen Park mit M\xE4rchenfiguren und Fabelwesen\
     \ bev\xF6lkert. Besucher sind herzlich willkommen."
   title: "Ein Ort, wo M\xE4rchen wahr werden"
-- link: https://www.dw.com/de/lucky-luke-ein-kult-cowboy-ganz-aktuell/l-55650207?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 18 Nov 2020 15:05:00 GMT
-  summary: "Lucky Luke reitet wieder. Im 99. Band der Comic-Reihe tritt zum ersten\
-    \ Mal ein schwarzer Sheriff auf. Zeichner Achd\xE9 und Autor Jul erz\xE4hlen,\
-    \ wie sie versuchen, Traditionen mit zeitgem\xE4\xDFen Themen zu verbinden."
-  title: "Lucky Luke \u2013 Ein Kult-Cowboy ganz aktuell"
-- link: https://www.dw.com/de/zwischen-jodeln-und-blues/l-55565366?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 11 Nov 2020 14:42:00 GMT
-  summary: "Erika Stucky ist in der Schweiz als Jodlerin bekannt. Geboren wurde die\
-    \ K\xFCnstlerin in den USA. Und das hat ihren Musikstil stark beeinflusst. Dort\
-    \ findet man Einfl\xFCsse von Blues und Rock \u2019n\u2019 Roll."
-  title: Zwischen Jodeln und Blues
-- link: "https://www.dw.com/de/wolle-aus-deutschland-ein-schwieriges-gesch\xE4ft/l-55497858?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 4 Nov 2020 15:00:00 GMT
-  summary: "Schafe zu halten ist in Deutschland ein schwieriges Gesch\xE4ft. Die Wolle\
-    \ bringt kein Geld, denn die Konkurrenz aus dem Ausland ist zu stark und die Verarbeitung\
-    \ zu teuer. Eine Schneiderin m\xF6chte das \xE4ndern."
-  title: "Wolle aus Deutschland: ein schwieriges Gesch\xE4ft"
-- link: "https://www.dw.com/de/wildkr\xE4uter-unbekannte-sch\xE4tze-der-natur/l-55422706?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 28 Oct 2020 16:25:00 GMT
-  summary: "Was f\xFCr viele Menschen nutzloses Unkraut ist, kommt in Peter Frankes\
-    \ Restaurant auf den Teller. Denn der gelernte Koch kennt die vielen positiven\
-    \ Eigenschaften, die diese Pflanzen haben."
-  title: "Wildkr\xE4uter: unbekannte Sch\xE4tze der Natur"
-- link: https://www.dw.com/de/gefahrlos-auf-corona-testen/l-55338316?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 21 Oct 2020 13:52:00 GMT
-  summary: "In Berlin werden Patienten jetzt am Fenster einer Arztpraxis auf Corona\
-    \ getestet. Bei der wachsenden Menschenschlange vor ihrem Fenster w\xFCnscht sich\
-    \ die \xC4rztin aber lieber Tests f\xFCr zu Hause."
-  title: Gefahrlos auf Corona testen
-- link: https://www.dw.com/de/als-kind-misshandelt-ein-schweizer-schicksal/l-55273892?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 14 Oct 2020 15:06:00 GMT
-  summary: "Jahrzehntelang wurden Menschen in der Schweiz \u201Eadministrativ versorgt\u201C\
-    . Sie verloren ihre Rechte und ihre Freiheit, weil sie nicht der gesellschaftlichen\
-    \ Norm entsprachen. Nun k\xE4mpfen die Opfer um Anerkennung."
-  title: "Als Kind misshandelt \u2013 ein Schweizer Schicksal"
-- link: https://www.dw.com/de/fridays-for-future-demonstriert-wieder/l-55104960?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 30 Sep 2020 12:51:00 GMT
-  summary: "Trotz Corona geht die \u201EFridays for Future\u201C-Bewegung wieder auf\
-    \ die Stra\xDFe, um f\xFCr den Klimaschutz zu k\xE4mpfen. Unterst\xFCtzt werden\
-    \ sie dabei auch von der \xE4lteren Generation."
-  title: "\u201EFridays for Future\u201C demonstriert wieder"
-- link: "https://www.dw.com/de/test-urlauber-pr\xFCfen-berliner-flughafen-ber-vor-der-er\xF6\
-    ffnung/l-55028210?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 23 Sep 2020 14:00:00 GMT
-  summary: "Seit Jahren ist der neue Berliner Flughafen BER eine Baustelle, immer\
-    \ wieder wurde die Er\xF6ffnung verschoben. Kurz vor dem endg\xFCltigen Termin\
-    \ pr\xFCfen Hunderte Freiwillige, ob nun auch wirklich alles funktioniert."
-  title: "Test-Urlauber pr\xFCfen Berliner Flughafen BER vor der Er\xF6ffnung"
-- link: https://www.dw.com/de/mit-weniger-arbeit-die-umwelt-retten/l-54945980?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 16 Sep 2020 14:04:00 GMT
-  summary: "Wenn man nur vier Tage in der Woche arbeiten w\xFCrde, k\xF6nnte man CO2-Emissionen\
-    \ reduzieren und einen nachhaltigeren Lebensstil entwickeln. Und es g\xE4be noch\
-    \ andere positive Auswirkungen."
-  title: Mit weniger Arbeit die Umwelt retten
-- link: "https://www.dw.com/de/sechs-d\xF6rfer-gegen-den-braunkohleabbau/l-54866515?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 9 Sep 2020 13:46:00 GMT
-  summary: "Bis 2038 will Deutschland noch Kohle abbauen. Bis dahin sollen allein\
-    \ f\xFCr den Tagebau Garzweiler noch sechs D\xF6rfer zerst\xF6rt werden. Doch\
-    \ nicht alle wollen ihre Heimat verlassen. Sie protestieren gegen die Umsiedlung."
-  title: "Sechs D\xF6rfer gegen den Braunkohleabbau"
-- link: "https://www.dw.com/de/leben-in-deutschland-f\xFCnf-jahre-nach-der-flucht/l-54792879?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 2 Sep 2020 14:07:00 GMT
-  summary: "F\xFCnf Jahre ist es her, dass Familie Suleiman von Syrien nach Deutschland\
-    \ gefl\xFCchtet ist. Inzwischen f\xFChlen sie sich hier immer wohler, sagt Mustafa\
-    \ Suleiman. Trotzdem ist der Alltag oft nicht leicht."
-  title: "Leben in Deutschland, f\xFCnf Jahre nach der Flucht"
-- link: https://www.dw.com/de/tanzen-auf-distanz/l-54702702?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 26 Aug 2020 13:01:00 GMT
-  summary: "Leben auf Distanz, Lieben auf Distanz, Tanzen auf Distanz \u2013 Corona\
-    \ ver\xE4ndert unsere Gewohnheiten. Die Einschr\xE4nkungen verlangen Disziplin,\
-    \ aber machen auch erfinderisch. Und Tanzen macht immer noch Spa\xDF."
-  title: Tanzen auf Distanz
-- link: https://www.dw.com/de/sumpfkrebse-erobern-berlin/l-54622127?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 19 Aug 2020 13:36:00 GMT
-  summary: Mitten in Berlin haben Sumpfkrebse einen neuen Lebensraum gefunden. Die
-    in Deutschland bisher unbekannte Tierart vermehrt sich sehr schnell und bedroht
-    dadurch andere Arten. Restaurants bieten sie als Trendgericht an.
-  title: Sumpfkrebse erobern Berlin
-- link: https://www.dw.com/de/aggressive-stimmung-wegen-corona/l-54540618?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 12 Aug 2020 14:44:00 GMT
-  summary: "Die Corona-Pandemie und die Maskenpflicht machen vielen Menschen schlechte\
-    \ Laune. Aggressives Verhalten und Gewalt in der \xD6ffentlichkeit nehmen zu.\
-    \ Darunter haben einige Personengruppen besonders zu leiden."
-  title: Aggressive Stimmung wegen Corona?
-- link: "https://www.dw.com/de/gendermedizin-f\xFCr-eine-individuelle-gesundheitsversorgung/l-54445916?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 5 Aug 2020 14:14:00 GMT
-  summary: "Egal ob Mann oder Frau: Gesundheit ist f\xFCr beide Geschlechter wichtig.\
-    \ Aber wenn es um Sport, Ern\xE4hrung oder Arztbesuche geht, verhalten sie sich\
-    \ ganz unterschiedlich. Gendermediziner erforschen diese Unterschiede."
-  title: "Gendermedizin \u2013 f\xFCr eine individuelle Gesundheitsversorgung"
-- link: "https://www.dw.com/de/ein-digitales-museum-f\xFCr-ger\xE4usche/l-54366556?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 29 Jul 2020 14:14:00 GMT
-  summary: "Manche Ger\xE4usche haben uns fr\xFCher im Alltag begleitet, aber heute\
-    \ sind sie fast vergessen. Zwei Essener haben im Internet ein Archiv f\xFCr Ger\xE4\
-    usche aufgebaut, die durch digitale Technik zu verschwinden drohen."
-  title: "Ein digitales Museum f\xFCr Ger\xE4usche"
-- link: "https://www.dw.com/de/die-gro\xDFe-welt-der-kleinen-z\xFCge/l-54265873?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 22 Jul 2020 14:22:00 GMT
-  summary: "Miniaturz\xFCge, egal wohin man schaut: Die Modellbauwelten in Bispingen\
-    \ sind ein Paradies f\xFCr kleine und gro\xDFe Eisenbahnfans. 500 Z\xFCge rollen\
-    \ hier durch liebevoll gestaltete Landschaften aus aller Welt."
-  title: "Die gro\xDFe Welt der kleinen Z\xFCge"
-- link: https://www.dw.com/de/panda-babys-begeistern-besucher-im-berliner-zoo/l-54186779?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 15 Jul 2020 14:08:00 GMT
-  summary: "Pit und Paule sind die ersten Pandas, die in Deutschland geboren wurden.\
-    \ Mit ihrem s\xFC\xDFen schwarz-wei\xDFen Fell sind sie die Stars im Berliner\
-    \ Zoo. Tierpfleger Corvin Schmohl hat sie vom ersten Tag an begleitet."
-  title: Panda-Babys begeistern Besucher im Berliner Zoo
-- link: "https://www.dw.com/de/staatshilfen-f\xFCr-gro\xDFunternehmen-zum-wohle-aller/l-54080795?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 8 Jul 2020 13:31:00 GMT
-  summary: "In der Corona-Krise sind viele Unternehmen in Schwierigkeiten geraten.\
-    \ Jetzt bekommen sie Hilfe vom Staat. Gro\xDFe Summen Steuergelder flie\xDFen\
-    \ auch in gro\xDFe Unternehmen. Doch warum stellt der Staat keine Bedingungen?"
-  title: "Staatshilfen f\xFCr Gro\xDFunternehmen: zum Wohle aller?"
-- link: https://www.dw.com/de/venedig-will-keinen-massentourismus-mehr/l-54012584?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 1 Jul 2020 14:27:00 GMT
-  summary: "Lange war es wegen Corona ungew\xF6hnlich leer in Venedig, aber bald kommen\
-    \ die Touristen wieder. Viele Venezianer wollen nicht zur\xFCck zum Massentourismus.\
-    \ Drei Einheimische erz\xE4hlen, was sie sich f\xFCr ihre Stadt w\xFCnschen."
-  title: Venedig will keinen Massentourismus mehr
-- link: "https://www.dw.com/de/deutsch-franz\xF6sische-freundschaft-in-der-krise/l-53926518?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 24 Jun 2020 14:26:00 GMT
-  summary: "Deutsche und Franzosen verbindet eine enge Freundschaft. Aber in der Corona-Krise\
-    \ sahen vor allem manche Deutsche in ihren Nachbarn eine Gefahr. Die Schlie\xDF\
-    ung der Grenzen sorgte f\xFCr Unruhe."
-  title: "Deutsch-franz\xF6sische Freundschaft in der Krise?"
-- link: https://www.dw.com/de/wie-leben-schwarze-menschen-in-deutschland/l-53843158?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 17 Jun 2020 14:46:00 GMT
-  summary: "Man wei\xDF sehr wenig \xFCber die schwarze Community in Deutschland.\
-    \ Der Afrozensus soll das \xE4ndern: Es werden Informationen \xFCber den Alltag\
-    \ schwarzer Menschen in Deutschland und ihre Erfahrungen mit Rassismus erfasst."
-  title: Wie leben schwarze Menschen in Deutschland?
-- link: "https://www.dw.com/de/corona-lockerungen-eindr\xFCcke-aus-berlin/l-53760293?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 10 Jun 2020 15:15:00 GMT
-  summary: "In Berlin ist nach dem Lockdown wieder mehr erlaubt. Auf den Stra\xDF\
-    en sieht man wieder mehr Menschen. Doch wie geht es den Berlinerinnen und Berlinern\
-    \ damit? Die Reaktionen sind gemischt."
-  title: "Corona-Lockerungen: Eindr\xFCcke aus Berlin"
-- link: https://www.dw.com/de/reich-durch-klicks/l-53669279?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 3 Jun 2020 15:18:00 GMT
-  summary: "Auf Youtube kennt man Alexander B\xF6hm besser unter dem Namen AlexiBexi.\
-    \ Dort ist er mit seinen Videos sehr erfolgreich und verdient seit zehn Jahren\
-    \ Geld \u2013 auch durch Werbung f\xFCr Unternehmen."
-  title: Reich durch Klicks
-- link: "https://www.dw.com/de/weltber\xFChmt-pommes-frites-aus-belgien/l-53585784?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 27 May 2020 13:29:00 GMT
-  summary: "Das kleine Belgien hat eine gro\xDFe Leidenschaft f\xFCr frittierte Kartoffeln.\
-    \ Die Pommes frites werden aus einer bestimmten Kartoffelsorte gemacht und m\xFC\
-    ssen die richtige Gr\xF6\xDFe haben. Nicht nur die Belgier lieben sie."
-  title: "Weltber\xFChmt: Pommes frites aus Belgien"
-- link: "https://www.dw.com/de/eine-mobile-b\xE4ckerei-f\xFCr-die-brotw\xFCste/l-53508973?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 20 May 2020 13:27:00 GMT
-  summary: "Frisches, selbst gebackenes Brot ist in Brandenburg selten geworden. Denn\
-    \ immer mehr traditionelle B\xE4ckereien verschwinden. Mit seiner mobilen B\xE4\
-    ckerei will Florian Domberger die Menschen wieder mit gutem Brot versorgen."
-  title: "Eine mobile B\xE4ckerei f\xFCr die \u201EBrotw\xFCste\u201C"
-- link: "https://www.dw.com/de/rassismus-w\xE4hrend-der-coronapandemie/l-53424854?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 13 May 2020 13:51:00 GMT
-  summary: "Asiatisch aussehende Menschen werden w\xE4hrend der Corona-Krise in vielen\
-    \ L\xE4ndern angefeindet. Eine Berlinerin m\xF6chte diesen Rassismus nicht l\xE4\
-    nger akzeptieren. Sie baut ein Netzwerk auf, um Betroffene zu unterst\xFCtzen."
-  title: "Rassismus w\xE4hrend der Coronapandemie"
-- link: https://www.dw.com/de/ein-impfstoff-im-schnellverfahren/l-53351444?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 6 May 2020 14:04:00 GMT
-  summary: "Eigentlich dauert es Jahre, einen neuen Impfstoff zu entwickeln. Doch\
-    \ im Kampf gegen das Coronavirus soll alles schneller gehen. Auf verschiedenen\
-    \ Wegen suchen Forscher nach dem Mittel, das die Pandemie beenden k\xF6nnte."
-  title: Ein Impfstoff im Schnellverfahren
-- link: https://www.dw.com/de/das-licht-und-seine-geheimnisse/l-53279655?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 29 Apr 2020 13:12:00 GMT
-  summary: "Schneller als das Licht kann man sich nicht durch den Kosmos bewegen.\
-    \ Selbst Raum und Zeit ver\xE4ndern sich bei Lichtgeschwindigkeit. Doch warum\
-    \ ist das so? Zwei Physiker gehen diesem Geheimnis auf den Grund."
-  title: Das Licht und seine Geheimnisse
-- link: "https://www.dw.com/de/beatmungsger\xE4te-statt-autos/l-53208096?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 22 Apr 2020 14:20:00 GMT
-  summary: "In vielen Krankenh\xE4usern fehlen Beatmungsger\xE4te f\xFCr COVID-19-Patienten.\
-    \ Mit Hilfe des Autoherstellers SEAT stellt ein spanisches Start-up-Unternehmen\
-    \ deshalb eigene Ger\xE4te her. Dabei kommen auch Autoteile zum Einsatz."
-  title: "Beatmungsger\xE4te statt Autos"
-- link: "https://www.dw.com/de/virtual-reality-in-der-zerst\xF6rten-kathedrale-notre-dame/l-53134095?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 15 Apr 2020 14:10:00 GMT
-  summary: "Seit dem Brand im April 2019 ist die Pariser Kathedrale Notre-Dame f\xFC\
-    r die \xD6ffentlichkeit gesperrt. Ein Filmteam begleitet den Wiederaufbau \u2013\
-    \ und zeigt seltene Bilder aus dem Inneren der zerst\xF6rten Kirche."
-  title: "Virtual Reality: In der zerst\xF6rten Kathedrale Notre-Dame"
-- link: "https://www.dw.com/de/wertvolle-sch\xE4tze-unter-dem-eis/l-53061070?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 8 Apr 2020 13:13:00 GMT
-  summary: "Immer mehr ausl\xE4ndische Investoren m\xF6chten Bodensch\xE4tze in Gr\xF6\
-    nland abbauen. Aber die Einheimischen protestieren dagegen. Die Bodensch\xE4tze\
-    \ Gr\xF6nlands, sagen sie, geh\xF6ren den Gr\xF6nl\xE4ndern."
-  title: "Wertvolle Sch\xE4tze unter dem Eis"
-- link: "https://www.dw.com/de/angst-vor-corona-im-fl\xFCchtlingscamp-moria/l-52980003?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 1 Apr 2020 12:35:00 GMT
-  summary: "Im Fl\xFCchtlingscamp Moria auf der griechischen Insel Lesbos leben 20.000\
-    \ Menschen unter schlimmen Bedingungen. Der Ausbruch des Coronavirus w\xE4re hier\
-    \ eine Katastrophe. Hilfsorganisationen tun alles, um das zu verhindern."
-  title: "Angst vor Corona im Fl\xFCchtlingscamp Moria"
-- link: https://www.dw.com/de/wegen-corona-medikamente-werden-knapp/l-52913283?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 25 Mar 2020 15:14:00 GMT
-  summary: "Jahrelang haben deutsche Krankenkassen Medikamente und Wirkstoffe aus\
-    \ Asien gekauft. Das k\xF6nnte jetzt schwierig werden, denn wegen der Corona-Krise\
-    \ k\xF6nnen die Unternehmen nicht mehr so viel liefern wie sonst."
-  title: 'Wegen Corona: Medikamente werden knapp'
-- link: "https://www.dw.com/de/kleiner-kuckuck-ganz-gro\xDF/l-52825002?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 18 Mar 2020 15:30:00 GMT
-  summary: "Der Schwarzwald ist seit \xFCber zwei Jahrhunderten ber\xFChmt f\xFCr\
-    \ seine Kuckucksuhren. In Triberg steht sogar ein Exemplar, das so gro\xDF ist\
-    \ wie ein ganzes Haus. F\xFCnf Jahr lang haben zwei Uhrmacher daran gebastelt."
-  title: "Kleiner Kuckuck ganz gro\xDF"
-- link: "https://www.dw.com/de/k\xE4mpfen-wie-im-kino/l-52721190?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 11 Mar 2020 14:55:00 GMT
-  summary: "In Frankreich gibt es seit einigen Jahren eine Sportart wie aus dem Kino:\
-    \ Fechten mit Lichtschwertern. Die neue Disziplin begeistert vor allem junge Menschen\
-    \ \u2013 und ist mehr als nur ein Spa\xDF f\xFCr Star-Wars-Fans."
-  title: "K\xE4mpfen wie im Kino"
-- link: "https://www.dw.com/de/ein-restaurant-ganz-ohne-m\xFCll/l-52635837?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 4 Mar 2020 16:05:00 GMT
-  summary: "David Suchy und seine Freundin Jasmin Martin haben sich den Traum vom\
-    \ eigenen Restaurant erf\xFCllt. Das Besondere dabei ist: In \u201EFrea\u201C\
-    \ bieten sie nur vegane Gerichte an und versuchen, jede Art von M\xFCll zu vermeiden."
-  title: "Ein Restaurant ganz ohne M\xFCll"
-- link: https://www.dw.com/de/ein-job-in-deutschland-mit-einem-abschluss-aus-dem-ausland/l-52542728?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 26 Feb 2020 15:35:00 GMT
-  summary: Tarek Khouli floh 2015 vor dem Krieg in Syrien. Sein Diplom als Industriemechaniker
-    wurde in Deutschland anerkannt. Mittlerweile arbeitet er in einer deutschen Firma,
-    die Vakkumsauger herstellt.
-  title: Ein Job in Deutschland mit einem Abschluss aus dem Ausland
-- link: "https://www.dw.com/de/nachfahren-von-nazi-opfern-k\xE4mpfen-um-deutsche-p\xE4\
-    sse/l-52421816?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 19 Feb 2020 15:49:00 GMT
-  summary: "Nachfahren von deutschen B\xFCrgern, die w\xE4hrend des Nationalsozialismus\
-    \ fliehen mussten, haben ein Recht auf die deutsche Staatsb\xFCrgerschaft. Aber\
-    \ viele Ausnahmen machen es schwer, den deutschen Pass wirklich zu bekommen."
-  title: "Nachfahren von Nazi-Opfern k\xE4mpfen um deutsche P\xE4sse"
-- link: https://www.dw.com/de/wie-wintersport-nachhaltig-werden-soll/l-52352212?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 12 Feb 2020 14:55:00 GMT
-  summary: "Immer mehr Skiorte in den Alpen versuchen, das Umweltgewissen ihrer Besucher\
-    \ zu beruhigen. Aber k\xF6nnen Skigebiete mit Schneekanonen nachhaltig sein? Im\
-    \ Schweizer Urlaubsort Laax versucht man es zumindest."
-  title: Wie Wintersport nachhaltig werden soll
-- link: "https://www.dw.com/de/pflegekr\xE4fte-aus-namibia-f\xFCr-deutschland/l-52268020?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 5 Feb 2020 15:18:00 GMT
-  summary: "In Deutschland fehlt es an Fachkr\xE4ften. Besonders im Bereich der Krankenpflege\
-    \ wird Personal ben\xF6tigt. Deswegen suchen deutsche Kliniken auch in L\xE4ndern\
-    \ wie zum Beispiel Namibia nach Pflegekr\xE4ften."
-  title: "Pflegekr\xE4fte aus Namibia f\xFCr Deutschland"
-- link: https://www.dw.com/de/arbeitsalltag-von-menschen-mit-sehbehinderungen/l-52178638?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 29 Jan 2020 14:31:00 GMT
-  summary: "Michaela Resa arbeitet als Physiotherapeutin, Pamela Pabst als Anw\xE4\
-    ltin und Regina Vollbrecht ist Beauftragte f\xFCr Menschen mit Behinderung. Das\
-    \ Besondere daran ist: Die drei Frauen sind sehbehindert."
-  title: Arbeitsalltag von Menschen mit Sehbehinderungen
-- link: "https://www.dw.com/de/orang-utans-training-f\xFCr-ein-leben-in-freiheit/l-51600019?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 22 Jan 2020 12:29:00 GMT
-  summary: "Im Bukit Tigapuluh Nationalpark auf Sumatra lernen Orang-Utans, die aus\
-    \ der Gefangenschaft befreit wurden, wie sie in der Wildnis \xFCberleben k\xF6\
-    nnen. Auch das richtige Klettern m\xFCssen sie erst lernen."
-  title: "Orang-Utans: Training f\xFCr ein Leben in Freiheit"
-- link: "https://www.dw.com/de/der-h\xF6chstgelegene-bahnhof-europas/l-52010657?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 15 Jan 2020 14:42:00 GMT
-  summary: "Es war ein riesiges und gef\xE4hrliches Projekt: Anfang des 20. Jahrhunderts\
-    \ wurde eine Zugstrecke durch die Schweizer Alpen gebaut \u2013 bis zu einem Bahnhof\
-    \ auf dem 3454 hohen Jungfraujoch."
-  title: "Der h\xF6chstgelegene Bahnhof Europas"
-- link: https://www.dw.com/de/faire-kleidung-aus-europa/l-51933066?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 8 Jan 2020 16:20:00 GMT
-  summary: "M\xF6glichst viel und m\xF6glichst billig \u2013 so muss Kleidung f\xFC\
-    r viele Menschen heutzutage sein. Sven Diestelow geht gegen diesen Trend vor:\
-    \ mit fairen Kleidungsst\xFCcken, die nachhaltig in Europa produziert werden."
-  title: Faire Kleidung aus Europa
-- link: https://www.dw.com/de/rembrandt-weltstar-auch-nach-350-jahren/l-51724651?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 1 Jan 2020 11:22:00 GMT
-  summary: "Kaum ein Maler ist so ber\xFChmt wie der Niederl\xE4nder Rembrandt. Er\
-    \ schuf zahlreiche Portr\xE4ts oder historische Gem\xE4lde. Schon zu Lebzeiten\
-    \ war er ein gefeierter K\xFCnstler. Trotzdem starb er vor mehr als 350 Jahren\
-    \ in Armut."
-  title: "Rembrandt \u2013 Weltstar auch nach 350 Jahren"
-- link: "https://www.dw.com/de/s\xFC\xDFe-kunstwerke-aus-schokolade/l-51755674?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 25 Dec 2019 10:19:00 GMT
-  summary: "Wer S\xFC\xDFes liebt, ist bei Sarah Gierig genau richtig. Sie wei\xDF\
-    \ alles \xFCber Schokolade und formt daraus ganze Kunstwerke. Dabei probiert sie\
-    \ auch ungew\xF6hnliche Kombinationen aus."
-  title: "S\xFC\xDFe Kunstwerke aus Schokolade"
-- link: https://www.dw.com/de/wo-der-weihnachtsmann-wohnt/l-51710688?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 18 Dec 2019 13:50:00 GMT
-  summary: "Im hohen Norden Europas liegt das Weihnachtsdorf, wo der Weihnachtsmann\
-    \ mit all seinen Rentieren und Helfern lebt. Er bekommt regelm\xE4\xDFig Besuch\
-    \ aus der ganzen Welt. Man kann ihm aber auch einen Brief schreiben."
-  title: Wo der Weihnachtsmann wohnt
-- link: https://www.dw.com/de/ein-weihnachtsbaum-der-superlative/l-51621425?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 11 Dec 2019 14:00:00 GMT
-  summary: "Der gr\xF6\xDFte Weihnachtsbaum der Welt steht in Dortmund. Der 45 Meter\
-    \ hohe Baum wird aus vielen kleinen B\xE4umen zusammengesetzt. Vier Wochen und\
-    \ harte Arbeit sind n\xF6tig, bis der riesige Baum fertig ist."
-  title: Ein Weihnachtsbaum der Superlative
-- link: https://www.dw.com/de/wo-die-deutsche-demokratie-entstand/l-51518502?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 4 Dec 2019 12:53:00 GMT
-  summary: "Das Hambacher Schloss in Rheinland-Pfalz an der Weinstra\xDFe ist eine\
-    \ der beliebtesten Touristenattraktionen in Deutschland. 1832 versammelten sich\
-    \ hier Freiheitsk\xE4mpfer, um f\xFCr Demokratie zu demonstrieren."
-  title: Wo die deutsche Demokratie entstand
-- link: https://www.dw.com/de/asyl-im-kloster/l-51436894?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 27 Nov 2019 15:29:00 GMT
-  summary: "F\xFCr Fl\xFCchtlinge, deren Antrag auf Asyl abgelehnt wird, ist das Kirchenasyl\
-    \ oft die letzte Hoffnung. Denn in Kirchen stehen sie unter besonderem Schutz.\
-    \ So wie Harman, der mit anderen Fl\xFCchtlingen in einem Kloster lebt."
-  title: Asyl im Kloster
-- link: https://www.dw.com/de/typisch-bayerisch-das-fingerhakeln/l-51334064?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 20 Nov 2019 16:10:00 GMT
-  summary: "Brezeln, Bier und Blasmusik, daf\xFCr sind bayerische Volksfeste bekannt.\
-    \ Aber auch das Fingerhakeln ist ein beliebter Zeitvertreib. Es gibt sogar bayerische\
-    \ Meisterschaften in dieser besonderen Sportart."
-  title: 'Typisch bayerisch: das Fingerhakeln'
-- link: "https://www.dw.com/de/der-tresor-berlins-legend\xE4rer-technoclub/l-51228862?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 13 Nov 2019 16:22:00 GMT
-  summary: "Die Partys im Berliner Club \u201ETresor\u201C waren international bekannt.\
-    \ Ber\xFChmte DJs legten dort auf und G\xE4ste aus aller Welt feierten hinter\
-    \ der gro\xDFen Stahlt\xFCr des Clubs, die von hundert Jahren Berliner Geschichte\
-    \ erz\xE4hlt."
-  title: "Der \u201ETresor\u201C: Berlins legend\xE4rer Technoclub"
-- link: https://www.dw.com/de/essen-mal-ganz-anders-fotografiert/l-51136815?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 6 Nov 2019 15:00:00 GMT
-  summary: "Fotos von zubereitetem Essen sind sehr beliebt. Auch die spanische Fotografin\
-    \ Tessa D\xF3niga hat sich darauf spezialisiert. Allerdings sind ihre Fotos anders\
-    \ als gew\xF6hnlich. Und das macht sie so erfolgreich."
-  title: Essen mal ganz anders fotografiert
-- link: https://www.dw.com/de/allein-durch-die-antarktis/l-51049839?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 30 Oct 2019 15:40:00 GMT
-  summary: "Anja Blacha liebt die Herausforderung. Als Bergsteigerin hat sie schon\
-    \ einige Rekorde aufgestellt. Jetzt plant die 29-J\xE4hrige eine neue Expedition:\
-    \ Dieses Mal zieht es sie in die Antarktis."
-  title: Allein durch die Antarktis
-- link: https://www.dw.com/de/jodeln-aus-tradition-wird-trend/l-50950743?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 23 Oct 2019 15:09:00 GMT
-  summary: "Wenn man ans Jodeln denkt, denken viele an traditionell gekleidete, \xE4\
-    ltere Menschen vor Alpen-Panorama. Dieses Klischee stimmt so nicht mehr ganz,\
-    \ denn immer mehr junge Menschen entdecken das Jodeln f\xFCr sich."
-  title: 'Jodeln: Aus Tradition wird Trend'
-- link: "https://www.dw.com/de/fleischlos-gl\xFCcklich/l-50855705?maca=de-DKpodcast_videothema_de-3866-xml-mrss"
-  published: Wed, 16 Oct 2019 14:27:00 GMT
-  summary: "In Deutschland wird, im Gegensatz zu anderen L\xE4ndern, sehr viel Fleisch\
-    \ gegessen. In Zeiten des Klimawandels gibt es aber immer mehr sogenannte \u201E\
-    Flexitarier\u201C, die versuchen, ihren Fleischkonsum zu reduzieren."
-  title: "Fleischlos gl\xFCcklich"
-- link: https://www.dw.com/de/der-berliner-fernsehturm-feiert-geburtstag/l-50756163?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 9 Oct 2019 14:22:00 GMT
-  summary: "Denkt man an Berlin und seine Sehensw\xFCrdigkeiten, f\xE4llt einem sofort\
-    \ der Berliner Fernsehturm ein. Das mit 368 Metern h\xF6chste Bauwerk Deutschlands\
-    \ feiert im Jahr 2019 seinen 50. Geburtstag."
-  title: Der Berliner Fernsehturm feiert Geburtstag
-- link: https://www.dw.com/de/auf-den-spuren-der-berliner-mauer/l-50681434?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 2 Oct 2019 15:06:00 GMT
-  summary: "Fast drei\xDFig Jahre nach der Wiedervereinigung ist von der Berliner\
-    \ Mauer nicht mehr viel \xFCbrig. Wer sich nicht auskennt, muss oft lange suchen,\
-    \ bis er die Reste findet. Aber es gibt sie noch."
-  title: Auf den Spuren der Berliner Mauer
-- link: https://www.dw.com/de/skurrile-erfindungen/l-50581647?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 25 Sep 2019 14:32:00 GMT
-  summary: "Ob fliegende Badewannen oder seltsame U-Boote: Immer wieder erfindet ein\
-    \ Zwillingspaar neue verr\xFCckten Fahrzeuge. Unter dem Namen \u201EThe Real Life\
-    \ Guys\u201C zeigen sie ihre Kreationen auf YouTube."
-  title: Skurrile Erfindungen
-- link: https://www.dw.com/de/chase-tag-wenn-erwachsene-fangen-spielen/l-50474756?maca=de-DKpodcast_videothema_de-3866-xml-mrss
-  published: Wed, 18 Sep 2019 15:05:00 GMT
-  summary: "Jeder kennt es noch aus der Kindheit: Fangen spielen ist bis heute eines\
-    \ der beliebtesten Kinderspiele. Jetzt gibt es auch eine Version f\xFCr Erwachsene,\
-    \ das sogenannte Chase Tag."
-  title: 'Chase Tag: Wenn Erwachsene Fangen spielen'
 
 ---
 B2 | Deutsch für Fortgeschrittene: Trainiert euer Hörsehverstehen mit

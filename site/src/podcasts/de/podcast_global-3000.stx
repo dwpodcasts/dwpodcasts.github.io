@@ -1,7 +1,7 @@
 ---
 title: "Global 3000: Das Globalisierungsmagazin"
 id: podcast_global-3000
-published: "Wed, 3 Nov 2021 19:31:23 GMT"
+published: "Thu, 6 Jan 2022 07:53:41 GMT"
 page_link: "https://www.dw.com?maca=de-podcast_global-3000-2738-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_global-3000"
 language: de
@@ -11,8 +11,168 @@ tags: [ "Global 3000", "News", "Politics", "Science", "Nature", "Society & Cultu
 image_url: https://static.dw.com/image/49835926_7.jpg
 image_title: ""
 entries:
+- link: "https://www.dw.com/de/die-recycling-prediger-in-s\xFCdafrika/av-57698536?maca=de-podcast_global-3000-2738-xml-mrss"
+  published: Tue, 4 Jan 2022 03:38:00 GMT
+  summary: "S\xFCdafrika hat ein M\xFCllproblem. \xDCber 90 Prozent des verwertbaren\
+    \ Abfalls landet auf der Halde, nur sehr wenige S\xFCdafrikaner trennen ihren\
+    \ M\xFCll. Das kleine Start-up \"Regenize\" will das \xE4ndern."
+  title: "Die Recycling-Prediger in S\xFCdafrika"
+- link: https://www.dw.com/de/global-snack-aus-indonesien/av-57698554?maca=de-podcast_global-3000-2738-xml-mrss
+  published: Tue, 4 Jan 2022 03:38:00 GMT
+  summary: "Indonesien ist bekannt f\xFCr seine Vielzahl an traditionellen Gerichten.\
+    \ Dabei haben alle Regionen des s\xFCdostasiatischen Inselstaates ihre eigenen\
+    \ Spezialit\xE4ten \u2013 wie Kerak Telor, eine Eierspeise aus Jakarta."
+  title: Global Snack aus Indonesien
+- link: https://www.dw.com/de/wie-wohnt-die-welt-wohnzimmer-aus-mexiko/av-58908278?maca=de-podcast_global-3000-2738-xml-mrss
+  published: Mon, 27 Dec 2021 13:59:00 GMT
+  summary: "Zu Gast bei Pedro Calder\xF3n in Mexiko, auf einer Ranch in Chihuahua"
+  title: Wie wohnt die Welt? Wohnzimmer aus Mexiko
+- link: "https://www.dw.com/de/nachhaltig-essen-k\xE4se-und-bratwurst-ganz-ohne-tiere/av-58908276?maca=de-podcast_global-3000-2738-xml-mrss"
+  published: Mon, 27 Dec 2021 13:51:00 GMT
+  summary: "Der wachsende Appetit der Menschheit auf Milch oder Fleisch f\xFChrt zunehmend\
+    \ zum Raubbau an unserem Planeten. Dabei gibt es viele pflanzliche Alternativen,\
+    \ die die Umwelt schonen und trotzdem schmecken."
+  title: "Nachhaltig essen: K\xE4se und Bratwurst ganz ohne Tiere"
+- link: https://www.dw.com/de/kenia-slumlords/av-60146825?maca=de-podcast_global-3000-2738-xml-mrss
+  published: Mon, 20 Dec 2021 14:09:00 GMT
+  summary: "Slumlords beuten die \xC4rmsten der Armen aus. Wer die Miete f\xFCr eine\
+    \ armselige H\xFCtte in Nairobis Slums nicht bezahlt, fliegt raus, wird verpr\xFC\
+    gelt, bedroht. Doch Slumlord Peter Chege sieht sich als Verlierer der Krise. Wegen\
+    \ der Corona-Pandemie stehen viele seiner H\xFCtten leer."
+  title: 'Kenia: Slumlords'
+- link: "https://www.dw.com/de/mexiko-faire-chancen-f\xFCr-mexikos-kaffeebauern/av-60146818?maca=de-podcast_global-3000-2738-xml-mrss"
+  published: Mon, 20 Dec 2021 14:07:00 GMT
+  summary: "In den Bergen von Veracruz in Zentralmexiko bauen indigene Frauen des\
+    \ Nahua-Volkes Kaffee an. F\xFCr die B\xE4uerinnen des kleinen Dorfes Zongolica\
+    \ ist es eine gro\xDFe Herausforderung, mit den gro\xDFen Wettbewerbern auf dem\
+    \ Kaffeemarkt zu konkurrieren. Jetzt setzen sie auf Bio-Qualit\xE4t."
+  title: "Mexiko: Faire Chancen f\xFCr Mexikos Kaffeebauern"
+- link: https://www.dw.com/de/kenia-mit-theater-gegen-den-klimawandel/av-60070167?maca=de-podcast_global-3000-2738-xml-mrss
+  published: Mon, 13 Dec 2021 14:21:00 GMT
+  summary: "Die D\xFCrre in Kenia bedroht das Leben vieler Menschen, ihre Tiere sterben,\
+    \ ihre Lebensgrundlage wird zerst\xF6rt. Eine Theatergruppe kl\xE4rt auf: Was\
+    \ k\xF6nnen die Menschen tun? Wie k\xF6nnen sie ihre Zukunft retten?"
+  title: Kenia - Mit Theater gegen den Klimawandel
+- link: "https://www.dw.com/de/namibia-\xF6lsuche-im-naturparadies/av-59999231?maca=de-podcast_global-3000-2738-xml-mrss"
+  published: Mon, 6 Dec 2021 17:37:00 GMT
+  summary: "Das Okavango-Delta ist ein einmaliges Naturparadies im S\xFCden Afrikas.\
+    \ Doch dieser Ort ist bedroht. Am Okavango-Fluss in Namibia bohrt ein kanadisches\
+    \ Unternehmen nach \xD6l und Gas \u2013 mitten in einem Schutzgebiet. Anwohner\
+    \ und Natursch\xFCtzer sind alarmiert."
+  title: "Namibia: \xD6lsuche im Naturparadies"
+- link: "https://www.dw.com/de/\xF6kologischer-plastikersatz/av-59999248?maca=de-podcast_global-3000-2738-xml-mrss"
+  published: Mon, 6 Dec 2021 17:35:00 GMT
+  summary: "Einwegplastik ist nur scheinbar billig, denn es belastet die Umwelt f\xFC\
+    r Jahrhunderte. Alternativen m\xFCssen her \u2013 und die gibt es. Junge Unternehmer\
+    \ und Forscher entwickeln in Deutschland Kunststoff aus Kaffeesatz oder Pflanzenresten.\
+    \ Daraus entstehen biologisch abbaubare Verpackungen, die innerhalb weniger Wochen\
+    \ zerfallen, ohne die Natur zu verschmutzen."
+  title: "\xD6kologischer Plastikersatz"
+- link: https://www.dw.com/de/circular-economy-was-ist-das-eigentlich/av-59999264?maca=de-podcast_global-3000-2738-xml-mrss
+  published: Mon, 6 Dec 2021 17:19:00 GMT
+  summary: "Ob K\xFCchenger\xE4te, Kleidungsst\xFCcke oder Verpackungen: In der Kreislaufwirtschaft\
+    \ werden alle Produkte m\xF6glichst nachhaltig hergestellt. Das Ziel: Ressourcen\
+    \ schonen und Umweltsch\xE4den auf ein Minimum reduzieren."
+  title: Circular Economy - Was ist das eigentlich?
+- link: https://www.dw.com/de/fisch-curry-aus-dem-indischen-ozean/av-59999270?maca=de-podcast_global-3000-2738-xml-mrss
+  published: Fri, 3 Dec 2021 19:58:00 GMT
+  summary: "Das Meer ist auf den Malediven allgegenw\xE4rtig, und so \xFCberrascht\
+    \ es nicht, dass es genau dort die leckersten Fisch-Curries gibt. DW-Reporter\
+    \ durften einem Koch dabei \xFCber die Schulter schauen."
+  title: Fisch-Curry aus dem Indischen Ozean
+- link: https://www.dw.com/de/global-teens-was-bedeutet-armut/av-59931805?maca=de-podcast_global-3000-2738-xml-mrss
+  published: Mon, 29 Nov 2021 12:41:00 GMT
+  summary: "Was bedeutet Armut und soziale Ungleichheit f\xFCr junge Menschen? Teenager\
+    \ aus aller Welt geben Antworten."
+  title: 'Global Teens: Was bedeutet Armut?'
+- link: https://www.dw.com/de/brasiliens-paketdienst-in-den-elendsvierteln/av-59933166?maca=de-podcast_global-3000-2738-xml-mrss
+  published: Mon, 29 Nov 2021 12:36:00 GMT
+  summary: "In Brasilien leben rund 13 Millionen Menschen in Favelas. In den Armenvierteln\
+    \ geh\xF6rt Gewalt zum Alltag. Ein Grund, warum die Bewohner oft von einfachen\
+    \ Dienstleistungen abgeschnitten sind. Die L\xF6sung? Der Zustellservice Favela\
+    \ Brasil Xpress."
+  title: Brasiliens Paketdienst in den Elendsvierteln
+- link: "https://www.dw.com/de/sachets-das-gesch\xE4ft-mit-indonesiens-armen/av-59933155?maca=de-podcast_global-3000-2738-xml-mrss"
+  published: Mon, 29 Nov 2021 12:25:00 GMT
+  summary: "In Indonesien sind Sachets-Verpackungen f\xFCr Einzelportionen von Kaffee,\
+    \ Seife oder Waschmittel allgegenw\xE4rtig. F\xFCr die Produzenten ein ertragreiches\
+    \ Gesch\xE4ft \u2013 auch auf Kosten der Umwelt."
+  title: "Sachets \u2013 das Gesch\xE4ft mit Indonesiens Armen"
+- link: "https://www.dw.com/de/arbeitsmigranten-asiatische-billigpfl\xFCcker-in-portugal/av-59933144?maca=de-podcast_global-3000-2738-xml-mrss"
+  published: Mon, 29 Nov 2021 12:22:00 GMT
+  summary: "Der Hunger der Europ\xE4er auf Heidel-, Erd- und Himbeeren hat Portugals\
+    \ Region Alentejo in eine Goldgrube f\xFCr Plantagenbesitzer und Gro\xDFkonzerne\
+    \ verwandelt. Die Arbeitskr\xE4fte: \xFCberwiegend Asiaten. Sie sind vor Armut\
+    \ und Arbeitslosigkeit aus ihrer Heimat geflohen und hoffen auf ein besseres Leben\
+    \ in Europa. Doch das hat einen hohen Preis."
+  title: "Arbeitsmigranten \u2013 asiatische Billigpfl\xFCcker in Portugal"
+- link: https://www.dw.com/de/global-snack-russland/av-59874838?maca=de-podcast_global-3000-2738-xml-mrss
+  published: Tue, 23 Nov 2021 03:08:00 GMT
+  summary: Der Olivier-Salat ist eine Kreation des belgischen Kochs Lucien Olivier
+    aus der Zarenzeit. Heute ist er eine beliebte Festtagsdelikatesse in Russland.
+  title: 'Global Snack: Russland'
+- link: "https://www.dw.com/de/el-salvador-k\xE4mpfen-gegen-den-klimawandel/av-59874820?maca=de-podcast_global-3000-2738-xml-mrss"
+  published: Tue, 23 Nov 2021 03:07:00 GMT
+  summary: "El Salvador ist das kleinste Land in Zentralamerika. Es wird immer st\xE4\
+    rker vom Klimawandel gebeutelt \u2013 durch D\xFCrren, \xDCberschwemmungen und\
+    \ heftige St\xFCrme. Die kleine Organisation CESTA k\xE4mpft schon lange f\xFC\
+    r mehr Umweltschutz im eigenen Land."
+  title: "El Salvador: K\xE4mpfen gegen den Klimawandel"
+- link: "https://www.dw.com/de/namibia-neue-schutzzonen-f\xFCr-wildtiere/av-59874819?maca=de-podcast_global-3000-2738-xml-mrss"
+  published: Tue, 23 Nov 2021 03:05:00 GMT
+  summary: "Braune Hy\xE4nen sind n\xFCtzliche, soziale Tiere. Doch sie werden erbarmungslos\
+    \ gejagt. Nun gibt es immer mehr neue Schutzzonen und Wildreservate, in denen\
+    \ sie gefahrlos leben k\xF6nnen."
+  title: "Namibia: Neue Schutzzonen f\xFCr Wildtiere"
+- link: "https://www.dw.com/de/s\xFCdafrika-abalobi-nachhaltig-fischen-mit-einer-app/av-59801225?maca=de-podcast_global-3000-2738-xml-mrss"
+  published: Mon, 15 Nov 2021 12:36:00 GMT
+  summary: "Der Fischfang in S\xFCdafrika steckt in der Krise. Die Kleinfischer dort\
+    \ k\xE4mpfen ums \xDCberleben. Gro\xDFe Fischfangunternehmen machen dem traditionsreichen\
+    \ Arbeitsfeld den Garaus. Mit der Abalobi-App will eine NGO das Problem l\xF6\
+    sen."
+  title: "S\xFCdafrika: Abalobi \u2013 Nachhaltig Fischen mit einer App"
+- link: "https://www.dw.com/de/nepal-klima-vor-korruption-sch\xFCtzen/av-59801138?maca=de-podcast_global-3000-2738-xml-mrss"
+  published: Mon, 15 Nov 2021 12:36:00 GMT
+  summary: "Selbst vor Geldern f\xFCr den Klimaschutz macht Korruption nicht halt.\
+    \ In Nepal entwickelt Transparency International Programme, um Klima und Umwelt\
+    \ besser zu sch\xFCtzen und die Belange von Menschen ins Blickfeld zu r\xFCcken,\
+    \ die vom Klimawandel besonders betroffen sind."
+  title: "Nepal: Klima vor Korruption sch\xFCtzen"
+- link: https://www.dw.com/de/co2-abscheidung-kann-das-wirklich-funktionieren/av-59733104?maca=de-podcast_global-3000-2738-xml-mrss
+  published: Mon, 8 Nov 2021 18:11:00 GMT
+  summary: "In jeder einzelnen Sekunde str\xF6men riesige Mengen Kohlendioxid in die\
+    \ Atmosph\xE4re. Hauptgrund: Die Verbrennung fossiler Energietr\xE4ger wie \xD6\
+    l, Kohle oder Gas vor allem f\xFCr die Erzeugung von Strom und W\xE4rme. Klimawissenschaftler\
+    \ sagen: Der Klimawandel kann nur einged\xE4mmt werden, wenn CO2 aus der Atmosph\xE4\
+    re entnommen und unter der Erde gelagert wird."
+  title: 'CO2-Abscheidung: Kann das wirklich funktionieren?'
+- link: https://www.dw.com/de/fischen-ohne-beifang-nachhaltige-fischerei-in-tunesien/av-59733281?maca=de-podcast_global-3000-2738-xml-mrss
+  published: Mon, 8 Nov 2021 18:10:00 GMT
+  summary: "Das wird aufgrund von \xDCberfischung des Mittelmeers immer schwieriger.\
+    \ Jahrelang wurden Garnelen mit Schleppnetzen vom Meeresgrund \"geerntet\". Als\
+    \ Beifang gerieten dabei auch Rochen, Haie oder auch Schw\xE4mme und Korallen\
+    \ in die Netze. Das \"Med Bycatch Project\" setzt auf nachhaltigen Fischfang."
+  title: 'Fischen ohne Beifang: Nachhaltige Fischerei in Tunesien'
+- link: "https://www.dw.com/de/monsunvorhersage-wann-kommt-der-n\xE4chste-regen/av-59733070?maca=de-podcast_global-3000-2738-xml-mrss"
+  published: Mon, 8 Nov 2021 17:09:00 GMT
+  summary: "Monsun bedeutet vor allem eins: viel Regen! So fallen in Indien rund 70\
+    \ Prozent der j\xE4hrlichen Niederschl\xE4ge in den vier Monsunmonaten, der Rest\
+    \ des Jahres bleibt trocken. Durch den Klimawandel \xE4ndert sich dieses altbekannte\
+    \ Wetterph\xE4nomen. Das Wetter wird unberechenbarer. Ein neues Monsun-Vorhersagesystem\
+    \ soll Landwirten schon fr\xFCh Planungssicherheit geben \u2013 in der Hoffnung\
+    \ auf reichere Ernten."
+  title: "Monsunvorhersage: Wann kommt der n\xE4chste Regen?"
+- link: https://www.dw.com/de/abfall-als-ressource-nachhaltiges-zuckerrohr-in-ghana/av-59733155?maca=de-podcast_global-3000-2738-xml-mrss
+  published: Mon, 8 Nov 2021 17:09:00 GMT
+  summary: "Die Zuckerrohrindustrie in Ghana steckt seit Jahren in der Krise. Vor\
+    \ allem Kleinbauern pflanzen Zuckerrohr. Dabei setzen sie Chemie ein und verbrennen\
+    \ Erntereste auf den Feldern \u2013 das zerst\xF6rt die B\xF6den. Hinzukommt der\
+    \ Klimawandel und damit immer weniger Regen. Die Ghanaerin Audrey S-Darko will\
+    \ Bauern von Anbaumethoden \xFCberzeugen, die die Enten verbessen und gleichzeitig\
+    \ die Umwelt schonen."
+  title: 'Abfall als Ressource: Nachhaltiges Zuckerrohr in Ghana'
 - link: "https://www.dw.com/de/singapur-gr\xFCne-k\xFChltechnik-gegen-tropische-temperaturen/av-59669066?maca=de-podcast_global-3000-2738-xml-mrss"
-  published: Mon, 1 Nov 2021 18:00:00 GMT
+  published: Thu, 4 Nov 2021 09:00:00 GMT
   summary: "Klimaanlagen schlucken Energie und heizen die Umwelt immer weiter auf.\
     \ Singapur entwickelt jetzt innovative gr\xFCne K\xFChltechnologie."
   title: "Singapur: Gr\xFCne K\xFChltechnik gegen tropische Temperaturen"
@@ -101,13 +261,6 @@ entries:
     \ von verbrannten Abf\xE4llen, M\xFCllhalden wachsen. Wir k\xF6nnen das \xE4ndern\
     \ - durch Wiederverwenden, Recycling, Kompostieren und Verzicht."
   title: "M\xFCll vermeiden statt verwalten!"
-- link: https://www.dw.com/de/wildtierhandel-schuppentiere-in-not/av-59292806?maca=de-podcast_global-3000-2738-xml-mrss
-  published: Mon, 27 Sep 2021 15:40:00 GMT
-  summary: "Pangoline sind die am meisten gehandelten S\xE4ugetiere der Welt. Begehrt\
-    \ wegen ihrer Schuppen f\xFCr traditionelle Medizin. Auch das Fleisch gilt als\
-    \ Delikatesse. Weil es in Asien kaum noch Schuppentiere gibt, dr\xE4ngen viele\
-    \ Schmuggler nun nach Afrika."
-  title: 'Wildtierhandel: Schuppentiere in Not'
 - link: "https://www.dw.com/de/ndien-mit-online-dating-auf-der-suche-nach-dem-gl\xFC\
     ck/av-59292808?maca=de-podcast_global-3000-2738-xml-mrss"
   published: Mon, 27 Sep 2021 12:15:00 GMT
@@ -143,31 +296,6 @@ entries:
     lkermord und Sklaverei dezimierten die Zahl indigener V\xF6lker. Noch heute werden\
     \ sie oft diskriminiert, dabei stehen sie f\xFCr die kulturelle Vielfalt der Welt."
   title: "Indigene V\xF6lker: Die bunte Vielfalt der Erde"
-- link: https://www.dw.com/de/die-flusspferde-des-kolumbianischen-drogenbosses/av-59062096?maca=de-podcast_global-3000-2738-xml-mrss
-  published: Mon, 6 Sep 2021 12:31:00 GMT
-  summary: Der Rio Magdalena in der Provinz Antioquia ist die Heimat von Dona Chavita.
-    Sie bietet Touristenfahrten an. Es lohnt sich. Denn die Touristen wollen etwas
-    Einzigartiges sehen. Flusspferde. Nicht in Afrika. In Kolumbien. Sie sind Hinterlassenschaften
-    des Drogenbosses Pablo Escobar.
-  title: Die Flusspferde des kolumbianischen Drogenbosses
-- link: https://www.dw.com/de/korea-kraniche-im-sperrgebiet/av-59062102?maca=de-podcast_global-3000-2738-xml-mrss
-  published: Mon, 6 Sep 2021 09:06:00 GMT
-  summary: "Rund siebzig Jahre nach dem Ende des Koreakrieges verl\xE4uft am 38. Breitengrad\
-    \ noch immer eine vier Kilometer breite entmilitarisierte Zone entlang der Grenze.\
-    \ Furchtbar f\xFCr die Menschen, aber ein Segen f\xFCr die Tierwelt."
-  title: 'Korea: Kraniche im Sperrgebiet'
-- link: https://www.dw.com/de/wohnungsnot-in-rio-von-obdachlosen-zu-baumeistern/av-58991728?maca=de-podcast_global-3000-2738-xml-mrss
-  published: Mon, 30 Aug 2021 13:15:00 GMT
-  summary: "Der Mangel an Wohnraum in und um Rio de Janeiro hat sich w\xE4hrend der\
-    \ Pandemie dramatisch versch\xE4rft: Immer mehr Menschen landen auf der Stra\xDF\
-    e oder in den zahlreichen Armenvierteln. Ein nachhaltiges Wohnprojekt bietet Bed\xFC\
-    rftigen die Chance, ihre Wohnungen selbst zu bauen."
-  title: 'Wohnungsnot in Rio: Von Obdachlosen zu Baumeistern'
-- link: https://www.dw.com/de/wie-wohnt-die-welt-wohnzimmer-aus-mexiko/av-58908278?maca=de-podcast_global-3000-2738-xml-mrss
-  published: Wed, 25 Aug 2021 11:44:00 GMT
-  summary: "In unserem Wohnzimmer sind wir diesmal zu Gast bei Pedro Calder\xF3n in\
-    \ Mexiko, auf einer Ranch in Chihuahua."
-  title: Wie wohnt die Welt? Wohnzimmer aus Mexiko
 - link: https://www.dw.com/de/waldschutz-in-kamerun-wo-gorillas-freunde-haben/av-58908277?maca=de-podcast_global-3000-2738-xml-mrss
   published: Wed, 25 Aug 2021 11:42:00 GMT
   summary: "Der afrikanische Ebo-Regenwald ist Teil des zweitgr\xF6\xDFten tropischen\
@@ -175,159 +303,6 @@ entries:
     \ seltene Primaten, darunter Gorillas. Doch Wilderer und Holzfirmen bedrohen den\
     \ Wald und ihre Bewohner."
   title: 'Waldschutz in Kamerun: Wo Gorillas Freunde haben'
-- link: "https://www.dw.com/de/nachhaltig-essen-k\xE4se-und-bratwurst-ganz-ohne-tiere/av-58908276?maca=de-podcast_global-3000-2738-xml-mrss"
-  published: Mon, 23 Aug 2021 11:21:00 GMT
-  summary: "Der wachsende Appetit der Menschheit auf Milch oder Fleisch f\xFChrt zunehmend\
-    \ zum Raubbau an unserem Planeten. Dabei gibt es viele pflanzliche Alternativen,\
-    \ die die Umwelt schonen und trotzdem schmecken."
-  title: "Nachhaltig essen: K\xE4se und Bratwurst ganz ohne Tiere"
-- link: https://www.dw.com/de/der-wasserpriester-von-java/av-58841825?maca=de-podcast_global-3000-2738-xml-mrss
-  published: Mon, 16 Aug 2021 14:36:00 GMT
-  summary: "Der Zugang zu Trinkwasser ist \xFCberlebenswichtig, doch f\xFCr viele\
-    \ Menschen ist es m\xFChsam und teuer, an sauberes Wasser zu kommen. Im indonesischen\
-    \ Java erinnert deshalb ein Priester die Menschen an eine Wasserquelle, die kostenlos\
-    \ und reichhaltig liefert."
-  title: Der Wasserpriester von Java
-- link: https://www.dw.com/de/vom-todesstreifen-zum-naturschutzgebiet/av-58841696?maca=de-podcast_global-3000-2738-xml-mrss
-  published: Mon, 16 Aug 2021 14:32:00 GMT
-  summary: "F\xFCr DDR-B\xFCrger war die innerdeutsche Grenze Sperrgebiet \u2013 die\
-    \ Natur nutzte die Abwesenheit des Menschen, um sich ungest\xF6rt zu entwickeln.\
-    \ Bis heute ist das ehemalige Grenzgebiet Refugium f\xFCr Pflanzen und Tiere."
-  title: Vom Todesstreifen zum Naturschutzgebiet
-- link: "https://www.dw.com/de/dominikanische-republik-plastikm\xFCll-im-surfer-paradies/av-58758898?maca=de-podcast_global-3000-2738-xml-mrss"
-  published: Mon, 9 Aug 2021 18:24:00 GMT
-  summary: "Wei\xDFe Str\xE4nde, blaues Wasser. Die Dominikanische Republik vermarktet\
-    \ sich als tropisches Urlaubsparadies. Hinter den Kulissen aber t\xFCrmt sich\
-    \ der M\xFCll des Massentourismus. Klimasch\xFCtzer Eddy Rosado will das \xE4\
-    ndern."
-  title: "Dominikanische Republik: Plastikm\xFCll im Surfer-Paradies"
-- link: "https://www.dw.com/de/getr\xE4nke-tipp-aus-costa-rica/av-58758897?maca=de-podcast_global-3000-2738-xml-mrss"
-  published: Mon, 9 Aug 2021 18:20:00 GMT
-  summary: "Kulinarische Empfehlung aus Costa Rica gef\xE4llig? In Bel\xE9n betreibt\
-    \ Mario Fallas einen Fruchtsaft-Stand. Seine Spezialit\xE4t: frisch gepresster\
-    \ Zuckerrohrsaft."
-  title: "Getr\xE4nke-Tipp aus Costa Rica"
-- link: "https://www.dw.com/de/aquaponik-wie-aus-fisch-frisches-gem\xFCse-wird/av-58758896?maca=de-podcast_global-3000-2738-xml-mrss"
-  published: Mon, 9 Aug 2021 18:17:00 GMT
-  summary: "Die industrielle Landwirtschaft ist f\xFCr globale Zerst\xF6rungen des\
-    \ Bodens und der Artenvielfalt mit verantwortlich. Es braucht also Alternativen.\
-    \ Eine davon ist Aquaponik, die Kombination von Gem\xFCseanbau und Fischzucht."
-  title: "Aquaponik: Wie aus Fisch frisches Gem\xFCse wird"
-- link: "https://www.dw.com/de/bras\xEDlias-kulinarischer-busbahnhof/av-57843662?maca=de-podcast_global-3000-2738-xml-mrss"
-  published: Mon, 2 Aug 2021 12:31:00 GMT
-  summary: "Der Busbahnhof von Brasiliens Hauptstadt ist ein quirliger Ort und ein\
-    \ Schlemmerparadies f\xFCr Eilige. Das kulinarische Herz ist die Pastelaria Vi\xE7\
-    osa. Hier gibt es Teigtaschen und Zuckerrohrsaft. Alles handgemacht, versteht\
-    \ sich!"
-  title: "Bras\xEDlias kulinarischer Busbahnhof"
-- link: "https://www.dw.com/de/s\xFCdafrika-naturschutz-als-steueranreiz/av-56782399?maca=de-podcast_global-3000-2738-xml-mrss"
-  published: Mon, 2 Aug 2021 11:20:00 GMT
-  summary: "Mit Naturschutz Steuern sparen und Landbesitzer \xFCberzeugen, Land der\
-    \ Natur zu \xFCberlassen: Die Finanzexpertin Candice Stevens hat mit ihrer Organisation\
-    \ Wilderness Foundation 500.000 Hektar Land in S\xFCdafrika in Naturschutzgebiete\
-    \ umgewandelt."
-  title: "S\xFCdafrika: Naturschutz als Steueranreiz"
-- link: https://www.dw.com/de/globales-wohnzimmer-kenia/av-56782317?maca=de-podcast_global-3000-2738-xml-mrss
-  published: Mon, 2 Aug 2021 11:19:00 GMT
-  summary: "Esther Yiampaine Tinayo und James Mokoire Moonka geh\xF6ren zum Volk der\
-    \ Massai. Sie zeigen ihr Haus in der N\xE4he des Amboseli-Nationalparks in Kenia."
-  title: 'Globales Wohnzimmer: Kenia'
-- link: "https://www.dw.com/de/indien-ein-herz-f\xFCr-mensch-und-tier/av-56782268?maca=de-podcast_global-3000-2738-xml-mrss"
-  published: Mon, 2 Aug 2021 11:17:00 GMT
-  summary: "Bei Anjali Gopalan finden Tiere in Not ein Zuhause. 800 sind es mittlerweile,\
-    \ vom Pferd bis zum Wellensittich, die auf ihrer Anlage in der N\xE4he von Indiens\
-    \ Hauptstadt Delhi leben. Doch sie setzt sich genauso f\xFCr benachteiligte Menschen\
-    \ ein."
-  title: "Indien: Ein Herz f\xFCr Mensch und Tier"
-- link: https://www.dw.com/de/kirgistan-der-kult-des-sohnes/av-58644010?maca=de-podcast_global-3000-2738-xml-mrss
-  published: Wed, 28 Jul 2021 07:37:00 GMT
-  summary: "In Kirgistan bekommt jede Frau im Schnitt drei Kinder. Mindestens einen\
-    \ Sohn als Erben sollte eine Frau bekommen. Oft treiben werdende M\xFCtter ab,\
-    \ wenn sie schwanger mit einem M\xE4dchen sind. Viele wehren sich gegen den gesellschaftlichen\
-    \ Druck."
-  title: 'Kirgistan: Der Kult des Sohnes'
-- link: "https://www.dw.com/de/schule-der-tr\xE4ume-ein-talent-campus-in-uganda/av-54959892?maca=de-podcast_global-3000-2738-xml-mrss"
-  published: Mon, 19 Jul 2021 11:24:00 GMT
-  summary: "In einem Talent-Campus im kleinen Ort Mpigi nahe der Hauptstadt Kampala,\
-    \ versucht die Social Innovation Academy SINA jungen Menschen zu helfen, ihre\
-    \ Berufstr\xE4ume zu verwirklichen. Dabei geht es SINA vor allem um soziales und\
-    \ \xF6kologisches Engagement."
-  title: "Schule der Tr\xE4ume - Ein Talent-Campus in Uganda"
-- link: "https://www.dw.com/de/forever-young-l\xE4ngere-haltbarkeit-f\xFCr-obst-und-gem\xFC\
-    se/av-54959891?maca=de-podcast_global-3000-2738-xml-mrss"
-  published: Mon, 19 Jul 2021 11:22:00 GMT
-  summary: "J\xE4hrlich werden laut FAO etwa 1,3 Milliarden Millionen Tonnen Lebensmittel\
-    \ weggeworfen. Gleichzeitig leiden mehr als 820 Millionen Menschen Hunger. Ein\
-    \ US-amerikanisches Unternehmen hat ein Mittel entwickelt, dass Obst und Gem\xFC\
-    se haltbarer macht."
-  title: "Forever young? L\xE4ngere Haltbarkeit f\xFCr Obst und Gem\xFCse"
-- link: "https://www.dw.com/de/kenia-habiba-tadicha-gesch\xE4ftsfrau-und-natursch\xFC\
-    tzerin/av-58220397?maca=de-podcast_global-3000-2738-xml-mrss"
-  published: Mon, 12 Jul 2021 14:30:00 GMT
-  summary: "Sie stiftet Frieden, wenn es mal wieder Streit um die sp\xE4rlichen Weidegr\xFC\
-    nde gibt. Sie verschafft der Natur ihren Platz als ehemalige Vorsitzende eines\
-    \ gro\xDFen Naturschutzgebietes und setzt sich f\xFCr die Rechte der Frauen ein,\
-    \ deren bestes Beispiel sie selbst ist. Ein Portr\xE4t einer starken Frau im Norden\
-    \ Kenias."
-  title: "Kenia: Habiba Tadicha, Gesch\xE4ftsfrau und Natursch\xFCtzerin"
-- link: "https://www.dw.com/de/vietnam-wie-der-verkehr-st\xE4dte-zu-ersticken-droht/av-58220307?maca=de-podcast_global-3000-2738-xml-mrss"
-  published: Mon, 12 Jul 2021 12:06:00 GMT
-  summary: "Der motorisierte Verkehr nimmt immer mehr zu und die St\xE4dte der Welt\
-    \ drohen daran zu ersticken. In den St\xE4dten Vietnams bringen immer mehr Staus\
-    \ den Verkehr wieder zum Stillstand und zerst\xF6ren die Lebensqualit\xE4t."
-  title: "Vietnam: Wie der Verkehr St\xE4dte zu ersticken droht"
-- link: https://www.dw.com/de/was-ist-klimagerechtigkeit/av-58220699?maca=de-podcast_global-3000-2738-xml-mrss
-  published: Mon, 12 Jul 2021 12:06:00 GMT
-  summary: "Der Klimawandel ist weder gerecht noch ungerecht. Aber es gibt Menschen,\
-    \ die daf\xFCr mehr Verantwortung tragen als andere und Menschen, die davon st\xE4\
-    rker betroffen sind als andere. Wer also tr\xE4gt die Schuld? Und gibt es einen\
-    \ fairen Weg, Klimagerechtigkeit zu finden?"
-  title: Was ist Klimagerechtigkeit?
-- link: "https://www.dw.com/de/indonesien-ein-teen-will-fu\xDFballstar-werden/av-58220423?maca=de-podcast_global-3000-2738-xml-mrss"
-  published: Mon, 12 Jul 2021 12:05:00 GMT
-  summary: "Galang Rajendra Rabbani ist zw\xF6lf Jahre alt, kommt aus Indonesien und\
-    \ will Fu\xDFballer werden. Er w\xFCnscht sich eine kinderfreundlichere Welt und\
-    \ weniger Verkehrsstau."
-  title: "Indonesien: Ein Teen will Fu\xDFballstar werden"
-- link: https://www.dw.com/de/geisterstadt-im-hohen-norden-russlands/av-58122713?maca=de-podcast_global-3000-2738-xml-mrss
-  published: Tue, 6 Jul 2021 20:35:00 GMT
-  summary: Ganze Stadtteile von Workuta sind wie ausgestorben. Jedes Jahr ziehen um
-    die 2000 weitere Menschen aus der Stadt in der Arktis weg. Doch Natalia Tswirko
-    will bleiben.
-  title: Geisterstadt im hohen Norden Russlands
-- link: https://www.dw.com/de/babyboom-in-der-steppe-kasachstans/av-58122760?maca=de-podcast_global-3000-2738-xml-mrss
-  published: Tue, 6 Jul 2021 01:57:00 GMT
-  summary: "2015 t\xF6tete ein Bakterium den gr\xF6\xDFten Teil der Saiga-Antilopen\
-    \ in der Steppe Zentralkasachstans. Experten bef\xFCrchteten ein Aussterben der\
-    \ Tiere. Nun kann davon keine Rede mehr sein."
-  title: Babyboom in der Steppe Kasachstans
-- link: https://www.dw.com/de/dominikanische-republik-energie-im-umbruch/av-58035908?maca=de-podcast_global-3000-2738-xml-mrss
-  published: Mon, 28 Jun 2021 11:43:00 GMT
-  summary: "Kein Licht, keine Waschmaschine. Die Menschen in dem Dorf Sabana Real\
-    \ an der Grenze zu Haiti leben v\xF6llig ohne Strom. Das soll sich nun \xE4ndern.\
-    \ Auf den D\xE4chern der Dorfh\xFCtten werden kleine Solar-Anlagen installiert.\
-    \ Das lokale Projekt ist Teil eines gro\xDFen Plans: Bis 2025 will die Dominikanische\
-    \ Republik ein Viertel ihrer Energie aus erneuerbaren Quellen gewinnen."
-  title: 'Dominikanische Republik: Energie im Umbruch'
-- link: "https://www.dw.com/de/s\xFCdafrika-global-snack/av-58035930?maca=de-podcast_global-3000-2738-xml-mrss"
-  published: Mon, 28 Jun 2021 11:21:00 GMT
-  summary: "Koesister - aus der burischen oder niederl\xE4ndischen Sprache abgeleitet\
-    \ von koek und sissen, was so viel bedeutet wie frittierter Kuchen. Unser Global\
-    \ Snack ist diesmal eine saftig-s\xFC\xDFe Spezialit\xE4t aus Kapstadt in S\xFC\
-    dafrika."
-  title: "S\xFCdafrika: Global Snack"
-- link: https://www.dw.com/de/die-stadt-belo-horizonte-geht-neue-wege/av-57957145?maca=de-podcast_global-3000-2738-xml-mrss
-  published: Mon, 21 Jun 2021 11:35:00 GMT
-  summary: "Verkehrsberuhigte Zonen, ausgebaute Fahrradwege und befestigte B\xFCrgersteige\
-    \ sind in Brasilien nicht selbstverst\xE4ndlich. Die Metropole Belo Horizonte\
-    \ geht in Sachen Mobilit\xE4t mit gutem Beispiel voran."
-  title: Die Stadt Belo Horizonte geht neue Wege
-- link: https://www.dw.com/de/indonesien-mama-ich-kann-nicht-atmen/av-57957131?maca=de-podcast_global-3000-2738-xml-mrss
-  published: Mon, 21 Jun 2021 07:48:00 GMT
-  summary: "Zidan ist f\xFCnf Jahre alt und leidet an Asthma. Eine Folge der schlechten\
-    \ Luft in der indonesischen Hauptstadt Jakarta, eine der am st\xE4rksten luftverschmutzen\
-    \ St\xE4dte der Welt. Was k\xF6nnen Eltern tun, um ihre Kinder zu sch\xFCtzen?"
-  title: 'Indonesien: Mama, ich kann nicht atmen'
 
 ---
 Unsere Welt ist immer stärker miteinander verbunden und voneinander

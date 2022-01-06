@@ -1,7 +1,7 @@
 ---
 title: "Fokus Europa | Video Podcast | Deutsche Welle"
 id: podcast_europa-aktuell
-published: "Wed, 3 Nov 2021 19:31:26 GMT"
+published: "Thu, 6 Jan 2022 07:55:52 GMT"
 page_link: "https://dw.com/fokuseuropa?maca=de-podcast_europa-aktuell-2169-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_europa-aktuell"
 language: de
@@ -11,35 +11,174 @@ tags: [ "News", "Politics" ]
 image_url: https://static.dw.com/image/49852952_7.jpg
 image_title: ""
 entries:
-- link: https://www.dw.com/de/frankreich-der-club-der-dissidenten/av-59380475?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Wed, 3 Nov 2021 17:50:00 GMT
-  summary: "In Paris haben Fl\xFCchtlinge einen Ort geschaffen, um sich untereinander\
-    \ auszutauschen. Er ist Diskussionsforum, aber auch Anlaufstelle f\xFCr die Sorgen\
-    \ der Neuank\xF6mmlinge."
-  title: 'Frankreich: Der Club der Dissidenten'
+- link: https://www.dw.com/de/frankreich-das-zitronenwunder/av-60242510?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Thu, 6 Jan 2022 03:03:00 GMT
+  summary: "Am Fu\xDF der Pyren\xE4en wachsen Zitrusfr\xFCchte, die bei Spitzenk\xF6\
+    chen aus ganz Frankreich begehrt sind. Ein Paar baut im Dorf Eus rund 1000 Zitrus-Sorten\
+    \ an. Die Fr\xFCchte gedeihen hier besonders gut wegen \xFCberdurchschnittlich\
+    \ vielen Sonnentagen."
+  title: 'Frankreich: Das Zitronenwunder'
+- link: "https://www.dw.com/de/russland-wiedergutmachung-f\xFCr-lager-kinder/av-60242500?maca=de-podcast_europa-aktuell-2169-xml-mrss"
+  published: Wed, 5 Jan 2022 14:57:00 GMT
+  summary: "Insassen von Lagern aus der Stalin-Zeit k\xE4mpfen heute noch um Entsch\xE4\
+    digungen. Dabei wurden sie von der russischen Menschenrechtsorganisation Memorial\
+    \ unterst\xFCtzt. Doch ein russisches Gericht l\xF6ste diese jetzt auf."
+  title: "Russland: Wiedergutmachung f\xFCr Lager-Kinder"
+- link: https://www.dw.com/de/italien-dirigenten-des-verkehrschaos/av-57704728?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Wed, 29 Dec 2021 15:10:00 GMT
+  summary: "Nach Bauarbeiten regeln auf der Piazza Venezia in Rom wieder wei\xDFbehandschuhte\
+    \ Polizisten den Verkehr \u2013 mit italienischer Eleganz."
+  title: 'Italien: Dirigenten des Verkehrschaos'
+- link: "https://www.dw.com/de/t\xFCrkei-eine-mutter-k\xE4mpft-f\xFCr-bildung/av-57228724?maca=de-podcast_europa-aktuell-2169-xml-mrss"
+  published: Wed, 29 Dec 2021 15:05:00 GMT
+  summary: "In den \xE4rmsten Gegenden des Landes ist eine gute Ausbildung von Kindern\
+    \ eine Herkulesaufgabe. Vor allem, wenn nicht nur die S\xF6hne, sondern auch die\
+    \ T\xF6chter davon profitieren sollen."
+  title: "T\xFCrkei: Eine Mutter k\xE4mpft f\xFCr Bildung"
+- link: "https://www.dw.com/de/ein-altenheim-f\xFCr-tiere/av-59451123?maca=de-podcast_europa-aktuell-2169-xml-mrss"
+  published: Wed, 29 Dec 2021 15:02:00 GMT
+  summary: "An der deutschen Nordseek\xFCste gibt es den ersten Gnadenhof f\xFCr Milchvieh.\
+    \ Spenden erm\xF6glichen es 38 Rindern, nicht auf dem Schlachthof zu landen."
+  title: "Ein Altenheim f\xFCr Tiere"
+- link: "https://www.dw.com/de/serbien-roma-band-k\xE4mpft-f\xFCr-frauenrechte/av-56552129?maca=de-podcast_europa-aktuell-2169-xml-mrss"
+  published: Wed, 29 Dec 2021 14:58:00 GMT
+  summary: "Junge Roma-Frauen in Serbien rappen gegen Kinderehen und f\xFCr Gleichberechtigung\
+    \ in der traditionellen Roma-Gesellschaft. F\xFCr ihr Engagement sind die Musikerinnen\
+    \ zum \u201EWomen of the World Festival\u201C 2020 nach London eingeladen worden."
+  title: "Serbien: Roma-Band k\xE4mpft f\xFCr Frauenrechte"
+- link: https://www.dw.com/de/das-kaspische-monster-russlands-ekranoplan/av-57388532?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Wed, 29 Dec 2021 14:53:00 GMT
+  summary: "Ein riesiges Flugboot aus Sowjet-Zeiten soll Touristen ans Kaspische Meer\
+    \ locken. Auch wenn das Unget\xFCm nicht mehr fliegt \u2013 beeindruckend ist\
+    \ es trotzdem."
+  title: "Das \"Kaspische Monster\" \u2013 Russlands Ekranoplan"
+- link: https://www.dw.com/de/impfen-im-filmmuseum-von-cinema-paradiso/av-60193701?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Mon, 27 Dec 2021 01:00:00 GMT
+  summary: "Impfung f\xFCr ein Shooting: Im Drehort von \"Cinema Paradiso\" auf Sizilien\
+    \ liegt die Impfquote bei 104 Prozent. Die Idee des B\xFCrgermeisters von Palazzo\
+    \ Adriano ist aufgegangen. Gegen Omikron f\xFChlt er sich gewappnet."
+  title: Impfen im Filmmuseum von "Cinema Paradiso"
+- link: "https://www.dw.com/de/die-not-der-fl\xFCchtlinge-von-calais/av-60174515?maca=de-podcast_europa-aktuell-2169-xml-mrss"
+  published: Sun, 26 Dec 2021 13:00:00 GMT
+  summary: "Trotz eisiger K\xE4lte wagen Menschen die Flucht von Calais \xFCber den\
+    \ \xC4rmelkanal nach Gro\xDFbritannien. Dabei kommt es immer wieder zu Trag\xF6\
+    dien und vielen Toten. Frankreich und Gro\xDFbritannien geben sich gegenseitig\
+    \ die Schuld, wollen aber handeln."
+  title: "Die Not der Fl\xFCchtlinge von Calais"
+- link: "https://www.dw.com/de/billy-chip-w\xE4hrung-f\xFCr-obdachlose/av-60174630?maca=de-podcast_europa-aktuell-2169-xml-mrss"
+  published: Wed, 22 Dec 2021 16:01:00 GMT
+  summary: "Der Rettungssanit\xE4ter Billy half Obdachlosen in Bristol. Als er starb,\
+    \ kreierte seine Familie Wertmarken, die sie Billy Chips nannten. Nun kann man\
+    \ in seinem Namen Obdachlosen Getr\xE4nke oder Essen ausgeben."
+  title: "Billy Chip: W\xE4hrung f\xFCr Obdachlose"
+- link: https://www.dw.com/de/in-spanien-rollt-der-bicibus-fridays-for-fahrrad/av-60174546?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Wed, 22 Dec 2021 15:59:00 GMT
+  summary: "Eine Fahrraddemonstration bringt in mehreren Orten Spaniens immer freitags\
+    \ Kinder zur Schule. So lernen die Kleinen das Radfahren und reduzieren f\xFC\
+    r kurze Zeit den Autoverkehr."
+  title: "In Spanien rollt der Bicibus \u2013 Fridays for Fahrrad"
+- link: https://www.dw.com/de/ebrodelta-streit-um-spanische-reisfelder/av-60085840?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Wed, 15 Dec 2021 16:57:00 GMT
+  summary: "Im spanischen Ebrodelta f\xFCrchten die Reisbauern wegen des Klimawandels\
+    \ den Verlust ihrer Felder. Die Regierung will eine riesige Fl\xE4che von mehr\
+    \ als 800 Hektar kaufen und sie als nat\xFCrlichen Puffer gegen Hochwasser der\
+    \ Natur \xFCberlassen."
+  title: 'Ebrodelta: Streit um spanische Reisfelder'
+- link: https://www.dw.com/de/die-ukraine-30-jahre-nach-den-sowjets/av-60085803?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Wed, 15 Dec 2021 16:36:00 GMT
+  summary: 30 Jahre nach dem Fall der Sowjetunion leidet die Ukraine unter dem Konflikt
+    mit Russland. Aber auch Korruption und Misswirtschaft machen vielen Bewohnern
+    zu schaffen.
+  title: Die Ukraine 30 Jahre nach den Sowjets
+- link: https://www.dw.com/de/30-jahre-nach-der-sowjetunion-wie-ticken-die-russen/av-59893707?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Sat, 11 Dec 2021 08:36:00 GMT
+  summary: Der Sowjetunion trauert DJ Igor nicht nach. Russland sei heute konservativ
+    und brauche eine harte Hand wie die Putins, keine Demokratie. In Europa habe Russland
+    nichts verloren. Es gehe seinen eigenen Weg.
+  title: "30 Jahre nach der Sowjetunion \u2013 wie ticken die Russen?"
+- link: https://www.dw.com/de/estland-das-geteilte-land/av-60009359?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Thu, 9 Dec 2021 20:00:00 GMT
+  summary: "30 Jahre nach dem Zerfall der Sowjetunion suchen die Russen in Estland\
+    \ immer noch ihren Platz. Beide Volksgruppen leben nebeneinander her, es gibt\
+    \ wenig Initiativen f\xFCr mehr Gemeinsamkeit."
+  title: Estland - das geteilte Land
+- link: https://www.dw.com/de/warum-hat-bulgarien-die-niedrigste-impfquote-europas/av-60009212?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Wed, 8 Dec 2021 15:14:00 GMT
+  summary: "In Bulgarien treffen Corona-Impfteams auf Impfverweigerer. Die Bev\xF6\
+    lkerung misstraut der Regierung. Die Folge sind erneut hohe Infektionszahlen."
+  title: Warum hat Bulgarien die niedrigste Impfquote Europas?
+- link: "https://www.dw.com/de/angst-ersch\xF6pfung-und-ignoranz-corona-in-deutschland/av-59952233?maca=de-podcast_europa-aktuell-2169-xml-mrss"
+  published: Wed, 1 Dec 2021 15:39:00 GMT
+  summary: "Deutschland k\xE4mpft mit Rekordinzidenzen, \xFCberlasteten Intensivstationen\
+    \ und Impfskeptikern. Trotz mehr als 100.000 Corona-Toten bleiben in manchen St\xE4\
+    dten die Weihnachtsm\xE4rkte weiter ge\xF6ffnet."
+  title: "Angst, Ersch\xF6pfung und Ignoranz - Corona in Deutschland"
+- link: https://www.dw.com/de/wird-spanien-zum-wolfsland/av-59893719?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Wed, 24 Nov 2021 17:06:00 GMT
+  summary: "Zwei- bis dreitausend W\xF6lfe leben im Nordwesten Spaniens. Sie sch\xFC\
+    tzt nun das Abschussverbot der Regierung. Dies sei fatal, jammern die Bauern:\
+    \ Denn nun seien sie selbst vom Aussterben bedroht. Doch j\xFCngere Viehz\xFC\
+    chter sind \xFCberzeugt, es sei Platz f\xFCr alle, wenn man es richtig anstelle."
+  title: Wird Spanien zum Wolfsland?
+- link: https://www.dw.com/de/caesars-reben-retten-italienische-winzer/av-59893718?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Wed, 24 Nov 2021 17:03:00 GMT
+  summary: "Viele italienische Weine wird es bald nicht mehr geben. Trauben des Chardonnay\
+    \ oder Cabernet Sauvignon halten Hitze und Trockenheit nicht mehr stand. Anders\
+    \ die Reben der alten R\xF6mer. Sie trotzen dem Klimawandel."
+  title: Caesars Reben retten italienische Winzer
+- link: "https://www.dw.com/de/corona-notstand-in-rum\xE4nischen-kliniken/av-59806003?maca=de-podcast_europa-aktuell-2169-xml-mrss"
+  published: Sat, 20 Nov 2021 04:30:00 GMT
+  summary: "Das Misstrauen gegen\xFCber den Corona-Impfungen ist in Rum\xE4nien vor\
+    \ allem in l\xE4ndlichen Gebieten weit verbreitet. Wegen der geringen Impfquote\
+    \ sind die Krankenh\xE4user \xFCberf\xFCllt."
+  title: "Corona: Notstand in rum\xE4nischen Kliniken"
+- link: "https://www.dw.com/de/sanktionierter-k\xE4se-in-russland/av-59806010?maca=de-podcast_europa-aktuell-2169-xml-mrss"
+  published: Wed, 17 Nov 2021 16:10:00 GMT
+  summary: "Westliche Wirtschaftssanktionen gegen Russland haben dort die Nachfrage\
+    \ nach einheimischen Waren erh\xF6ht. Doch davon profitieren nur selten russische\
+    \ Kleinbetriebe."
+  title: "Sanktionierter K\xE4se in Russland"
+- link: https://www.dw.com/de/frankreich-die-kirche-und-der-missbrauch/av-59806005?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Wed, 17 Nov 2021 16:06:00 GMT
+  summary: "Opfer sexuellen Missbrauchs durch franz\xF6sische katholische Priester\
+    \ fordern Aufkl\xE4rung. Die Kirche komme ihrer Verantwortung f\xFCr die F\xE4\
+    lle immer noch nicht ausreichend nach."
+  title: 'Frankreich: Die Kirche und der Missbrauch'
+- link: "https://www.dw.com/de/albanien-fl\xFCchtlinge-in-strandhotels/av-59735151?maca=de-podcast_europa-aktuell-2169-xml-mrss"
+  published: Wed, 10 Nov 2021 18:17:00 GMT
+  summary: "Afghanische Fl\xFCchtlinge in Albanien warten in Hotels darauf, dass es\
+    \ f\xFCr sie weitergeht. Die Ungewissheit, nicht zu wissen, wo sie hin k\xF6nnen\
+    \ und wann das sein wird, belastet sie."
+  title: "Albanien: Fl\xFCchtlinge in Strandhotels"
 - link: https://www.dw.com/de/portugals-oktopus-fischer-streiten-um-richtige-fangmethode/av-58708664?maca=de-podcast_europa-aktuell-2169-xml-mrss
   published: Wed, 3 Nov 2021 17:50:00 GMT
   summary: "In Portugal wird Tintenfisch traditionell mit Tonkr\xFCgen gefischt. Doch\
     \ vielen Fischern ist das zu anstrengend. Sie sind auf Fallen und Plastikbeh\xE4\
     lter umgestiegen. Die Folge: \xDCberfischung und mehr Plastik im Meer."
   title: Portugals Oktopus-Fischer streiten um richtige Fangmethode
+- link: https://www.dw.com/de/frankreich-der-club-der-dissidenten/av-59380475?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Wed, 3 Nov 2021 17:50:00 GMT
+  summary: "In Paris haben Fl\xFCchtlinge einen Ort geschaffen, um sich untereinander\
+    \ auszutauschen. Er ist Diskussionsforum, aber auch Anlaufstelle f\xFCr die Sorgen\
+    \ der Neuank\xF6mmlinge."
+  title: 'Frankreich: Der Club der Dissidenten'
 - link: https://www.dw.com/de/russland-der-sowjetbau/av-58292496?maca=de-podcast_europa-aktuell-2169-xml-mrss
   published: Wed, 3 Nov 2021 17:50:00 GMT
   summary: "Seit \xFCber f\xFCnfzig Jahren dominiert das \"Haus der R\xE4te\" das\
     \ Stadtbild von Kaliningrad. Der Bau dauerte zwanzig Jahre, danach stand es \xFC\
     ber drei\xDFig Jahre leer. Jetzt soll der Riese weg."
   title: 'Russland: Der Sowjetbau'
+- link: https://www.dw.com/de/tschechien-spenden-durch-snacks/av-59310953?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Wed, 3 Nov 2021 17:49:00 GMT
+  summary: "In Tschechien werden Kinder mit Handicap Mitbesitzer eines Start-ups.\
+    \ Das soll f\xFCr mehr soziale Sicherheit sorgen."
+  title: 'Tschechien: Spenden durch Snacks'
 - link: https://www.dw.com/de/energiewende-auf-den-shetlands/av-59380584?maca=de-podcast_europa-aktuell-2169-xml-mrss
   published: Wed, 3 Nov 2021 17:49:00 GMT
   summary: "Auf den Inseln in Schottlands Norden w\xE4chst das Bewusstsein f\xFCr\
     \ saubere Energie. Dabei arbeiten noch viele Bewohnerinnen und Bewohner f\xFC\
     r die \xD6l- und Gasindustrie."
   title: Energiewende auf den Shetlands
-- link: https://www.dw.com/de/tschechien-spenden-durch-snacks/av-59310953?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Wed, 3 Nov 2021 17:49:00 GMT
-  summary: "In Tschechien werden Kinder mit Handicap Mitbesitzer eines Start-ups.\
-    \ Das soll f\xFCr mehr soziale Sicherheit sorgen."
-  title: 'Tschechien: Spenden durch Snacks'
 - link: https://www.dw.com/de/niederlande-der-vermisstenfinder/av-59521103?maca=de-podcast_europa-aktuell-2169-xml-mrss
   published: Thu, 21 Oct 2021 08:02:00 GMT
   summary: "Der Niederl\xE4nder John Manrho sucht nach Gr\xE4bern vermisster deutscher\
@@ -57,11 +196,6 @@ entries:
     nde vor Jersey entbrannt. Die Gew\xE4sser rund um die Kanalinsel sind besonders\
     \ fischreich."
   title: "Frankreich: Fischereistreit um Fanggr\xFCnde"
-- link: "https://www.dw.com/de/ein-altenheim-f\xFCr-tiere/av-59451123?maca=de-podcast_europa-aktuell-2169-xml-mrss"
-  published: Wed, 13 Oct 2021 17:10:00 GMT
-  summary: "An der deutschen Nordseek\xFCste gibt es den ersten Gnadenhof f\xFCr Milchvieh.\
-    \ Spenden erm\xF6glichen es 38 Rindern, nicht auf dem Schlachthof zu landen."
-  title: "Ein Altenheim f\xFCr Tiere"
 - link: "https://www.dw.com/de/estland-neues-leben-f\xFCr-ein-altes-geheimnis/av-59451081?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Wed, 13 Oct 2021 17:09:00 GMT
   summary: "Die Stadt Sillam\xE4e war geheimer Standort der sowjetischen Atomindustrie.\
@@ -90,135 +224,13 @@ entries:
   summary: "In Griechenland belebt ein Winzer alte Traditionen neu. Er l\xE4sst Trauben\
     \ und Wein eine Zeit lang im Meer lagern."
   title: Griechischer Wein aus dem Meer
-- link: https://www.dw.com/de/widerstand-gegen-lgbtq-feindliches-gesetz/av-59214604?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Thu, 23 Sep 2021 13:52:00 GMT
-  summary: "Ungarns LGBTQ-Community zieht aus Angst vor Diskriminierung und Hass auf\
-    \ die Stra\xDFe. Sie f\xFCrchtet ein neues Gesetz, das die Verbreitung von Informationen\
-    \ \xFCber Homo- und Transsexualit\xE4t f\xFCr Menschen unter 18 Jahren verbietet."
-  title: Widerstand gegen LGBTQ-feindliches Gesetz
-- link: https://www.dw.com/de/deutscher-bundestag-frauen-in-der-minderheit/av-59214486?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Wed, 22 Sep 2021 16:43:00 GMT
-  summary: "Nach der \xC4ra Merkel ist die deutsche Politik noch immer von M\xE4nnern\
-    \ dominiert. Politikerinnen sind strukturell unterrepr\xE4sentiert."
-  title: Deutscher Bundestag - Frauen in der Minderheit
-- link: "https://www.dw.com/de/merkels-gr\xF6\xDFter-fan/av-59164426?maca=de-podcast_europa-aktuell-2169-xml-mrss"
-  published: Wed, 15 Sep 2021 14:35:00 GMT
-  summary: "Merkels gr\xF6\xDFter Fan ist wohl ein griechischer Gastwirt in Bremerhaven.\
-    \ Er hat die Kanzlerin jetzt sogar in Wachs nachbilden lassen."
-  title: "Merkels gr\xF6\xDFter Fan"
-- link: "https://www.dw.com/de/warum-manche-menschen-nicht-w\xE4hlen/av-59164425?maca=de-podcast_europa-aktuell-2169-xml-mrss"
-  published: Wed, 15 Sep 2021 14:34:00 GMT
-  summary: "Viele Menschen mit Migrationsgeschichte d\xFCrfen in Deutschland w\xE4\
-    hlen. Aber nicht alle nehmen ihr Recht war. Wie blicken sie auf die Politik?"
-  title: "Warum manche Menschen nicht w\xE4hlen"
-- link: https://www.dw.com/de/die-wut-nach-der-flut/av-59164395?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Wed, 15 Sep 2021 14:33:00 GMT
-  summary: "Die Zerst\xF6rungen der Jahrhundertflut in Deutschland haben das Thema\
-    \ Klimawandel auch im Wahlkampf nach oben gebracht. Einige Flutopfer f\xFChlen\
-    \ sich von der Politik allein gelassen."
-  title: Die Wut nach der Flut
-- link: https://www.dw.com/de/jung-und-ohne-stimme/av-59164422?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Wed, 15 Sep 2021 14:33:00 GMT
-  summary: "Nur noch 15 Prozent der W\xE4hler in Deutschland sind unter 30. Wie wichtig\
-    \ sind sie im Wahlkampf? Welcher Weg, sich politisch zu engagieren, bringt Erfolg?"
-  title: Jung und ohne Stimme?
-- link: https://www.dw.com/de/bilder-einer-kanzlerin/av-59164390?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Wed, 15 Sep 2021 14:30:00 GMT
-  summary: "Angela Merkel hat immer nur sehr sparsam nach au\xDFen kommuniziert. Das\
-    \ hat ihr politisch oft geholfen. Doch in Zeiten von Social Media funktioniert\
-    \ das nicht mehr."
-  title: Bilder einer Kanzlerin
-- link: https://www.dw.com/de/dagestan-eine-putin-hochburg/av-59125739?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Fri, 10 Sep 2021 07:00:00 GMT
-  summary: "Im September finden in Russland Parlamentswahlen statt. Wie vielerorts\
-    \ im Land sind sich auch in Dagestan Putins Unterst\xFCtzer sicher: nur er und\
-    \ die Regierungspartei \"Einiges Russland\" k\xF6nnen Fortschritt und Stabilit\xE4\
-    t garantieren."
-  title: 'Dagestan: Eine Putin-Hochburg'
-- link: "https://www.dw.com/de/d\xE4nemark-ohne-maske-und-lockdown/av-59125793?maca=de-podcast_europa-aktuell-2169-xml-mrss"
-  published: Fri, 10 Sep 2021 01:49:00 GMT
-  summary: "Deutschlands Nachbarland hebt alle Corona-Beschr\xE4nkungen auf. Die Impfquote\
-    \ im Land ist hoch - doch es ist nicht sicher, ob das Virus nicht doch den Impfschutz\
-    \ austrickst."
-  title: "D\xE4nemark: Ohne Maske und Lockdown"
-- link: https://www.dw.com/de/deutschland-der-lange-arm-erdogans/av-59125944?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Wed, 8 Sep 2021 15:18:00 GMT
-  summary: "Kritiker des t\xFCrkischen Staatschefs Erdogan werden in Deutschland angegriffen.\
-    \ Die Polizei ermittelt."
-  title: 'Deutschland: Der lange Arm Erdogans'
-- link: https://www.dw.com/de/russland-baschkiren-wollen-urgun-see-retten/av-59000988?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Wed, 1 Sep 2021 15:19:00 GMT
-  summary: "Der Urgun-See in der russischen Teilrepublik Baschkortostan wird immer\
-    \ kleiner. Anwohner machen ein Bergwerkskombinat verantwortlich. Doch Kombinat\
-    \ und Beh\xF6rden verweisen auf den Klimawandel."
-  title: 'Russland: Baschkiren wollen Urgun-See retten'
-- link: https://www.dw.com/de/deutschland-der-traktorfahrer-vom-ahrtal/av-58954635?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Wed, 25 Aug 2021 14:25:00 GMT
-  summary: "Nach den verheerenden \xDCberschwemmungen im Ahrtal bem\xFChen sich die\
-    \ Menschen, ihre St\xE4dte wiederaufzubauen. Eine gewaltige Aufgabe, denn auf\
-    \ 40 Kilometer L\xE4nge haben die Wassermassen der Ahr viele Orte zerst\xF6rt."
-  title: 'Deutschland: Der Traktorfahrer vom Ahrtal'
-- link: "https://www.dw.com/de/russland-alexej-nawalnys-anh\xE4nger-vor-der-wahl/av-58875260?maca=de-podcast_europa-aktuell-2169-xml-mrss"
-  published: Sun, 22 Aug 2021 14:00:00 GMT
-  summary: Vor der Parlamentswahl in Russland werden Blogger aus dem Umfeld des inhaftierten
-    Oppositionellen aktiv. Alexej Nawalny war genau vor einem Jahr vergiftet worden
-    und ist seit seinem Prozess in einem Straflager inhaftiert.
-  title: "Russland: Alexej Nawalnys Anh\xE4nger vor der Wahl"
-- link: "https://www.dw.com/de/spaniens-plantagen-und-die-d\xFCrre-w\xFCste-oder-wende/av-58885155?maca=de-podcast_europa-aktuell-2169-xml-mrss"
-  published: Sat, 21 Aug 2021 11:17:00 GMT
-  summary: "Die Europ\xE4er lieben spanisches Obst und Gem\xFCse. Doch die Monokulturen\
-    \ trocknen die B\xF6den brutal aus. Bei der Bundestagswahl ist den Deutschen Umwelt-\
-    \ und Klimaschutz wichtig. Auch wenn die Sch\xE4den eigener Vorlieben in Spanien\
-    \ zu besichtigen sind?"
-  title: "Spaniens Plantagen und die D\xFCrre - W\xFCste oder Wende"
-- link: "https://www.dw.com/de/polen-kritischer-tv-sender-tvn-f\xFCrchtet-um-pressefreiheit/av-58885144?maca=de-podcast_europa-aktuell-2169-xml-mrss"
-  published: Wed, 18 Aug 2021 14:56:00 GMT
-  summary: Polens regierende PIS-Partei will den US-Medienkonzern Discovery zwingen,
-    51 Prozent seiner TVN-Anteile zu verkaufen. Die kritischen Abendnachrichten "Fakty"
-    von TVN haben die besten Einschaltquoten im Land.
-  title: "Polen: Kritischer TV-Sender TVN f\xFCrchtet um Pressefreiheit"
-- link: https://www.dw.com/de/island-der-fishrot-skandal-und-die-angst-der-journalisten/av-58809033?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Thu, 12 Aug 2021 00:33:00 GMT
-  summary: "Ein isl\xE4ndischer Konzern setzt kritische Journalisten unter Druck.\
-    \ Die hatten \xFCber Korruption und Bestechungsvorw\xFCrfe bei Fischlizenzen vor\
-    \ Namibias K\xFCste berichtet."
-  title: 'Island: Der fishrot-Skandal und die Angst der Journalisten'
-- link: https://www.dw.com/de/berliner-mauer-flucht-durch-den-tunnel/av-58808025?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Thu, 12 Aug 2021 00:32:00 GMT
-  summary: "Ein Zeitzeuge erz\xE4hlt, wie Fl\xFCchtlinge die Berliner Mauer \xFCberwanden.\
-    \ Vor 60 Jahren begann die damalige DDR mit dem Bau des Grenzwalls."
-  title: 'Berliner Mauer: Flucht durch den Tunnel'
-- link: https://www.dw.com/de/schutz-vor-der-flut-wie-machen-es-die-niederlande/av-58708640?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Wed, 4 Aug 2021 23:52:00 GMT
-  summary: "In den Niederlanden ist Hochwasserschutz Gesetz. Daf\xFCr zahlen Anwohner\
-    \ oft einen hohen Preis. Doch die Ma\xDFnahmen sind erfolgreich. Bei der Flut\
-    \ im Juli 2021 blieb das Tiefland im Gegensatz zu Deutschland und Belgien relativ\
-    \ unbesch\xE4digt."
-  title: "Schutz vor der Flut \u2013 Wie machen es die Niederlande?"
-- link: "https://www.dw.com/de/deutschland-fl\xFCchtlinge-im-einsatz/av-58645781?maca=de-podcast_europa-aktuell-2169-xml-mrss"
-  published: Wed, 28 Jul 2021 16:08:00 GMT
-  summary: "Unter den Helfern in der deutschen Flutkatastrophe sind auch ehemalige\
-    \ Fl\xFCchtlinge. Sie wollen sich mit ihrer Hilfe f\xFCr die Aufnahme w\xE4hrend\
-    \ der Fl\xFCchtlingskrise 2015 bedanken."
-  title: "Deutschland: Fl\xFCchtlinge im Einsatz"
-- link: "https://www.dw.com/de/deutschland-t\xF6dliche-flut/av-58292519?maca=de-podcast_europa-aktuell-2169-xml-mrss"
-  published: Thu, 22 Jul 2021 08:22:00 GMT
-  summary: "Nach tagelangem Starkregen ist der Westen Deutschlands von einer verheerenden\
-    \ Naturkatastrophe betroffen. Mehr als 150 Menschen sind gestorben. Viele Bewohner\
-    \ f\xFCrchten jetzt um ihre wirtschaftliche Existenz."
-  title: "Deutschland: t\xF6dliche Flut"
-- link: "https://www.dw.com/de/siziliens-jugend-kehrt-zur\xFCck/av-58292498?maca=de-podcast_europa-aktuell-2169-xml-mrss"
-  published: Wed, 21 Jul 2021 15:45:00 GMT
-  summary: "Wegen der Pandemie sind viele junge Menschen in Italiens S\xFCden zur\xFC\
-    ckgekehrt. Viele w\xFCrden gerne dauerhaft bleiben. Doch dazu muss sich einiges\
-    \ \xE4ndern."
-  title: "Siziliens Jugend kehrt zur\xFCck"
-- link: "https://www.dw.com/de/albanien-m\xE4dchen-unerw\xFCnscht/av-17951068?maca=de-podcast_europa-aktuell-2169-xml-mrss"
+- link: https://www.dw.com/de/deutsch-lernen-mal-ganz-anders/av-17951075?maca=de-podcast_europa-aktuell-2169-xml-mrss
   published: Thu, 25 Sep 2014 01:03:00 GMT
-  summary: "In Albanien werden M\xE4dchen gezielt abgetrieben, denn in den traditionellen\
-    \ Clan- und Familienstrukturen werden m\xE4nnliche Nachfahren h\xF6her bewertet.\
-    \ Die moderne Diagnostik kommt diesen Familien gerade recht."
-  title: "Albanien: M\xE4dchen unerw\xFCnscht"
+  summary: "Immer weniger Polen wollen Deutsch lernen. Das bekommen auch die Deutschlehrer\
+    \ zu sp\xFCren. Viele haben bereits ihren Job verloren. Eine arbeitslose Lehrerin\
+    \ hat sich etwas ganz Besonderes einfallen lassen: Marlena Uzieblo tourt durch\
+    \ Polen und tr\xE4gt Lieder von Marlene Dietrich vor."
+  title: Deutsch lernen mal ganz anders
 - link: "https://www.dw.com/de/frankreich-fl\xFCchtlinge-in-calais/av-17951066?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Thu, 25 Sep 2014 01:03:00 GMT
   summary: "In Calais droht die Fl\xFCchtlingslage au\xDFer Kontrolle zu geraten.\
@@ -232,13 +244,19 @@ entries:
     \ hatten 80 Fl\xFCchtlinge den Hafen gest\xFCrmt, weil sie als blinde Passagiere\
     \ auf die F\xE4hre \xFCber den Kanal wollten."
   title: "Frankreich: Fl\xFCchtlinge in Calais"
-- link: https://www.dw.com/de/deutsch-lernen-mal-ganz-anders/av-17951075?maca=de-podcast_europa-aktuell-2169-xml-mrss
+- link: "https://www.dw.com/de/albanien-m\xE4dchen-unerw\xFCnscht/av-17951068?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Thu, 25 Sep 2014 01:03:00 GMT
-  summary: "Immer weniger Polen wollen Deutsch lernen. Das bekommen auch die Deutschlehrer\
-    \ zu sp\xFCren. Viele haben bereits ihren Job verloren. Eine arbeitslose Lehrerin\
-    \ hat sich etwas ganz Besonderes einfallen lassen: Marlena Uzieblo tourt durch\
-    \ Polen und tr\xE4gt Lieder von Marlene Dietrich vor."
-  title: Deutsch lernen mal ganz anders
+  summary: "In Albanien werden M\xE4dchen gezielt abgetrieben, denn in den traditionellen\
+    \ Clan- und Familienstrukturen werden m\xE4nnliche Nachfahren h\xF6her bewertet.\
+    \ Die moderne Diagnostik kommt diesen Familien gerade recht."
+  title: "Albanien: M\xE4dchen unerw\xFCnscht"
+- link: "https://www.dw.com/de/zufluchtsort-f\xFCr-die-\xE4rmsten-in-bulgarien/av-17928863?maca=de-podcast_europa-aktuell-2169-xml-mrss"
+  published: Thu, 18 Sep 2014 01:03:00 GMT
+  summary: "Bulgarien geh\xF6rt zu den \xE4rmsten L\xE4ndern Europas. Fast die H\xE4\
+    lfte der Bulgaren leidet unter der Armut. Das Kloster Novi Han bei Sofia ist ein\
+    \ Zufluchtsort f\xFCr die \xC4rmsten der Armen. Der landesweit bekannte Pater\
+    \ Ioan betreibt dort ein Waisenhaus."
+  title: "Zufluchtsort f\xFCr die \xC4rmsten in Bulgarien"
 - link: "https://www.dw.com/de/jesidische-fl\xFCchtlinge-in-der-t\xFCrkei/av-17928858?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Thu, 18 Sep 2014 01:03:00 GMT
   summary: "Zehntausende Jesiden sind nach den Angriffen islamischer Terroristen in\
@@ -253,13 +271,6 @@ entries:
     \ finden. Andernfalls m\xFCssten sie zur\xFCck in die Lager an der Grenze zu Syrien\
     \ und dem Irak."
   title: "Jesidische Fl\xFCchtlinge in der T\xFCrkei"
-- link: "https://www.dw.com/de/zufluchtsort-f\xFCr-die-\xE4rmsten-in-bulgarien/av-17928863?maca=de-podcast_europa-aktuell-2169-xml-mrss"
-  published: Thu, 18 Sep 2014 01:03:00 GMT
-  summary: "Bulgarien geh\xF6rt zu den \xE4rmsten L\xE4ndern Europas. Fast die H\xE4\
-    lfte der Bulgaren leidet unter der Armut. Das Kloster Novi Han bei Sofia ist ein\
-    \ Zufluchtsort f\xFCr die \xC4rmsten der Armen. Der landesweit bekannte Pater\
-    \ Ioan betreibt dort ein Waisenhaus."
-  title: "Zufluchtsort f\xFCr die \xC4rmsten in Bulgarien"
 - link: "https://www.dw.com/de/b\xF6hmisches-br\xFCllen-ein-ort-und-seine-l\xF6wen/av-17913233?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Thu, 11 Sep 2014 01:03:00 GMT
   summary: "Ein Tierfreund hat in seinem heruntergekommenen Bauernhof zwei Zirkusl\xF6\
@@ -271,26 +282,12 @@ entries:
     \ um ihre Sicherheit. Das Veterin\xE4ramt sieht keinen Grund zum Eingreifen -\
     \ schlie\xDFlich m\xFCsse der Besitzer f\xFCr die Tiere haften."
   title: "B\xF6hmisches Br\xFCllen: Ein Ort und seine L\xF6wen"
-- link: "https://www.dw.com/de/griechenland-sch\xFCsse-auf-erntehelfer/av-17898273?maca=de-podcast_europa-aktuell-2169-xml-mrss"
-  published: Thu, 4 Sep 2014 01:03:00 GMT
-  summary: "Tausende illegale Saisonkr\xE4fte arbeiten in Griechenland. Auf der Halbinsel\
-    \ Peloponnes ernten sie f\xFCr einen Hungerlohn Erdbeeren und Kartoffeln. Im vergangenen\
-    \ Jahr wurden 20 Plantagenarbeiter von ihrem Vorarbeiter mit einem Schrotgewehr\
-    \ beschossen. Die Hinterm\xE4nner der Tat wurden freigesprochen."
-  title: "Griechenland: Sch\xFCsse auf Erntehelfer"
 - link: "https://www.dw.com/de/die-etwas-andere-rastst\xE4tte/av-17898278?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Thu, 4 Sep 2014 01:03:00 GMT
   summary: "Ohne Auto geht gar nichts in Deutschland, ohne Autobahn auch nicht. Und\
     \ zu jeder Autobahn geh\xF6rt nat\xFCrlich die Rastst\xE4tte, auch wenn sie manchmal\
     \ hinter einem Zaun versteckt ist."
   title: "Die etwas andere Rastst\xE4tte"
-- link: https://www.dw.com/de/frankreich-fasziniert-vom-dschihad/av-17898275?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Thu, 4 Sep 2014 01:03:00 GMT
-  summary: "Immer mehr Jugendliche aus Europa schlie\xDFen sich dem bewaffneten Dschihad\
-    \ in Syrien und dem Irak an. Angeworben werden sie durch islamistische Netzwerke.\
-    \ Allein in Frankreich lie\xDFen sich schon mehr als 700 Jungen und M\xE4dchen\
-    \ nach Syrien locken. Dort erwartet sie ein blutiger Alltag."
-  title: 'Frankreich: Fasziniert vom Dschihad'
 - link: "https://www.dw.com/de/rum\xE4nien-raubbau-in-den-karpaten/av-17898277?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Thu, 4 Sep 2014 01:03:00 GMT
   summary: "In den rum\xE4nischen Karpaten werden in gro\xDFem Stil jahrhundertealte\
@@ -304,6 +301,20 @@ entries:
     \ dies auch zu kontrollieren. Natursch\xFCtzer bezweifeln das, verweisen darauf,\
     \ dass fehlende Kontrolle die Abholzung ganzer W\xE4lder erst m\xF6glich macht."
   title: "Rum\xE4nien: Raubbau in den Karpaten"
+- link: https://www.dw.com/de/frankreich-fasziniert-vom-dschihad/av-17898275?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Thu, 4 Sep 2014 01:03:00 GMT
+  summary: "Immer mehr Jugendliche aus Europa schlie\xDFen sich dem bewaffneten Dschihad\
+    \ in Syrien und dem Irak an. Angeworben werden sie durch islamistische Netzwerke.\
+    \ Allein in Frankreich lie\xDFen sich schon mehr als 700 Jungen und M\xE4dchen\
+    \ nach Syrien locken. Dort erwartet sie ein blutiger Alltag."
+  title: 'Frankreich: Fasziniert vom Dschihad'
+- link: "https://www.dw.com/de/griechenland-sch\xFCsse-auf-erntehelfer/av-17898273?maca=de-podcast_europa-aktuell-2169-xml-mrss"
+  published: Thu, 4 Sep 2014 01:03:00 GMT
+  summary: "Tausende illegale Saisonkr\xE4fte arbeiten in Griechenland. Auf der Halbinsel\
+    \ Peloponnes ernten sie f\xFCr einen Hungerlohn Erdbeeren und Kartoffeln. Im vergangenen\
+    \ Jahr wurden 20 Plantagenarbeiter von ihrem Vorarbeiter mit einem Schrotgewehr\
+    \ beschossen. Die Hinterm\xE4nner der Tat wurden freigesprochen."
+  title: "Griechenland: Sch\xFCsse auf Erntehelfer"
 - link: "https://www.dw.com/de/furchtlose-sch\xE4fer-in-den-karpaten/av-17885333?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Thu, 28 Aug 2014 01:03:00 GMT
   summary: "Ihr Leben ist arm, archaisch und nicht ungef\xE4hrlich. St\xE4ndig sind\
@@ -337,6 +348,18 @@ entries:
     \ das lokale Leben. Aber vor allem die Hoteliers und Gastronomen str\xE4uben sich\
     \ gegen die neue vorgeschriebene Gastfreundlichkeit."
   title: 'Frankreich: Charme und Arroganz'
+- link: https://www.dw.com/de/frankreich-krawall-in-klein-jerusalem/av-17838226?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Thu, 7 Aug 2014 01:03:00 GMT
+  summary: "In Frankreich leben die gr\xF6\xDFten j\xFCdischen und moslemischen Gemeinden\
+    \ Europas. Mit dem Beginn der israelischen Milit\xE4roffensive im Gazastreifen\
+    \ kam es zu anti-isrealischen Protesten.\n\tDabei hatten in Sarcelles, einem Vorort\
+    \ von Paris, Juden und Moslems seit Jahren friedlich zusammen gelebt. \xB4Im Supermarkt\
+    \ begegneten sich europ\xE4ische und nordafrikanische Juden, am Abend spielten\
+    \ sie mit moslemischen Jugendlichen Fu\xDFball. Nun sind viele j\xFCdische Familien\
+    \ so in Sorge, dass sie sich Waffen zu ihrer Verteidigung angeschafft haben. Gem\xE4\
+    \xDFigte Imame und Rabbiner haben alle H\xE4nde voll zu tun, die Aggressionen\
+    \ zu stoppen."
+  title: 'Frankreich: Krawall in Klein-Jerusalem'
 - link: "https://www.dw.com/de/t\xFCrkei-lebensgef\xE4hrlicher-job/av-17838224?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Thu, 7 Aug 2014 01:03:00 GMT
   summary: "Das Bergwerksungl\xFCck im t\xFCrkischen Soma hat vor Wochen die Welt\xF6\
@@ -351,44 +374,6 @@ entries:
     \ Erdogan schon vor Wochen versprochen f\xFCr die Sicherheit der Bergarbeiter\
     \ im Land zu sorgen."
   title: "T\xFCrkei: lebensgef\xE4hrlicher Job"
-- link: https://www.dw.com/de/frankreich-krawall-in-klein-jerusalem/av-17838226?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Thu, 7 Aug 2014 01:03:00 GMT
-  summary: "In Frankreich leben die gr\xF6\xDFten j\xFCdischen und moslemischen Gemeinden\
-    \ Europas. Mit dem Beginn der israelischen Milit\xE4roffensive im Gazastreifen\
-    \ kam es zu anti-isrealischen Protesten.\n\tDabei hatten in Sarcelles, einem Vorort\
-    \ von Paris, Juden und Moslems seit Jahren friedlich zusammen gelebt. \xB4Im Supermarkt\
-    \ begegneten sich europ\xE4ische und nordafrikanische Juden, am Abend spielten\
-    \ sie mit moslemischen Jugendlichen Fu\xDFball. Nun sind viele j\xFCdische Familien\
-    \ so in Sorge, dass sie sich Waffen zu ihrer Verteidigung angeschafft haben. Gem\xE4\
-    \xDFigte Imame und Rabbiner haben alle H\xE4nde voll zu tun, die Aggressionen\
-    \ zu stoppen."
-  title: 'Frankreich: Krawall in Klein-Jerusalem'
-- link: https://www.dw.com/de/italien-die-bunker-der-mafia/av-17823252?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Thu, 31 Jul 2014 01:03:00 GMT
-  summary: "Die Ndrangheta ist die m\xE4chtigste italienische Mafia-Organisation.\
-    \ Gesteuert wird sie aus Geheimverstecken, denn der italienische Staat jagt die\
-    \ Bosse.\n\tSie sind reich, m\xE4chtig und verf\xFCgen \xFCber exzellente Verbindungen\
-    \ zu Drogenkartellen weltweit. Doch \xF6ffentlich sehen lassen k\xF6nnen sich\
-    \ die f\xFChrenden K\xF6pfe der Ndrangheta nicht. In unterirdischen Bunkern, die\
-    \ durch ganz normale Wohnungen zug\xE4nglich sind, m\xFCssen sich die Bosse vor\
-    \ der Polizei verstecken. Die Region Kalabrien dient ihnen dabei nicht nur als\
-    \ Drehkreuz f\xFCr den Drogenverkehr von S\xFCdamerika nach Europa, sondern auch\
-    \ als erstklassiges Versteck. Hier leben die Bosse von vielen B\xFCrgern geduldet\
-    \ und gesch\xFCtzt durch die Omert\xE0, das traditionelle Schweigegel\xFCbte."
-  title: 'Italien: Die Bunker der Mafia'
-- link: https://www.dw.com/de/ukraine-auf-den-spuren-der-russen/av-17823242?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Thu, 31 Jul 2014 01:03:00 GMT
-  summary: "Die USA und die EU machen prorussische Separatisten, die von Moskau unterst\xFC\
-    tzt und ausger\xFCstet werden, f\xFCr den Absturz von Flug MH17 verantwortlich.\
-    \ Viele Indizien sprechen daf\xFCr.\n\tImmer wieder haben die EU und die USA in\
-    \ den vergangenen Wochen gefordert: Russland muss die Grenze zur Ukraine besser\
-    \ sichern, damit nicht noch mehr Waffen und K\xE4mpfer in das Krisengebiet einsickern.\
-    \ Wie viele russische K\xE4mpfer und Kriegsger\xE4t sich tats\xE4chlich auf ukrainischem\
-    \ Boden befinden, ist aber unklar. Immer wieder gibt es Ger\xFCchte \xFCber Waffenlieferungen,\
-    \ die in die Ukraine gehen, sowie \xFCber get\xF6tete russische Milit\xE4rs, die\
-    \ nach Russland \xFCbergef\xFChrt werden. DW-Reporter Markus Reher macht sich\
-    \ auf Spurensuche im Krisengebiet."
-  title: 'Ukraine: Auf den Spuren der Russen'
 - link: https://www.dw.com/de/bulgarien-eine-mauer-gegen-das-elend/av-17823254?maca=de-podcast_europa-aktuell-2169-xml-mrss
   published: Thu, 31 Jul 2014 01:03:00 GMT
   summary: "Europa schirmt seine Au\xDFengrenzen immer weiter ab. F\xFCr 4,6 Millionen\
@@ -414,19 +399,32 @@ entries:
     \ die Stimmen, die eine Ausweisung von Maria Putina fordern. An Bord der abgest\xFC\
     rzten Maschine waren 298 Menschen, darunter 193 Niederl\xE4nder."
   title: 'Niederlande: Wenn aus Trauer Wut wird'
-- link: "https://www.dw.com/de/italien-europas-m\xE4chtigster-vulkan/av-17804273?maca=de-podcast_europa-aktuell-2169-xml-mrss"
-  published: Thu, 24 Jul 2014 01:03:00 GMT
-  summary: "Der \xC4tna ist faszinierend, gef\xFCrchtet und zieht jedes Jahr tausende\
-    \ Touristen an. Doch seit zwei Wochen gibt es neue Eruptionsherde. Der Gipfel\
-    \ ist seither geschlossen.\n\tDrei Vulkane halten Italien immer wieder in Atem.\
-    \ Der aktivste Vulkan Stromboli, der unberechenbare Vesuv und der h\xF6chste Vulkan,\
-    \ der \xC4tna. Mit einer H\xF6he von 3350 Metern dominiert er weithin sichtbar\
-    \ die Ostk\xFCste Siziliens. Immer wieder ersch\xFCttern Erdbeben die Region,\
-    \ Aschewolken verdunkeln den Himmel und Lavastr\xF6me zerst\xF6ren H\xE4user hoch\
-    \ oben am Berg. Ein Team von Vulkanologen und Rangern vor Ort \xFCberwacht jede\
-    \ Bewegung des \xC4tna, denn ein Ausbruch ist - rein theoretisch - jederzeit m\xF6\
-    glich."
-  title: "Italien: Europas m\xE4chtigster Vulkan"
+- link: https://www.dw.com/de/ukraine-auf-den-spuren-der-russen/av-17823242?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Thu, 31 Jul 2014 01:03:00 GMT
+  summary: "Die USA und die EU machen prorussische Separatisten, die von Moskau unterst\xFC\
+    tzt und ausger\xFCstet werden, f\xFCr den Absturz von Flug MH17 verantwortlich.\
+    \ Viele Indizien sprechen daf\xFCr.\n\tImmer wieder haben die EU und die USA in\
+    \ den vergangenen Wochen gefordert: Russland muss die Grenze zur Ukraine besser\
+    \ sichern, damit nicht noch mehr Waffen und K\xE4mpfer in das Krisengebiet einsickern.\
+    \ Wie viele russische K\xE4mpfer und Kriegsger\xE4t sich tats\xE4chlich auf ukrainischem\
+    \ Boden befinden, ist aber unklar. Immer wieder gibt es Ger\xFCchte \xFCber Waffenlieferungen,\
+    \ die in die Ukraine gehen, sowie \xFCber get\xF6tete russische Milit\xE4rs, die\
+    \ nach Russland \xFCbergef\xFChrt werden. DW-Reporter Markus Reher macht sich\
+    \ auf Spurensuche im Krisengebiet."
+  title: 'Ukraine: Auf den Spuren der Russen'
+- link: https://www.dw.com/de/italien-die-bunker-der-mafia/av-17823252?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Thu, 31 Jul 2014 01:03:00 GMT
+  summary: "Die Ndrangheta ist die m\xE4chtigste italienische Mafia-Organisation.\
+    \ Gesteuert wird sie aus Geheimverstecken, denn der italienische Staat jagt die\
+    \ Bosse.\n\tSie sind reich, m\xE4chtig und verf\xFCgen \xFCber exzellente Verbindungen\
+    \ zu Drogenkartellen weltweit. Doch \xF6ffentlich sehen lassen k\xF6nnen sich\
+    \ die f\xFChrenden K\xF6pfe der Ndrangheta nicht. In unterirdischen Bunkern, die\
+    \ durch ganz normale Wohnungen zug\xE4nglich sind, m\xFCssen sich die Bosse vor\
+    \ der Polizei verstecken. Die Region Kalabrien dient ihnen dabei nicht nur als\
+    \ Drehkreuz f\xFCr den Drogenverkehr von S\xFCdamerika nach Europa, sondern auch\
+    \ als erstklassiges Versteck. Hier leben die Bosse von vielen B\xFCrgern geduldet\
+    \ und gesch\xFCtzt durch die Omert\xE0, das traditionelle Schweigegel\xFCbte."
+  title: 'Italien: Die Bunker der Mafia'
 - link: "https://www.dw.com/de/spanien-t\xF6dliche-gefahr-f\xFCr-europas-geier/av-17804271?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Thu, 24 Jul 2014 01:03:00 GMT
   summary: "In Spanien lebt die gr\xF6\xDFte Geierpopulation Europas. Doch der Bestand\
@@ -440,17 +438,19 @@ entries:
     \ der Geierpopulation gef\xFChrt. Die Aasfresser nehmen die Substanz auf, wenn\
     \ sie verendete Rinder fressen und sterben an Nierenversagen."
   title: "Spanien: T\xF6dliche Gefahr f\xFCr Europas Geier"
-- link: "https://www.dw.com/de/t\xFCrkei-kurdische-tr\xE4ume/av-17790868?maca=de-podcast_europa-aktuell-2169-xml-mrss"
-  published: Thu, 17 Jul 2014 01:03:00 GMT
-  summary: "Die K\xE4mpfe mit Dschihadisten im Irak er\xF6ffnen den Kurden im Norden\
-    \ des Landes neue M\xF6glichkeiten. F\xFCr viele t\xFCrkische Kurden sind die\
-    \ Nachbarn l\xE4ngst zum Vorbild geworden.\n\tMit Sorge aber auch Hoffnung blicken\
-    \ viele Kurden in der T\xFCrkei in diesen Tagen in Richtung Irak. W\xE4hrend die\
-    \ Terrorgruppe Isis immer weiter Richtung Bagdad vordringt, festigen die Kurden\
-    \ in den autonomen Gebieten immer mehr ihre Macht. L\xE4ngst ist die Rede von\
-    \ einem eigenst\xE4ndigen kurdischen Staat, der auch \xFCber die Grenzen des Irak\
-    \ reichen soll."
-  title: "T\xFCrkei: Kurdische Tr\xE4ume"
+- link: "https://www.dw.com/de/italien-europas-m\xE4chtigster-vulkan/av-17804273?maca=de-podcast_europa-aktuell-2169-xml-mrss"
+  published: Thu, 24 Jul 2014 01:03:00 GMT
+  summary: "Der \xC4tna ist faszinierend, gef\xFCrchtet und zieht jedes Jahr tausende\
+    \ Touristen an. Doch seit zwei Wochen gibt es neue Eruptionsherde. Der Gipfel\
+    \ ist seither geschlossen.\n\tDrei Vulkane halten Italien immer wieder in Atem.\
+    \ Der aktivste Vulkan Stromboli, der unberechenbare Vesuv und der h\xF6chste Vulkan,\
+    \ der \xC4tna. Mit einer H\xF6he von 3350 Metern dominiert er weithin sichtbar\
+    \ die Ostk\xFCste Siziliens. Immer wieder ersch\xFCttern Erdbeben die Region,\
+    \ Aschewolken verdunkeln den Himmel und Lavastr\xF6me zerst\xF6ren H\xE4user hoch\
+    \ oben am Berg. Ein Team von Vulkanologen und Rangern vor Ort \xFCberwacht jede\
+    \ Bewegung des \xC4tna, denn ein Ausbruch ist - rein theoretisch - jederzeit m\xF6\
+    glich."
+  title: "Italien: Europas m\xE4chtigster Vulkan"
 - link: "https://www.dw.com/de/rum\xE4nien-trockene-fl\xFCsse/av-17790872?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Thu, 17 Jul 2014 01:03:00 GMT
   summary: "Wasserkraftwerke erleben in Rum\xE4nien einen wahren Boom. Vom Staat mit\
@@ -464,18 +464,17 @@ entries:
     \ und die \xF6kologischen Folgen sind fatal. Anwohner k\xE4mpfen um die letzten\
     \ unber\xFChrten B\xE4che und Fl\xFCsse in Rum\xE4nien."
   title: "Rum\xE4nien: Trockene Fl\xFCsse"
-- link: https://www.dw.com/de/polen-kinder-aus-dem-glas/av-17771161?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Thu, 10 Jul 2014 01:03:00 GMT
-  summary: "Retortenbabys - auch in Polen erf\xFCllen sich kinderlose Paare durch\
-    \ die Befruchtung im Reagenzglas ihren Kinderwunsch. Eine Warschauerin bekommt\
-    \ schon ihr zweites Kind auf diese Weise.\n\tDas Besondere: W\xE4hrend f\xFCr\
-    \ die erste k\xFCnstliche Befruchtung noch die ganze Familie Geld sammeln musste,\
-    \ wird die Geburt ihres zweiten Retortenbabys sogar vom Staat bezahlt. Eine gesetzliche\
-    \ Lockerung im erzkatholischen Polen, wo manch ein Priester einem In-Vitro-Baby\
-    \ die kirchliche Taufe verweigert. Trotzdem wird in Polen die Befruchtung im Glas\
-    \ schon seit 1987 durchgef\xFChrt und jetzt beteiligt sich der Staat sogar an\
-    \ den Kosten f\xFCr die teure Reproduktionstechnik."
-  title: 'Polen: Kinder aus dem Glas'
+- link: "https://www.dw.com/de/t\xFCrkei-kurdische-tr\xE4ume/av-17790868?maca=de-podcast_europa-aktuell-2169-xml-mrss"
+  published: Thu, 17 Jul 2014 01:03:00 GMT
+  summary: "Die K\xE4mpfe mit Dschihadisten im Irak er\xF6ffnen den Kurden im Norden\
+    \ des Landes neue M\xF6glichkeiten. F\xFCr viele t\xFCrkische Kurden sind die\
+    \ Nachbarn l\xE4ngst zum Vorbild geworden.\n\tMit Sorge aber auch Hoffnung blicken\
+    \ viele Kurden in der T\xFCrkei in diesen Tagen in Richtung Irak. W\xE4hrend die\
+    \ Terrorgruppe Isis immer weiter Richtung Bagdad vordringt, festigen die Kurden\
+    \ in den autonomen Gebieten immer mehr ihre Macht. L\xE4ngst ist die Rede von\
+    \ einem eigenst\xE4ndigen kurdischen Staat, der auch \xFCber die Grenzen des Irak\
+    \ reichen soll."
+  title: "T\xFCrkei: Kurdische Tr\xE4ume"
 - link: "https://www.dw.com/de/gro\xDFbritannien-operation-trojanisches-pferd/av-17771159?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Thu, 10 Jul 2014 01:03:00 GMT
   summary: "Seit Monaten diskutiert ganz Birmingham \xFCber die Rolle des Islam an\
@@ -490,6 +489,28 @@ entries:
     \ in allen Schulen gelehrt. Doch die betroffenen Schulen weisen die Vorw\xFCrfe\
     \ scharf zur\xFCck."
   title: "Gro\xDFbritannien: Operation \"Trojanisches Pferd\""
+- link: https://www.dw.com/de/polen-kinder-aus-dem-glas/av-17771161?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Thu, 10 Jul 2014 01:03:00 GMT
+  summary: "Retortenbabys - auch in Polen erf\xFCllen sich kinderlose Paare durch\
+    \ die Befruchtung im Reagenzglas ihren Kinderwunsch. Eine Warschauerin bekommt\
+    \ schon ihr zweites Kind auf diese Weise.\n\tDas Besondere: W\xE4hrend f\xFCr\
+    \ die erste k\xFCnstliche Befruchtung noch die ganze Familie Geld sammeln musste,\
+    \ wird die Geburt ihres zweiten Retortenbabys sogar vom Staat bezahlt. Eine gesetzliche\
+    \ Lockerung im erzkatholischen Polen, wo manch ein Priester einem In-Vitro-Baby\
+    \ die kirchliche Taufe verweigert. Trotzdem wird in Polen die Befruchtung im Glas\
+    \ schon seit 1987 durchgef\xFChrt und jetzt beteiligt sich der Staat sogar an\
+    \ den Kosten f\xFCr die teure Reproduktionstechnik."
+  title: 'Polen: Kinder aus dem Glas'
+- link: https://www.dw.com/de/schottland-die-gespaltene-nation/av-17754645?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Thu, 3 Jul 2014 01:03:00 GMT
+  summary: "Der Countdown l\xE4uft. Nur noch zweieinhalb Monate, dann werden die Schotten\
+    \ entscheiden: Wollen sie weiter zu Gro\xDFbritannien geh\xF6ren oder unabh\xE4\
+    ngig sein?\n\tGeht es nach den Umfragen sind kurz vor dem Referendum immer noch\
+    \ rund 30 Prozent der Schotten unentschieden. Dass sie im Falle einer Abspaltung\
+    \ nicht automatisch in der EU bleiben k\xF6nnen, das hat Br\xFCssel schon klargemacht.\
+    \ Aber viele andere praktische Fragen sind nach wie vor ungekl\xE4rt und spalten\
+    \ die schottische Bev\xF6lkerung."
+  title: 'Schottland: Die gespaltene Nation'
 - link: "https://www.dw.com/de/rum\xE4nien-die-h\xF6hlenmenschen-von-bukarest/av-17754644?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Thu, 3 Jul 2014 01:03:00 GMT
   summary: "Gesch\xE4tzt 6000 Obdachlose leben derzeit in der Kanalisation von Bukarest.\
@@ -514,16 +535,6 @@ entries:
     \ in Kiew m\xFCsse zentrale Macht abtreten, denn die Menschen vor Ort k\xF6nnten\
     \ die Dinge am besten selbst anpacken."
   title: "Ukraine: Lembergs B\xFCrgermeister"
-- link: https://www.dw.com/de/schottland-die-gespaltene-nation/av-17754645?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Thu, 3 Jul 2014 01:03:00 GMT
-  summary: "Der Countdown l\xE4uft. Nur noch zweieinhalb Monate, dann werden die Schotten\
-    \ entscheiden: Wollen sie weiter zu Gro\xDFbritannien geh\xF6ren oder unabh\xE4\
-    ngig sein?\n\tGeht es nach den Umfragen sind kurz vor dem Referendum immer noch\
-    \ rund 30 Prozent der Schotten unentschieden. Dass sie im Falle einer Abspaltung\
-    \ nicht automatisch in der EU bleiben k\xF6nnen, das hat Br\xFCssel schon klargemacht.\
-    \ Aber viele andere praktische Fragen sind nach wie vor ungekl\xE4rt und spalten\
-    \ die schottische Bev\xF6lkerung."
-  title: 'Schottland: Die gespaltene Nation'
 - link: https://www.dw.com/de/serbien-kurioser-kult/av-17737021?maca=de-podcast_europa-aktuell-2169-xml-mrss
   published: Thu, 26 Jun 2014 01:03:00 GMT
   summary: "Die Pistolensch\xFCsse von Sarajewo l\xF6sten den Ersten Weltkrieg aus.\
@@ -561,6 +572,17 @@ entries:
     \ Spur. Insgesamt fahndet die Polizei derzeit nach fast 1.500 Kindern. Eine Spezialeinheit\
     \ ermittelt in 81 t\xFCrkischen Provinzen."
   title: "T\xFCrkei: Die vermissten Kinder"
+- link: https://www.dw.com/de/spanien-ende-des-schmuddeltourismus/av-17701530?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Thu, 12 Jun 2014 01:03:00 GMT
+  summary: "Die Beh\xF6rden auf der Insel Mallorca sind die Massentouristen leid.\
+    \ Mit neuen Verordnungen wollen sie die Ballermann-Klientel wieder loswerden.\n\
+    \tMallorca-Touristen kennen die Playa de Palma in Mallorcas Hauptstadt nur noch\
+    \ als Ballermann. Der Strandabschnitt, nur wenige Autominuten \xF6stlich von Palma\
+    \ ist seit Jahren zu einer Party-Zone verkommen, die von trinkfreudigen, meist\
+    \ jungen Menschen aus Deutschland und Gro\xDFbritannien bev\xF6lkert wird. Die\
+    \ spanischen Beh\xF6rden versuchen jetzt mit neuen Verordnungen und Kontrollen,\
+    \ ausufernde Trinkgelage zu verhindern und der Insel ein neues Image zu verpassen."
+  title: 'Spanien: Ende des Schmuddeltourismus'
 - link: "https://www.dw.com/de/italien-fl\xFCchtlinge-in-seenot/av-17701522?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Thu, 12 Jun 2014 01:03:00 GMT
   summary: "Wieder kommen Zehntausende Menschen \xFCber das Mittelmeer nach Europa.\
@@ -573,17 +595,6 @@ entries:
     \ So hoffen die Menschen, doch noch in Europa bleiben zu k\xF6nnen.\n\n\tEine\
     \ Reportage von der \"San Giorgio\" , einem Landungsschiff der italienischen Marine."
   title: "Italien: Fl\xFCchtlinge in Seenot"
-- link: https://www.dw.com/de/spanien-ende-des-schmuddeltourismus/av-17701530?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Thu, 12 Jun 2014 01:03:00 GMT
-  summary: "Die Beh\xF6rden auf der Insel Mallorca sind die Massentouristen leid.\
-    \ Mit neuen Verordnungen wollen sie die Ballermann-Klientel wieder loswerden.\n\
-    \tMallorca-Touristen kennen die Playa de Palma in Mallorcas Hauptstadt nur noch\
-    \ als Ballermann. Der Strandabschnitt, nur wenige Autominuten \xF6stlich von Palma\
-    \ ist seit Jahren zu einer Party-Zone verkommen, die von trinkfreudigen, meist\
-    \ jungen Menschen aus Deutschland und Gro\xDFbritannien bev\xF6lkert wird. Die\
-    \ spanischen Beh\xF6rden versuchen jetzt mit neuen Verordnungen und Kontrollen,\
-    \ ausufernde Trinkgelage zu verhindern und der Insel ein neues Image zu verpassen."
-  title: 'Spanien: Ende des Schmuddeltourismus'
 - link: https://www.dw.com/de/polen-25-jahre-demokratie/av-17683790?maca=de-podcast_europa-aktuell-2169-xml-mrss
   published: Thu, 5 Jun 2014 01:03:00 GMT
   summary: "Die Gespr\xE4che am runden Tisch standen am Anfang. Sie leiteten 1989\
@@ -607,31 +618,6 @@ entries:
     \ Fabiola Egro ging das zu weit. Sie ist Mitbegr\xFCnderin der albanischen Frauenbewegung.\
     \ Das ehemalige Sumpfgebiet von Durres ist eines ihrer Haupteinsatzgebiete."
   title: 'Albanien: Frauenemanzipation in kleinen Schritten'
-- link: https://www.dw.com/de/frankreich-streit-mit-spekulanten/av-17669412?maca=de-podcast_europa-aktuell-2169-xml-mrss
-  published: Thu, 29 May 2014 01:03:00 GMT
-  summary: "Ein kleines Landh\xE4uschen f\xFCr 400.000 Euro - auf der Mittelmeerinsel\
-    \ Korsika sind Immobilien kaum noch zu bezahlen.\n\tWer auf Korsika ein Haus kaufen\
-    \ will, der muss mindestens f\xFCnf Jahre auf der Insel gelebt haben, so die Theorie.\
-    \ In der Praxis verst\xF6\xDFt die Regel aber gegen franz\xF6sisches Recht. Die\
-    \ Folge: Reiche Franzosen und ausl\xE4ndische Investoren gehen zu Tausenden auf\
-    \ Shoppingtour und verderben die Preise. Paradiesische Zust\xE4nde f\xFCr Immobilienh\xE4\
-    ndler; f\xFCr die Einheimischen eine verh\xE4ngnisvolle Entwicklung. Eigene H\xE4\
-    user k\xF6nnen sich die meisten Korsen l\xE4ngst nicht mehr leisten. Doch einige\
-    \ Gemeinden beginnen sich jetzt zu wehren: Sie drohen damit, das Vorkaufsrecht\
-    \ auszu\xFCben. Auch das Dorf Cuttoli bei Ajaccio, dem Geburtsort von Napoleon."
-  title: 'Frankreich: Streit mit Spekulanten'
-- link: "https://www.dw.com/de/europawahl-rechtsruck-in-d\xE4nemark/av-17669417?maca=de-podcast_europa-aktuell-2169-xml-mrss"
-  published: Thu, 29 May 2014 01:03:00 GMT
-  summary: "Europa hat gew\xE4hlt \u2013 und die rechten Parteien haben in einigen\
-    \ L\xE4ndern erwartungsgem\xE4\xDF stark hinzugewonnen.\n\tIn D\xE4nemark wurden\
-    \ die Rechtspopulisten sogar st\xE4rkste politische Kraft: die D\xE4nische Volkspartei\
-    \ (DF) liegt noch vor den etablierten Sozialdemokraten von Ministerpr\xE4sidentin\
-    \ Helle Thorning-Schmidt. Die D\xE4nische Volkspartei wird damit drei der 13 Sitze\
-    \ D\xE4nemarks im EU-Parlament bekommen. Allerdings \u2013 die DF hat ausgeschlossen,\
-    \ sich einer anti-europ\xE4ischen Allianz von Rechtspopulisten im EU-Parlament\
-    \ anzuschlie\xDFen. Zur Begr\xFCndung verwies die Volkspartei insbesondere auf\
-    \ den rechtsextremen Front National aus Frankreich."
-  title: "Europawahl: Rechtsruck in D\xE4nemark"
 - link: "https://www.dw.com/de/rum\xE4nien-kleinbauern-in-der-klemme/av-17669407?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Thu, 29 May 2014 01:03:00 GMT
   summary: "Die rum\xE4nische Landwirtschaft ist ganz auf EU-Kurs. Gro\xDFbetriebe\
@@ -645,6 +631,31 @@ entries:
     \ sp\xFCrbar: traditionelle Lebensmittel wie bestimmte Tomaten- und K\xE4sesorten\
     \ drohen vom Markt zu verschwinden."
   title: "Rum\xE4nien: Kleinbauern in der Klemme"
+- link: "https://www.dw.com/de/europawahl-rechtsruck-in-d\xE4nemark/av-17669417?maca=de-podcast_europa-aktuell-2169-xml-mrss"
+  published: Thu, 29 May 2014 01:03:00 GMT
+  summary: "Europa hat gew\xE4hlt \u2013 und die rechten Parteien haben in einigen\
+    \ L\xE4ndern erwartungsgem\xE4\xDF stark hinzugewonnen.\n\tIn D\xE4nemark wurden\
+    \ die Rechtspopulisten sogar st\xE4rkste politische Kraft: die D\xE4nische Volkspartei\
+    \ (DF) liegt noch vor den etablierten Sozialdemokraten von Ministerpr\xE4sidentin\
+    \ Helle Thorning-Schmidt. Die D\xE4nische Volkspartei wird damit drei der 13 Sitze\
+    \ D\xE4nemarks im EU-Parlament bekommen. Allerdings \u2013 die DF hat ausgeschlossen,\
+    \ sich einer anti-europ\xE4ischen Allianz von Rechtspopulisten im EU-Parlament\
+    \ anzuschlie\xDFen. Zur Begr\xFCndung verwies die Volkspartei insbesondere auf\
+    \ den rechtsextremen Front National aus Frankreich."
+  title: "Europawahl: Rechtsruck in D\xE4nemark"
+- link: https://www.dw.com/de/frankreich-streit-mit-spekulanten/av-17669412?maca=de-podcast_europa-aktuell-2169-xml-mrss
+  published: Thu, 29 May 2014 01:03:00 GMT
+  summary: "Ein kleines Landh\xE4uschen f\xFCr 400.000 Euro - auf der Mittelmeerinsel\
+    \ Korsika sind Immobilien kaum noch zu bezahlen.\n\tWer auf Korsika ein Haus kaufen\
+    \ will, der muss mindestens f\xFCnf Jahre auf der Insel gelebt haben, so die Theorie.\
+    \ In der Praxis verst\xF6\xDFt die Regel aber gegen franz\xF6sisches Recht. Die\
+    \ Folge: Reiche Franzosen und ausl\xE4ndische Investoren gehen zu Tausenden auf\
+    \ Shoppingtour und verderben die Preise. Paradiesische Zust\xE4nde f\xFCr Immobilienh\xE4\
+    ndler; f\xFCr die Einheimischen eine verh\xE4ngnisvolle Entwicklung. Eigene H\xE4\
+    user k\xF6nnen sich die meisten Korsen l\xE4ngst nicht mehr leisten. Doch einige\
+    \ Gemeinden beginnen sich jetzt zu wehren: Sie drohen damit, das Vorkaufsrecht\
+    \ auszu\xFCben. Auch das Dorf Cuttoli bei Ajaccio, dem Geburtsort von Napoleon."
+  title: 'Frankreich: Streit mit Spekulanten'
 - link: https://www.dw.com/de/serbien-folgen-der-flut/av-17669402?maca=de-podcast_europa-aktuell-2169-xml-mrss
   published: Thu, 29 May 2014 01:03:00 GMT
   summary: "Nach den verheerenden \xDCberschwemmungen in Serbien und Bosnien kommen\
@@ -657,17 +668,6 @@ entries:
     \ zerst\xF6rten Infrastruktur und Erdrutschgefahr mehr als genug zu tun. Eine\
     \ Reportage aus den Katastrophengebieten in Serbien und Bosnien."
   title: 'Serbien: Folgen der Flut'
-- link: "https://www.dw.com/de/gro\xDFbritannien-das-gl\xFCckliche-huhn/av-17652580?maca=de-podcast_europa-aktuell-2169-xml-mrss"
-  published: Thu, 22 May 2014 01:03:00 GMT
-  summary: "Haben die Briten einen Vogel? Die Antwort lautet eindeutig ja, allerdings\
-    \ nicht im \xFCbertragenen Sinn.\n\tGl\xFCckliche H\xFChner sind sichere H\xFC\
-    hner - und die leben in England. Hier ist die Henne eine Art Haustier und steht\
-    \ seit einiger Zeit unter besonderem Schutz. Eine erfinderische Firma fand, dass\
-    \ das gemeine Huhn zu gef\xE4hrlich lebt; vor allem auf der Landstra\xDFe lauert\
-    \ Gefahr. Nur eine weit sichtbare Sicherheitsweste sei da eine Abhilfe, in Neonfarben,\
-    \ im Winter auch als Pl\xFCschmodell zu haben. Das Accessoire ist in Gro\xDFbritannien\
-    \ sehr gefragt, denn wer verliert schon gerne seine Lieblingslegehenne?"
-  title: "Gro\xDFbritannien: Das gl\xFCckliche Huhn"
 - link: "https://www.dw.com/de/t\xFCrkei-der-bedr\xE4ngte-premierminister/av-17652579?maca=de-podcast_europa-aktuell-2169-xml-mrss"
   published: Thu, 22 May 2014 01:03:00 GMT
   summary: "Nach dem schlimmsten Industrieungl\xFCck in der Geschichte der T\xFCrkei\
@@ -679,6 +679,17 @@ entries:
     \ will der angeschlagene Politiker bei der Pr\xE4sidentschaftswahl antreten, aber\
     \ wie stark ist Erdogan noch?"
   title: "T\xFCrkei: Der bedr\xE4ngte Premierminister"
+- link: "https://www.dw.com/de/gro\xDFbritannien-das-gl\xFCckliche-huhn/av-17652580?maca=de-podcast_europa-aktuell-2169-xml-mrss"
+  published: Thu, 22 May 2014 01:03:00 GMT
+  summary: "Haben die Briten einen Vogel? Die Antwort lautet eindeutig ja, allerdings\
+    \ nicht im \xFCbertragenen Sinn.\n\tGl\xFCckliche H\xFChner sind sichere H\xFC\
+    hner - und die leben in England. Hier ist die Henne eine Art Haustier und steht\
+    \ seit einiger Zeit unter besonderem Schutz. Eine erfinderische Firma fand, dass\
+    \ das gemeine Huhn zu gef\xE4hrlich lebt; vor allem auf der Landstra\xDFe lauert\
+    \ Gefahr. Nur eine weit sichtbare Sicherheitsweste sei da eine Abhilfe, in Neonfarben,\
+    \ im Winter auch als Pl\xFCschmodell zu haben. Das Accessoire ist in Gro\xDFbritannien\
+    \ sehr gefragt, denn wer verliert schon gerne seine Lieblingslegehenne?"
+  title: "Gro\xDFbritannien: Das gl\xFCckliche Huhn"
 - link: https://www.dw.com/de/ukraine-die-schwierige-wahl/av-17652582?maca=de-podcast_europa-aktuell-2169-xml-mrss
   published: Thu, 22 May 2014 01:03:00 GMT
   summary: "Am 25. Mai wird in der Ukraine ein neuer Pr\xE4sident gew\xE4hlt. Ein\
@@ -754,19 +765,6 @@ entries:
     \ die rechte UK Independence Party f\xFCr einen Austritt aus der EU wirbt, trifft\
     \ er auf viel Kritik. Unterst\xFCtzung bekommt er vor allem von der Wirtschaft."
   title: "Gro\xDFbritannien: Gegen den Strom der Euroskeptiker"
-- link: "https://www.dw.com/de/ukraine-die-partisanenk\xE4mpfer/av-17618435?maca=de-podcast_europa-aktuell-2169-xml-mrss"
-  published: Thu, 8 May 2014 01:03:00 GMT
-  summary: "Die \xDCbergangsregierung in Kiew wirbt Freiwillige f\xFCr eine neue Nationalgarde\
-    \ an. M\xE4nner und Frauen sollen sich in professionellen Trainingszentren vorbereiten\
-    \ und legale Waffen erhalten.\n\tJahre lang ist die ukrainische Armee verkleinert\
-    \ worden. Als die \xDCbergangsregierung in Kiew an die Macht kam, blieben dem\
-    \ Land nur noch wenige tausend Soldaten. Freiwillige Partisanengruppen sollen\
-    \ nun die L\xFCcken f\xFCllen. In Russland sieht man diese Entwicklung mehr als\
-    \ kritisch. Moskau vermutet, dass die Regierung in Kiew mit der neuen Einheit\
-    \ radikale Kr\xE4fte wie die Extremisten des Rechten Sektors nachtr\xE4glich legitimieren\
-    \ wolle. Der Nationalgarde sollen laut dem vom Parlament verabschiedeten Gesetz\
-    \ bis zu 60.000 M\xE4nner angeh\xF6ren."
-  title: "Ukraine: Die Partisanenk\xE4mpfer"
 - link: https://www.dw.com/de/frankreich-der-rechte-osten/av-17618433?maca=de-podcast_europa-aktuell-2169-xml-mrss
   published: Thu, 8 May 2014 01:03:00 GMT
   summary: "Bei der Europawahl rechnet sich der Front National gute Chancen aus. Die\
@@ -780,6 +778,19 @@ entries:
     \ die R\xFCckkehr zur nationalen W\xE4hrung, sondern auch generell gegen die Freiz\xFC\
     gigkeit innerhalb der EU."
   title: 'Frankreich: Der rechte Osten'
+- link: "https://www.dw.com/de/ukraine-die-partisanenk\xE4mpfer/av-17618435?maca=de-podcast_europa-aktuell-2169-xml-mrss"
+  published: Thu, 8 May 2014 01:03:00 GMT
+  summary: "Die \xDCbergangsregierung in Kiew wirbt Freiwillige f\xFCr eine neue Nationalgarde\
+    \ an. M\xE4nner und Frauen sollen sich in professionellen Trainingszentren vorbereiten\
+    \ und legale Waffen erhalten.\n\tJahre lang ist die ukrainische Armee verkleinert\
+    \ worden. Als die \xDCbergangsregierung in Kiew an die Macht kam, blieben dem\
+    \ Land nur noch wenige tausend Soldaten. Freiwillige Partisanengruppen sollen\
+    \ nun die L\xFCcken f\xFCllen. In Russland sieht man diese Entwicklung mehr als\
+    \ kritisch. Moskau vermutet, dass die Regierung in Kiew mit der neuen Einheit\
+    \ radikale Kr\xE4fte wie die Extremisten des Rechten Sektors nachtr\xE4glich legitimieren\
+    \ wolle. Der Nationalgarde sollen laut dem vom Parlament verabschiedeten Gesetz\
+    \ bis zu 60.000 M\xE4nner angeh\xF6ren."
+  title: "Ukraine: Die Partisanenk\xE4mpfer"
 - link: https://www.dw.com/de/ungarn-streit-um-nazi-besatzungsdenkmal/av-17618446?maca=de-podcast_europa-aktuell-2169-xml-mrss
   published: Thu, 8 May 2014 01:03:00 GMT
   summary: "In Budapest l\xE4sst die Regierung ein Denkmal errichten, das an die Besatzungszeit\

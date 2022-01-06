@@ -1,7 +1,7 @@
 ---
 title: "Shift: Leben in der digitalen Welt"
 id: podcast_shift
-published: "Wed, 3 Nov 2021 19:32:44 GMT"
+published: "Thu, 6 Jan 2022 07:54:48 GMT"
 page_link: "https://www.dw.com?maca=de-podcast_shift-7873-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_shift"
 language: de
@@ -11,6 +11,77 @@ tags: [ "Internet", "Compute", "künstliche Inteligenz", "YouTube", "Tech", "Alg
 image_url: https://static.dw.com/image/15774501_7.jpg
 image_title: ""
 entries:
+- link: https://www.dw.com/de/ergonomisches-arbeiten-dank-robotertechnologie/av-57457579?maca=de-podcast_shift-7873-xml-mrss
+  published: Fri, 31 Dec 2021 20:07:00 GMT
+  summary: "Exoskelette sind Roboteranz\xFCge, die Superkr\xE4fte verleihen. Manche\
+    \ sind nur so gro\xDF wie ein Rucksack. Sie helfen beim Heben schwerer Lasten\
+    \ und sind heute schon in Pflege, Logistik und Autoindustrie im Einsatz."
+  title: Ergonomisches Arbeiten dank Robotertechnologie
+- link: "https://www.dw.com/de/so-k\xF6nnen-gel\xE4hmte-wieder-gehen-lernen/av-57457601?maca=de-podcast_shift-7873-xml-mrss"
+  published: Fri, 31 Dec 2021 20:07:00 GMT
+  summary: "Exoskelett HAL aus Japan bringt Gel\xE4hmten bei, wieder selbstst\xE4\
+    ndig zu laufen. Gesteuert wird es durch Gehirnsignale. DW-Reporterin Cassandra\
+    \ Boh hat HAL ausprobiert und mit der Kraft ihrer Gedanken in Bewegung gesetzt."
+  title: "So k\xF6nnen Gel\xE4hmte wieder Gehen lernen"
+- link: https://www.dw.com/de/machen-algorithmen-radikal/av-60167681?maca=de-podcast_shift-7873-xml-mrss
+  published: Fri, 17 Dec 2021 15:20:00 GMT
+  summary: "Sorgen Algorithmen bei YouTube, Twitter und Co f\xFCr Filterblasen? Zwei\
+    \ neue Studien zeichnen ein differenziertes Bild."
+  title: Machen Algorithmen radikal?
+- link: https://www.dw.com/de/selbsttest-made-to-measure/av-60167682?maca=de-podcast_shift-7873-xml-mrss
+  published: Fri, 17 Dec 2021 15:20:00 GMT
+  summary: "Was hat ein Golden Retriever mit Datenschutz zu tun? Und was wissen Computer\
+    \ \xFCber einen Shift-Moderator? Roger Ditter wagt den Selbstversuch beim Online-Kunstprojekt\
+    \ \"Made To Measure\""
+  title: 'Selbsttest: Made To Measure'
+- link: "https://www.dw.com/de/frauen-k\xE4mpfen-gemeinsam-gegen-online-attacken/av-56715508?maca=de-podcast_shift-7873-xml-mrss"
+  published: Fri, 10 Dec 2021 17:04:00 GMT
+  summary: "Frauen unterst\xFCtzen sich gegenseitig im Kampf gegen Online-Trolle.\
+    \ Dazu beigetragen hat die weltweite \"MeToo\"-Kampagne, die die Anliegen von\
+    \ Frauen auch in der arabischen Welt deutlich sichtbarer gemacht hat."
+  title: "Frauen k\xE4mpfen gemeinsam gegen Online-Attacken"
+- link: https://www.dw.com/de/journalistinnen-im-fokus-von-online-gewalt/av-56715510?maca=de-podcast_shift-7873-xml-mrss
+  published: Fri, 10 Dec 2021 16:51:00 GMT
+  summary: "Im Internet wird DW-Reporterin Manira Chaudhary immer wieder Ziel von\
+    \ Beleidigungen und Hasskommentaren. Frauen wie sie, die sich \xF6ffentlich politisch\
+    \ oder journalistisch \xE4u\xDFern, sollen so zum Schweigen gebracht werden."
+  title: Journalistinnen im Fokus von Online-Gewalt
+- link: "https://www.dw.com/de/wie-k\xF6nnen-frauen-sich-gegen-online-gewalt-wehren/av-56715512?maca=de-podcast_shift-7873-xml-mrss"
+  published: Fri, 10 Dec 2021 16:36:00 GMT
+  summary: "Die aserbaidschanische Journalistin Arzu Geybulla hatte selbst mit Online-Hass\
+    \ zu k\xE4mpfen. Jetzt hilft sie anderen Frauen, sich dagegen zur Wehr zu setzen.\
+    \ Dabei gibt es nicht den einen richtigen Weg."
+  title: "Wie k\xF6nnen Frauen sich gegen Online-Gewalt wehren?"
+- link: https://www.dw.com/de/wie-steht-es-um-die-cybersichertheit-in-smart-cities/av-60006915?maca=de-podcast_shift-7873-xml-mrss
+  published: Fri, 3 Dec 2021 10:32:00 GMT
+  summary: "Cybersicherheit spielt in Smart Cities eine wichtige Rolle. Als Experte\
+    \ f\xFCr Informationstechnologie und die Stadt der Zukunft hat Anthony Townsend\
+    \ eine Vorstellung davon, wie schwerwiegend die Folgen sein k\xF6nnten."
+  title: Wie steht es um die Cybersichertheit in Smart Cities?
+- link: https://www.dw.com/de/ohne-stau-durch-die-stadt-dank-big-data/av-60006846?maca=de-podcast_shift-7873-xml-mrss
+  published: Fri, 3 Dec 2021 10:30:00 GMT
+  summary: In Smart Cities sollen Fahrzeuge und Ampeln direkt miteinander kommunizieren,
+    um Staus zu verhindern. Solche Verkehrssysteme werden in Amsterdam getestet. SHIFT
+    hat sich zeigen lassen, wie sie funktionieren.
+  title: Ohne Stau durch die Stadt dank Big Data
+- link: https://www.dw.com/de/wie-kann-ki-vorurteilsfrei-werden/av-59871113?maca=de-podcast_shift-7873-xml-mrss
+  published: Sun, 21 Nov 2021 01:09:00 GMT
+  summary: "Nicht nur f\xFCr Datens\xE4tze, sondern auch f\xFCr Forschungsteams gilt:\
+    \ Je diverser, desto besser. Denn fehlt eine Sichtweise bei der Zusammenstellung\
+    \ von Lern-Datens\xE4tzen f\xFCr KI-Trainings, entstehen fehlerhafte Algorithmen."
+  title: Wie kann KI vorurteilsfrei werden?
+- link: "https://www.dw.com/de/warum-sch\xFCtzt-ki-nicht-weltweit-vor-hass-im-netz/av-59871112?maca=de-podcast_shift-7873-xml-mrss"
+  published: Sat, 20 Nov 2021 03:42:00 GMT
+  summary: "Schutz vor Hass bei Facebook dank KI? Das funktioniert nicht in allen\
+    \ Sprachen, sagt Whistleblowerin Frances Haugen. So k\xF6nnten soziale Medien\
+    \ immer noch genutzt werden, um Hass und Gewalt online anzufachen."
+  title: "Warum sch\xFCtzt KI nicht weltweit vor Hass im Netz?"
+- link: https://www.dw.com/de/warum-ist-ki-nicht-neutral/av-59871111?maca=de-podcast_shift-7873-xml-mrss
+  published: Fri, 19 Nov 2021 10:56:00 GMT
+  summary: "Im Alltag \xFCbernimmt k\xFCnstliche Intelligenz bereits viele Entscheidungen:\
+    \ In der Medizin, im Job oder im Internet. Doch KI ist nicht immer neutral. Deswegen\
+    \ gilt: Je repr\xE4sentativer der Datensatz, desto besser die KI."
+  title: Warum ist KI nicht neutral?
 - link: https://www.dw.com/de/ki-anwendungen-zum-ausprobieren/av-56847529?maca=de-podcast_shift-7873-xml-mrss
   published: Fri, 29 Oct 2021 10:20:00 GMT
   summary: "Mit KI-Programmen wie Musenet, Deepart und Gaugan kann jeder zum K\xFC\
@@ -136,66 +207,6 @@ entries:
     zur Putzfrau. Obwohl er 22 Sensoren und drei Kameras zur Raum- und Objekterkennung
     besitzt, muss er von einem Mitarbeiter ferngesteuert werden.
   title: "UGO \u2013 die zuk\xFCnftige Allzweckwaffe im Haushalt"
-- link: https://www.dw.com/de/was-genau-ist-ein-meme/av-58136860?maca=de-podcast_shift-7873-xml-mrss
-  published: Fri, 2 Jul 2021 12:25:00 GMT
-  summary: "Memes wie \"Bad Luck Brian\" - das Foto eines jungen Mannes, der daf\xFC\
-    r steht, alles falsch zu machen - sind weltweit bekannt. Aber es gibt auch Memes,\
-    \ die mehrere Ebenen haben und nur f\xFCr Insider funktionieren."
-  title: Was genau ist ein Meme?
-- link: "https://www.dw.com/de/das-darknet-als-schutz-f\xFCr-politische-verfolgte/av-55987649?maca=de-podcast_shift-7873-xml-mrss"
-  published: Fri, 11 Jun 2021 10:01:00 GMT
-  summary: "Das Darknet bietet politischen Aktivisten weltweit Schutz vor staatlicher\
-    \ Repression. Menschen haben die Chance, anonym im Internet zu recherchieren und\
-    \ auf Webseiten zuzugreifen, die in einigen L\xE4ndern zensiert werden."
-  title: "Das Darknet als Schutz f\xFCr politische Verfolgte"
-- link: https://www.dw.com/de/kindesmissbrauch-im-darknet/av-55987642?maca=de-podcast_shift-7873-xml-mrss
-  published: Fri, 11 Jun 2021 10:00:00 GMT
-  summary: "Als Beamte 2017 die Darknet-Plattform Elysium abschalteten, gab es \xFC\
-    ber 111.000 Nutzerkonten. Von Deutschland aus versorgte die Tauschplattform P\xE4\
-    dophile weltweit mit Fotos und Videos von schwerstem Kindesmissbrauch."
-  title: Kindesmissbrauch im Darknet
-- link: https://www.dw.com/de/drogenhandel-dominiert-das-darknet/av-55987641?maca=de-podcast_shift-7873-xml-mrss
-  published: Fri, 11 Jun 2021 09:59:00 GMT
-  summary: "Drogen machen zwei Drittel aller Angebote im Darknet aus. Ob Heroin, LSD\
-    \ oder Cannabis - diese illegalen Rauschmittel sind h\xE4ufig nur auf einer einzigen\
-    \ Plattform zu finden."
-  title: Drogenhandel dominiert das Darknet
-- link: "https://www.dw.com/de/chatten-\xFCber-die-gamingplattform/av-57605467?maca=de-podcast_shift-7873-xml-mrss"
-  published: Fri, 21 May 2021 14:14:00 GMT
-  summary: "Discord war urspr\xFCnglich eine Plattform f\xFCr Gamerinnen und Gamer\
-    \ mit integriertem Chatprogramm. Aber wegen ihrer gro\xDFen F\xFClle von Funktionen\
-    \ wird die App auch au\xDFerhalb der Gamesszene immer beliebter."
-  title: "Chatten \xFCber die Gamingplattform"
-- link: https://www.dw.com/de/telegram-die-whatsapp-alternative/av-57605461?maca=de-podcast_shift-7873-xml-mrss
-  published: Fri, 21 May 2021 08:34:00 GMT
-  summary: "Die erfolgreichste WhatsApp-Alternative hei\xDFt Telegram. Der Messenger\
-    \ der Russen Pavel und Nikolai Durov konnte 2021 bereits 150 Millionen neue Nutzende\
-    \ gewinnen und profitiert von der Abwanderungswelle bei WhatsApp."
-  title: Telegram - die WhatsApp-Alternative
-- link: https://www.dw.com/de/hateaid-hilfe-gegen-hate-speech/av-55828154?maca=de-podcast_shift-7873-xml-mrss
-  published: Fri, 14 May 2021 07:34:00 GMT
-  summary: "Wer Hate Speech oder einen ganzen Shitstorm zum ersten Mal erlebt, f\xFC\
-    hlt sich davon oft wie erschlagen. Hilfe gibt es bei Organisationen, die sich\
-    \ auf digitale Gewalt spezialisiert haben - wie HateAid aus Berlin."
-  title: 'HateAid: Hilfe gegen Hate Speech'
-- link: https://www.dw.com/de/darf-man-im-netz-alles-sagen/av-55828151?maca=de-podcast_shift-7873-xml-mrss
-  published: Fri, 14 May 2021 07:33:00 GMT
-  summary: "Was man im Netz sagen darf, ist gesetzlich geregelt. Besonders in den\
-    \ USA und auch vielen L\xE4ndern der EU ist die Meinungsfreiheit gut gesch\xFC\
-    tzt. Doch gilt die auch f\xFCr Hassrede?"
-  title: Darf man im Netz alles sagen?
-- link: "https://www.dw.com/de/so-k\xF6nnen-gel\xE4hmte-wieder-gehen-lernen/av-57457601?maca=de-podcast_shift-7873-xml-mrss"
-  published: Fri, 7 May 2021 08:42:00 GMT
-  summary: "Exoskelett HAL aus Japan bringt Gel\xE4hmten bei, wieder selbstst\xE4\
-    ndig zu laufen. Gesteuert wird es durch Gehirnsignale. DW-Reporterin Cassandra\
-    \ Boh hat HAL ausprobiert und mit der Kraft ihrer Gedanken in Bewegung gesetzt."
-  title: "So k\xF6nnen Gel\xE4hmte wieder gehen lernen"
-- link: https://www.dw.com/de/ergonomisches-arbeiten-dank-robotertechnologie/av-57457579?maca=de-podcast_shift-7873-xml-mrss
-  published: Fri, 7 May 2021 08:34:00 GMT
-  summary: "Exoskelette sind Roboteranz\xFCge, die Superkr\xE4fte verleihen. Manche\
-    \ sind nur so gro\xDF wie ein Rucksack. Sie helfen beim Heben schwerer Lasten\
-    \ und sind heute schon in Pflege, Logistik und Autoindustrie im Einsatz."
-  title: Ergonomisches Arbeiten dank Robotertechnologie
 
 ---
 Kann ich Blockchain-Technologie im Alltag nutzen? Kann KI meinen Job

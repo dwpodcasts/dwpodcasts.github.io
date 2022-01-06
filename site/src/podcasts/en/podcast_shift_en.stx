@@ -1,7 +1,7 @@
 ---
 title: "Shift: Living in the Digital Age"
 id: podcast_shift_en
-published: "Wed, 3 Nov 2021 19:32:22 GMT"
+published: "Thu, 6 Jan 2022 07:56:48 GMT"
 page_link: "https://www.dw.com/dw/0,,30417,00.html?maca=en-podcast_shift_en-7877-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_shift_en"
 language: en
@@ -11,6 +11,71 @@ tags: [ "Shift", "internet", "Computer", "YouTube", "algorithms", "virtual reali
 image_url: https://static.dw.com/image/15774501_7.jpg
 image_title: ""
 entries:
+- link: https://www.dw.com/en/robotics-suit-teaches-paraplegics-to-learn-to-walk-again/av-57457599?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 24 Dec 2021 11:05:00 GMT
+  summary: The Japanese exoskeleton suit HAL uses wearers' brains signals to teach
+    paraplegics how to walk by themselves again. DW reporter Cassandra Boh tried HAL
+    out and turned the power of her thoughts into motion.
+  title: Robotics suit teaches paraplegics to learn to walk again
+- link: https://www.dw.com/en/self-test-made-to-measure/av-60167595?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 17 Dec 2021 15:53:00 GMT
+  summary: What role does a Golden Retriever play in data protection? And what do
+    computers know about our shift moderator? Roger Ditter bravely tries out the online
+    art project "Made To Measure".
+  title: 'Self test: Made To Measure'
+- link: https://www.dw.com/en/do-algorithms-make-radicals/av-60167314?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 17 Dec 2021 15:52:00 GMT
+  summary: Do algorithms cause filter bubbles on YouTube and other sites? Two new
+    studies show a differentiated picture.
+  title: Do algorithms make radicals?
+- link: https://www.dw.com/en/women-unite-in-the-fight-against-online-attacks/av-56715782?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 10 Dec 2021 17:59:00 GMT
+  summary: 'Women are supporting each other in the fight against online trolls. The
+    worldwide #metoo movement has also been a major catalyst in making the issues
+    that women in the Arab world face more visible.'
+  title: Women unite in the fight against online attacks
+- link: https://www.dw.com/en/how-can-women-defend-themselves-against-violence-online/av-56716191?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 10 Dec 2021 17:59:00 GMT
+  summary: "Arzu Geybulla is an Azerbaijani journalist who\u2019s had to fight against\
+    \ online hate. Now she helps other women defend themselves against online abuse.\
+    \ But there\u2019s no one right way to do it."
+  title: How can women defend themselves against violence online?
+- link: https://www.dw.com/en/female-journalists-face-violence-online/av-56715781?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 10 Dec 2021 17:35:00 GMT
+  summary: DW reporter Mania Chaudbary has frequently been the target of insults and
+    hate speech online. Online trolls often try to silence women like her from speaking
+    out politically or as a journalist.
+  title: Female journalists face violence online
+- link: https://www.dw.com/en/say-goodbye-to-traffic-jams-thanks-to-big-data/av-60006762?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 3 Dec 2021 10:22:00 GMT
+  summary: In smart cities, vehicles and traffic lights communicate directly to prevent
+    traffic jams. Find out how the system works in Amsterdam, one place where this
+    technology is being tested.
+  title: Say goodbye to traffic jams thanks to big data
+- link: https://www.dw.com/en/tech-expert-fears-imminent-chernobyl-of-smart-cities/av-60006797?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 3 Dec 2021 10:20:00 GMT
+  summary: Cybersecurity plays a key role in smart cities. Anthony Townsend, an expert
+    on information technology and future cities, warns a breach of the system could
+    have disastrous consequences.
+  title: Tech expert fears imminent 'Chernobyl' of smart cities
+- link: https://www.dw.com/en/why-ai-isn-t-neutral/av-59871106?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Sat, 20 Nov 2021 03:19:00 GMT
+  summary: AI makes decisions regarding many areas of our daily lives - from medical
+    care, to news feeds, to job opportunities. But AI isn't always neutral. That's
+    why we have to include diversity in our AI, to exclude biases.
+  title: Why AI isn't neutral
+- link: https://www.dw.com/en/how-can-ai-be-bias-free/av-59871108?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 19 Nov 2021 11:34:00 GMT
+  summary: 'The more diverse the better: A principle that applies not only to data,
+    but to research teams as well. Without diverse viewpoints when flagging terms
+    for content moderation, the resulting algorithms will be faulty.'
+  title: How can AI be bias-free?
+- link: https://www.dw.com/en/why-can-t-ai-protect-us-from-online-hate/av-59871107?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 19 Nov 2021 11:22:00 GMT
+  summary: Protection from hate speech on Facebook thanks to AI? Whistleblower Frances
+    Haugen says it doesn't work in every language. That's why social media is still
+    being used to incite hate and violence online.
+  title: Why can't AI protect us from online hate?
 - link: https://www.dw.com/en/ai-applications-to-try-at-home/av-56847700?maca=en-podcast_shift_en-7877-xml-mrss
   published: Fri, 29 Oct 2021 08:21:00 GMT
   summary: With AI programs like Musenet, Deepart and GauGAN, anyone can become an
@@ -124,18 +189,18 @@ entries:
     by the start-up SkyDrive. DW reporter Cassandra Boh got to go on an exclusive
     tour of their secret research center.
   title: Japan takes off in the development of air taxis
-- link: https://www.dw.com/en/robots-in-the-medical-field/av-55585618?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 9 Jul 2021 08:05:00 GMT
-  summary: Robots have been used to assist in medical procedures for quite some time.
-    For example, the "DaVinci Surgical Robot" from the US is used to remove tumors
-    from patients with prostate cancer.
-  title: Robots in the medical field
 - link: https://www.dw.com/en/robot-colleagues-the-future-of-the-workplace/av-55585608?maca=en-podcast_shift_en-7877-xml-mrss
   published: Fri, 9 Jul 2021 08:05:00 GMT
   summary: Moving away from industrial robots towards personal service robots! This
     is the trend at big international robotics fairs like iREX in Tokyo. But can robots
     work closely with people?
   title: "Robot Colleagues \u2013 The future of the workplace"
+- link: https://www.dw.com/en/robots-in-the-medical-field/av-55585618?maca=en-podcast_shift_en-7877-xml-mrss
+  published: Fri, 9 Jul 2021 08:05:00 GMT
+  summary: Robots have been used to assist in medical procedures for quite some time.
+    For example, the "DaVinci Surgical Robot" from the US is used to remove tumors
+    from patients with prostate cancer.
+  title: Robots in the medical field
 - link: https://www.dw.com/en/ugo-the-multi-purpose-household-robot-of-the-future/av-55585607?maca=en-podcast_shift_en-7877-xml-mrss
   published: Fri, 9 Jul 2021 07:57:00 GMT
   summary: The start-up Mira Robotics marketed the robot UGO as an alternative to
@@ -148,84 +213,6 @@ entries:
     \ persistent misfortune\u2014are known worldwide. But there are also more multi-layered\
     \ memes that only certain insiders will understand."
   title: What exactly is a meme?
-- link: https://www.dw.com/en/darknet-protection-for-the-politically-persecuted/av-55987539?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 11 Jun 2021 09:44:00 GMT
-  summary: The darknet offers political activists worldwide protection from state
-    repression. On it, people have the opportunity to anonymously carry out internet
-    research, and access websites that are censored in some countries.
-  title: 'Darknet: Protection for the politically-persecuted'
-- link: https://www.dw.com/en/child-abuse-on-the-dark-web/av-55987498?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 11 Jun 2021 09:42:00 GMT
-  summary: When officials shut down the Elysium darknet platform in 2017, there were
-    over 111,000 user accounts. Based in Germany, the exchange platform provided pedophiles
-    worldwide with photos and videos of severe child abuse.
-  title: Child abuse on the dark web
-- link: https://www.dw.com/en/drug-trafficking-dominates-the-darknet/av-55987439?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 11 Jun 2021 09:38:00 GMT
-  summary: Drugs make up two thirds of all offers on the dark web. Whether heroin,
-    LSD or cannabis - these illegal intoxicants can often only be found on a single
-    platform. Payment is made with the crypto currency Bitcoin.
-  title: Drug trafficking dominates the darknet
-- link: https://www.dw.com/en/telegram-the-alternative-to-whatsapp/av-57605602?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 21 May 2021 08:32:00 GMT
-  summary: Telegram is the most successful WhatsApp alternative. The messaging app
-    created by Pavel and Nikolai Durov in Russia is set to gain 150 million new users
-    in 2021, profiting from the wave of users ditching WhatsApp.
-  title: "Telegram \u2013 the alternative to WhatsApp"
-- link: https://www.dw.com/en/chatting-on-a-gaming-platform/av-57605635?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 21 May 2021 08:32:00 GMT
-  summary: Discord was originally a platform for gamers with an integrated chat program.
-    But thanks to its great wealth of features, the app is becoming increasingly popular
-    outside the gaming scene too.
-  title: Chatting on a gaming platform
-- link: https://www.dw.com/en/hateaid-help-against-hate-speech/av-55828211?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 14 May 2021 07:34:00 GMT
-  summary: "Many people who become targets of online hate speech attacks feel completely\
-    \ overwhelmed \u2013 especially when it is happening to them for the first time.\
-    \ Organizations like HateAid, which specialize in digital violence, can help."
-  title: 'HateAid: Help against hate speech'
-- link: https://www.dw.com/en/are-you-allowed-to-say-anything-on-the-internet/av-55827962?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 14 May 2021 07:34:00 GMT
-  summary: Laws determine what you can say online. Freedom of speech is well protected,
-    especially in the USA and in many EU countries. But does this also apply to hate
-    speech?
-  title: Are you allowed to say anything on the internet?
-- link: https://www.dw.com/en/working-ergonomically-thanks-to-robo-technology/av-57457591?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 7 May 2021 16:13:00 GMT
-  summary: "Exoskeletons are robotic suits that give people super strength. Even though\
-    \ many are just the size of a backpack, they help people lift heavy objects. They\u2019\
-    re already used in care work, logistics and the auto industry."
-  title: Working ergonomically thanks to robo-technology
-- link: https://www.dw.com/en/robotics-suit-teaches-paraplegics-learn-to-walk-again/av-57457599?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 7 May 2021 08:40:00 GMT
-  summary: The Japanese exoskeleton suit HAL uses wearers' brains signals to teach
-    paraplegics how to walk by themselves again. DW reporter Cassandra Boh tried HAL
-    out and turned the power of her thoughts into motion.
-  title: Robotics suit teaches paraplegics learn to walk again
-- link: https://www.dw.com/en/confessions-of-a-vr-porn-producer/av-55402678?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 30 Apr 2021 08:36:00 GMT
-  summary: Yoshiaki Nomoto is one of the leading producers of VR pornography in Japan.
-    He explains why he produces in a white studio and how he makes his VR films more
-    interactive.
-  title: Confessions of a VR porn producer
-- link: https://www.dw.com/en/japan-s-vr-porn-cinemas/av-55402664?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Fri, 30 Apr 2021 08:33:00 GMT
-  summary: "The company \"Soft on Demand\" is one of Asia\u2019s biggest producers\
-    \ of pornography. It runs around 70 VR sex shops in Japan. Their goal is to use\
-    \ VR technology to create a more intense viewing experience."
-  title: "Japan\u2019s VR porn cinemas"
-- link: https://www.dw.com/en/nft-fraud-and-counterfeiting/av-57311505?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Sat, 24 Apr 2021 06:15:00 GMT
-  summary: Theoretically, anyone can create an NFT for a work of art and put it up
-    for sale. This presents a danger for artists. How can they protect their work
-    in the digital space?
-  title: NFT Fraud and Counterfeiting
-- link: https://www.dw.com/en/what-dangers-are-hidden-within-the-crypto-art-craze/av-57311489?maca=en-podcast_shift_en-7877-xml-mrss
-  published: Sat, 24 Apr 2021 03:21:00 GMT
-  summary: Digital objects can be replicated indefinitely. But thanks to NFTs, singular
-    ownership can now be ascribed. The so-called smart contract contains information
-    on the edition of the work, its creator, and its owner.
-  title: What dangers are hidden within the crypto art craze?
 
 ---
 Can I use blockchain technology? Will artificial intelligence take

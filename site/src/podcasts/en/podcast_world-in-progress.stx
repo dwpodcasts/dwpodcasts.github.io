@@ -1,7 +1,7 @@
 ---
 title: "World in Progress | Deutsche Welle"
 id: podcast_world-in-progress
-published: "Wed, 3 Nov 2021 19:35:17 GMT"
+published: "Thu, 6 Jan 2022 07:58:22 GMT"
 page_link: "https://www.dw.com?maca=en-podcast_world-in-progress-1951-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_world-in-progress"
 language: en
@@ -11,6 +11,61 @@ tags: [ "Society & Culture", "Documentary", "News", "Politics" ]
 image_url: https://static.dw.com/image/2380459_7.jpg
 image_title: ""
 entries:
+- link: https://www.dw.com/en/world-in-progress-how-climate-change-impacts-lives-around-kilimanjaro/av-60239594?maca=en-podcast_world-in-progress-1951-xml-mrss
+  published: Thu, 30 Dec 2021 09:00:00 GMT
+  summary: The warming climate melts the snow peak on Mount Kilimanjaro and increasingly
+    impacts the lives of local people and their environment.
+  title: 'World in Progress: How climate change impacts lives around Kilimanjaro'
+- link: https://www.dw.com/en/world-in-progress-the-lifesavers-50-years-of-doctors-without-borders/av-60229697?maca=en-podcast_world-in-progress-1951-xml-mrss
+  published: Wed, 22 Dec 2021 15:09:00 GMT
+  summary: "In the past 50 years, they've saved millions of people, providing medical\
+    \ aid in dangerous situations and the worst conflicts across the world and they've\
+    \ also been outspoken when many other humanitarian helpers haven't: Doctors without\
+    \ Borders, or Medicins sans Fronti\xE8res, MSF."
+  title: 'World in Progress: The lifesavers-50 years of Doctors without Borders'
+- link: https://www.dw.com/en/world-in-progress-kenya-s-mysterious-rising-lakes/av-60128485?maca=en-podcast_world-in-progress-1951-xml-mrss
+  published: Wed, 15 Dec 2021 12:12:00 GMT
+  summary: Rising lakes in the East African Rift Valley have swallowed houses, churches,
+    hotels and schools. People had to move away, giraffes and other wildlife were
+    trapped when the water came. How are they coping with the floods?
+  title: 'World in Progress: Kenya''s mysterious rising lakes'
+- link: https://www.dw.com/en/world-in-progress-the-ripple-effects-of-the-pandemic/av-60059656?maca=en-podcast_world-in-progress-1951-xml-mrss
+  published: Wed, 8 Dec 2021 15:14:00 GMT
+  summary: "COVID-19 has disrupted children's education all over the world. Lockdowns\
+    \ and shutdowns have caused much more than kids missing out on school's curriculums\
+    \ though \u2014 it's taken a toll on their mental health, too. Can drones help\
+    \ in getting medicine and vaccines to remote areas? And how to best tackle COVID\
+    \ misinformation \u2014 volunteers in India try to encourage people to take the\
+    \ vaccine."
+  title: 'World in Progress: The ripple effects of the pandemic'
+- link: https://www.dw.com/en/world-in-progress-indigenous-copyrights-and-fighting-for-first-nations-land/av-59987204?maca=en-podcast_world-in-progress-1951-xml-mrss
+  published: Wed, 1 Dec 2021 13:19:00 GMT
+  summary: 'In this edition: The textile patterns designes by indigenous weavers in
+    Oaxaca, Mexico are hip with fashion companies who don''t always compensate the
+    designers. And: Meet Canadian First Nations activist Freda Huson who just received
+    an alternative Nobel prize for her defending her people''s culture and land.'
+  title: 'World in Progress: Indigenous copyrights and Fighting for First Nations
+    land'
+- link: https://www.dw.com/en/world-in-progress-despite-all-odds/av-59921409?maca=en-podcast_world-in-progress-1951-xml-mrss
+  published: Wed, 24 Nov 2021 14:44:00 GMT
+  summary: "We take you along to listen to a musical genre called AmaPiano that emerged\
+    \ in South Africa's townships. And we go to Turkey where young people are trying\
+    \ to carve out a living despite all odds \u2014 unemployment, inflation and a\
+    \ lack of freedom are taking a toll on their future."
+  title: 'World in Progress: Despite all odds'
+- link: https://www.dw.com/en/world-in-progress-innovative-perspectives-and-ancient-forests/av-59847637?maca=en-podcast_world-in-progress-1951-xml-mrss
+  published: Wed, 17 Nov 2021 15:12:00 GMT
+  summary: "In this edition:\_an illegal bus ride with Palestinians to the beach --\
+    \ Cameroonian Baka indigenous group's ancient forests under threat -- Innovative\
+    \ apps made in Nairobi's 'Silicon Savannah'"
+  title: 'World in Progress: Innovative perspectives and ancient forests'
+- link: https://www.dw.com/en/world-in-progress-climate-talks-and-lesotho-water-challenges/av-59781068?maca=en-podcast_world-in-progress-1951-xml-mrss
+  published: Wed, 10 Nov 2021 15:55:00 GMT
+  summary: 'Topics: Poor countries in the global South demand ''loss and damage''
+    compensation for the detrimental impacts of climate change -- Dams for hydropower
+    in Lesotho don''t benefit everyone and why that could become a problem in neighboring
+    South Africa, too.'
+  title: 'World in Progress: Climate Talks and Lesotho Water challenges'
 - link: https://www.dw.com/en/world-in-progress-the-gap-in-the-panamerican-highway/av-59708844?maca=en-podcast_world-in-progress-1951-xml-mrss
   published: Wed, 3 Nov 2021 13:24:00 GMT
   summary: The Panamerica is one of the longest roads in the world - it runs some
@@ -28,7 +83,7 @@ entries:
   title: 'World in Progress: Growing challenges and ancient traditions'
 - link: https://www.dw.com/en/world-in-progress-inside-the-us-opioid-crisis/av-59565208?maca=en-podcast_world-in-progress-1951-xml-mrss
   published: Wed, 20 Oct 2021 15:12:00 GMT
-  summary: Huntigton in West Virgina holds the sad record of most deaths from opioids
+  summary: Huntington in West Virgina holds the sad record of most deaths from opioids
     in the USA. The Coronavirus pandemic has exacerbated the opioid crisis, and the
     number of those dying from overdoses has increased dramatically. Find out how
     people in town cope with the ongoing crisis.
@@ -40,13 +95,6 @@ entries:
     And amid this threat, educators and Nigeriens alike say it's all the more reason
     to keep kids going to school, if anything to combat the scourge of radicalization.
   title: 'World in Progress: How Niger is fighting radicalization with education'
-- link: https://www.dw.com/en/kabul-artist-laments-exile/av-59425744?maca=en-podcast_world-in-progress-1951-xml-mrss
-  published: Wed, 6 Oct 2021 13:29:00 GMT
-  summary: "Among the people who were able to escape Kabul after the Taliban takeover\
-    \ was a local artist named Omaid Sharifi. Sharifi might be best known for a project\
-    \ involving painting colorful and poetic murals onto the city\u2019s many blast\
-    \ walls. Now the Taliban are painting over them."
-  title: Kabul artist laments exile
 - link: https://www.dw.com/en/world-in-progress-what-just-happened/av-59425745?maca=en-podcast_world-in-progress-1951-xml-mrss
   published: Wed, 6 Oct 2021 13:29:00 GMT
   summary: On this week's show, we travel to the Cambodian city Sihanoukville, which
@@ -55,6 +103,13 @@ entries:
     from afar as the Taliban destroys his work. Plus, an interview with Dr. Azza Karam,
     of Religions for Peace International on how the pandemic is affecting religion.
   title: 'World in Progress: What just happened?'
+- link: https://www.dw.com/en/kabul-artist-laments-exile/av-59425744?maca=en-podcast_world-in-progress-1951-xml-mrss
+  published: Wed, 6 Oct 2021 13:29:00 GMT
+  summary: "Among the people who were able to escape Kabul after the Taliban takeover\
+    \ was a local artist named Omaid Sharifi. Sharifi might be best known for a project\
+    \ involving painting colorful and poetic murals onto the city\u2019s many blast\
+    \ walls. Now the Taliban are painting over them."
+  title: Kabul artist laments exile
 - link: https://www.dw.com/en/world-in-progress-the-power-of-music/av-59352571?maca=en-podcast_world-in-progress-1951-xml-mrss
   published: Wed, 29 Sep 2021 11:20:00 GMT
   summary: We'll hear about how music is playing an important role in the conflict
@@ -176,66 +231,6 @@ entries:
     \ can change working conditions. And in the Maldives, tourists are put off by\
     \ mosquitoes."
   title: 'World in Progress: Solutions in sight'
-- link: https://www.dw.com/en/world-in-progress-eu-surveillance-technology-exports/av-57832099?maca=en-podcast_world-in-progress-1951-xml-mrss
-  published: Wed, 9 Jun 2021 15:35:00 GMT
-  summary: A new EU regulation is supposed to limit European exports of surveillance
-    technologies for nefarious reasons or to dictatorial regimes. But many contradictions
-    remain, and critics fear European surveillance tools will continue to be used
-    for purposes that violate human rights.
-  title: 'World in Progress: EU Surveillance Technology exports'
-- link: https://www.dw.com/en/world-in-progress-african-women-speak-up-for-their-rights/av-57761517?maca=en-podcast_world-in-progress-1951-xml-mrss
-  published: Wed, 2 Jun 2021 15:03:00 GMT
-  summary: "Many women across Africa shape protest movements and stand up for their\
-    \ rights: from descendants of Benin\u2019s Amazon warriors, to activists fighting\
-    \ injustice\_and women promoting gender equality with political and poetic means."
-  title: 'World in Progress: African women speak up for their rights'
-- link: https://www.dw.com/en/world-in-progress-myanmar-s-defectors-india-s-harrowing-second-covid-wave/av-57671252?maca=en-podcast_world-in-progress-1951-xml-mrss
-  published: Wed, 26 May 2021 12:31:00 GMT
-  summary: "On this week\u2019s show, we get a rare glimpse behind the scenes of Myanmar\u2019\
-    s notorious army, the Tatmadaw. Plus, insights from New Delhi on how India\u2019\
-    s second wave spun out of control. And, the Amazigh women of Morocco have been\
-    \ getting facial tattoos for centuries. But is tradition about to die out?"
-  title: "World in Progress: Myanmar\u2019s defectors, India\u2019s harrowing second\
-    \ Covid wave"
-- link: https://www.dw.com/en/world-in-progress-helping-hands/av-57594316?maca=en-podcast_world-in-progress-1951-xml-mrss
-  published: Fri, 21 May 2021 05:40:00 GMT
-  summary: 'How do communities around the world help empower and enable each other?
-    In France, one group is helping migrants in the treacherous Alps, and a new report
-    shows that there are more and more displaced people in the world. And in Africa,
-    women are supporting each other: An NGO in Nigeria is helping deaf pregnant women
-    while in Somalia new fitness and work opportunities for women are being embraced.'
-  title: 'World in Progress: Helping hands'
-- link: https://www.dw.com/en/world-in-progress-the-link-between-climate-change-and-displacement/av-57594314?maca=en-podcast_world-in-progress-1951-xml-mrss
-  published: Thu, 20 May 2021 09:12:00 GMT
-  summary: A new report shows that 40.5 million people were displaced last year alone.
-    Around 75% were fleeing disasters and the effects of climate change, mostly weather-related.
-    An interview with DW's environment reporter Ajit Niranjan who has been speaking
-    to some of the people who have lost homes, family members or livelihoods because
-    of disasters.
-  title: 'World in Progress: The link between climate change and displacement'
-- link: https://www.dw.com/en/world-in-progress-struggling-for-survival/av-57509872?maca=en-podcast_world-in-progress-1951-xml-mrss
-  published: Wed, 12 May 2021 13:29:00 GMT
-  summary: "How are textile workers in Bangladesh faring who are unable to socially\
-    \ distance in their factories? We also hear how clean cooking stoves can help\
-    \ reduce the risk of lung diseases in Guatemala's poorer neighborhoods \u2014\
-    \ that's more important than ever during the coronavirus pandemic."
-  title: 'World in Progress: Struggling for survival'
-- link: https://www.dw.com/en/world-in-progress-covid-pandemic-rages-on/av-57437259?maca=en-podcast_world-in-progress-1951-xml-mrss
-  published: Wed, 5 May 2021 13:53:00 GMT
-  summary: As some countries have made remarkable strides in vaccinating their populations,
-    the situation in India is looking grimmer by the day. The country now accounts
-    for a third of global coronavirus infections and has surpassed the 20 million
-    mark. We also hear how the Baka pygmies in Cameroon and migrants on the Canary
-    Islands are coping with the pandemic.
-  title: 'World in Progress: COVID pandemic rages on'
-- link: https://www.dw.com/en/world-in-progress-who-owns-space/av-57364310?maca=en-podcast_world-in-progress-1951-xml-mrss
-  published: Wed, 28 Apr 2021 13:28:00 GMT
-  summary: "This week we dive deep into outer space. Who owns space? Who owns mineral\
-    \ resources and water? The race is on \u2014 it's about big money, new business\
-    \ models and the future of our economy. And that of our environment. There are\
-    \ ideas of moving dirty industries to space, while our Earth would be reserved\
-    \ for clean living."
-  title: 'World in Progress: Who owns space?'
 
 ---
 News, Analysis and Service from Germany and Europe - in 30 Languages

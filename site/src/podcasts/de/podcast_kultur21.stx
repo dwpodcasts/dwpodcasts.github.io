@@ -1,7 +1,7 @@
 ---
 title: "Kultur.21: Das Kulturmagazin"
 id: podcast_kultur21
-published: "Wed, 3 Nov 2021 19:34:55 GMT"
+published: "Thu, 6 Jan 2022 07:51:35 GMT"
 page_link: "https://www.dw.com?maca=de-podcast_kultur21-3477-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_kultur21"
 language: de
@@ -11,6 +11,48 @@ tags: [ "Kultur.21", "Kunst", "Kultur", "Arts", "Books", "Visual Arts", "Perform
 image_url: https://static.dw.com/image/48813692_7.png
 image_title: ""
 entries:
+- link: https://www.dw.com/de/marilyn-douala-bell-kolonialismus-und-erinnerungskultur/av-60015184?maca=de-podcast_kultur21-3477-xml-mrss
+  published: Sat, 4 Dec 2021 11:52:00 GMT
+  summary: "Kulturbotschafterin, K\xE4mpferin f\xFCr kritische Erinnerungskultur und\
+    \ jetzt auch Tr\xE4gerin der Goethe-Medaille: Prinzessin Marilyn Douala Manga\
+    \ Bell - Urenkelin von Rudolf Duala Manga Bell, K\xF6nig des Duala-Volkes und\
+    \ ber\xFChmter Widerstandsk\xE4mpfer Kameruns."
+  title: 'Marilyn Douala Bell: Kolonialismus und Erinnerungskultur'
+- link: https://www.dw.com/de/toshio-hosokawa-klangkunst-verbindet-welten/av-60015151?maca=de-podcast_kultur21-3477-xml-mrss
+  published: Sat, 4 Dec 2021 11:50:00 GMT
+  summary: "Zwischen Zen-Buddhismus und Avantgarde. Der japanische Komponist Toshio\
+    \ Hosokawa verbindet traditionelle Musik aus Japan mit westlichen Musikstilen\
+    \ und schafft ganz eigene Klangwelten. F\xFCr sein Schaffen erhielt er eine der\
+    \ drei Goethe-Medaillen 2021."
+  title: 'Toshio Hosokawa: Klangkunst verbindet Welten'
+- link: https://www.dw.com/de/carola-lentz-antrittsbesuch-in-kamerun/av-60015127?maca=de-podcast_kultur21-3477-xml-mrss
+  published: Sat, 4 Dec 2021 11:41:00 GMT
+  summary: "Sie ist seit einem Jahr im Amt: Carola Lentz, die neue Pr\xE4sidentin\
+    \ des Goethe-Instituts. Ihre erste gro\xDFe Auslandsreise f\xFChrt sie nach Douala\
+    \ und Yaound\xE9 zur 60-Jahr-Feier des Instituts in Kamerun. Ein Besuch zwischen\
+    \ Diplomatie und Kulturaustausch."
+  title: 'Carola Lentz: Antrittsbesuch in Kamerun'
+- link: "https://www.dw.com/de/revolution-aus-der-favela-die-t\xE4nzerin-lia-rodrigues/av-59867064?maca=de-podcast_kultur21-3477-xml-mrss"
+  published: Sat, 20 Nov 2021 18:37:00 GMT
+  summary: "Lia Rodrigues will ihre Heimat ver\xE4ndern \u2013 mit Tanz! In einer\
+    \ der gr\xF6\xDFten Favelas von Rio de Janeiro gr\xFCndet sie ein freies Kunst-\
+    \ und Kulturzentrum, bildet kostenlos T\xE4nzer aus. Ihre \"Companhia de Dan\xE7\
+    as\" ist preisgekr\xF6nt \u2013 und tanzt f\xFCr Humanit\xE4t."
+  title: "Revolution aus der Favela \u2013 die T\xE4nzerin Lia Rodrigues"
+- link: https://www.dw.com/de/tanz-gegen-sexismus-in-chile-baila-capucha-baila/av-59867061?maca=de-podcast_kultur21-3477-xml-mrss
+  published: Sat, 20 Nov 2021 11:03:00 GMT
+  summary: "Rote Masken sind ihr Markenzeichen: In Santiago de Chile k\xE4mpft das\
+    \ Tanzkollektiv Baila Capucha Baila auf den Stra\xDFen gegen patriarchale Strukturen\
+    \ und Ungerechtigkeit. Ihr Ziel: Frauen sollen sich trauen, offen \xFCber sexualisierte\
+    \ Gewalt zu sprechen."
+  title: "Tanz gegen Sexismus in Chile -\u2013 Baila Capucha Baila"
+- link: https://www.dw.com/de/tanz-gegen-sexismus-in-chile-baila-capucha-baila/av-59867062?maca=de-podcast_kultur21-3477-xml-mrss
+  published: Sat, 20 Nov 2021 10:56:00 GMT
+  summary: "Rote Masken sind ihr Markenzeichen: In Santiago de Chile k\xE4mpft das\
+    \ Tanzkollektiv Baila Capucha Baila auf den Stra\xDFen gegen patriarchale Strukturen\
+    \ und Ungerechtigkeit. Ihr Ziel: Frauen sollen sich trauen, offen \xFCber sexualisierte\
+    \ Gewalt zu sprechen."
+  title: "Tanz gegen Sexismus in Chile -\u2013 Baila Capucha Baila"
 - link: https://www.dw.com/de/re-connect/av-59575131?maca=de-podcast_kultur21-3477-xml-mrss
   published: Sat, 23 Oct 2021 06:10:00 GMT
   summary: "Sie ist noch immer der weltweit wichtigste Treffpunkt f\xFCr Literatur:\
