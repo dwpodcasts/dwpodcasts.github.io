@@ -35,7 +35,10 @@ def read_podcast(rss_url):
         return
 
     print(" - atom", atom_link)
-    id = re.sub('^/xml(hd)?/', '', urlparse(atom_link).path).lower()
+    if '/syndication/feeds' in atom_link:
+        id = re.sub('^/syndication/feeds/', '', urlparse(atom_link).path).lower()
+    else:
+        id = re.sub('^/xml(hd)?/', '', urlparse(atom_link).path).lower()
     print(" - id", id)
 
     print(' - deutschkurs', is_language_learning(d))
