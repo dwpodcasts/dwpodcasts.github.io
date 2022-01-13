@@ -58,6 +58,19 @@
             <dl>
             {% for entry in node.entries %}
                 <dt><a href="{{ entry.link }}">{{ entry.title }}</a>
+                    {% if entry.enclosure.type == 'audio/mpeg' %}
+                    <audio controls>
+                        <source src="{{ entry.enclosure.url }}" type="{{ entry.enclosure.type }}">
+                        Your browser does not support the AUDIO element.
+                    </audio>
+                    {% elif entry.enclosure.type == 'video/mp4' %}
+                    <video controls>
+                        <source src="{{ entry.enclosure.url }}" type="{{ entry.enclosure.type }}">
+                        Your browser does not support the VIDEO element.
+                    </video>
+                    {% else %}
+                    NO ENC
+                    {% endif %}
                 <dd>{{ entry.published }} | {{ entry.summary }}
             {% endfor %}
 

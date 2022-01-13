@@ -1,7 +1,7 @@
 ---
 title: "Concerto Discreto | Deutsche Welle"
 id: podcast_concerto-discreto
-published: "Thu, 6 Jan 2022 07:58:26 GMT"
+published: "Thu, 13 Jan 2022 07:19:12 GMT"
 page_link: "https://www.dw.com/dw/0,2142,3049,00.html?maca=en-podcast_concerto-discreto-1760-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_concerto-discreto"
 language: en
@@ -11,7 +11,10 @@ tags: [ "Music" ]
 image_url: https://static.dw.com/image/2340325_7.jpg
 image_title: ""
 entries:
-- link: https://www.dw.com/en/duo-brillaner-clarinettist-shirley-brill-and-pianist-jonathan-aner/a-5209425?maca=en-podcast_concerto-discreto-1760-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/1760_podcast_concerto-discreto/duo-brillaner-podcast-1760-5209425.mp3
+  link: https://www.dw.com/en/duo-brillaner-clarinettist-shirley-brill-and-pianist-jonathan-aner/a-5209425?maca=en-podcast_concerto-discreto-1760-xml-mrss
   published: Thu, 4 Feb 2010 13:15:00 GMT
   summary: "Israelis Shirley Brill and Jonathen Aner merge their talents as clarinetist\
     \ and pianist, respectively, in their dynamic \"Duo Brillaner.\"At 13 years of\
@@ -42,7 +45,10 @@ entries:
     \ (piano) on February 1, 2010 at the Arithmeum in Bonn as part of the Concerto\
     \ Discreto series, sponsored and recorded by Deutsche Welle."
   title: 'Duo Brillaner: Clarinettist Shirley Brill and Pianist Jonathan Aner'
-- link: https://www.dw.com/en/singer-morgan-crowley-christmas-on-broadway/a-5193817?maca=en-podcast_concerto-discreto-1760-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/1760_podcast_concerto-discreto/morgan-crowley-podcast-1760-5193817.mp3
+  link: https://www.dw.com/en/singer-morgan-crowley-christmas-on-broadway/a-5193817?maca=en-podcast_concerto-discreto-1760-xml-mrss
   published: Fri, 29 Jan 2010 16:43:00 GMT
   summary: "Singer Morgan Crowley and pianist and composer Alexander Bermange performed\
     \ at this special concert entitled \"Christmas on Broadway.\"Morgan Crowley comes\
@@ -70,7 +76,10 @@ entries:
     \ (piano) on December 14, 2009, as part of the Concerto Discreto series, sponsored\
     \ and recorded by Deutsche Welle."
   title: 'Singer Morgan Crowley: "Christmas on Broadway"'
-- link: "https://www.dw.com/en/violinist-serge-zimmermann-the-world-will-surely-hear-about-him\u2026\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/1760_podcast_concerto-discreto/Serge-Zimmermann-Concert-podcast-1760-5193359.mp3
+  link: "https://www.dw.com/en/violinist-serge-zimmermann-the-world-will-surely-hear-about-him\u2026\
     /a-5193359?maca=en-podcast_concerto-discreto-1760-xml-mrss"
   published: Fri, 29 Jan 2010 16:43:00 GMT
   summary: "\"The world will surely hear about him\u2026,\" wrote one enthusiastic\
@@ -93,7 +102,10 @@ entries:
     \ and recorded by Deutsche Welle."
   title: "Violinist Serge Zimmermann: \"The world will surely hear about him\u2026\
     \""
-- link: https://www.dw.com/en/duo-d-accord-magic-hands/a-5191465?maca=en-podcast_concerto-discreto-1760-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/1760_podcast_concerto-discreto/Duo-dAccord-Magic-Hands-podcast-1760-5191465.mp3
+  link: https://www.dw.com/en/duo-d-accord-magic-hands/a-5191465?maca=en-podcast_concerto-discreto-1760-xml-mrss
   published: Fri, 29 Jan 2010 14:13:00 GMT
   summary: "Lucia Huang and German Sebastian Euler play music for two pianos at this\
     \ Concerto Discreto concert.Music for two pianos, with its beauty and sparkling,\
@@ -110,7 +122,10 @@ entries:
     \ \nPerformed on October 19, 2009 at the Arithmeum in Bonn as part of the Concerto\
     \ Discreto series, sponsored and\_recorded by Deutsche Welle."
   title: 'Duo D''Accord: "Magic Hands"'
-- link: https://www.dw.com/en/russian-connection-composer-and-pianist-kuzma-bodrov/a-4586721?maca=en-podcast_concerto-discreto-1760-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/1760_podcast_concerto-discreto/BodrovBorisoglebsky-podcast-1760-4586721.mp3
+  link: https://www.dw.com/en/russian-connection-composer-and-pianist-kuzma-bodrov/a-4586721?maca=en-podcast_concerto-discreto-1760-xml-mrss
   published: Mon, 24 Aug 2009 09:21:00 GMT
   summary: "Kuzma Bodrov, a celebrated young pianist and composer from Russia, presents\
     \ a striking mix of works for piano and violin by mostly Russian composers, including\
@@ -130,7 +145,10 @@ entries:
     \ violin \nPerformed on March 16, 2009, as part of the Concerto Discreto concert\
     \ series, sponsored by Deutsche Welle."
   title: 'Russian connection: composer and pianist Kuzma Bodrov'
-- link: https://www.dw.com/en/roope-grondahl-and-friends-how-europe-sounds/a-4111159?maca=en-podcast_concerto-discreto-1760-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/1760_podcast_concerto-discreto/Roope_Groendahl_and_friends-podcast-1760-4111159.mp3
+  link: https://www.dw.com/en/roope-grondahl-and-friends-how-europe-sounds/a-4111159?maca=en-podcast_concerto-discreto-1760-xml-mrss
   published: Sat, 21 Mar 2009 13:07:00 GMT
   summary: 'Three young, prize-winning musicians from Finland, Czech Republic and
     Portugal present a colorful and diverse program with music by 19th and 20th century
@@ -161,7 +179,10 @@ entries:
     Performed on March 16, 2009, as part of the Concerto Discreto concert series,
     sponsored by Deutsche Welle.'
   title: 'Roope Grondahl and Friends: How Europe Sounds'
-- link: https://www.dw.com/en/violinist-carolin-widmann-and-swr-experimentalstudio-sound-labyrinth/a-4038766?maca=en-podcast_concerto-discreto-1760-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/1760_podcast_concerto-discreto/Boulez-podcast-1760-4038766.mp3
+  link: https://www.dw.com/en/violinist-carolin-widmann-and-swr-experimentalstudio-sound-labyrinth/a-4038766?maca=en-podcast_concerto-discreto-1760-xml-mrss
   published: Wed, 18 Feb 2009 12:48:00 GMT
   summary: "Violinist Carolin Widmann juxtaposes seemingly dissimilar works in this\
     \ unique concert -- Bach's Baroque partita and Boulez' modern electronic experimentation\
@@ -173,74 +194,116 @@ entries:
     \ on Feb. 9, 2009, as part of the Concerto Discreto concert series, sponsored\
     \ by Deutsche Welle."
   title: 'Violinist Carolin Widmann and SWR Experimentalstudio: Sound Labyrinth'
-- link: https://www.dw.com/en/nadja-schubert-swinging-recorder/a-3880087?maca=en-podcast_concerto-discreto-1760-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/1760_podcast_concerto-discreto/00EDE974-podcast-1760-3880087.mp3
+  link: https://www.dw.com/en/nadja-schubert-swinging-recorder/a-3880087?maca=en-podcast_concerto-discreto-1760-xml-mrss
   published: Tue, 16 Dec 2008 16:02:00 GMT
   summary: Improvisation is a fundamental element of Baroque music -- and of jazz.
     Acclaimed flautist Nadja Schubert expertly alternates between both genres in this
     Christmas concert.
   title: 'Nadja Schubert: Swinging Recorder'
-- link: https://www.dw.com/en/mahler-chamber-orchestra-mozart-plus/a-3681453?maca=en-podcast_concerto-discreto-1760-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/1760_podcast_concerto-discreto/00E69B55-podcast-1760-3681453.mp3
+  link: https://www.dw.com/en/mahler-chamber-orchestra-mozart-plus/a-3681453?maca=en-podcast_concerto-discreto-1760-xml-mrss
   published: Tue, 30 Sep 2008 12:59:00 GMT
   summary: The Mahler Chamber Orchestra (MCO), founded in 1997 by Claudio Abbado,
     performed Mozart's Quintet in E-flat Major, Villa-Lobos' Fantasia Concertante
     and Poulenc's Trio for Oboe, Bassoon and Piano.
   title: 'Mahler Chamber Orchestra: "Mozart Plus"'
-- link: https://www.dw.com/en/mohamed-basha-gift-from-egypt/a-3593923?maca=en-podcast_concerto-discreto-1760-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/1760_podcast_concerto-discreto/00E33AB6-podcast-1760-3593923.mp3
+  link: https://www.dw.com/en/mohamed-basha-gift-from-egypt/a-3593923?maca=en-podcast_concerto-discreto-1760-xml-mrss
   published: Tue, 26 Aug 2008 10:22:00 GMT
   summary: Composer and percussionist Mohamed Basha teamed up with four saxophonists
     and a bassist for an evening of Egyptian-European musical fusion. The group performed
     popular film music as well as Basha's own compositions.
   title: 'Mohamed Basha: "Gift from Egypt"'
-- link: https://www.dw.com/en/pianist-severin-von-eckardstein/a-3273326?maca=en-podcast_concerto-discreto-1760-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/1760_podcast_concerto-discreto/00F4820E-podcast-1760-3273326.mp3
+  link: https://www.dw.com/en/pianist-severin-von-eckardstein/a-3273326?maca=en-podcast_concerto-discreto-1760-xml-mrss
   published: Mon, 3 Mar 2008 00:00:00 GMT
   summary: null
   title: Pianist Severin von Eckardstein
-- link: https://www.dw.com/en/martin-grubinger-percussion-pure/a-3273310?maca=en-podcast_concerto-discreto-1760-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/1760_podcast_concerto-discreto/00F4829C-podcast-1760-3273310.mp3
+  link: https://www.dw.com/en/martin-grubinger-percussion-pure/a-3273310?maca=en-podcast_concerto-discreto-1760-xml-mrss
   published: Mon, 28 Jan 2008 00:00:00 GMT
   summary: Twenty-three year-old Martin Grubinger of Austria is considered a rising
     star in the percussion world. At the Arithmeum he presents percussion works in
     a unique chamber setting.
   title: 'Martin Grubinger: "Percussion Pure"'
-- link: https://www.dw.com/en/shchedrick-children-s-choir-christmas-in-ukraine/a-3273274?maca=en-podcast_concerto-discreto-1760-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/1760_podcast_concerto-discreto/00F48308-podcast-1760-3273274.mp3
+  link: https://www.dw.com/en/shchedrick-children-s-choir-christmas-in-ukraine/a-3273274?maca=en-podcast_concerto-discreto-1760-xml-mrss
   published: Mon, 17 Dec 2007 00:00:00 GMT
   summary: Ukraine's Shchedrick Children's Choir, which has sung for Pope Benedict
     XVI, performs Russian and Ukrainian folk music alongside Baroque masterpieces.
   title: 'Shchedrick Children''s Choir: "Christmas in Ukraine"'
-- link: https://www.dw.com/en/tenor-morgan-crowley-from-baroque-to-broadway/a-3273270?maca=en-podcast_concerto-discreto-1760-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/1760_podcast_concerto-discreto/00F482C7-podcast-1760-3273270.mp3
+  link: https://www.dw.com/en/tenor-morgan-crowley-from-baroque-to-broadway/a-3273270?maca=en-podcast_concerto-discreto-1760-xml-mrss
   published: Mon, 19 Nov 2007 00:00:00 GMT
   summary: Irish tenor Morgan Crowley presents a rich spectrum of vocal works from
     Baroque to Broadway.
   title: 'Tenor Morgan Crowley: "From Baroque to Broadway"'
-- link: https://www.dw.com/en/hungarian-accents-for-clarinet-violin-cello-and-piano/a-3273266?maca=en-podcast_concerto-discreto-1760-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/1760_podcast_concerto-discreto/00F482ED-podcast-1760-3273266.mp3
+  link: https://www.dw.com/en/hungarian-accents-for-clarinet-violin-cello-and-piano/a-3273266?maca=en-podcast_concerto-discreto-1760-xml-mrss
   published: Mon, 24 Sep 2007 00:00:00 GMT
   summary: null
   title: '"Hungarian Accents" for Clarinet, Violin, Cello and Piano'
-- link: https://www.dw.com/en/hans-huyssen-and-madosini-the-purcell-project/a-3273260?maca=en-podcast_concerto-discreto-1760-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/1760_podcast_concerto-discreto/From_Dido_to_Mado-podcast-1760-3273260.mp3
+  link: https://www.dw.com/en/hans-huyssen-and-madosini-the-purcell-project/a-3273260?maca=en-podcast_concerto-discreto-1760-xml-mrss
   published: Mon, 13 Aug 2007 00:00:00 GMT
   summary: Composer Hans Huyssens teams up with legendary South African musician Madosini
     Manqina Latozi to present a mix of European and African music.
   title: 'Hans Huyssen and Madosini: The Purcell Project'
-- link: https://www.dw.com/en/invisible-pianist-juergen-hocker/a-3273252?maca=en-podcast_concerto-discreto-1760-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/1760_podcast_concerto-discreto/Invisible_Pianists-podcast-1760-3273252.mp3
+  link: https://www.dw.com/en/invisible-pianist-juergen-hocker/a-3273252?maca=en-podcast_concerto-discreto-1760-xml-mrss
   published: Sat, 21 Jul 2007 00:00:00 GMT
   summary: Player piano expert Juergen Hocker present works for an instrument without
     a live musician -- some are too difficult for human hands.
   title: Invisible Pianist Juergen Hocker
-- link: https://www.dw.com/en/pianist-fazil-say-alla-turca/a-3273236?maca=en-podcast_concerto-discreto-1760-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/1760_podcast_concerto-discreto/Alla_turca-podcast-1760-3273236.mp3
+  link: https://www.dw.com/en/pianist-fazil-say-alla-turca/a-3273236?maca=en-podcast_concerto-discreto-1760-xml-mrss
   published: Mon, 29 Jan 2007 00:00:00 GMT
   summary: Turkish pianist and composer Fazil Say performs solo works, mainly by Mozart
     and himself.
   title: 'Pianist Fazil Say: "Alla turca"'
-- link: https://www.dw.com/en/russian-christmas-choir-concert/a-3273227?maca=en-podcast_concerto-discreto-1760-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/1760_podcast_concerto-discreto/Russian_Christmas-podcast-1760-3273227.mp3
+  link: https://www.dw.com/en/russian-christmas-choir-concert/a-3273227?maca=en-podcast_concerto-discreto-1760-xml-mrss
   published: Mon, 18 Dec 2006 00:00:00 GMT
   summary: The six-member Ave Maria vocal ensemble from Russia performs works by Mozart,
     Vivaldi and Brahms, as well as traditional Christmas songs by Russian composers.
   title: '"Russian Christmas" Choir Concert'
-- link: https://www.dw.com/en/soprano-deborah-york-and-the-lautten-compagney/a-3273218?maca=en-podcast_concerto-discreto-1760-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/1760_podcast_concerto-discreto/Dolce_mio_ben-podcast-1760-3273218.mp3
+  link: https://www.dw.com/en/soprano-deborah-york-and-the-lautten-compagney/a-3273218?maca=en-podcast_concerto-discreto-1760-xml-mrss
   published: Mon, 23 Oct 2006 00:00:00 GMT
   summary: Soprano Deborah York and the Lautten-Compagney perform works by early German
     composers.
   title: Soprano Deborah York and the Lautten-Compagney
-- link: https://www.dw.com/en/soprano-agata-zubel/a-3273198?maca=en-podcast_concerto-discreto-1760-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/1760_podcast_concerto-discreto/00F44FA7-podcast-1760-3273198.mp3
+  link: https://www.dw.com/en/soprano-agata-zubel/a-3273198?maca=en-podcast_concerto-discreto-1760-xml-mrss
   published: Mon, 21 Aug 2006 00:00:00 GMT
   summary: Polish singer and composer Agata Zubel performs Tangos von Astor Piazzolla
     and the Twelve Poems of Emily Dickinson by Aaron Copland.

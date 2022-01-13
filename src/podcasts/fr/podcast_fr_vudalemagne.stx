@@ -1,7 +1,7 @@
 ---
 title: "Vu d'Allemagne | Deutsche Welle"
 id: podcast_fr_vudalemagne
-published: "Thu, 6 Jan 2022 07:58:30 GMT"
+published: "Thu, 13 Jan 2022 07:20:14 GMT"
 page_link: "https://www.dw.com?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_fr_vudalemagne"
 language: fr
@@ -11,7 +11,24 @@ tags: [ "News", "Politics" ]
 image_url: https://static.dw.com/image/37350941_7.jpg
 image_title: ""
 entries:
-- link: "https://www.dw.com/fr/pour-une-poign\xE9e-d-or-et-de-charbon/av-60110480?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/A6606C0C_2-podcast-24681-60399365.mp3
+  link: "https://www.dw.com/fr/un-candidat-de-gauche-contre-steinmeier-le-portugal-repeuple-ses-r\xE9\
+    gions-int\xE9rieures/av-60399365?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
+  published: Wed, 12 Jan 2022 13:06:00 GMT
+  summary: "\"Oser plus de justice sociale\", c'est le slogan de campagne de Gerhard\
+    \ Trabert, candidat du parti Die Linke \xE0 la pr\xE9sidence f\xE9d\xE9rale. Il\
+    \ veut attirer l'attention sur la pauvret\xE9 qui touche plus de 13 millions de\
+    \ personnes en Allemagne. // Le\_Portugal prend des mesures pour repeupler ses\
+    \ r\xE9gions int\xE9rieures. Notre correspondante Marie-line Darcy est all\xE9\
+    e voir sur place l'effet de ces mesures."
+  title: "Un candidat de gauche contre Steinmeier // Le Portugal repeuple ses r\xE9\
+    gions int\xE9rieures"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/6D3BD7F0_2-podcast-24681-60110480.mp3
+  link: "https://www.dw.com/fr/pour-une-poign\xE9e-d-or-et-de-charbon/av-60110480?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 22 Dec 2021 08:19:00 GMT
   summary: "Apr\xE8s avoir \xE9voqu\xE9 les cons\xE9quences environnementales et sanitaires\
     \ de l\u2019exploitation mini\xE8re la semaine derni\xE8re, nous poursuivons notre\
@@ -19,7 +36,10 @@ entries:
     \ sociales... Pr\xE9parez votre revolver et vos \xE9perons, car c\u2019est au\
     \ far west que d\xE9marre ce num\xE9ro de Vu d\u2019Allemagne !"
   title: "Pour une poign\xE9e d'or et de charbon"
-- link: "https://www.dw.com/fr/il-\xE9tait-une-fois-\xE0-garzweiler-et-kalsaka/av-60108156?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/91313565_2-podcast-24681-60108156.mp3
+  link: "https://www.dw.com/fr/il-\xE9tait-une-fois-\xE0-garzweiler-et-kalsaka/av-60108156?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Thu, 16 Dec 2021 07:25:00 GMT
   summary: "Quel est le point commun entre Kalsaka, au Burkina Faso, et Garzweiler,\
     \ dans l\u2019ouest de l\u2019Allemagne ? Un indice : il est question d\u2019\
@@ -28,7 +48,10 @@ entries:
     couvrir deux mines \xE0 ciel ouvert, \xE0 des milliers de kilom\xE8tres l\u2019\
     une de l\u2019autre et pourtant si proches."
   title: "Il \xE9tait une fois... \xE0 Garzweiler et Kalsaka"
-- link: "https://www.dw.com/fr/un-\xE9pid\xE9miologiste-ministre-de-la-sant\xE9-en-allemagne-et-la-culture-de-l-indigo-au-japon/av-60049088?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/5BC78643_2-podcast-24681-60049088.mp3
+  link: "https://www.dw.com/fr/un-\xE9pid\xE9miologiste-ministre-de-la-sant\xE9-en-allemagne-et-la-culture-de-l-indigo-au-japon/av-60049088?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Thu, 9 Dec 2021 17:30:00 GMT
   summary: "Alors qu'Olaf Scholz s'installe \xE0 la chancellerie et que l'Allemagne\
     \ fait face \xE0 une nouvelle vague de Covid-19, Vu d'Allemagne dresse le portrait\
@@ -37,7 +60,10 @@ entries:
     \ vivre la teinture \xE0 l\u2019indigo, l\u2019or bleu du pays."
   title: "Un \xE9pid\xE9miologiste ministre de la Sant\xE9 en Allemagne et la culture\
     \ de l'indigo au Japon"
-- link: "https://www.dw.com/fr/g\xE9nocide-des-yazidis-reconnu-par-la-justice-allemande-inflation-record-en-allemagne-et-\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/70281562_2-podcast-24681-59982006.mp3
+  link: "https://www.dw.com/fr/g\xE9nocide-des-yazidis-reconnu-par-la-justice-allemande-inflation-record-en-allemagne-et-\xE9\
     lection-pr\xE9sidentielle-au-chili/av-59982006?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 1 Dec 2021 09:00:00 GMT
   summary: "C\u2019est une premi\xE8re au monde\_: un Irakien a \xE9t\xE9 condamn\xE9\
@@ -47,7 +73,10 @@ entries:
     \ apr\xE8s le premier tour de l'\xE9lection pr\xE9sidentielle."
   title: "G\xE9nocide des Yazidis reconnu par la justice allemande, inflation record\
     \ en Allemagne et \xE9lection pr\xE9sidentielle au Chili"
-- link: "https://www.dw.com/fr/l\xE9galisez-l-avortement-en-allemagne-le-bundestag-plus-jeune-que-jamais/av-59912767?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/C726DC4F_2-podcast-24681-59912767.mp3
+  link: "https://www.dw.com/fr/l\xE9galisez-l-avortement-en-allemagne-le-bundestag-plus-jeune-que-jamais/av-59912767?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 24 Nov 2021 11:42:00 GMT
   summary: "L'acc\xE8s \xE0 l'avortement est toujours un parcours du combattant en\
     \ Allemagne. Des femmes demandent sa l\xE9galisation et un acc\xE8s aux soins\
@@ -55,7 +84,10 @@ entries:
     \ parole aux nouveaux \xE9lus du Bundestag, parfois tr\xE8s jeunes !"
   title: "\"L\xE9galisez l'avortement en Allemagne\" // Le Bundestag plus jeune que\
     \ jamais"
-- link: "https://www.dw.com/fr/une-organisation-de-femmes-du-nigeria-distingu\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/88F632A6_2-podcast-24681-59839907.mp3
+  link: "https://www.dw.com/fr/une-organisation-de-femmes-du-nigeria-distingu\xE9\
     e-en-allemagne-au-mexique-un-centre-pour-reconstruire-les-migrants-traumatis\xE9\
     s/av-59839907?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 17 Nov 2021 17:36:00 GMT
@@ -66,7 +98,10 @@ entries:
     \ aux migrants qui ont subi des tortures et des mauvais traitements."
   title: "Une organisation de femmes du Nigeria distingu\xE9e en Allemagne // Au Mexique,\
     \ un centre pour \"reconstruire\" les migrants traumatis\xE9s"
-- link: "https://www.dw.com/fr/le-partenariat-germano-marocain-autour-de-l-hydrog\xE8\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/E9A5A43C_2-podcast-24681-59770621.mp3
+  link: "https://www.dw.com/fr/le-partenariat-germano-marocain-autour-de-l-hydrog\xE8\
     ne-\xE0-l-arr\xEAt-en-italie-une-cuisine-pour-aider-les-femmes-victimes-de-violences-conjugales/av-59770621?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 10 Nov 2021 14:02:00 GMT
   summary: "Les projets de coop\xE9ration autour du d\xE9veloppement de l'hydrog\xE8\
@@ -76,7 +111,10 @@ entries:
     \ violences conjugales."
   title: "Le partenariat  germano-marocain autour de l'hydrog\xE8ne \xE0 l'arr\xEA\
     t // En Italie, une cuisine pour aider les femmes victimes de violences conjugales"
-- link: "https://www.dw.com/fr/des-m\xE9thodes-douteuses-pour-les-demandes-de-regroupement-familial-en-allemagne-avec-la-diaspora-alg\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/F5F58103_2-podcast-24681-59550971.mp3
+  link: "https://www.dw.com/fr/des-m\xE9thodes-douteuses-pour-les-demandes-de-regroupement-familial-en-allemagne-avec-la-diaspora-alg\xE9\
     rienne-60-ans-apr\xE8s-le-massacre-du-17-octobre/av-59550971?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Sat, 23 Oct 2021 17:30:00 GMT
   summary: "Les m\xE9dias publics allemands mettent en lumi\xE8re les m\xE9thodes\
@@ -88,7 +126,10 @@ entries:
   title: "Des m\xE9thodes douteuses pour les demandes de regroupement familial en\
     \ Allemagne // Avec la diaspora alg\xE9rienne 60 ans apr\xE8s le massacre du 17\
     \ octobre"
-- link: "https://www.dw.com/fr/cent-ans-et-devant-la-justice-pour-r\xE9pondre-de-crimes-nazis-le-quotidien-des-habitants-de-beyrouth-entre-crise-sociale-et-crise-\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/D448C9A6_2-podcast-24681-59484267.mp3
+  link: "https://www.dw.com/fr/cent-ans-et-devant-la-justice-pour-r\xE9pondre-de-crimes-nazis-le-quotidien-des-habitants-de-beyrouth-entre-crise-sociale-et-crise-\xE9\
     conomique/av-59484267?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 13 Oct 2021 16:41:00 GMT
   summary: "Votre magazine revient cette semaine sur un proc\xE8s pour crime nazi\
@@ -97,7 +138,10 @@ entries:
     \ o\xF9 les habitants tentent de faire face aux multiples crises dans le pays."
   title: "Cent ans et devant la justice pour r\xE9pondre de crimes nazis // Le quotidien\
     \ des habitants de Beyrouth entre crise sociale et crise \xE9conomique"
-- link: "https://www.dw.com/fr/le-logement-enjeu-\xE9lectoral-\xE0-berlin-en-france-le-combat-des-enfants-de-harkis-pour-la-reconnaissance/av-59343751?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/E149DBC7_2-podcast-24681-59343751.mp3
+  link: "https://www.dw.com/fr/le-logement-enjeu-\xE9lectoral-\xE0-berlin-en-france-le-combat-des-enfants-de-harkis-pour-la-reconnaissance/av-59343751?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 29 Sep 2021 17:00:00 GMT
   summary: "Coup de projecteur sur les \xE9lections r\xE9gionales du 26 septembre\
     \ au Mecklembourg-Pom\xE9ranie-occidentale et \xE0 Berlin, o\xF9 la question du\
@@ -106,7 +150,10 @@ entries:
     fugi\xE9s en France se sentent toujours exclus."
   title: "Le logement, enjeu \xE9lectoral \xE0 Berlin // En France, le combat des\
     \ enfants de harkis pour la reconnaissance"
-- link: "https://www.dw.com/fr/actus-de-campagne-syst\xE8me-\xE9lectoral-vote-des-jeunes-j-4-avant-les-\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/D2134095_2-podcast-24681-59262433.mp3
+  link: "https://www.dw.com/fr/actus-de-campagne-syst\xE8me-\xE9lectoral-vote-des-jeunes-j-4-avant-les-\xE9\
     lections-allemandes/av-59262433?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 22 Sep 2021 12:48:00 GMT
   summary: "A quelques jours des \xE9lections f\xE9d\xE9rales allemandes, Vu d'Allemagne\
@@ -115,7 +162,10 @@ entries:
     \ avant le vote."
   title: "Actus de campagne, syst\xE8me \xE9lectoral, vote des jeunes... J-4 avant\
     \ les \xE9lections allemandes"
-- link: "https://www.dw.com/fr/attaques-informatiques-et-fausses-nouvelles-quelle-s\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/44227F11_2-podcast-24681-59183269.mp3
+  link: "https://www.dw.com/fr/attaques-informatiques-et-fausses-nouvelles-quelle-s\xE9\
     curit\xE9-pour-les-\xE9lections-allemandes-la-vall\xE9e-de-san-joaquin-suffoque-en-californie/av-59183269?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Tue, 14 Sep 2021 16:31:00 GMT
   summary: "L\u2019Allemagne se rend aux urnes le 26 septembre : Vu d\u2019Allemagne\
@@ -126,7 +176,10 @@ entries:
     \ Etats-Unis."
   title: "Attaques informatiques et fausses nouvelles : quelle s\xE9curit\xE9 pour\
     \ les \xE9lections allemandes ? // La Vall\xE9e de San Joaquin suffoque en Californie"
-- link: "https://www.dw.com/fr/en-allemagne-un-candidat-bat-campagne-contre-l-abstention-espoir-pour-les-prisonniers-de-la-r\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/B94817D0_2-podcast-24681-59116028.mp3
+  link: "https://www.dw.com/fr/en-allemagne-un-candidat-bat-campagne-contre-l-abstention-espoir-pour-les-prisonniers-de-la-r\xE9\
     volte-sociale-au-chili/av-59116028?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 8 Sep 2021 13:50:00 GMT
   summary: "\xC0 Duisbourg-Hochfeld, dans la r\xE9gion de la Ruhr, le taux d'abstention\
@@ -137,7 +190,10 @@ entries:
     \ pour les familles des d\xE9tenus."
   title: "En Allemagne, un candidat bat campagne contre l'abstention // Espoir pour\
     \ les prisonniers de la r\xE9volte sociale au Chili"
-- link: "https://www.dw.com/fr/quelle-retraite-pour-angela-merkel-en-gr\xE8ce-des-r\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/2A1D88A8_2-podcast-24681-59044603.mp3
+  link: "https://www.dw.com/fr/quelle-retraite-pour-angela-merkel-en-gr\xE8ce-des-r\xE9\
     fugi\xE9s-emmur\xE9s/av-59044603?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Fri, 3 Sep 2021 10:15:00 GMT
   summary: "Que va donc faire Angela Merkel apr\xE8s les \xE9lections du 26 septembre\
@@ -146,7 +202,10 @@ entries:
     \ centres d'accueil de r\xE9fugi\xE9s, une initiative qui fait d\xE9bat."
   title: "Quelle retraite pour Angela Merkel ? // En Gr\xE8ce, des r\xE9fugi\xE9s\
     \ emmur\xE9s"
-- link: "https://www.dw.com/fr/plaidoyer-pour-l-accueil-des-r\xE9fugi\xE9s-afghans-en-ue-le-droit-d-asile-bafou\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/3D1909EF_2-podcast-24681-58972515.mp3
+  link: "https://www.dw.com/fr/plaidoyer-pour-l-accueil-des-r\xE9fugi\xE9s-afghans-en-ue-le-droit-d-asile-bafou\xE9\
     -\xE0-mayotte/av-58972515?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Tue, 24 Aug 2021 16:58:00 GMT
   summary: "Dans ce num\xE9ro, entretien avec l\u2019eurod\xE9put\xE9e Pierrette Herzberger-Fofana\
@@ -157,7 +216,10 @@ entries:
     caires et contraires au droit d'asile."
   title: "Plaidoyer pour l'accueil des r\xE9fugi\xE9s afghans en UE // Le droit d'asile\
     \ bafou\xE9 \xE0 Mayotte"
-- link: "https://www.dw.com/fr/dans-la-vall\xE9e-de-l-ahr-un-mois-apr\xE8s-les-inondations-en-allemagne/av-58889856?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/8C1CE64C_2-podcast-24681-58889856.mp3
+  link: "https://www.dw.com/fr/dans-la-vall\xE9e-de-l-ahr-un-mois-apr\xE8s-les-inondations-en-allemagne/av-58889856?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 18 Aug 2021 08:59:00 GMT
   summary: "Vu d\u2019Allemagne vous emm\xE8ne cette semaine \xE0 Ahrweiler, un mois\
     \ apr\xE8s les inondations meurtri\xE8res sur place. Dans cette vall\xE9e qui\
@@ -165,12 +227,18 @@ entries:
     n\xE9voles s\u2019affairent sept jours sur sept pour tenter de d\xE9blayer rues\
     \ et maisons endommag\xE9es et de lancer la reconstruction."
   title: "Dans la vall\xE9e de l\u2019Ahr un mois apr\xE8s les inondations en Allemagne"
-- link: "https://www.dw.com/fr/il-y-a-60-ans-d\xE9butait-la-construction-du-mur-de-berlin-au-portugal-des-restaurateurs-relancent-la-production-du-garum-romain/av-58823757?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/4E2E889D_2-podcast-24681-58823757.mp3
+  link: "https://www.dw.com/fr/il-y-a-60-ans-d\xE9butait-la-construction-du-mur-de-berlin-au-portugal-des-restaurateurs-relancent-la-production-du-garum-romain/av-58823757?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Thu, 12 Aug 2021 14:53:00 GMT
   summary: null
   title: "Il y a 60 ans, d\xE9butait la construction du mur de Berlin // Au Portugal,\
     \ des restaurateurs relancent la production du Garum romain"
-- link: "https://www.dw.com/fr/un-commandement-spatial-pour-la-bundeswehr-situation-humanitaire-compliqu\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/52A020CF_2-podcast-24681-58255528.mp3
+  link: "https://www.dw.com/fr/un-commandement-spatial-pour-la-bundeswehr-situation-humanitaire-compliqu\xE9\
     e-et-d\xE9bats-toujours-vifs-autour-de-la-fronti\xE8re-am\xE9ricano-mexicaine/av-58255528?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Thu, 15 Jul 2021 09:02:00 GMT
   summary: "Vu d'Allemagne revient cette semaine sur la mise en service du commandement\
@@ -181,7 +249,10 @@ entries:
     \ d'affluer."
   title: "Un commandement spatial pour la Bundeswehr // Situation humanitaire compliqu\xE9\
     e et d\xE9bats toujours vifs autour de la fronti\xE8re am\xE9ricano-mexicaine"
-- link: "https://www.dw.com/fr/le-dimanche-sacr\xE9-depuis-1700-ans-l-acropole-victime-du-tourisme-de-masse/av-58187874?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/58787E7B_2-podcast-24681-58187874.mp3
+  link: "https://www.dw.com/fr/le-dimanche-sacr\xE9-depuis-1700-ans-l-acropole-victime-du-tourisme-de-masse/av-58187874?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 7 Jul 2021 10:18:00 GMT
   summary: "Les uns veulent ouvrir les magasins le dimanche pour relancer l\u2019\xE9\
     conomie, les autres insistent sur le caract\xE8re sacr\xE9 du repos dominical...\
@@ -190,7 +261,10 @@ entries:
     ce, suscitent la pol\xE9mique."
   title: "Le dimanche, sacr\xE9 depuis 1700 ans // L'Acropole victime du tourisme\
     \ de masse"
-- link: "https://www.dw.com/fr/la-politique-\xE9trang\xE8re-de-l-allemagne-apr\xE8\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/CEBFEB88_2-podcast-24681-58099490.mp3
+  link: "https://www.dw.com/fr/la-politique-\xE9trang\xE8re-de-l-allemagne-apr\xE8\
     s-merkel-en-turquie-les-femmes-dans-la-rue-contre-les-f\xE9minicides/av-58099490?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Tue, 29 Jun 2021 17:12:00 GMT
   summary: "\xC0 l'approche des \xE9lections du 26 septembre en Allemagne, les trois\
@@ -200,7 +274,10 @@ entries:
     \ juillet, alors que plus d'une femme est tu\xE9e par jour dans le pays."
   title: "La politique \xE9trang\xE8re de l'Allemagne apr\xE8s Merkel // En Turquie,\
     \ les femmes dans la rue contre les f\xE9minicides"
-- link: "https://www.dw.com/fr/une-\xE9cole-pour-le-personnel-religieux-musulman-et-une-maison-de-l-unit\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/F3146186_2-podcast-24681-58012680.mp3
+  link: "https://www.dw.com/fr/une-\xE9cole-pour-le-personnel-religieux-musulman-et-une-maison-de-l-unit\xE9\
     -interreligieuse-en-allemagne-en-france-inqui\xE9tude-face-\xE0-l-extr\xEAme-droite/av-58012680?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 23 Jun 2021 13:04:00 GMT
   summary: "Le podcast de Vu d'Allemagne vous emm\xE8ne cette semaine \xE0 Osnabr\xFC\
@@ -211,7 +288,10 @@ entries:
   title: "Une \xE9cole pour le personnel religieux musulman et une maison de l'unit\xE9\
     \ interreligieuse en Allemagne // En France, inqui\xE9tude face \xE0 l'extr\xEA\
     me-droite"
-- link: "https://www.dw.com/fr/le-pass-sanitaire-arrive-en-allemagne-les-br\xE9siliens-d\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/0BFE9221_2-podcast-24681-57923706.mp3
+  link: "https://www.dw.com/fr/le-pass-sanitaire-arrive-en-allemagne-les-br\xE9siliens-d\xE9\
     noncent-la-mauvaise-gestion-de-la-covid-19/av-57923706?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 16 Jun 2021 13:26:00 GMT
   summary: "Parall\xE8lement \xE0 la campagne de vaccination anti-Covid, le gouvernement\
@@ -222,7 +302,10 @@ entries:
     \xE9lection pr\xE9sidentielle."
   title: "Le pass sanitaire arrive en Allemagne // Les Br\xE9siliens d\xE9noncent\
     \ la mauvaise gestion de la Covid-19"
-- link: "https://www.dw.com/fr/des-nouvelles-d-aminata-tour\xE9-premi\xE8re-afro-allemande-vice-pr\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/073AD4F9_2-podcast-24681-57819062.mp3
+  link: "https://www.dw.com/fr/des-nouvelles-d-aminata-tour\xE9-premi\xE8re-afro-allemande-vice-pr\xE9\
     sidente-d-un-parlement-allemand-mayotte-pr\xE9carit\xE9-pour-les-demandeurs-d-asile/av-57819062?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Tue, 8 Jun 2021 15:26:00 GMT
   summary: "En premi\xE8re partie de ce podcast, la DW prend des nouvelles de la jeune\
@@ -234,7 +317,10 @@ entries:
   title: "Des nouvelles d\u2019Aminata Tour\xE9, premi\xE8re afro-allemande vice-pr\xE9\
     sidente d\u2019un parlement allemand // Mayotte : pr\xE9carit\xE9 pour les demandeurs\
     \ d\u2019asile"
-- link: "https://www.dw.com/fr/restitution-des-vitrines-vides-pour-symboliser-l-absence-d-objets-sacr\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/C63251D0_2-podcast-24681-57756973.mp3
+  link: "https://www.dw.com/fr/restitution-des-vitrines-vides-pour-symboliser-l-absence-d-objets-sacr\xE9\
     s-en-italie-des-enseignants-de-rue-contre-l-abandon-scolaire/av-57756973?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 2 Jun 2021 11:27:00 GMT
   summary: "Quel effet la perte d'objets du patrimoine a-t-elle eu sur l'identit\xE9\
@@ -245,13 +331,19 @@ entries:
     \xE9cole."
   title: "Restitution : des vitrines vides pour symboliser l'absence d'objets sacr\xE9\
     s // En Italie, des enseignants de rue contre l'abandon scolaire"
-- link: "https://www.dw.com/fr/l-engagement-militaire-allemand-au-mali-en-d\xE9bat-une-nouvelle-constitution-pour-le-chili/av-57668059?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/F33393BB_2-podcast-24681-57668059.mp3
+  link: "https://www.dw.com/fr/l-engagement-militaire-allemand-au-mali-en-d\xE9bat-une-nouvelle-constitution-pour-le-chili/av-57668059?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Thu, 27 May 2021 09:30:00 GMT
   summary: "Le podcast de Vu d'Allemagne revient cette semaine sur la prolongation\
     \ d\xE9cid\xE9e de la participation de l'Allemagne \xE0 la mission de l'EUTM"
   title: "L'engagement militaire allemand au Mali en d\xE9bat // Une nouvelle constitution\
     \ pour le Chili"
-- link: "https://www.dw.com/fr/sophie-scholl-r\xE9sistante-et-instagrameuse-les-femmes-afghanes-craignent-le-retour-des-talibans/av-57581310?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/1C3E660E_2-podcast-24681-57581310.mp3
+  link: "https://www.dw.com/fr/sophie-scholl-r\xE9sistante-et-instagrameuse-les-femmes-afghanes-craignent-le-retour-des-talibans/av-57581310?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 19 May 2021 11:09:00 GMT
   summary: "Elle aurait eu cent ans le 9 mai 2021... Un compte Instagram redonne vie\
     \ \xE0 la jeune r\xE9sistante allemande Sophie Scholl, ex\xE9cut\xE9e par les\
@@ -261,7 +353,10 @@ entries:
     \ filles."
   title: "Sophie Scholl, r\xE9sistante et instagrameuse // Les femmes afghanes craignent\
     \ le retour des talibans"
-- link: "https://www.dw.com/fr/le-programme-du-spd-pour-les-\xE9lections-le-d\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/4B6ED22C_2-podcast-24681-57499843.mp3
+  link: "https://www.dw.com/fr/le-programme-du-spd-pour-les-\xE9lections-le-d\xE9\
     bat-autour-des-mesures-sanitaires-et-l-immunit\xE9-collective-pour-certaines-communaut\xE9\
     s-au-canada/av-57499843?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 12 May 2021 15:02:00 GMT
@@ -272,7 +367,10 @@ entries:
     \ d\xE9j\xE0 atteint l\u2019immunit\xE9 collective face \xE0 la Covid-19."
   title: "Le programme du SPD pour les \xE9lections, le d\xE9bat autour des mesures\
     \ sanitaires et l'immunit\xE9 collective pour certaines communaut\xE9s au Canada"
-- link: "https://www.dw.com/fr/limiter-les-mandats-du-chancelier-en-allemagne-les-migrants-mineurs-en-p\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/28BBA4AB_2-podcast-24681-57432793.mp3
+  link: "https://www.dw.com/fr/limiter-les-mandats-du-chancelier-en-allemagne-les-migrants-mineurs-en-p\xE9\
     ril-\xE0-la-fronti\xE8re-mexicaine/av-57432793?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 5 May 2021 08:54:00 GMT
   summary: "Alors que l'\xE8re Merkel touche \xE0 sa fin en Allemagne, la candidate\
@@ -283,7 +381,10 @@ entries:
     tats-Unis ou \xEAtre renvoy\xE9s dans leurs pays."
   title: "Limiter les mandats du chancelier en Allemagne\_? // Les migrants mineurs\
     \ en p\xE9ril \xE0 la fronti\xE8re mexicaine"
-- link: "https://www.dw.com/fr/plus-de-droits-pour-les-vaccin\xE9s-en-allemagne-au-br\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/95BD5B23_2-podcast-24681-57364533.mp3
+  link: "https://www.dw.com/fr/plus-de-droits-pour-les-vaccin\xE9s-en-allemagne-au-br\xE9\
     sil-la-finance-\xE0-la-port\xE9e-de-tous/av-57364533?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 28 Apr 2021 13:50:00 GMT
   summary: "Faut-il all\xE9ger les r\xE8gles sanitaires pour les personnes vaccin\xE9\
@@ -294,7 +395,10 @@ entries:
     \ \xE0 ne pas tomber dans le pi\xE8ge de l'endettement."
   title: "Plus de droits pour les vaccin\xE9s en Allemagne // Au Br\xE9sil, la\_finance\_\
     \xE0 la port\xE9e de tous"
-- link: "https://www.dw.com/fr/qui-est-annalena-baerbock-candidate-des-verts-allemands-pour-les-\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/17A0952C_2-podcast-24681-57270710.mp3
+  link: "https://www.dw.com/fr/qui-est-annalena-baerbock-candidate-des-verts-allemands-pour-les-\xE9\
     lections-f\xE9d\xE9rales-le-m\xE9connu-g\xE9nocide-juif-de-thessalonique-en-gr\xE8\
     ce/av-57270710?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 21 Apr 2021 16:30:00 GMT
@@ -306,7 +410,10 @@ entries:
   title: "Qui est Annalena Baerbock, candidate des Verts allemands pour les \xE9lections\
     \ f\xE9d\xE9rales ? // Le m\xE9connu g\xE9nocide juif de Thessalonique en Gr\xE8\
     ce"
-- link: "https://www.dw.com/fr/les-conservateurs-allemands-\xE0-l-heure-du-choix-vague-de-d\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/3CA590C2_2-podcast-24681-57189741.mp3
+  link: "https://www.dw.com/fr/les-conservateurs-allemands-\xE0-l-heure-du-choix-vague-de-d\xE9\
     sertion-dans-les-forces-de-s\xE9curit\xE9-birmanes/av-57189741?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Tue, 13 Apr 2021 19:14:00 GMT
   summary: "Deux pr\xE9tendants, mais un seul candidat pour conduire les conservateurs\
@@ -317,7 +424,10 @@ entries:
     \ en Inde apr\xE8s le coup de force de la junte en f\xE9vrier."
   title: "Les conservateurs allemands \xE0 l'heure du choix // Vague de d\xE9sertion\
     \ dans les forces de s\xE9curit\xE9 birmanes"
-- link: "https://www.dw.com/fr/des-po\xE8mes-pour-les-victimes-de-la-shoah-le-g\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/72CF1BB6_2-podcast-24681-57112938.mp3
+  link: "https://www.dw.com/fr/des-po\xE8mes-pour-les-victimes-de-la-shoah-le-g\xE9\
     nocide-du-rwanda-dans-les-archives-fran\xE7aises/av-57112938?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 7 Apr 2021 10:00:00 GMT
   summary: "Une partie de la famille de Menachem Rosensaft est morte pendant la seconde\
@@ -328,7 +438,10 @@ entries:
     \ le g\xE9nocide au Rwanda."
   title: "Des po\xE8mes pour les victimes de la Shoah // Le g\xE9nocide du Rwanda\
     \ dans les archives fran\xE7aises"
-- link: "https://www.dw.com/fr/tensions-entre-angela-merkel-et-les-l\xE4nder-des-personnes-migrantes-en-difficult\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/94576891_2-podcast-24681-57063936.mp3
+  link: "https://www.dw.com/fr/tensions-entre-angela-merkel-et-les-l\xE4nder-des-personnes-migrantes-en-difficult\xE9\
     -\xE0-la-fronti\xE8re-franco-espagnole/av-57063936?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 31 Mar 2021 14:24:00 GMT
   summary: "Alors que l\u2019Allemagne fait face \xE0 la troisi\xE8me vague de la\
@@ -338,7 +451,10 @@ entries:
     \ l\u2019Espagne o\xF9 des personnes migrantes se retrouvent \xE0 la rue."
   title: "Tensions entre Angela Merkel et les L\xE4nder // Des personnes migrantes\
     \ en difficult\xE9 \xE0 la fronti\xE8re franco-espagnole"
-- link: "https://www.dw.com/fr/le-reichstag-anc\xEAtre-du-bundestag-les-afro-br\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/CEF2B405_2-podcast-24681-56972157.mp3
+  link: "https://www.dw.com/fr/le-reichstag-anc\xEAtre-du-bundestag-les-afro-br\xE9\
     siliennes-retrouvent-leurs-cheveux-naturels/av-56972157?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 24 Mar 2021 11:25:00 GMT
   summary: "Il y a 150 ans s'est tenue \xE0 Berlin la premi\xE8re session du Reichstag,\
@@ -349,7 +465,10 @@ entries:
     \ au naturel pour affirmer leur identit\xE9."
   title: "Le Reichstag, anc\xEAtre du Bundestag // Les Afro-Br\xE9siliennes retrouvent\
     \ leurs cheveux naturels"
-- link: "https://www.dw.com/fr/\xE9lections-en-bade-wurtemberg-et-en-rh\xE9nanie-palatinat-et-paradis-fiscaux-\xE0\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/E513EC49_2-podcast-24681-56892065.mp3
+  link: "https://www.dw.com/fr/\xE9lections-en-bade-wurtemberg-et-en-rh\xE9nanie-palatinat-et-paradis-fiscaux-\xE0\
     -l-int\xE9rieur-des-fronti\xE8res-allemandes/av-56892065?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 17 Mar 2021 17:30:00 GMT
   summary: "Vu d'Allemagne revient sur les r\xE9sultats des \xE9lections r\xE9gionales\
@@ -358,7 +477,10 @@ entries:
     rieur m\xEAme du pays, dont profitent bien certaines entreprises..."
   title: "\xC9lections en Bade Wurtemberg et en Rh\xE9nanie-Palatinat et paradis fiscaux\
     \ \xE0 l'int\xE9rieur des fronti\xE8res allemandes"
-- link: "https://www.dw.com/fr/un-sommet-sur-l-int\xE9gration-qui-fait-d\xE9bat-en-allemagne-de-nouveaux-projets-\xE0\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/ECEF0F76_2-podcast-24681-56830130.mp3
+  link: "https://www.dw.com/fr/un-sommet-sur-l-int\xE9gration-qui-fait-d\xE9bat-en-allemagne-de-nouveaux-projets-\xE0\
     -fukushima-dix-ans-apr\xE8s-la-catastrophe/av-56830130?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Fri, 12 Mar 2021 11:03:00 GMT
   summary: "Les r\xE9sultats du sommet sur l'int\xE9gration \xE0 Berlin cette semaine\
@@ -369,7 +491,10 @@ entries:
     \ \xE0 Fukushima, dix ans apr\xE8s la catastrophe."
   title: "Un sommet sur l'int\xE9gration qui fait d\xE9bat en Allemagne // De nouveaux\
     \ projets \xE0 Fukushima dix ans apr\xE8s la catastrophe"
-- link: "https://www.dw.com/fr/heinrich-barth-un-explorateur-allemand-en-afrique-la-chasse-s\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/C3608995_2-podcast-24681-56758075.mp3
+  link: "https://www.dw.com/fr/heinrich-barth-un-explorateur-allemand-en-afrique-la-chasse-s\xE9\
     duit-en-allemagne/av-56758075?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 3 Mar 2021 17:30:00 GMT
   summary: "G\xE9ographe, historien, et explorateur de l'Afrique, Heinrich Barth est\
@@ -379,7 +504,10 @@ entries:
     \ ne cessent de grandir dans le pays."
   title: "Heinrich Barth, un explorateur allemand en Afrique // La chasse s\xE9duit\
     \ en Allemagne"
-- link: "https://www.dw.com/fr/l-allemagne-berceau-du-juda\xEFsme-en-europe-une-banque-pour-le-peuple-voit-le-jour-au-br\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/430E3FC9_2-podcast-24681-56666432.mp3
+  link: "https://www.dw.com/fr/l-allemagne-berceau-du-juda\xEFsme-en-europe-une-banque-pour-le-peuple-voit-le-jour-au-br\xE9\
     sil/av-56666432?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Fri, 26 Feb 2021 07:57:00 GMT
   summary: "Que veut dire \xEAtre juif aujourd\u2019hui en Allemagne? C\u2019est la\
@@ -390,7 +518,10 @@ entries:
     rement les petites entreprises et commerces des quartiers pauvres."
   title: "L'Allemagne, berceau du juda\xEFsme en Europe // Une banque pour le peuple\
     \ voit le jour au Br\xE9sil"
-- link: "https://www.dw.com/fr/loi-sur-les-cha\xEEnes-d-approvisionnement-en-allemagne-r\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/B705F751_2-podcast-24681-56592035.mp3
+  link: "https://www.dw.com/fr/loi-sur-les-cha\xEEnes-d-approvisionnement-en-allemagne-r\xE9\
     elle-avanc\xE9e-pour-les-droits-humains-campagne-compliqu\xE9e-pour-netanyahou-en-isra\xEB\
     l/av-56592035?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 17 Feb 2021 18:09:00 GMT
@@ -403,7 +534,10 @@ entries:
   title: "Loi sur les cha\xEEnes d'approvisionnement en Allemagne : r\xE9elle avanc\xE9\
     e pour les droits humains ? // Campagne compliqu\xE9e pour Netanyahou en Isra\xEB\
     l"
-- link: "https://www.dw.com/fr/des-expulsions-indignes-vers-l-\xE9thiopie-la-pand\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/DEE81EDA_2-podcast-24681-56518250.mp3
+  link: "https://www.dw.com/fr/des-expulsions-indignes-vers-l-\xE9thiopie-la-pand\xE9\
     mie-booste-le-tourisme-dans-les-alpes-bavavoises/av-56518250?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 10 Feb 2021 20:16:00 GMT
   summary: "Pand\xE9mie ou pas, les pays europ\xE9ens continuent \xE0 expulser les\
@@ -413,7 +547,10 @@ entries:
     \ une b\xE9n\xE9diction pour l'\xE9conomie, mais un fl\xE9au pour la nature."
   title: "Des expulsions \"indignes\" vers l'\xC9thiopie // La pand\xE9mie booste\
     \ le tourisme dans les Alpes bavavoises"
-- link: "https://www.dw.com/fr/karamba-diaby-plus-d\xE9termin\xE9-que-jamais-plaintes-contre-les-contr\xF4\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/397552D6_2-podcast-24681-56439874.mp3
+  link: "https://www.dw.com/fr/karamba-diaby-plus-d\xE9termin\xE9-que-jamais-plaintes-contre-les-contr\xF4\
     les-au-faci\xE8s-en-france/av-56439874?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 3 Feb 2021 11:58:00 GMT
   summary: "Il y a un an, le bureau du d\xE9put\xE9 allemand du parti SPD, originaire\
@@ -424,7 +561,10 @@ entries:
     \ mettre fin aux contr\xF4les au faci\xE8s."
   title: "Karamba Diaby plus d\xE9termin\xE9 que jamais // Plaintes contre les contr\xF4\
     les au faci\xE8s en France"
-- link: "https://www.dw.com/fr/la-turquie-ne-veut-plus-\xEAtre-la-poubelle-de-l-allemagne-en-tunisie-le-blocage-contre-le-d\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/235DF11F_2-podcast-24681-56362271.mp3
+  link: "https://www.dw.com/fr/la-turquie-ne-veut-plus-\xEAtre-la-poubelle-de-l-allemagne-en-tunisie-le-blocage-contre-le-d\xE9\
     sespoir/av-56362271?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 27 Jan 2021 15:03:00 GMT
   summary: "Une bonne partie des d\xE9chets tri\xE9s par les consommateurs en Allemagne\
@@ -434,7 +574,10 @@ entries:
     \ Reportage."
   title: "La Turquie ne veut plus \xEAtre la poubelle de l'Allemagne // En Tunisie,\
     \ le blocage contre le d\xE9sespoir"
-- link: "https://www.dw.com/fr/les-d\xE9fis-d-armin-laschet-avant-une-\xE9ventuelle-candidature-\xE0\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/429C284C_2-podcast-24681-56278334.mp3
+  link: "https://www.dw.com/fr/les-d\xE9fis-d-armin-laschet-avant-une-\xE9ventuelle-candidature-\xE0\
     -la-chancellerie-au-portugal-une-pr\xE9sidentielle-marqu\xE9e-par-l-extr\xEAme-droite/av-56278334?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 20 Jan 2021 12:08:00 GMT
   summary: "S'il ne cache pas son envie d'\xEAtre le candidat commun de la CDU/CSU\
@@ -445,7 +588,10 @@ entries:
   title: "Les d\xE9fis d'Armin Laschet avant une \xE9ventuelle candidature \xE0 la\
     \ chancellerie // Au Portugal, une pr\xE9sidentielle marqu\xE9e par l'extr\xEA\
     me-droite"
-- link: "https://www.dw.com/fr/l-\xE9cole-\xE0-la-maison-oui-mais-retour-\xE0-varosha-ville-fant\xF4\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/1893D945_2-podcast-24681-56206103.mp3
+  link: "https://www.dw.com/fr/l-\xE9cole-\xE0-la-maison-oui-mais-retour-\xE0-varosha-ville-fant\xF4\
     me/av-56206103?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 13 Jan 2021 17:36:00 GMT
   summary: "Dr\xF4le de rentr\xE9e apr\xE8s les vacances de No\xEBl en Allemagne:\
@@ -455,7 +601,10 @@ entries:
     \ la ville de Varosha, sur l'\xEEle de Chypre, \xE0 l'abandon depuis 46 ans."
   title: "L'\xE9cole \xE0 la maison, oui mais... // Retour \xE0 Varosha, ville fant\xF4\
     me"
-- link: "https://www.dw.com/fr/l-allemagne-atteint-ses-objectifs-climatiques-2020-gr\xE2\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/41A7EC67_2-podcast-24681-56136851.mp3
+  link: "https://www.dw.com/fr/l-allemagne-atteint-ses-objectifs-climatiques-2020-gr\xE2\
     ce-au-coronavirus-au-br\xE9sil-un-voyage-jusqu-en-afrique-\xE0-l-aide-de-l-adn/av-56136851?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Fri, 8 Jan 2021 09:37:00 GMT
   summary: "En 2020, l'Allemagne a diminu\xE9 ses \xE9missions de gaz \xE0 effet de\
@@ -465,7 +614,10 @@ entries:
     \ d\xE9couvrir ses anc\xEAtres et leur culture gr\xE2ce \xE0 des tests ADN."
   title: "L'Allemagne atteint ses objectifs climatiques 2020, gr\xE2ce au coronavirus\
     \ // Au Br\xE9sil, un voyage jusqu'en Afrique \xE0 l'aide de l'ADN"
-- link: "https://www.dw.com/fr/vu-d-allemagne-vous-souhaite-de-bonnes-f\xEAtes/av-55977329?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/2D51D072_2-podcast-24681-55977329.mp3
+  link: "https://www.dw.com/fr/vu-d-allemagne-vous-souhaite-de-bonnes-f\xEAtes/av-55977329?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 30 Dec 2020 18:27:00 GMT
   summary: "En 2020, Vu d'Allemagne s'est mis \xE0 la production artisanale, pand\xE9\
     mie oblige. Ce qui ne nous a pas emp\xEAch\xE9 d'aborder une grande vari\xE9t\xE9\
@@ -473,7 +625,10 @@ entries:
     \ des sujets dont on n'a pas pu vous parler, faute de temps, entre autres ! Bonne\
     \ \xE9coute !"
   title: "Vu d'Allemagne vous souhaite de bonnes f\xEAtes"
-- link: "https://www.dw.com/fr/danser-malgr\xE9-le-corona-la-culture-ostr\xE9icole-rena\xEE\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/C482B7DA_2-podcast-24681-56034369.mp3
+  link: "https://www.dw.com/fr/danser-malgr\xE9-le-corona-la-culture-ostr\xE9icole-rena\xEE\
     t-au-portugal/av-56034369?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 23 Dec 2020 11:37:00 GMT
   summary: "Des orchestres sans musiciens, des th\xE9\xE2tres sans com\xE9diens, des\
@@ -482,7 +637,10 @@ entries:
     \ au Portugal o\xF9 l'ostr\xE9iculture repart gr\xE2ce \xE0 des producteurs engag\xE9\
     s."
   title: "Danser malgr\xE9 le corona // La culture ostr\xE9icole rena\xEEt au Portugal"
-- link: "https://www.dw.com/fr/cons\xE9quences-dramatiques-de-la-covid-19-pour-les-\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/3EB23CB2_2-podcast-24681-55945984.mp3
+  link: "https://www.dw.com/fr/cons\xE9quences-dramatiques-de-la-covid-19-pour-les-\xE9\
     tudiants-africains-en-allemagne-\xE0-munich-les-brasseries-innovent-pour-vaincre-la-crise/av-55945984?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
   published: Wed, 16 Dec 2020 15:05:00 GMT
   summary: "Les milliers d'\xE9tudiants africains en Allemagne font face aux difficult\xE9\
@@ -492,19 +650,16 @@ entries:
     \ des ventes."
   title: "Cons\xE9quences dramatiques de la Covid-19 pour les \xE9tudiants africains\
     \ en Allemagne // \xC0 Munich, les brasseries innovent pour vaincre la crise"
-- link: https://www.dw.com/fr/beethoven-250-ans-et-immortel/av-55878116?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/24681_podcast_fr_vudalemagne/A3690872_2-podcast-24681-55878116.mp3
+  link: https://www.dw.com/fr/beethoven-250-ans-et-immortel/av-55878116?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss
   published: Wed, 9 Dec 2020 07:32:00 GMT
   summary: "Ludwig van Beethoven, n\xE9 \xE0 Bonn en 1770 et mort \xE0 Vienne en 1827,\
     \ aurait eu 250 ans en d\xE9cembre 2020. L'ann\xE9e qui devait le c\xE9l\xE9brer\
     \ a \xE9t\xE9 chamboul\xE9e par la pand\xE9mie de coronavirus.\_Retour sur sa\
     \ vie et son \u0153uvre."
   title: Beethoven, 250 ans et immortel
-- link: "https://www.dw.com/fr/il-y-a-30-ans-l-angolais-amadeu-antonio-assassin\xE9\
-    -en-allemagne-reportage-dans-une-des-\xE9coles-de-l-ann\xE9e/av-55806444?maca=fra-podcast_fr_vudalemagne-24681-xml-mrss"
-  published: Fri, 4 Dec 2020 12:09:00 GMT
-  summary: null
-  title: "Il y a 30 ans : l'Angolais Amadeu Antonio assassin\xE9 en Allemagne // Reportage\
-    \ dans une des \xE9coles de l'ann\xE9e"
 
 ---
 Une semaine en Allemagne et en Europe. Reportages, interviews,

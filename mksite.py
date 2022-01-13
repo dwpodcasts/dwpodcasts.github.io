@@ -56,11 +56,16 @@ def read_podcast(rss_url):
 
     entries = {'entries': []}
     for e in d.entries:
+        enc = {
+            'url': e.enclosures[0].url,
+            'type': e.enclosures[0].type
+        }
         entries['entries'].append({
             'title': e.title,
             'link': e.link,
             'published': e.published,
-            'summary': e.get('summary', None)
+            'summary': e.get('summary', None),
+            'enclosure': enc
         })
 
     with open(f'{dir}/{id}.stx', 'w') as f:
@@ -97,4 +102,7 @@ def read_podcasts(csv_filename):
 if __name__ == '__main__':
     if len(sys.argv) < 2:
         sys.exit(f'Usage: {sys.argv[0]} <list of podcasts as TSV file>')
-    read_podcasts(sys.argv[1])
+    if sys.argv[1] == '--url' and len(sys.argv) == 3:
+        read_podcast(sys.argv[2])
+    else:
+        read_podcasts(sys.argv[1])

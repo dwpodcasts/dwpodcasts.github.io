@@ -1,0 +1,30 @@
+---
+title: "Radio News 24/7 | Deutsche Welle"
+id: podcast_news
+published: "Thu, 13 Jan 2022 07:22:06 GMT"
+page_link: "https://www.dw.com/en/tv/dw-news/s-3232?ad=699740&maca=en-podcast_news-1429-xml-mrss"
+atom_link: "https://rss.dw.com/xml/podcast_news"
+language: en
+deutschkurs: False
+category: "News & Politics"
+tags: [ "News & Politics" ]
+image_url: https://static.dw.com/image/2135752_7.jpg
+image_title: ""
+entries:
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/1429_podcast_news/2022_01_13_News_06_00_UTC_699751-128KB-podcast-1429-699751.mp3
+  link: http://www.dw.com/en/tv/dw-news/s-3232?ad=699751&maca=en-podcast_news-1429-xml-mrss
+  published: Thu, 13 Jan 2022 06:00:00 GMT
+  summary: Up-to-the-minute news from around the world
+  title: The world news at 06:00 UTC on 01/13/2022
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/1429_podcast_news/2022_01_12_News_23_00_UTC_699740-128KB-podcast-1429-699740.mp3
+  link: http://www.dw.com/en/tv/dw-news/s-3232?ad=699740&maca=en-podcast_news-1429-xml-mrss
+  published: Wed, 12 Jan 2022 23:00:00 GMT
+  summary: Up-to-the-minute news from around the world
+  title: The world news at 23:00 UTC on 01/12/2022
+
+---
+Up-to-the-minute news from around the world

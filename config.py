@@ -12,4 +12,4 @@ title = "Podcasts by DW"
 # Site tagline.
 tagline = "German and European news, analysis, opinion and breaking news from Deutsche Welle, Germany's international broadcaster."
 
-out_dir = "../docs"
+out_dir = "./docs"

@@ -1,7 +1,7 @@
 ---
 title: "Magazine Environnement | Deutsche Welle"
 id: podcast_environnement
-published: "Thu, 6 Jan 2022 07:57:16 GMT"
+published: "Thu, 13 Jan 2022 07:21:22 GMT"
 page_link: "https://www.dw.com?maca=fra-podcast_environnement-1859-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_environnement"
 language: fr
@@ -11,13 +11,33 @@ tags: [ "News", "Politics" ]
 image_url: https://static.dw.com/image/2380402_7.jpg
 image_title: ""
 entries:
-- link: "https://www.dw.com/fr/climat-le-principe-du-pollueur-payeur-exig\xE9-par-les-africains/av-59980222?maca=fra-podcast_environnement-1859-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/9BFB6E5E_2-podcast-1859-60387743.mp3
+  link: "https://www.dw.com/fr/plus-les-pays-sont-vuln\xE9rables-face-\xE0-la-s\xE9\
+    cheresse-plus-les-populations-sont-vuln\xE9rables-ibrahim-thiaw-unccd/av-60387743?maca=fra-podcast_environnement-1859-xml-mrss"
+  published: Tue, 11 Jan 2022 11:59:00 GMT
+  summary: "\"On a fait deux pas, on a recul\xE9 d'un pas... parce qu'en 25 ans, dans\
+    \ un continent comme l'Afrique, la population a doubl\xE9, la demande en terre\
+    \ a augment\xE9 et les ressources ont \xE9t\xE9 d\xE9grad\xE9es.\" C'est le constat\
+    \ sans appel fait par Ibrahim Thiaw, Secr\xE9taire ex\xE9cutif de la Convention\
+    \ sur la lutte contre la d\xE9sertification et la s\xE9cheresse. Il y a 25 ans,\
+    \ entrait en vigueur la Convention qu'il dirige."
+  title: "\u201CPlus les pays sont vuln\xE9rables face \xE0 la s\xE9cheresse, plus\
+    \ les populations sont vuln\xE9rables\u201D (Ibrahim Thiaw, UNCCD)"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/9EB4EEAC_2-podcast-1859-59980222.mp3
+  link: "https://www.dw.com/fr/climat-le-principe-du-pollueur-payeur-exig\xE9-par-les-africains/av-59980222?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 29 Nov 2021 11:00:00 GMT
   summary: "Dans ce podcast, nous revenons sur le principe du pollueur-payeur et celui\
     \ de perte et dommage\u2026 notamment pourquoi les pays africains tiennent \xE0\
     \ ces deux principes dans la lutte contre les changements climatiques."
   title: "Climat : Le principe du pollueur-payeur exig\xE9 par les Africains"
-- link: "https://www.dw.com/fr/une-\xE9cologiste-en-guerre-contre-les-plastiques-au-b\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/B6A03930_2-podcast-1859-59980226.mp3
+  link: "https://www.dw.com/fr/une-\xE9cologiste-en-guerre-contre-les-plastiques-au-b\xE9\
     nin/av-59980226?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 22 Nov 2021 11:00:00 GMT
   summary: "L\u2019activiste Sandra Idossou s'investit dans la lutte pour un environnement\
@@ -25,7 +45,10 @@ entries:
     \ les populations aux enjeux environnementaux. Et son travail porte d\xE9j\xE0\
     \ ses fruits."
   title: "Une \xE9cologiste en guerre contre les plastiques au B\xE9nin"
-- link: "https://www.dw.com/fr/cop26-la-soci\xE9t\xE9-civile-r\xE9agit-\xE0-l-accord-trouv\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/1C2CBF4F_2-podcast-1859-59980225.mp3
+  link: "https://www.dw.com/fr/cop26-la-soci\xE9t\xE9-civile-r\xE9agit-\xE0-l-accord-trouv\xE9\
     -au-forceps/av-59980225?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 15 Nov 2021 11:00:00 GMT
   summary: "La Cop26 a trouv\xE9 un accord en demi-teinte apr\xE8s deux semaines de\
@@ -36,14 +59,20 @@ entries:
     \ chiffr\xE9e pour l'aide aux pays pauvres."
   title: "Cop26 : La soci\xE9t\xE9 civile r\xE9agit \xE0 l\u2019accord trouv\xE9 au\
     \ forceps"
-- link: "https://www.dw.com/fr/cop26-les-premi\xE8res-annonces-jug\xE9es-insuffisantes/av-59980227?maca=fra-podcast_environnement-1859-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/547B14E1_2-podcast-1859-59980227.mp3
+  link: "https://www.dw.com/fr/cop26-les-premi\xE8res-annonces-jug\xE9es-insuffisantes/av-59980227?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 8 Nov 2021 11:00:00 GMT
   summary: "Mettre un terme \xE0 la d\xE9forestation, arriver \xE0 la neutralit\xE9\
     \ carbone, r\xE9duire les \xE9missions de m\xE9thane... la premi\xE8re semaine\
     \ de la COP26 a \xE9t\xE9 marqu\xE9e par de nombreuses annonces. Mais sont-elles\
     \ suffisantes ? Non r\xE9pondent les ONG environnementales et activistes."
   title: "Cop26 : Les premi\xE8res annonces jug\xE9es insuffisantes"
-- link: "https://www.dw.com/fr/wascal-le-centre-qui-aide-l-afrique-de-l-ouest-\xE0\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/C0799EE8_2-podcast-1859-59622160.mp3
+  link: "https://www.dw.com/fr/wascal-le-centre-qui-aide-l-afrique-de-l-ouest-\xE0\
     -faire-face-aux-changements-climatiques/av-59622160?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 25 Oct 2021 17:56:00 GMT
   summary: "Au menu de notre podcast, comment lutter contre la salvinia ? La salvinia\
@@ -52,14 +81,20 @@ entries:
     \ Wascal sp\xE9cialis\xE9 dans les \xE9tudes sur les changements climatiques."
   title: "Wascal, le centre qui aide l\u2019Afrique de l\u2019ouest \xE0 faire face\
     \ aux changements climatiques"
-- link: https://www.dw.com/fr/innover-avec-les-bonnes-pratiques-environnementales/av-59542728?maca=fra-podcast_environnement-1859-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/52514365_2-podcast-1859-59542728.mp3
+  link: https://www.dw.com/fr/innover-avec-les-bonnes-pratiques-environnementales/av-59542728?maca=fra-podcast_environnement-1859-xml-mrss
   published: Mon, 18 Oct 2021 19:13:00 GMT
   summary: "Pour la protection de la nature et de l\u2019environnement, certains innovent.\
     \ C\u2019est le cas au Mail o\xF9 le neem est utilis\xE9 pour combattre les ravageurs\u2026\
     \ au Ghana, des algues des bassins d\u2019\xE9levage de poissons sont transform\xE9\
     es en engrais biologique et au B\xE9nin, c\u2019est avec la jacinthe d\u2019eau."
   title: Innover avec les bonnes pratiques environnementales
-- link: "https://www.dw.com/fr/la-pollution-des-rivi\xE8res-kasa\xEF-et-tshikapa-fait-des-morts-en-rdc/av-59480264?maca=fra-podcast_environnement-1859-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/9463C534_2-podcast-1859-59480264.mp3
+  link: "https://www.dw.com/fr/la-pollution-des-rivi\xE8res-kasa\xEF-et-tshikapa-fait-des-morts-en-rdc/av-59480264?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Tue, 12 Oct 2021 11:31:00 GMT
   summary: "Face \xE0 la pollution des rivi\xE8res Kasa\xEF et Tshikapa en RDC, Alain\
     \ Botoko, pr\xE9sident du comit\xE9 ex\xE9cutif de l\u2019ONG \"Environnement\
@@ -68,7 +103,10 @@ entries:
     gion sud de la RDC. La pollution des eaux en RDC et en Afrique du sud est au menu\
     \ de ce magazine."
   title: "La pollution des rivi\xE8res Kasa\xEF et Tshikapa fait des morts en RDC"
-- link: "https://www.dw.com/fr/quand-les-d\xE9chets-papiers-ont-perdu-leur-place-dans-les-d\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/52514365_2-podcast-1859-59542861.mp3
+  link: "https://www.dw.com/fr/quand-les-d\xE9chets-papiers-ont-perdu-leur-place-dans-les-d\xE9\
     potoirs-au-togo/av-59542861?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 4 Oct 2021 10:00:00 GMT
   summary: "Au menu de notre podcast : la place de la science et de la technologie\
@@ -79,7 +117,10 @@ entries:
     \ PNUD et du FEM."
   title: "Quand les d\xE9chets papiers ont perdu leur place dans les d\xE9potoirs\
     \ au Togo"
-- link: "https://www.dw.com/fr/connaissez-vous-le-r\xF4le-que-jouent-les-oiseaux-dans-l-\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/5191D95D_2-podcast-1859-59334461.mp3
+  link: "https://www.dw.com/fr/connaissez-vous-le-r\xF4le-que-jouent-les-oiseaux-dans-l-\xE9\
     cosyst\xE8me/av-59334461?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Tue, 28 Sep 2021 08:54:00 GMT
   summary: "On revient dans le magazine sur le r\xF4le que jouent les oiseaux dans\
@@ -89,7 +130,10 @@ entries:
     \ de d\xE9fense de l\u2019environnement."
   title: "Connaissez-vous le r\xF4le que jouent les oiseaux dans l\u2019\xE9cosyst\xE8\
     me ?"
-- link: "https://www.dw.com/fr/connaissez-vous-l-artiste-\xE9co-responsable-saype/av-59243793?maca=fra-podcast_environnement-1859-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/EE1D8408_2-podcast-1859-59243793.mp3
+  link: "https://www.dw.com/fr/connaissez-vous-l-artiste-\xE9co-responsable-saype/av-59243793?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 20 Sep 2021 17:24:00 GMT
   summary: "Dans ce podcast, nous allons \xE0 la rencontre de Saype. Ses \u0153uvres\
     \ portent un message : un monde en paix avec sa nature. Il a r\xE9alis\xE9 une\
@@ -98,7 +142,10 @@ entries:
     \ jours de l\u2019Assembl\xE9e g\xE9n\xE9rale de l\u2019organisation. \xC9galement\
     \ au menu, la protection des zones humides au Kenya et en Tunisie."
   title: "Connaissez-vous l\u2019artiste \xE9co-responsable Saype ?"
-- link: "https://www.dw.com/fr/protection-du-climat-les-parlementaires-sont-interpell\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/B2FA406D_2-podcast-1859-59170048.mp3
+  link: "https://www.dw.com/fr/protection-du-climat-les-parlementaires-sont-interpell\xE9\
     s/av-59170048?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 13 Sep 2021 18:43:00 GMT
   summary: "Au menu de votre podcast : le r\xF4le important que jouent les parlementaires\
@@ -108,7 +155,10 @@ entries:
     \ Et nous parlerons \xE9galement de Spekboom, une plante qui s\xE9questre le carbone\
     \ en Afrique du sud."
   title: "Protection du climat : les parlementaires sont interpell\xE9s"
-- link: "https://www.dw.com/fr/quand-au-niger-les-femmes-s-impliquent-dans-la-restauration-des-terres-en-c\xF4\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/3903AD3D_2-podcast-1859-59145034.mp3
+  link: "https://www.dw.com/fr/quand-au-niger-les-femmes-s-impliquent-dans-la-restauration-des-terres-en-c\xF4\
     te-d-ivoire-les-jeunes-innovent-dans-l-agriculture/av-59145034?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 6 Sep 2021 11:00:00 GMT
   summary: "Dans ce magazine, la gestion des terres agricoles et l\u2019implication\
@@ -118,7 +168,10 @@ entries:
     \ innovations agricoles en C\xF4te d\u2019Ivoire."
   title: "Quand au Niger les femmes s\u2019impliquent dans la restauration des terres,\
     \ en C\xF4te d'Ivoire, les jeunes innovent dans l'agriculture"
-- link: "https://www.dw.com/fr/le-29-juillet-le-jour-o\xF9-on-a-d\xE9j\xE0-tout-consomm\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/71AE76CE_2-podcast-1859-59145033.mp3
+  link: "https://www.dw.com/fr/le-29-juillet-le-jour-o\xF9-on-a-d\xE9j\xE0-tout-consomm\xE9\
     -en-2021-earth-overshoot-day/av-59145033?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Thu, 2 Sep 2021 11:00:00 GMT
   summary: "Le 29 juillet 2021 marque le jour du d\xE9passement. C\u2019est la date\
@@ -128,7 +181,10 @@ entries:
     \ le comprendre ?"
   title: "Le 29 juillet, le jour o\xF9 on a d\xE9j\xE0 tout consomm\xE9 en 2021 :\
     \ Earth Overshoot Day"
-- link: https://www.dw.com/fr/des-inondations-en-afrique-et-un-peu-partout-dans-le-monde-font-des-victimes/av-59145096?maca=fra-podcast_environnement-1859-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/EAE7FE4F_2-podcast-1859-59145096.mp3
+  link: https://www.dw.com/fr/des-inondations-en-afrique-et-un-peu-partout-dans-le-monde-font-des-victimes/av-59145096?maca=fra-podcast_environnement-1859-xml-mrss
   published: Mon, 23 Aug 2021 10:00:00 GMT
   summary: "Et selon des experts onusiens, ces catastrophes sont en partie li\xE9\
     es aux changements climatiques notamment leurs fr\xE9quences. Nous y reviendrons\
@@ -136,7 +192,10 @@ entries:
     \ personnes essaient par des initiatives de limiter le r\xE9chauffement climatique.\
     \ C'est le cas en Egypte et en Allemagne."
   title: Des inondations en Afrique et un peu partout dans le monde font des victimes
-- link: "https://www.dw.com/fr/certains-de-impacts-des-changements-climatiques-sont-irr\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/85BD4546_2-podcast-1859-59145044.mp3
+  link: "https://www.dw.com/fr/certains-de-impacts-des-changements-climatiques-sont-irr\xE9\
     versibles-pour-des-si\xE8cles-selon-des-experts-onusiens/av-59145044?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 16 Aug 2021 11:00:00 GMT
   summary: "C\u2019est la conclusion du dernier rapport du Groupe intergouvernemental\
@@ -146,7 +205,10 @@ entries:
     \ ph\xE9nom\xE8nes extr\xEAmes du 6 \xE8me rapport d\u2019\xE9valuation du GIEC."
   title: "Certains de impacts des changements climatiques sont irr\xE9versibles pour\
     \ des si\xE8cles selon des experts onusiens"
-- link: "https://www.dw.com/fr/le-d\xE9calage-climatique-source-d-inqui\xE9tudes-en-afrique-de-l-ouest/av-59145043?maca=fra-podcast_environnement-1859-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/965FA20F_2-podcast-1859-59145043.mp3
+  link: "https://www.dw.com/fr/le-d\xE9calage-climatique-source-d-inqui\xE9tudes-en-afrique-de-l-ouest/av-59145043?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 9 Aug 2021 11:00:00 GMT
   summary: "Le bilan dress\xE9 ce 9 ao\xFBt par le GIEC, Groupe d\u2019experts intergouvernemental\
     \ sur l\u2019\xE9volution du climat de l'ONU, est in\xE9dit : dans tous les sc\xE9\
@@ -156,7 +218,10 @@ entries:
     \ revient sur le travail du GIEC."
   title: "Le d\xE9calage climatique source d\u2019inqui\xE9tudes en Afrique de l\u2019\
     ouest"
-- link: "https://www.dw.com/fr/col-adjigb\xE9-razack-cotonou-m\xE8ne-une-politique-pour-assainir-son-cadre-de-vie/av-59146740?maca=fra-podcast_environnement-1859-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/D748EEF4_2-podcast-1859-59146740.mp3
+  link: "https://www.dw.com/fr/col-adjigb\xE9-razack-cotonou-m\xE8ne-une-politique-pour-assainir-son-cadre-de-vie/av-59146740?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 26 Jul 2021 11:00:00 GMT
   summary: "Nous avons am\xE9lior\xE9 le cadre de vie \xE0 Cotonou, c\u2019est ce\
     \ que nous dit le Col. Adjigb\xE9 Razack, directeur de la conservation et de la\
@@ -165,7 +230,10 @@ entries:
     \ au menu, un reportage sur les pisteurs des animaux en en Afrique du sud."
   title: "Col. Adjigb\xE9 Razack : \"Cotonou m\xE8ne une politique pour assainir son\
     \ cadre de vie\""
-- link: "https://www.dw.com/fr/le-programme-waca-a-\xE9t\xE9-lanc\xE9-pour-faire-revivre-les-c\xF4\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/CA9F4481_2-podcast-1859-56373956.mp3
+  link: "https://www.dw.com/fr/le-programme-waca-a-\xE9t\xE9-lanc\xE9-pour-faire-revivre-les-c\xF4\
     tes-ouest-africaines-maria-sarraf-bm/av-56373956?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 18 Jan 2021 11:00:00 GMT
   summary: "Le programme de gestion du littoral ouest africain, WACA est cens\xE9\
@@ -176,7 +244,10 @@ entries:
     \ de l'Ouest \xE0 la Banque mondiale."
   title: "\"Le programme WACA a \xE9t\xE9 lanc\xE9 pour faire revivre les c\xF4tes\
     \ ouest africaines\" (Maria Sarraf, BM)"
-- link: "https://www.dw.com/fr/sim\xE9on-ehui-la-banque-mondiale-veut-procurer-de-l-emploi-aux-jeunes-gr\xE2\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/9E471AF8_2-podcast-1859-56213460.mp3
+  link: "https://www.dw.com/fr/sim\xE9on-ehui-la-banque-mondiale-veut-procurer-de-l-emploi-aux-jeunes-gr\xE2\
     ce-\xE0-la-grande-muraille-verte/av-56213460?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 11 Jan 2021 13:00:00 GMT
   summary: "Le sommet mondial \u201COne Planet Summit\" \xE0 Paris a \xE9t\xE9 une\
@@ -187,7 +258,10 @@ entries:
     \ constitu\xE9e pour la \"Grande muraille verte\"."
   title: "Sim\xE9on Ehui : \"La Banque mondiale veut procurer de l\u2019emploi aux\
     \ jeunes gr\xE2ce \xE0 la Grande muraille verte\""
-- link: "https://www.dw.com/fr/les-inondations-dans-les-pays-du-sahel-et-la-pollution-de-l-air-\xE0\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/814FC768_2-podcast-1859-54855566.mp3
+  link: "https://www.dw.com/fr/les-inondations-dans-les-pays-du-sahel-et-la-pollution-de-l-air-\xE0\
     -cotonou/av-54855566?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Tue, 8 Sep 2020 14:13:00 GMT
   summary: "Deux sujets au menu : les explications d\u2019un expert au sujet des inondations\
@@ -197,7 +271,10 @@ entries:
     \ g\xE9n\xE9ral de l\u2019ONU, Ant\xF3nio Guterres, a r\xE9clam\xE9 un changement\
     \ radical pour emp\xEAcher les \xE9missions de polluants atmosph\xE9riques."
   title: "Les inondations dans les pays du Sahel et la pollution de l'air \xE0 Cotonou"
-- link: https://www.dw.com/fr/l-entreprenariat-agricole-en-harmonie-avec-l-environnement/av-54814332?maca=fra-podcast_environnement-1859-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/129B89A7_2-podcast-1859-54814332.mp3
+  link: https://www.dw.com/fr/l-entreprenariat-agricole-en-harmonie-avec-l-environnement/av-54814332?maca=fra-podcast_environnement-1859-xml-mrss
   published: Mon, 31 Aug 2020 13:00:00 GMT
   summary: "Dans beaucoup de pays, les jeunes sont motiv\xE9s \xE0 entreprendre dans\
     \ le secteur agricole. Un secteur pourvoyeur d\u2019emplois et qui joue un r\xF4\
@@ -205,7 +282,10 @@ entries:
     \ d\u2019obstacles sont \xE0 surmonter, notamment : la d\xE9gradation des terres\
     \ ou les effets des changements climatiques."
   title: "L'entreprenariat agricole en harmonie avec l\u2019environnement"
-- link: "https://www.dw.com/fr/accaparement-des-terres-un-d\xE9s\xE9quilibre-pour-l-\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/CE8E664A_2-podcast-1859-54709938.mp3
+  link: "https://www.dw.com/fr/accaparement-des-terres-un-d\xE9s\xE9quilibre-pour-l-\xE9\
     cosyst\xE8me/av-54709938?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 24 Aug 2020 12:00:00 GMT
   summary: "Accapar\xE9es par l\u2019Etat, des entreprises agro-alimentaires, de grands\
@@ -216,7 +296,10 @@ entries:
     . Et en Mauritanie, il provoque la grogne des populations."
   title: "Accaparement des terres, un d\xE9s\xE9quilibre pour l\u2019\xE9cosyst\xE8\
     me"
-- link: "https://www.dw.com/fr/qui-pour-sauver-la-for\xEAt-de-neem-de-n-djamena-menac\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/58503327_2-podcast-1859-54710020.mp3
+  link: "https://www.dw.com/fr/qui-pour-sauver-la-for\xEAt-de-neem-de-n-djamena-menac\xE9\
     e-par-ses-riverains/av-54710020?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 17 Aug 2020 14:00:00 GMT
   summary: "Cette semaine nous ferons un tour au Tchad pour parler des menaces qui\
@@ -226,7 +309,10 @@ entries:
     taire g\xE9n\xE9ral de l\u2019ONU. Il nous parlera de leurs missions."
   title: "Qui pour sauver la for\xEAt de neem de N'djamena menac\xE9e par ses riverains\
     \ ?"
-- link: "https://www.dw.com/fr/malgr\xE9-les-efforts-nos-for\xEAts-continuent-de-dispara\xEE\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/47D8874E_2-podcast-1859-54330236.mp3
+  link: "https://www.dw.com/fr/malgr\xE9-les-efforts-nos-for\xEAts-continuent-de-dispara\xEE\
     tre/av-54330236?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 27 Jul 2020 11:02:00 GMT
   summary: "Comment prot\xE9ger les for\xEAts ? C\u2019est la question que beaucoup\
@@ -236,7 +322,10 @@ entries:
     \ au menu : ce sont les affres de l'orpaillage par dragage que subit l'un des\
     \ affluents du fleuve Niger au Mali, le Sankarani."
   title: "Malgr\xE9 les efforts, nos for\xEAts continuent de dispara\xEEtre"
-- link: "https://www.dw.com/fr/des-femmes-rurales-organis\xE9es-au-cameroun-pour-venir-en-aide-\xE0\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/9E0875A9_2-podcast-1859-54606637.mp3
+  link: "https://www.dw.com/fr/des-femmes-rurales-organis\xE9es-au-cameroun-pour-venir-en-aide-\xE0\
     -leurs-communaut\xE9s/av-54606637?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 20 Jul 2020 08:00:00 GMT
   summary: "Des groupes de femmes rurales au Cameroun connus pour leur engagement\
@@ -247,7 +336,10 @@ entries:
     \ les terres agricoles."
   title: "Des femmes rurales organis\xE9es au Cameroun pour venir en aide \xE0 leurs\
     \ communaut\xE9s"
-- link: "https://www.dw.com/fr/\xE0-san-pedro-les-enfants-exigent-le-droit-\xE0-un-environnement-sain/av-54070100?maca=fra-podcast_environnement-1859-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/28E23450_2-podcast-1859-54070100.mp3
+  link: "https://www.dw.com/fr/\xE0-san-pedro-les-enfants-exigent-le-droit-\xE0-un-environnement-sain/av-54070100?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 6 Jul 2020 16:27:00 GMT
   summary: "La protection de l\u2019environnement est l\u2019un des pr\xE9requis indispensable\
     \ au d\xE9veloppement des enfants, ce qui d\u2019ailleurs est en accord avec leurs\
@@ -256,7 +348,10 @@ entries:
     \ au Conseil des droits de l'homme des Nations Unies. Egalement au menu, la cartographie\
     \ des terres fertiles au Togo."
   title: "\xC0 San-Pedro, les enfants exigent le droit \xE0 un environnement sain"
-- link: https://www.dw.com/fr/les-primates-toujours-en-danger-en-ouganda-et-en-rdc/av-53975666?maca=fra-podcast_environnement-1859-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/0EA67BFD_2-podcast-1859-53975666.mp3
+  link: https://www.dw.com/fr/les-primates-toujours-en-danger-en-ouganda-et-en-rdc/av-53975666?maca=fra-podcast_environnement-1859-xml-mrss
   published: Sun, 28 Jun 2020 22:00:00 GMT
   summary: "Il s'appelait Rafiki, c'\xE9tait l'un des gorilles les plus c\xE9l\xE8\
     bres d'Ouganda. Mais le 2 juin 2020, il a \xE9t\xE9 retrouv\xE9 mort perc\xE9\
@@ -265,7 +360,10 @@ entries:
     plore dans ce podcast, Faustin Nyebone, le directeur ex\xE9cutif du Groupe d\u2019\
     \xE9tudes et d\u2019action pour la protection de l\u2019environnement \xE0 Goma."
   title: Les primates toujours en danger en Ouganda et en RDC
-- link: "https://www.dw.com/fr/\xE0-la-d\xE9couverte-des-oiseaux-migrateurs-et-de-l-agriculture-de-pr\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/9E0A46D3_2-podcast-1859-53898360.mp3
+  link: "https://www.dw.com/fr/\xE0-la-d\xE9couverte-des-oiseaux-migrateurs-et-de-l-agriculture-de-pr\xE9\
     cision/av-53898360?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 22 Jun 2020 13:06:00 GMT
   summary: "Connaissez-vous les oiseaux migrateurs ? La r\xE9ponse dans ce magazine.\
@@ -275,7 +373,10 @@ entries:
     \ avec l\u2019aide des nouvelles technologies comme les drones."
   title: "\xC0 la d\xE9couverte des oiseaux migrateurs et de l\u2019agriculture de\
     \ pr\xE9cision"
-- link: "https://www.dw.com/fr/r\xE9guler-la-production-alimentaire-pour-prot\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/40C741A8_2-podcast-1859-53842797.mp3
+  link: "https://www.dw.com/fr/r\xE9guler-la-production-alimentaire-pour-prot\xE9\
     ger-les-terres/av-53842797?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Wed, 17 Jun 2020 12:42:00 GMT
   summary: "Le ph\xE9nom\xE8ne est encore d\u2019actualit\xE9 et c\u2019est ce qui\
@@ -285,7 +386,10 @@ entries:
     \ ex\xE9cutif de la Convention des Nations unies sur la lutte contre la d\xE9\
     sertification et la s\xE9cheresse."
   title: "R\xE9guler la production alimentaire pour prot\xE9ger les terres"
-- link: "https://www.dw.com/fr/l-homme-a-voulu-dominer-la-nature-et-c-est-un-petit-virus-qui-nous-a-rappel\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/DC760796_2-podcast-1859-53732364.mp3
+  link: "https://www.dw.com/fr/l-homme-a-voulu-dominer-la-nature-et-c-est-un-petit-virus-qui-nous-a-rappel\xE9\
     -\xE0-l-ordre-thiaw/av-53732364?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 8 Jun 2020 15:14:00 GMT
   summary: "\"Le temps de la nature\", c\u2019est le th\xE8me de la journ\xE9e internationale\
@@ -296,7 +400,10 @@ entries:
     \ de repenser nos modes de consommation."
   title: "\"L\u2019homme a voulu dominer la nature et c\u2019est un petit virus qui\
     \ nous a rappel\xE9 \xE0 l\u2019ordre\" (Thiaw)"
-- link: "https://www.dw.com/fr/la-r\xE9g\xE9n\xE9ration-naturelle-assist\xE9e-pour-reverdir-le-mali/av-53562169?maca=fra-podcast_environnement-1859-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/244D3231_2-podcast-1859-53562169.mp3
+  link: "https://www.dw.com/fr/la-r\xE9g\xE9n\xE9ration-naturelle-assist\xE9e-pour-reverdir-le-mali/av-53562169?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 25 May 2020 14:59:00 GMT
   summary: "Au menu de notre podcast : la pand\xE9mie de Covid-19 vient aggraver la\
     \ situation alimentaire d\xE9j\xE0 critique en Afrique australe \xE0 cause notamment\
@@ -304,7 +411,10 @@ entries:
     \ sur une initiative pour faire pousser la v\xE9g\xE9tation. Egalement au menu,\
     \ une campagne mondiale consacr\xE9e \xE0 la sensibilisation aux oiseaux migrateurs."
   title: "La r\xE9g\xE9n\xE9ration naturelle assist\xE9e pour reverdir le Mali"
-- link: "https://www.dw.com/fr/les-masques-chirurgicaux-usag\xE9s-une-bombe-\xE9cologique-\xE0\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/4EB8F3B8_2-podcast-1859-53488222.mp3
+  link: "https://www.dw.com/fr/les-masques-chirurgicaux-usag\xE9s-une-bombe-\xE9cologique-\xE0\
     -retardement/av-53488222?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 18 May 2020 17:23:00 GMT
   summary: "Au danger sanitaire s'ajoute celui d'une bombe \xE0 retardement \xE9cologique.\
@@ -313,7 +423,10 @@ entries:
     \ Dans certaines villes en Afrique, des masques chirurgicaux usag\xE9s se retrouvent\
     \ d\xE9j\xE0 dans la rue. Ce que d\xE9plorent des environnementalistes africains."
   title: "Les masques chirurgicaux usag\xE9s, une bombe \xE9cologique \xE0 retardement"
-- link: "https://www.dw.com/fr/le-b\xE9nin-prot\xE8ge-ses-tortues-marines-et-\xE0\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/1F66EADD_2-podcast-1859-53329305.mp3
+  link: "https://www.dw.com/fr/le-b\xE9nin-prot\xE8ge-ses-tortues-marines-et-\xE0\
     -lom\xE9-les-plages-redeviennent-propres/av-53329305?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 4 May 2020 16:23:00 GMT
   summary: "Connaissez-vous l'histoire des tortues marines ? Elles vivent depuis des\
@@ -324,7 +437,10 @@ entries:
     \ restrictives pour limiter la propagation du Covid-19."
   title: "Le B\xE9nin prot\xE8ge ses tortues marines et \xE0 Lom\xE9, les plages redeviennent\
     \ propres"
-- link: "https://www.dw.com/fr/la-nature-r\xE9agit-pour-nous-rappeler-\xE0-l-ordre-ibrahim-thiaw-s-e-de-l-unccd/av-53023496?maca=fra-podcast_environnement-1859-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/91B48CDF_2-podcast-1859-53023496.mp3
+  link: "https://www.dw.com/fr/la-nature-r\xE9agit-pour-nous-rappeler-\xE0-l-ordre-ibrahim-thiaw-s-e-de-l-unccd/av-53023496?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 6 Apr 2020 08:00:00 GMT
   summary: "Pour certains environnementalistes et experts, le nouveau coronavirus\
     \ est l'une des cons\xE9quences de la destruction de l\u2019environnement. Dans\
@@ -334,7 +450,10 @@ entries:
     \ dont nous d\xE9truisons l\u2019environnement."
   title: "\"La nature r\xE9agit pour nous rappeler \xE0 l\u2019ordre\" (Ibrahim Thiaw,\
     \ S.E. de l'UNCCD)"
-- link: "https://www.dw.com/fr/d\xE9forestation-greenpeace-appelle-\xE0-une-prise-de-conscience-au-togo-les-jeunes-innovent/av-52878788?maca=fra-podcast_environnement-1859-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/585F8143_2-podcast-1859-52878788.mp3
+  link: "https://www.dw.com/fr/d\xE9forestation-greenpeace-appelle-\xE0-une-prise-de-conscience-au-togo-les-jeunes-innovent/av-52878788?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 23 Mar 2020 06:00:00 GMT
   summary: "Au menu de ce magazine il est question de l\u2019\xE9tat des for\xEAts\
     \ en Afrique, l\u2019organisation pour la d\xE9fense de l\u2019environnement,\
@@ -345,14 +464,20 @@ entries:
     \ !"
   title: "D\xE9forestation : Greenpeace appelle \xE0 une prise de conscience, au Togo,\
     \ les jeunes innovent"
-- link: "https://www.dw.com/fr/climat-l-omm-pr\xE9occup\xE9e-au-nigeria-on-essaie-de-le-contenir/av-52798598?maca=fra-podcast_environnement-1859-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/4952F32B_2-podcast-1859-52798598.mp3
+  link: "https://www.dw.com/fr/climat-l-omm-pr\xE9occup\xE9e-au-nigeria-on-essaie-de-le-contenir/av-52798598?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 16 Mar 2020 17:46:00 GMT
   summary: "Dans ce magazine, il est question du nouveau rapport de l\u2019organisation\
     \ m\xE9t\xE9orologique mondiale, l\u2019OMM. Un rapport qui met en \xE9vidence\
     \ les r\xE9percussions croissantes des changements climatiques sur la vie humaine.\
     \ Egalement, nous parlons des bienfaits de l\u2019\xE9nergie solaire au Nigeria."
   title: "Climat : l\u2019OMM pr\xE9occup\xE9e, au Nigeria on essaie de le contenir"
-- link: https://www.dw.com/fr/comment-combiner-l-agriculture-et-la-conservation-des-sols/av-52798611?maca=fra-podcast_environnement-1859-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/7DF3DB29_2-podcast-1859-52798611.mp3
+  link: https://www.dw.com/fr/comment-combiner-l-agriculture-et-la-conservation-des-sols/av-52798611?maca=fra-podcast_environnement-1859-xml-mrss
   published: Mon, 9 Mar 2020 08:00:00 GMT
   summary: "La r\xE9ponse dans ce podcast du magazine environnement avec Hanspeter\
     \ Liniger, chercheur scientifique principal et directeur de programme du Panorama\
@@ -360,7 +485,10 @@ entries:
     \ un instrument de la Convention de l\u2019Onu sur la lutte contre la d\xE9sertification\
     \ (UNCCD) pour faire la promotion des bonnes pratiques."
   title: "Comment combiner l\u2019agriculture et la conservation des sols ?"
-- link: "https://www.dw.com/fr/jacinthe-d-eau-nous-avons-transform\xE9-un-probl\xE8\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/487C38BB_2-podcast-1859-51905233.mp3
+  link: "https://www.dw.com/fr/jacinthe-d-eau-nous-avons-transform\xE9-un-probl\xE8\
     me-en-opportunit\xE9-au-b\xE9nin-henri-totin/av-51905233?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 6 Jan 2020 15:42:00 GMT
   summary: "Dans ce magazine, nous irons \xE0 la d\xE9couverte d\u2019un jeune b\xE9\
@@ -369,7 +497,10 @@ entries:
     \ comment le tourisme vient en aide aux singes dor\xE9s au Rwanda."
   title: "Jacinthe d\u2019eau : \"Nous avons transform\xE9 un probl\xE8me en opportunit\xE9\
     \ au B\xE9nin\" (Henri Totin)"
-- link: "https://www.dw.com/fr/climat-guterres-appelle-\xE0-faire-le-choix-entre-l-espoir-et-la-capitulation/av-51519620?maca=fra-podcast_environnement-1859-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/8E8F9FFC_2-podcast-1859-51519620.mp3
+  link: "https://www.dw.com/fr/climat-guterres-appelle-\xE0-faire-le-choix-entre-l-espoir-et-la-capitulation/av-51519620?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Tue, 3 Dec 2019 18:53:00 GMT
   summary: "Rapports alarmants des scientifiques sur le climat, protestations de citoyens,\
     \ d\xE9fil\xE9s de jeunes, depuis un an, les pays sont la cible d'une pression\
@@ -379,7 +510,10 @@ entries:
     \ et la \"capitulation\"."
   title: "Climat : Guterres appelle \xE0 faire le choix entre l'\"espoir\" et la \"\
     capitulation\""
-- link: "https://www.dw.com/fr/l-appel-des-jeunes-au-sommet-sur-l-urgence-climatique-\xE0\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/35160B95_2-podcast-1859-50553610.mp3
+  link: "https://www.dw.com/fr/l-appel-des-jeunes-au-sommet-sur-l-urgence-climatique-\xE0\
     -new-york/av-50553610?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 23 Sep 2019 17:17:00 GMT
   summary: "Des dirigeants du monde se sont r\xE9unis au si\xE8ge de l\u2019Onu pour\
@@ -389,7 +523,10 @@ entries:
     duction acc\xE9l\xE9r\xE9e des \xE9missions de gaz \xE0 effet de serre. A New\
     \ York, ils sont nombreux \xE0 faire connaitre leurs dol\xE9ances."
   title: "L\u2019appel des jeunes au sommet sur l'urgence climatique \xE0 New York"
-- link: "https://www.dw.com/fr/cop-14-\xE0-new-delhi-\xE0-mon-sens-c-est-la-cop-o\xF9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/9D7BB5C6_2-podcast-1859-50637570.mp3
+  link: "https://www.dw.com/fr/cop-14-\xE0-new-delhi-\xE0-mon-sens-c-est-la-cop-o\xF9\
     -nous-avons-plac\xE9-les-gens-au-c\u0153ur-de-nos-activit\xE9s-ibrahim-thiaw/av-50637570?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 16 Sep 2019 09:00:00 GMT
   summary: "Pour pr\xE9server les terres productives, les pays participant \xE0 la\
@@ -400,7 +537,10 @@ entries:
     cheresse ou encore l'influence des modes de consommation."
   title: "COP 14 \xE0 New Delhi : \"\xC0 mon sens, c\u2019est la COP o\xF9 nous avons\
     \ plac\xE9 les gens au c\u0153ur de nos activit\xE9s\" (Ibrahim Thiaw)"
-- link: "https://www.dw.com/fr/cop-14-sur-la-d\xE9sertification-\xE0-new-delhi-des-jeunes-burkinab\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/57CEB88E_2-podcast-1859-50636632.mp3
+  link: "https://www.dw.com/fr/cop-14-sur-la-d\xE9sertification-\xE0-new-delhi-des-jeunes-burkinab\xE9\
     -en-action/av-50636632?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 9 Sep 2019 09:00:00 GMT
   summary: "Notre magazine nous am\xE8ne cette semaine en Inde, pr\xE9cisement \xE0\
@@ -411,7 +551,10 @@ entries:
     \ de leur travail\u2026"
   title: "COP 14 sur la d\xE9sertification \xE0 New Delhi : des jeunes burkinab\xE9\
     \ en action"
-- link: https://www.dw.com/fr/la-grande-muraille-verte-le-plus-bel-exemple-qui-puisse-exister-abakar-zougoulou/av-49788484?maca=fra-podcast_environnement-1859-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/BA00FECA_2-podcast-1859-49788484.mp3
+  link: https://www.dw.com/fr/la-grande-muraille-verte-le-plus-bel-exemple-qui-puisse-exister-abakar-zougoulou/av-49788484?maca=fra-podcast_environnement-1859-xml-mrss
   published: Mon, 29 Jul 2019 14:46:00 GMT
   summary: "L'initiative \"Grande Muraille Verte\" soutenue par la Convention des\
     \ Nations unies pour la lutte contre la d\xE9sertification, l'UNCCD a pour ambition\
@@ -421,7 +564,10 @@ entries:
     \ ses fruits."
   title: '"La Grande muraille verte, le plus bel exemple qui puisse exister" (Abakar
     Zougoulou)'
-- link: "https://www.dw.com/fr/l\xE9onide-sinsin-veut-r\xE9volutionner-les-\xE9nergies-renouvelables-au-b\xE9\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/3355693A_2-podcast-1859-49788680.mp3
+  link: "https://www.dw.com/fr/l\xE9onide-sinsin-veut-r\xE9volutionner-les-\xE9nergies-renouvelables-au-b\xE9\
     nin/av-49788680?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 22 Jul 2019 10:00:00 GMT
   summary: "L\u2019invit\xE9 du magazine cette semaine est L\xE9onide Sinsin, un jeune\
@@ -432,13 +578,19 @@ entries:
     \ plus grand lac d'Afrique, le lac Victoria."
   title: "L\xE9onide Sinsin veut r\xE9volutionner les \xE9nergies renouvelables au\
     \ B\xE9nin"
-- link: "https://www.dw.com/fr/80-millions-d-emplois-en-danger-\xE0-cause-du-stress-thermique/av-49600162?maca=fra-podcast_environnement-1859-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/73804A9E_2-podcast-1859-49600162.mp3
+  link: "https://www.dw.com/fr/80-millions-d-emplois-en-danger-\xE0-cause-du-stress-thermique/av-49600162?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 15 Jul 2019 16:46:00 GMT
   summary: "Au menu de notre magazine : le stress thermique d\xFB aux changements\
     \ climatiques, source de perte d\u2019emplois ou encore la r\xE9habilitation des\
     \ terres d\xE9grad\xE9es en Afrique du Sud."
   title: "80 millions d\u2019emplois en danger \xE0 cause du stress thermique"
-- link: "https://www.dw.com/fr/des-chaussures-\xE9cologiques-fabriqu\xE9es-au-cameroun-et-alerte-vague-de-chaleur/av-49332452?maca=fra-podcast_environnement-1859-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/07929AAB_2-podcast-1859-49332452.mp3
+  link: "https://www.dw.com/fr/des-chaussures-\xE9cologiques-fabriqu\xE9es-au-cameroun-et-alerte-vague-de-chaleur/av-49332452?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 24 Jun 2019 13:24:00 GMT
   summary: "Au menu : des chaussures \xE9cologiques fabriqu\xE9es par des prisonniers,\
     \ l\u2019initiative d\u2019un jeune au Cameroun. Un reportage portant sur cette\
@@ -448,7 +600,10 @@ entries:
     \ Asie les trois derni\xE8res ann\xE9es."
   title: "Des chaussures \xE9cologiques fabriqu\xE9es au Cameroun et alerte \"vague\
     \ de chaleur\""
-- link: "https://www.dw.com/fr/s\xE8cheresse-en-asie-et-d\xE9gradation-des-terres-en-afrique/av-49482374?maca=fra-podcast_environnement-1859-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/07929AAB_2-podcast-1859-49482374.mp3
+  link: "https://www.dw.com/fr/s\xE8cheresse-en-asie-et-d\xE9gradation-des-terres-en-afrique/av-49482374?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 24 Jun 2019 08:00:00 GMT
   summary: "Au menu : la s\xE8cheresse en Asie accompagn\xE9e de fortes temp\xE9ratures\
     \ enregistr\xE9es en ce moment, c\u2019est le cas aussi en Europe. Et il est aussi\
@@ -456,7 +611,10 @@ entries:
     \ sujet \xE9voqu\xE9 le 17 juin dernier \xE0 Ankara en Turquie, lors de la journ\xE9\
     e mondiale de lutte contre la d\xE9sertification."
   title: "S\xE8cheresse en Asie et d\xE9gradation des terres en Afrique"
-- link: "https://www.dw.com/fr/installer-un-h\xF4pital-\xE0-la-place-d-une-for\xEA\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/FEA542E7_2-podcast-1859-48603386.mp3
+  link: "https://www.dw.com/fr/installer-un-h\xF4pital-\xE0-la-place-d-une-for\xEA\
     t-class\xE9e-l-id\xE9e-irrite-au-burkina/av-48603386?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Sat, 4 May 2019 16:22:00 GMT
   summary: "C\u2019est une histoire digne d\u2019un film de gangsters. Elle se d\xE9\
@@ -467,7 +625,10 @@ entries:
     \ de l\u2019environnement. Les environnementalistes eux, sont en col\xE8re."
   title: "Installer un h\xF4pital \xE0 la place d\u2019une for\xEAt class\xE9e, l\u2019\
     id\xE9e irrite au Burkina"
-- link: "https://www.dw.com/fr/la-biodiversit\xE9-en-danger-au-mali/av-48528980?maca=fra-podcast_environnement-1859-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/fra/1859_podcast_environnement/791D3247_2-podcast-1859-48528980.mp3
+  link: "https://www.dw.com/fr/la-biodiversit\xE9-en-danger-au-mali/av-48528980?maca=fra-podcast_environnement-1859-xml-mrss"
   published: Mon, 29 Apr 2019 12:53:00 GMT
   summary: "Scientifiques et hommes politiques de 130 pays se sont r\xE9unis \xE0\
     \ Paris pour adopter la premi\xE8re \xE9valuation mondiale des \xE9cosyst\xE8\
@@ -476,15 +637,6 @@ entries:
     \ pour \xE9viter des impacts d\xE9vastateurs. Ces impacts on le vit d\xE9j\xE0\
     \ dans un pays comme le Mali."
   title: "La biodiversit\xE9 en danger au Mali"
-- link: "https://www.dw.com/fr/combattre-la-pollution-par-la-po\xE9sie/av-48348960?maca=fra-podcast_environnement-1859-xml-mrss"
-  published: Tue, 16 Apr 2019 11:29:00 GMT
-  summary: "Le magazine nous am\xE8ne au Nigeria o\xF9 un groupe de jeunes a d\xE9\
-    cid\xE9 de combattre la pollution par la po\xE9sie. Un moyen pour sensibiliser\
-    \ \xE0 l\u2019environnement selon ce groupe d'\xE9tudiants de l'Universit\xE9\
-    \ de Lagos. Egalement nous irons en C\xF4te d\u2019Ivoire \xE0 la rencontre d\u2019\
-    un jeune qui produit des engrais biologiques et sans oublier le Bengladesh o\xF9\
-    \ les enfants sont victimes des changements climatiques."
-  title: "Combattre la pollution par la po\xE9sie"
 
 ---
 Vous retrouverez tous les lundis, l’analyse des politiques

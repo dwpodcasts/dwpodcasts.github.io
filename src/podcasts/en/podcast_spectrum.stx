@@ -1,7 +1,7 @@
 ---
 title: "Science unscripted"
 id: podcast_spectrum
-published: "Thu, 6 Jan 2022 07:57:36 GMT"
+published: "Thu, 13 Jan 2022 07:23:20 GMT"
 page_link: "https://www.dw.com?maca=en-podcast_spectrum-31485-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_spectrum"
 language: en
@@ -11,165 +11,253 @@ tags: [ "Science", "Life Sciences" ]
 image_url: https://static.dw.com/image/52861954_7.png
 image_title: ""
 entries:
-- link: https://www.dw.com/en/weekly-roundup-the-omicron-wall/av-60296818?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/6EA24747_2-podcast-31485-60381710.mp3
+  link: https://www.dw.com/en/do-rapid-antigen-tests-work-for-omicron/av-60381710?maca=en-podcast_spectrum-31485-xml-mrss
+  published: Tue, 11 Jan 2022 02:50:00 GMT
+  summary: "Yes. They do. But since there's a chance they're less sensitive, how many\
+    \ tests do you need before you can say it's definitely COVID \u2014 or just a\
+    \ common cold?"
+  title: Do rapid (antigen) tests work for omicron?
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/4144194D_2-podcast-31485-60380192.mp3
+  link: https://www.dw.com/en/the-deltacron-variant/av-60380192?maca=en-podcast_spectrum-31485-xml-mrss
+  published: Mon, 10 Jan 2022 14:03:00 GMT
+  summary: Not all coronavirus variants are equal. And this one may not even exist.
+  title: The deltacron 'variant'
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/3E14677B_2-podcast-31485-60351020.mp3
+  link: https://www.dw.com/en/weekly-roundup-inside-omicron/av-60351020?maca=en-podcast_spectrum-31485-xml-mrss
+  published: Thu, 6 Jan 2022 16:37:00 GMT
+  summary: Hospitals, animals and miniature human organoids are showing us how omicron
+    causes disease. And the news is mostly good.
+  title: "Weekly roundup \u2014 Inside omicron"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/839F281C_2-podcast-31485-60296818.mp3
+  link: https://www.dw.com/en/weekly-roundup-the-omicron-wall/av-60296818?maca=en-podcast_spectrum-31485-xml-mrss
   published: Thu, 30 Dec 2021 13:57:00 GMT
   summary: The omicron numbers are already awful. Yet there's a case for cautious
     optimism based on what we've seen so far.
   title: Weekly roundup - The omicron 'wall'
-- link: https://www.dw.com/en/weekly-roundup-the-omicron-lockdowns/av-60241676?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/606F98D2_2-podcast-31485-60241676.mp3
+  link: https://www.dw.com/en/weekly-roundup-the-omicron-lockdowns/av-60241676?maca=en-podcast_spectrum-31485-xml-mrss
   published: Tue, 28 Dec 2021 04:05:00 GMT
   summary: "Omicron won't be a wave, it'll be a wall, says Germany's top virologist.\
     \ And the best response is to lock things down \u2014 again. Can people tolerate\
     \ that?"
   title: "Weekly roundup \u2014 the omicron lockdowns"
-- link: https://www.dw.com/en/what-do-women-and-men-lie-about-on-social-media/av-60241663?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/114B2B06_2-podcast-31485-60241663.mp3
+  link: https://www.dw.com/en/what-do-women-and-men-lie-about-on-social-media/av-60241663?maca=en-podcast_spectrum-31485-xml-mrss
   published: Mon, 27 Dec 2021 04:05:00 GMT
   summary: "If you're on Instagram, Facebook or Twitter, then surely you've seen some\u2026\
     \ less-than-truthful posts. But who's deceiving whom, exactly? And just what is\
     \ it that they're lying about?"
   title: What do women and men lie about on social media?
-- link: https://www.dw.com/en/a-cold-christmas-and-new-year/av-60231288?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/A0FD0FB4_2-podcast-31485-60231288.mp3
+  link: https://www.dw.com/en/a-cold-christmas-and-new-year/av-60231288?maca=en-podcast_spectrum-31485-xml-mrss
   published: Wed, 22 Dec 2021 16:35:00 GMT
   summary: Omicron will mean tougher restrictions for a lot of countries around the
     world. How should we be dealing with that news?
   title: A cold Christmas (and New Year)
-- link: https://www.dw.com/en/which-covid-19-booster-is-best-against-omicron/av-60215873?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/95B5A8C3_2-podcast-31485-60215873.mp3
+  link: https://www.dw.com/en/which-covid-19-booster-is-best-against-omicron/av-60215873?maca=en-podcast_spectrum-31485-xml-mrss
   published: Tue, 21 Dec 2021 16:25:00 GMT
   summary: 'Honest answer: It''s too early to say. But a handful of small-scale, pre-print
     studies seem to be pointing in one direction.'
   title: Which COVID-19 booster is best against omicron?
-- link: https://www.dw.com/en/covid-19-novavax-gets-european-approval/av-60199506?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/0772AB4D_2-podcast-31485-60199506.mp3
+  link: https://www.dw.com/en/covid-19-novavax-gets-european-approval/av-60199506?maca=en-podcast_spectrum-31485-xml-mrss
   published: Mon, 20 Dec 2021 15:29:00 GMT
   summary: Several months behind schedule, the Novavax protein subunit vaccine has
     been approved for use in Europe. This is potentially very important news for the
     fight against COVID-19. Why?
   title: 'COVID-19: Novavax gets European approval'
-- link: https://www.dw.com/en/weekly-roundup-winter-s-here/av-60167329?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/D608EDBB_2-podcast-31485-60167329.mp3
+  link: https://www.dw.com/en/weekly-roundup-winter-s-here/av-60167329?maca=en-podcast_spectrum-31485-xml-mrss
   published: Sat, 18 Dec 2021 04:00:00 GMT
   summary: How do I keep the holidays focused on mistletoe instead of misinformation?
     And how will the pandemic play out in 2022?
   title: "Weekly roundup \u2014 Winter's here"
-- link: https://www.dw.com/en/covid-conspiracies-under-the-christmas-tree/av-60160006?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/56FA3795_2-podcast-31485-60160006.mp3
+  link: https://www.dw.com/en/covid-conspiracies-under-the-christmas-tree/av-60160006?maca=en-podcast_spectrum-31485-xml-mrss
   published: Fri, 17 Dec 2021 11:51:00 GMT
   summary: What if all you want for Christmas ... is for your family to feel like
     a family again?
   title: COVID conspiracies under the Christmas tree
-- link: https://www.dw.com/en/this-one-s-for-you/av-60134325?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/40D9B836_2-podcast-31485-60134325.mp3
+  link: https://www.dw.com/en/this-one-s-for-you/av-60134325?maca=en-podcast_spectrum-31485-xml-mrss
   published: Wed, 15 Dec 2021 16:16:00 GMT
   summary: Our favorite (and not-so-favorite) YouTube comments and emails from SU
     listeners.
   title: This one's for you
-- link: https://www.dw.com/en/why-are-omicron-hospitalizations-so-low/av-60120186?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/F79B6D8A_2-podcast-31485-60120186.mp3
+  link: https://www.dw.com/en/why-are-omicron-hospitalizations-so-low/av-60120186?maca=en-podcast_spectrum-31485-xml-mrss
   published: Tue, 14 Dec 2021 16:54:00 GMT
   summary: If omicron isn't 'milder' than delta, why are fewer people ending up in
     hospitals?
   title: Why are omicron hospitalizations so low?
-- link: https://www.dw.com/en/omicron-what-this-wave-will-look-like/av-60105958?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/15412AAA_2-podcast-31485-60105958.mp3
+  link: https://www.dw.com/en/omicron-what-this-wave-will-look-like/av-60105958?maca=en-podcast_spectrum-31485-xml-mrss
   published: Mon, 13 Dec 2021 15:36:00 GMT
   summary: New models from the UK have given us a clear picture (almost to the day)
     of when the omicron curve will peak and flatten. The news is good and bad. Also,
     where do "natural immunity" and Novavax fit in?
   title: 'Omicron: What this wave will look like'
-- link: https://www.dw.com/en/weekly-roundup-hopium-and-copium/av-60072434?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/6F99371D_2-podcast-31485-60072434.mp3
+  link: https://www.dw.com/en/weekly-roundup-hopium-and-copium/av-60072434?maca=en-podcast_spectrum-31485-xml-mrss
   published: Sat, 11 Dec 2021 04:00:00 GMT
   summary: 'Be honest: Do you find it harder to care about omicron than the variants
     before it? Also, how much info can be learned from your voice?'
   title: "Weekly roundup \u2014 Hopium and copium"
-- link: https://www.dw.com/en/omicron-what-the-lab-results-can-tell-you/av-60083926?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/E1D19570_2-podcast-31485-60083926.mp3
+  link: https://www.dw.com/en/omicron-what-the-lab-results-can-tell-you/av-60083926?maca=en-podcast_spectrum-31485-xml-mrss
   published: Fri, 10 Dec 2021 15:06:00 GMT
   summary: '''Fully vaccinated'' just got a new definition.'
   title: 'Omicron: What the lab results can tell you'
-- link: https://www.dw.com/en/the-lab-full-of-mini-brains-with-eyes/av-60072459?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/CED20811_2-podcast-31485-60072459.mp3
+  link: https://www.dw.com/en/the-lab-full-of-mini-brains-with-eyes/av-60072459?maca=en-podcast_spectrum-31485-xml-mrss
   published: Thu, 9 Dec 2021 16:41:00 GMT
   summary: "If a free-floating brain could feel pain or 'wake up,' would we know?\
     \ That question was important enough for us to travel to D\xFCsseldorf, Germany."
   title: The lab full of mini brains (with 'eyes')
-- link: https://www.dw.com/en/the-hole-in-your-face-that-s-leaking-data/av-60060325?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/DAB08389_2-podcast-31485-60060325.mp3
+  link: https://www.dw.com/en/the-hole-in-your-face-that-s-leaking-data/av-60060325?maca=en-podcast_spectrum-31485-xml-mrss
   published: Wed, 8 Dec 2021 15:47:00 GMT
   summary: At this point we should know that our phones are listening to us. But it's
     not just our words that are giving our private data away. It's how we say them.
   title: The hole in your face that's leaking data
-- link: https://www.dw.com/en/milder-omicron-news-is-a-dangerous-distraction/av-60049074?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/2FBEE67D_2-podcast-31485-60049074.mp3
+  link: https://www.dw.com/en/milder-omicron-news-is-a-dangerous-distraction/av-60049074?maca=en-podcast_spectrum-31485-xml-mrss
   published: Tue, 7 Dec 2021 17:20:00 GMT
   summary: We all need a dose of positive pandemic news. But what if that makes us
     miss the far more alarming (and substantiated) data we have about this variant?
   title: '''Milder omicron'' news is a dangerous distraction'
-- link: https://www.dw.com/en/weekly-roundup-where-are-we/av-60035743?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/F5852A0D_2-podcast-31485-60035743.mp3
+  link: https://www.dw.com/en/weekly-roundup-where-are-we/av-60035743?maca=en-podcast_spectrum-31485-xml-mrss
   published: Mon, 6 Dec 2021 16:20:00 GMT
   summary: There was a LOT of news about the omicron variant last week. But which
     of it was actually important? Also, why are scientists in Germany growing thousands
     of miniature human brains with eyeballs on them?
   title: "Weekly roundup \u2014 Where are we?"
-- link: https://www.dw.com/en/omicron-news-that-s-making-everyone-happy-today/av-59989797?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/2CCD2B86_2-podcast-31485-59989797.mp3
+  link: https://www.dw.com/en/omicron-news-that-s-making-everyone-happy-today/av-59989797?maca=en-podcast_spectrum-31485-xml-mrss
   published: Wed, 1 Dec 2021 16:39:00 GMT
   summary: How the tables turn. Today we look at two new omicron developments that
     feel a bit too euphoric.
   title: Omicron news that's making everyone happy today
-- link: https://www.dw.com/en/omicron-news-that-s-scaring-people-today/av-59980301?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/A8683642_2-podcast-31485-59980301.mp3
+  link: https://www.dw.com/en/omicron-news-that-s-scaring-people-today/av-59980301?maca=en-podcast_spectrum-31485-xml-mrss
   published: Tue, 30 Nov 2021 15:42:00 GMT
   summary: A look at 3 widely shared omicron developments that aren't as scary when
     you dig a little deeper.
   title: Omicron news that's scaring people today
-- link: https://www.dw.com/en/omicron-variant-what-we-don-t-know/av-59969825?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/932EE3DD_2-podcast-31485-59969825.mp3
+  link: https://www.dw.com/en/omicron-variant-what-we-don-t-know/av-59969825?maca=en-podcast_spectrum-31485-xml-mrss
   published: Mon, 29 Nov 2021 15:23:00 GMT
   summary: "The real-world data we have on omicron is skewed \u2014 in a lot of different\
     \ ways."
   title: 'Omicron variant: What we (don''t) know'
-- link: https://www.dw.com/en/weekly-roundup-is-it-time/av-59948455?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/94F8436D_2-podcast-31485-59948455.mp3
+  link: https://www.dw.com/en/weekly-roundup-is-it-time/av-59948455?maca=en-podcast_spectrum-31485-xml-mrss
   published: Sat, 27 Nov 2021 04:00:00 GMT
   summary: "Forcing people to vaccinate is not an appealing option \u2014 at all.\
     \ It might happen anyway."
   title: "Weekly roundup \u2014 Is it time?"
-- link: https://www.dw.com/en/a-vaccine-mandate-for-all-germans/av-59921876?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/1B8E5241_2-podcast-31485-59921876.mp3
+  link: https://www.dw.com/en/a-vaccine-mandate-for-all-germans/av-59921876?maca=en-podcast_spectrum-31485-xml-mrss
   published: Wed, 24 Nov 2021 15:27:00 GMT
   summary: Should the German government force citizens to vaccinate against the coronavirus?
     You can learn a lot by asking people on the streets.
   title: A vaccine mandate for all Germans?
-- link: https://www.dw.com/en/the-test-that-birds-can-beat-kids-at/av-59910491?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/5369D27E_2-podcast-31485-59910491.mp3
+  link: https://www.dw.com/en/the-test-that-birds-can-beat-kids-at/av-59910491?maca=en-podcast_spectrum-31485-xml-mrss
   published: Tue, 23 Nov 2021 16:25:00 GMT
   summary: How do you explain the concept of time to a bird? And why would they ever
     need to delay gratification?
   title: The test that birds can beat kids at
-- link: https://www.dw.com/en/weekly-roundup-the-wrong-kind-of-quiet/av-59883794?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/4ADAE224_2-podcast-31485-59883794.mp3
+  link: https://www.dw.com/en/weekly-roundup-the-wrong-kind-of-quiet/av-59883794?maca=en-podcast_spectrum-31485-xml-mrss
   published: Sat, 20 Nov 2021 04:05:00 GMT
   summary: What would it be like if birds just... didn't sing as much? Step outside
     and find out. Also, if you haven't met many atheists out there, maybe it's because
     they're scared to tell you?
   title: "Weekly roundup \u2014 (The wrong kind of quiet)"
-- link: https://www.dw.com/en/a-vaccine-mandate-for-all-austrians/av-59882388?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/5C9F769E_2-podcast-31485-59882388.mp3
+  link: https://www.dw.com/en/a-vaccine-mandate-for-all-austrians/av-59882388?maca=en-podcast_spectrum-31485-xml-mrss
   published: Fri, 19 Nov 2021 15:26:00 GMT
   summary: 'With the ''pandemic of the unvaccinated'' overwhelming European hospitals
     and forcing lockdowns, there''s a difficult question in the air: Does your right
     to make a personal medical choice allow you to directly take away other people''s
     freedoms?'
   title: A vaccine mandate for all Austrians
-- link: https://www.dw.com/en/why-is-it-so-hard-to-come-out-as-atheist/av-59839257?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/EFC0C3B5_2-podcast-31485-59839257.mp3
+  link: https://www.dw.com/en/why-is-it-so-hard-to-come-out-as-atheist/av-59839257?maca=en-podcast_spectrum-31485-xml-mrss
   published: Tue, 16 Nov 2021 17:48:00 GMT
   summary: '"Not believing in god" just feels kind of... ugly. Or socially dangerous.
     Why is that?'
   title: Why is it so hard to come out as atheist?
-- link: https://www.dw.com/en/do-you-care-about-birds/av-59829059?maca=en-podcast_spectrum-31485-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/31485_podcast_spectrum/118A6EA8_2-podcast-31485-59829059.mp3
+  link: https://www.dw.com/en/do-you-care-about-birds/av-59829059?maca=en-podcast_spectrum-31485-xml-mrss
   published: Mon, 15 Nov 2021 17:12:00 GMT
   summary: It's a callous question to ask. But with new evidence showing a stark decline
     in bird numbers, it's worth trying to answer.
   title: Do you care about birds?
-- link: https://www.dw.com/en/weekly-roundup-believe-it/av-59805680?maca=en-podcast_spectrum-31485-xml-mrss
-  published: Sat, 13 Nov 2021 04:05:00 GMT
-  summary: Yes, there really are two different pills you'll be able to take soon if
-    you catch the coronavirus. Also, a new study shows that science deniers in various
-    countries tend to have something in common.
-  title: 'Weekly roundup: Believe it'
-- link: https://www.dw.com/en/why-don-t-people-trust-science/av-59799984?maca=en-podcast_spectrum-31485-xml-mrss
-  published: Fri, 12 Nov 2021 15:19:00 GMT
-  summary: "We really do live in a world where a decent amount of people just... don't\
-    \ believe in facts. Who \u2014 and where \u2014 are they? And what could have\
-    \ possibly 'made' them into that kind of person?"
-  title: Why don't people trust science?
-- link: https://www.dw.com/en/did-christmas-just-get-canceled/av-59794262?maca=en-podcast_spectrum-31485-xml-mrss
-  published: Thu, 11 Nov 2021 16:00:00 GMT
-  summary: "More than 50,000 new daily infections \u2014 an incidence of 250 \u2014\
-    \ and a holiday season just kicking off. What is going on in Germany?"
-  title: Did Christmas just get canceled?
 
 ---
 Get the latest science news. Broadcast from Germany throughout the

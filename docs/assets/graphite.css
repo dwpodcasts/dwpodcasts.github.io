@@ -656,3 +656,9 @@ th, td {
         font-size: 15px;
     }
 }
+
+/* DW Podcasts */
+audio, video {
+    display: block;
+    margin-top: 20px;
+}

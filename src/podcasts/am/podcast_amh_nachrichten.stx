@@ -1,7 +1,7 @@
 ---
 title: "ዜና፣ | Deutsche Welle"
 id: podcast_amh_nachrichten
-published: "Thu, 6 Jan 2022 07:52:23 GMT"
+published: "Thu, 13 Jan 2022 07:19:35 GMT"
 page_link: "https://www.dw.com?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_amh_nachrichten"
 language: am
@@ -11,287 +11,437 @@ tags: [ "News", "Politics" ]
 image_url: https://static.dw.com/image/2135752_7.jpg
 image_title: ""
 entries:
-- link: "https://www.dw.com/am/\u1273\u1285\u1233\u1235-27-\u1240\u1295-20214-\u12D3\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/694E01A0_2-podcast-4347-60403605.mp3
+  link: "https://www.dw.com/am/\u12E8\u1325\u122D-4-\u1240\u1295-2014-\u12D3-\u121D\
+    -\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-60403605?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
+  published: Wed, 12 Jan 2022 17:27:00 GMT
+  summary: null
+  title: "\u12E8\u1325\u122D 4 \u1240\u1295 2014 \u12D3.\u121D \u12E8\u12D3\u1208\u121D\
+    \ \u12DC\u1293"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/C5CE1020_2-podcast-4347-60382174.mp3
+  link: "https://www.dw.com/am/\u12E8\u12D3\u1208\u121D-\u12DC\u1293\u1364-\u1325\u122D\
+    -2-\u1240\u1295-2014-\u12D3-\u121D-\u1230\u129E/av-60382174?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
+  published: Mon, 10 Jan 2022 16:49:00 GMT
+  summary: null
+  title: "\u12E8\u12D3\u1208\u121D \u12DC\u1293\u1364 \u1325\u122D 2 \u1240\u1295\
+    \ 2014 \u12D3.\u121D \u1230\u129E"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/F9B00D5D_2-podcast-4347-60373777.mp3
+  link: "https://www.dw.com/am/\u12E8\u1325\u122D-01-\u1240\u1295-2014-\u12D3-\u121D\
+    -\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-60373777?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
+  published: Sun, 9 Jan 2022 16:37:00 GMT
+  summary: null
+  title: "\u12E8\u1325\u122D 01 \u1240\u1295 2014 \u12D3.\u121D. \u12E8\u12D3\u1208\
+    \u121D \u12DC\u1293"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/7B6557B7_2-podcast-4347-60361947.mp3
+  link: "https://www.dw.com/am/\u12E8\u1273\u1285\u1233\u1235-29-\u1240\u1295-2014-\u12D3\
+    -\u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-60361947?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
+  published: Fri, 7 Jan 2022 16:38:00 GMT
+  summary: null
+  title: "\u12E8\u1273\u1285\u1233\u1235 29 \u1240\u1295 2014 \u12D3.\u121D. \u12E8\
+    \u12D3\u1208\u121D \u12DC\u1293"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/1343E25D_2-podcast-4347-60351703.mp3
+  link: "https://www.dw.com/am/\u12E8\u1273\u1285\u1223\u1235-28-\u1240\u1295-2014-\u12D3\
+    \u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-60351703?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
+  published: Thu, 6 Jan 2022 16:47:00 GMT
+  summary: null
+  title: "\u12E8\u1273\u1285\u1223\u1235 28 \u1240\u1295 2014 \u12D3\u121D \u12E8\u12D3\
+    \u1208\u121D \u12DC\u1293"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/8A180FBE_2-podcast-4347-60342081.mp3
+  link: "https://www.dw.com/am/\u1273\u1285\u1233\u1235-27-\u1240\u1295-20214-\u12D3\
     -\u121D-\u12DC\u1293/av-60342081?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Wed, 5 Jan 2022 16:38:00 GMT
   summary: null
   title: "\u1273\u1285\u1233\u1235 27 \u1240\u1295 20214 \u12D3.\u121D. \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12E8\u1273\u1285\u1233\u1235-24-\u1240\u1295-2014-\u12D3\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/5AA19FD3_2-podcast-4347-60313039.mp3
+  link: "https://www.dw.com/am/\u12E8\u1273\u1285\u1233\u1235-24-\u1240\u1295-2014-\u12D3\
     -\u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-60313039?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Sun, 2 Jan 2022 16:37:00 GMT
   summary: null
   title: "\u12E8\u1273\u1285\u1233\u1235 24 \u1240\u1295 2014 \u12D3.\u121D. \u12E8\
     \u12D3\u1208\u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12E8\u1273\u1285\u1233\u1235-22-\u1240\u1295-2014-\u12D3\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/DF788937_2-podcast-4347-60304574.mp3
+  link: "https://www.dw.com/am/\u12E8\u1273\u1285\u1233\u1235-22-\u1240\u1295-2014-\u12D3\
     \u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-60304574?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Fri, 31 Dec 2021 17:33:00 GMT
   summary: null
   title: "\u12E8\u1273\u1285\u1233\u1235 22 \u1240\u1295 2014 \u12D3\u121D \u12E8\u12D3\
     \u1208\u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12DC\u1293\u1363-\u1273\u1215\u1233\u1235-21\u1363\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/9430D19F_2-podcast-4347-60298870.mp3
+  link: "https://www.dw.com/am/\u12DC\u1293\u1363-\u1273\u1215\u1233\u1235-21\u1363\
     2014/av-60298870?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Thu, 30 Dec 2021 16:37:00 GMT
   summary: null
   title: "\u12DC\u1293\u1363 \u1273\u1215\u1233\u1235 21\u13632014"
-- link: "https://www.dw.com/am/\u12E8\u1273\u1285\u1223\u1225-20-\u1240\u1295\u1363\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/351A003E_2-podcast-4347-60288600.mp3
+  link: "https://www.dw.com/am/\u12E8\u1273\u1285\u1223\u1225-20-\u1240\u1295\u1363\
     -2014-\u12D3-\u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-60288600?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Wed, 29 Dec 2021 17:03:00 GMT
   summary: null
   title: "\u12E8\u1273\u1285\u1223\u1225 20 \u1240\u1295\u1363 2014 \u12D3.\u121D\
     \ \u12E8\u12D3\u1208\u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12E8\u12D3\u1208\u121D-\u12DC\u1293\u1364-\u1273\u1285\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/9D18A96D_2-podcast-4347-60281338.mp3
+  link: "https://www.dw.com/am/\u12E8\u12D3\u1208\u121D-\u12DC\u1293\u1364-\u1273\u1285\
     \u1223\u1225-19-\u1240\u1295-2014-\u12D3-\u121D/av-60281338?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Tue, 28 Dec 2021 17:32:00 GMT
   summary: null
   title: "\u12E8\u12D3\u1208\u121D \u12DC\u1293\u1364 \u1273\u1285\u1223\u1225 19\
     \ \u1240\u1295 2014 \u12D3.\u121D"
-- link: "https://www.dw.com/am/\u12E8\u1230\u129E-\u1273\u1285\u1233\u1235-18-\u1240\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/ACE95E40_2-podcast-4347-60268654.mp3
+  link: "https://www.dw.com/am/\u12E8\u1230\u129E-\u1273\u1285\u1233\u1235-18-\u1240\
     \u1295-2014-\u12D3\u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-60268654?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Mon, 27 Dec 2021 17:37:00 GMT
   summary: null
   title: "\u12E8\u1230\u129E \u1273\u1285\u1233\u1235 18 \u1240\u1295 2014 \u12D3\u121D\
     \ \u12E8\u12D3\u1208\u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12E8\u1273\u1285\u1233\u1235-16-\u1240\u1295-2014-\u12D3\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/9F7135B3_2-podcast-4347-60256523.mp3
+  link: "https://www.dw.com/am/\u12E8\u1273\u1285\u1233\u1235-16-\u1240\u1295-2014-\u12D3\
     -\u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-60256523?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Sat, 25 Dec 2021 16:37:00 GMT
   summary: null
   title: "\u12E8\u1273\u1285\u1233\u1235 16 \u1240\u1295 2014 \u12D3.\u121D. \u12E8\
     \u12D3\u1208\u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12DC\u1293\u1363-\u1273\u1215\u1233\u1235-14\u1363\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/793650D2_2-podcast-4347-60245715.mp3
+  link: "https://www.dw.com/am/\u12DC\u1293\u1363-\u1273\u1215\u1233\u1235-14\u1363\
     2014/av-60245715?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Thu, 23 Dec 2021 16:59:00 GMT
   summary: null
   title: "\u12DC\u1293\u1363 \u1273\u1215\u1233\u1235 14\u13632014"
-- link: "https://www.dw.com/am/\u12E8\u1273\u1285\u1223\u1225-13-\u1240\u1295\u1363\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/9E03C53A_2-podcast-4347-60231344.mp3
+  link: "https://www.dw.com/am/\u12E8\u1273\u1285\u1223\u1225-13-\u1240\u1295\u1363\
     -2014-\u12D3-\u121D\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-60231344?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Wed, 22 Dec 2021 16:53:00 GMT
   summary: null
   title: "\u12E8\u1273\u1285\u1223\u1225 13 \u1240\u1295\u1363 2014 \u12D3.\u121D\u12E8\
     \u12D3\u1208\u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12DC\u1293\u1363-\u1273\u1215\u1233\u1235-12\u1363\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/A8E0586E_2-podcast-4347-60216622.mp3
+  link: "https://www.dw.com/am/\u12DC\u1293\u1363-\u1273\u1215\u1233\u1235-12\u1363\
     2014/av-60216622?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Tue, 21 Dec 2021 16:49:00 GMT
   summary: null
   title: "\u12DC\u1293\u1363 \u1273\u1215\u1233\u1235 12\u13632014"
-- link: "https://www.dw.com/am/\u12E8\u12D3\u1208\u121D-\u12DC\u1293\u1364-\u1273\u1205\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/34B9AB9A_2-podcast-4347-60200336.mp3
+  link: "https://www.dw.com/am/\u12E8\u12D3\u1208\u121D-\u12DC\u1293\u1364-\u1273\u1205\
     \u1233\u1235-11\u1240\u1295-\u1364-2014-\u12D3-\u121D-\u1230\u129E/av-60200336?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Mon, 20 Dec 2021 16:43:00 GMT
   summary: null
   title: "\u12E8\u12D3\u1208\u121D \u12DC\u1293\u1364 \u1273\u1205\u1233\u1235 11\u1240\
     \u1295 \u1364 2014 \u12D3.\u121D \u1230\u129E"
-- link: "https://www.dw.com/am/\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-60188343?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/F39B764D_2-podcast-4347-60188343.mp3
+  link: "https://www.dw.com/am/\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-60188343?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Sun, 19 Dec 2021 16:59:00 GMT
   summary: "\u12E8\u1273\u1205\u1233\u1235 10 \u1240\u1295 2014 \u12E8\u12D3\u1208\
     \u121D \u12DC\u1293"
   title: "\u12E8\u12D3\u1208\u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12E8\u1210\u1219\u1235-\u1273\u1285\u1233\u1235-7-\u1240\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/5426A2E7_2-podcast-4347-60151905.mp3
+  link: "https://www.dw.com/am/\u12E8\u1210\u1219\u1235-\u1273\u1285\u1233\u1235-7-\u1240\
     \u1295-2014-\u12D3\u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-60151905?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Thu, 16 Dec 2021 17:03:00 GMT
   summary: null
   title: "\u12E8\u1210\u1219\u1235 \u1273\u1285\u1233\u1235 7 \u1240\u1295 2014 \u12D3\
     \u121D \u12E8\u12D3\u1208\u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12E8\u1273\u1285\u1223\u1225-5-\u1240\u1295\u1363\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/A8CFC3F2_2-podcast-4347-60120702.mp3
+  link: "https://www.dw.com/am/\u12E8\u1273\u1285\u1223\u1225-5-\u1240\u1295\u1363\
     -2014-\u12D3-\u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-60120702?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Tue, 14 Dec 2021 16:46:00 GMT
   summary: null
   title: "\u12E8\u1273\u1285\u1223\u1225 5 \u1240\u1295\u1363 2014 \u12D3.\u121D \u12E8\
     \u12D3\u1208\u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12DC\u1293/av-60092067?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/8059C27C_2-podcast-4347-60092067.mp3
+  link: "https://www.dw.com/am/\u12DC\u1293/av-60092067?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Sat, 11 Dec 2021 17:03:00 GMT
   summary: "\u12E8\u1273\u1205\u1233\u1235 2 \u1240\u1295 2014 \u12D3\u121D \u12E8\
     \u12D3\u1208\u121D \u12DC\u1293"
   title: "\u12DC\u1293"
-- link: "https://www.dw.com/am/\u12DC\u1293\u1363-\u1273\u1215\u1233\u1235-1\u1363\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/E336F735_2-podcast-4347-60085395.mp3
+  link: "https://www.dw.com/am/\u12DC\u1293\u1363-\u1273\u1215\u1233\u1235-1\u1363\
     -2014/av-60085395?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Fri, 10 Dec 2021 16:55:00 GMT
   summary: null
   title: "\u12DC\u1293\u1363 \u1273\u1215\u1233\u1235 1\u1363 2014"
-- link: "https://www.dw.com/am/\u12E8\u1285\u12F3\u122D-28-\u1240\u1295-2014-\u12D3\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/B3D653A4_2-podcast-4347-60049286.mp3
+  link: "https://www.dw.com/am/\u12E8\u1285\u12F3\u122D-28-\u1240\u1295-2014-\u12D3\
     -\u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-60049286?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Tue, 7 Dec 2021 17:24:00 GMT
   summary: null
   title: "\u12E8\u1285\u12F3\u122D 28 \u1240\u1295 2014 \u12D3,\u121D \u12E8\u12D3\
     \u1208\u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12E8\u12D3\u1208\u121D-\u12DC\u1293\u1364-\u1285\u12F3\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/35A3EECF_2-podcast-4347-60036726.mp3
+  link: "https://www.dw.com/am/\u12E8\u12D3\u1208\u121D-\u12DC\u1293\u1364-\u1285\u12F3\
     \u122D-27-\u1240\u1295-2014-\u12D3-\u121D-\u1230\u129E/av-60036726?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Mon, 6 Dec 2021 17:16:00 GMT
   summary: null
   title: "\u12E8\u12D3\u1208\u121D \u12DC\u1293\u1364 \u1285\u12F3\u122D 27 \u1240\
     \u1295 2014 \u12D3.\u121D \u1230\u129E"
-- link: "https://www.dw.com/am/\u12DC\u1293/av-60021371?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/77469F0A_2-podcast-4347-60021371.mp3
+  link: "https://www.dw.com/am/\u12DC\u1293/av-60021371?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Sat, 4 Dec 2021 16:29:00 GMT
   summary: "\u12E8\u1245\u12F3\u121C \u1215\u12F3\u122D 25 \u1240\u1295 2014 \u12E8\
     \u12D3\u1208\u121D \u12DC\u1293"
   title: "\u12DC\u1293"
-- link: "https://www.dw.com/am/\u12E8\u12D3\u1208\u121D-\u12DC\u1293\u1364-\u1285\u12F3\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/ECC5D6F9_2-podcast-4347-59981103.mp3
+  link: "https://www.dw.com/am/\u12E8\u12D3\u1208\u121D-\u12DC\u1293\u1364-\u1285\u12F3\
     \u122D-21-\u1240\u1295-2014-\u12D3-\u121D-\u121B\u12AD\u1230\u129E/av-59981103?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Tue, 30 Nov 2021 17:05:00 GMT
   summary: null
   title: "\u12E8\u12D3\u1208\u121D \u12DC\u1293\u1364 \u1285\u12F3\u122D 21 \u1240\
     \u1295 2014 \u12D3.\u121D \u121B\u12AD\u1230\u129E"
-- link: "https://www.dw.com/am/\u12E8\u1285\u12F3\u122D-20-\u1240\u1295-2021-\u12E8\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/E98941E8_2-podcast-4347-59971535.mp3
+  link: "https://www.dw.com/am/\u12E8\u1285\u12F3\u122D-20-\u1240\u1295-2021-\u12E8\
     \u12D3\u1208\u121D-\u12DC\u1293/av-59971535?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Mon, 29 Nov 2021 16:52:00 GMT
   summary: null
   title: "\u12E8\u1285\u12F3\u122D 20 \u1240\u1295 2021 \u12E8\u12D3\u1208\u121D \u12DC\
     \u1293"
-- link: "https://www.dw.com/am/\u12DC\u1293/av-59962610?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/71651D39_2-podcast-4347-59962610.mp3
+  link: "https://www.dw.com/am/\u12DC\u1293/av-59962610?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Sun, 28 Nov 2021 16:41:00 GMT
   summary: "\u12E8\u1245\u12F3\u121C \u1215\u12F3\u122D 19 \u1240\u1295 2014 \u12D3\
     .\u121D. \u12E8\u12D3\u1208\u121D \u12DC\u1293"
   title: "\u12DC\u1293"
-- link: "https://www.dw.com/am/\u12DC\u1293\u1363\u1215\u12F3\u122D-17\u13632014/av-59952052?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/62202B45_2-podcast-4347-59952052.mp3
+  link: "https://www.dw.com/am/\u12DC\u1293\u1363\u1215\u12F3\u122D-17\u13632014/av-59952052?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Fri, 26 Nov 2021 17:05:00 GMT
   summary: null
   title: "\u12DC\u1293\u1363\u1215\u12F3\u122D 17\u13632014"
-- link: "https://www.dw.com/am/\u12E8\u1285\u12F3\u122D-16-\u1240\u1295\u1363-2014-\u12D3\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/CAFBCD63_2-podcast-4347-59937155.mp3
+  link: "https://www.dw.com/am/\u12E8\u1285\u12F3\u122D-16-\u1240\u1295\u1363-2014-\u12D3\
     -\u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-59937155?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Thu, 25 Nov 2021 16:52:00 GMT
   summary: null
   title: "\u12E8\u1285\u12F3\u122D 16 \u1240\u1295\u1363 2014 \u12D3.\u121D \u12E8\
     \u12D3\u1208\u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12DC\u1293\u1363-\u1215\u12F3\u122D-15\u13632014/av-59923220?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/55DF38FE_2-podcast-4347-59923220.mp3
+  link: "https://www.dw.com/am/\u12DC\u1293\u1363-\u1215\u12F3\u122D-15\u13632014/av-59923220?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Wed, 24 Nov 2021 17:04:00 GMT
   summary: null
   title: "\u12DC\u1293\u1363 \u1215\u12F3\u122D 15\u13632014"
-- link: "https://www.dw.com/am/\u12E8\u12D3\u1208\u121D-\u12DC\u1293\u1364-\u1215\u12F3\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/94827BCD_2-podcast-4347-59903135.mp3
+  link: "https://www.dw.com/am/\u12E8\u12D3\u1208\u121D-\u12DC\u1293\u1364-\u1215\u12F3\
     \u122D-13-\u1240\u1295\u1364-2014-\u12D3-\u121D-\u1230\u129E/av-59903135?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Mon, 22 Nov 2021 17:21:00 GMT
   summary: null
   title: "\u12E8\u12D3\u1208\u121D \u12DC\u1293\u1364 \u1215\u12F3\u122D 13 \u1240\
     \u1295\u1364 2014 \u12D3.\u121D \u1230\u129E"
-- link: "https://www.dw.com/am/\u12E8\u12D0\u122D\u1265-\u1285\u12F3\u122D-10-\u1240\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/140A3CB7_2-podcast-4347-59884259.mp3
+  link: "https://www.dw.com/am/\u12E8\u12D0\u122D\u1265-\u1285\u12F3\u122D-10-\u1240\
     \u1295\u1363-2014-\u12D3-\u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-59884259?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Fri, 19 Nov 2021 16:49:00 GMT
   summary: null
   title: "\u12E8\u12D0\u122D\u1265 \u1285\u12F3\u122D 10 \u1240\u1295\u1363 2014 \u12D3\
     .\u121D \u12E8\u12D3\u1208\u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12E8\u1285\u12F3\u122D-9-\u1240\u1295-2014-\u12D3\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/4B0E49E1_2-podcast-4347-59867700.mp3
+  link: "https://www.dw.com/am/\u12E8\u1285\u12F3\u122D-9-\u1240\u1295-2014-\u12D3\
     -\u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-59867700?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Thu, 18 Nov 2021 17:22:00 GMT
   summary: null
   title: "\u12E8\u1285\u12F3\u122D 9 \u1240\u1295 2014 \u12D3.\u121D \u12E8\u12D3\u1208\
     \u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12DC\u1293\u1363-\u1215\u12F3\u122D-8\u13632014/av-59849008?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/4BCD2BDE_2-podcast-4347-59849008.mp3
+  link: "https://www.dw.com/am/\u12DC\u1293\u1363-\u1215\u12F3\u122D-8\u13632014/av-59849008?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Wed, 17 Nov 2021 16:49:00 GMT
   summary: null
   title: "\u12DC\u1293\u1363 \u1215\u12F3\u122D 8\u13632014"
-- link: "https://www.dw.com/am/\u12E8\u1285\u12F3\u122D-7-\u1240\u1295\u1363-2014-\u12D3\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/BB9F314F_2-podcast-4347-59838995.mp3
+  link: "https://www.dw.com/am/\u12E8\u1285\u12F3\u122D-7-\u1240\u1295\u1363-2014-\u12D3\
     -\u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-59838995?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Tue, 16 Nov 2021 16:47:00 GMT
   summary: null
   title: "\u12E8\u1285\u12F3\u122D 7 \u1240\u1295\u1363 2014 \u12D3.\u121D. \u12E8\
     \u12D3\u1208\u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12E8\u12D3\u1208\u121D-\u12DC\u1293\u1364-\u1285\u12F3\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/AC67511C_2-podcast-4347-59828303.mp3
+  link: "https://www.dw.com/am/\u12E8\u12D3\u1208\u121D-\u12DC\u1293\u1364-\u1285\u12F3\
     \u122D-6-\u1240\u1295\u1363-2014-\u12D3-\u121D-\u1230\u129E/av-59828303?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Mon, 15 Nov 2021 16:47:00 GMT
   summary: null
   title: "\u12E8\u12D3\u1208\u121D \u12DC\u1293\u1364 \u1285\u12F3\u122D 6 \u1240\u1295\
     \u1363 2014 \u12D3.\u121D \u1230\u129E"
-- link: "https://www.dw.com/am/\u12E8\u1215\u12F3\u122D-05-\u1240\u1295-2014-\u12D3\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/A04FF167_2-podcast-4347-59816379.mp3
+  link: "https://www.dw.com/am/\u12E8\u1215\u12F3\u122D-05-\u1240\u1295-2014-\u12D3\
     -\u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-59816379?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Sun, 14 Nov 2021 16:40:00 GMT
   summary: null
   title: "\u12E8\u1215\u12F3\u122D 05 \u1240\u1295 2014 \u12D3.\u121D. \u12E8\u12D3\
     \u1208\u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12E8\u1285\u12F3\u122D-3-\u1240\u1295-2014-\u12D3\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/423871FC_2-podcast-4347-59806878.mp3
+  link: "https://www.dw.com/am/\u12E8\u1285\u12F3\u122D-3-\u1240\u1295-2014-\u12D3\
     -\u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-59806878?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Fri, 12 Nov 2021 17:42:00 GMT
   summary: null
   title: "\u12E8\u1285\u12F3\u122D 3 \u1240\u1295 2014 \u12D3,\u121D \u12E8\u12D3\u1208\
     \u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12E8\u1285\u12F3\u122D-1-\u1240\u1295-2014-\u12D3\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/19C0F8A5_2-podcast-4347-59781910.mp3
+  link: "https://www.dw.com/am/\u12E8\u1285\u12F3\u122D-1-\u1240\u1295-2014-\u12D3\
     -\u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-59781910?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Wed, 10 Nov 2021 16:54:00 GMT
   summary: null
   title: "\u12E8\u1285\u12F3\u122D 1 \u1240\u1295 2014 \u12D3,\u121D \u12E8\u12D3\u1208\
     \u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12DC\u1293\u1363-\u1325\u1245\u121D\u1275-30\u1363\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/D59266A1_2-podcast-4347-59770435.mp3
+  link: "https://www.dw.com/am/\u12DC\u1293\u1363-\u1325\u1245\u121D\u1275-30\u1363\
     2014/av-59770435?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Tue, 9 Nov 2021 17:21:00 GMT
   summary: null
   title: "\u12DC\u1293\u1363 \u1325\u1245\u121D\u1275 30\u13632014"
-- link: "https://www.dw.com/am/\u12E8\u1325\u1245\u121D\u1275-29-\u1240\u1295-2014-\u12D3\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/078B3370_2-podcast-4347-59758970.mp3
+  link: "https://www.dw.com/am/\u12E8\u1325\u1245\u121D\u1275-29-\u1240\u1295-2014-\u12D3\
     \u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-59758970?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Mon, 8 Nov 2021 17:59:00 GMT
   summary: null
   title: "\u12E8\u1325\u1245\u121D\u1275 29 \u1240\u1295 2014 \u12D3\u121D \u12E8\u12D3\
     \u1208\u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12DC\u1293/av-59748378?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/743E8D1A_2-podcast-4347-59748378.mp3
+  link: "https://www.dw.com/am/\u12DC\u1293/av-59748378?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Sun, 7 Nov 2021 16:34:00 GMT
   summary: "\u12E8\u1325\u1245\u121D\u1275 28 \u1240\u1295 2014 \u12D3\u121D \u12E8\
     \u12D3\u1208\u121D \u12DC\u1293"
   title: "\u12DC\u1293"
-- link: "https://www.dw.com/am/\u12E8\u1325\u1245\u121D\u1275-27-\u1240\u1295-2014-\u12D3\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/E218BC19_2-podcast-4347-59742637.mp3
+  link: "https://www.dw.com/am/\u12E8\u1325\u1245\u121D\u1275-27-\u1240\u1295-2014-\u12D3\
     -\u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-59742637?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Sat, 6 Nov 2021 16:36:00 GMT
   summary: null
   title: "\u12E8\u1325\u1245\u121D\u1275 27 \u1240\u1295 2014 \u12D3.\u121D. \u12E8\
     \u12D3\u1208\u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12E8\u1325\u1245\u121D\u1275-26-\u1240\u1295-2014-\u12D3\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/91F54203_2-podcast-4347-59736229.mp3
+  link: "https://www.dw.com/am/\u12E8\u1325\u1245\u121D\u1275-26-\u1240\u1295-2014-\u12D3\
     -\u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-59736229?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Fri, 5 Nov 2021 16:46:00 GMT
   summary: null
   title: "\u12E8\u1325\u1245\u121D\u1275 26 \u1240\u1295 2014 \u12D3,\u121D \u12E8\
     \u12D3\u1208\u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12E8\u1325\u1245\u121D\u1275-25-\u1240\u1295-2014-\u12D3\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/F1CD6EEA_2-podcast-4347-59724455.mp3
+  link: "https://www.dw.com/am/\u12E8\u1325\u1245\u121D\u1275-25-\u1240\u1295-2014-\u12D3\
     -\u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-59724455?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Thu, 4 Nov 2021 16:48:00 GMT
   summary: null
   title: "\u12E8\u1325\u1245\u121D\u1275 25 \u1240\u1295 2014 \u12D3.\u121D. \u12E8\
     \u12D3\u1208\u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12DC\u1293\u1363\u1325\u1245\u121D\u1275-24\u1363\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/CAB1CBEC_2-podcast-4347-59712307.mp3
+  link: "https://www.dw.com/am/\u12DC\u1293\u1363\u1325\u1245\u121D\u1275-24\u1363\
     2014/av-59712307?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Wed, 3 Nov 2021 17:03:00 GMT
   summary: null
   title: "\u12DC\u1293\u1363\u1325\u1245\u121D\u1275 24\u13632014"
-- link: "https://www.dw.com/am/\u12E8\u1325\u1245\u121D\u1275-23-\u1240\u1295-2014-\u12D3\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/C4996B55_2-podcast-4347-59699580.mp3
+  link: "https://www.dw.com/am/\u12E8\u1325\u1245\u121D\u1275-23-\u1240\u1295-2014-\u12D3\
     -\u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-59699580?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Tue, 2 Nov 2021 17:16:00 GMT
   summary: null
   title: "\u12E8\u1325\u1245\u121D\u1275 23 \u1240\u1295 2014 \u12D3,\u121D \u12E8\
     \u12D3\u1208\u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12E8\u1325\u1245\u121D\u1275-22-\u1240\u1295-2014-\u12D3\
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/8C5AB29A_2-podcast-4347-59688328.mp3
+  link: "https://www.dw.com/am/\u12E8\u1325\u1245\u121D\u1275-22-\u1240\u1295-2014-\u12D3\
     -\u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-59688328?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Mon, 1 Nov 2021 16:38:00 GMT
   summary: null
   title: "\u12E8\u1325\u1245\u121D\u1275 22 \u1240\u1295 2014 \u12D3.\u121D \u12E8\
     \u12D3\u1208\u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12DC\u1293/av-59675193?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/amh/4347_podcast_amh_nachrichten/2109B4FC_2-podcast-4347-59675193.mp3
+  link: "https://www.dw.com/am/\u12DC\u1293/av-59675193?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
   published: Sat, 30 Oct 2021 16:48:00 GMT
   summary: "\u12E8\u1325\u1245\u121D\u1275 20 \u1240\u1295 2014 \u12D3\u121D \u12E8\
     \u12D3\u1208\u121D \u12DC\u1293"
   title: "\u12DC\u1293"
-- link: "https://www.dw.com/am/\u12E8\u1325\u1245\u121D\u1275-18-\u1240\u1295\u1363\
-    -2014-\u12D3-\u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-59657101?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
-  published: Thu, 28 Oct 2021 16:50:00 GMT
-  summary: null
-  title: "\u12E8\u1325\u1245\u121D\u1275 18 \u1240\u1295\u1363 2014 \u12D3.\u121D\
-    \ \u12E8\u12D3\u1208\u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12E8\u1325\u1245\u121D\u1275-16-\u1240\u1295\u1363\
-    -2014-\u12D3-\u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-59633125?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
-  published: Tue, 26 Oct 2021 16:45:00 GMT
-  summary: null
-  title: "\u12E8\u1325\u1245\u121D\u1275 16 \u1240\u1295\u1363 2014 \u12D3.\u121D\
-    \ \u12E8\u12D3\u1208\u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12E8\u1325\u1245\u121D\u1275-13-\u1240\u1295-2014-\u12D3\
-    -\u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-59606342?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
-  published: Sat, 23 Oct 2021 16:38:00 GMT
-  summary: null
-  title: "\u12E8\u1325\u1245\u121D\u1275 13 \u1240\u1295 2014 \u12D3.\u121D \u12E8\
-    \u12D3\u1208\u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12E8\u1325\u1245\u121D\u1275-12-\u1240\u1295\u1363\
-    -2014-\u12D3-\u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-59600301?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
-  published: Fri, 22 Oct 2021 17:02:00 GMT
-  summary: null
-  title: "\u12E8\u1325\u1245\u121D\u1275 12 \u1240\u1295\u1363 2014 \u12D3.\u121D\
-    \ \u12E8\u12D3\u1208\u121D \u12DC\u1293"
-- link: "https://www.dw.com/am/\u12E8\u1325\u1245\u121D\u1275-11-\u1240\u1295-2014-\u12D3\
-    -\u121D-\u12E8\u12D3\u1208\u121D-\u12DC\u1293/av-59582272?maca=amh-podcast_amh_nachrichten-4347-xml-mrss"
-  published: Thu, 21 Oct 2021 17:05:00 GMT
-  summary: null
-  title: "\u12E8\u1325\u1245\u121D\u1275 11 \u1240\u1295 2014 \u12D3,\u121D \u12E8\
-    \u12D3\u1208\u121D \u12DC\u1293"
 
 ---
 ከሰኞ እስከ ዓርብ -   ከፖለቲካው - ከኤኮኖሚው  እና ከባህሉ ዓለም -  የ 10 ደቂቃ  አዲስ ዜና

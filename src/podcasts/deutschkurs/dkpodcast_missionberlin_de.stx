@@ -1,7 +1,7 @@
 ---
 title: "Mission Europe - Mission Berlin | Deutsch lernen | Deutsche Welle"
 id: dkpodcast_missionberlin_de
-published: "Thu, 6 Jan 2022 07:55:32 GMT"
+published: "Thu, 13 Jan 2022 07:21:59 GMT"
 page_link: "https://www.dw.com/missioneurope?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss"
 atom_link: "https://rss.dw.com/xml/DKpodcast_missionberlin_de"
 language: de
@@ -11,7 +11,10 @@ tags: [ "Education", "Language Learning" ]
 image_url: https://static.dw.com/image/18800228_7.jpg
 image_title: ""
 entries:
-- link: https://www.dw.com/de/mission-berlin-26-zeitexperimente/a-2235143?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/de/2291_DKpodcast_missionberlin_de/MissionEurope_Berlin_Episode26_English-podcast-2291-2235143.mp3
+  link: https://www.dw.com/de/mission-berlin-26-zeitexperimente/a-2235143?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
   published: Wed, 25 Jun 2008 11:08:00 GMT
   summary: "Zur\xFCck in der Gegenwart, versucht Anna mit Paul, die Zeitmaschine zu\
     \ blockieren. Aber ihr fehlt der Code. Anna \"folgt der Musik\" und die Frau in\
@@ -24,7 +27,10 @@ entries:
     \ ein. Wird die Frau in Rot die Zerst\xF6rung der Zeitmaschine verhindern k\xF6\
     nnen oder wird sie bald, wie die Maschine, Geschichte sein?"
   title: "Mission Berlin 26 \u2013 Zeitexperimente"
-- link: https://www.dw.com/de/mission-berlin-25-sand-im-getriebe/a-2235141?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/de/2291_DKpodcast_missionberlin_de/MissionEurope_Berlin_Episode25_English-podcast-2291-2235141.mp3
+  link: https://www.dw.com/de/mission-berlin-25-sand-im-getriebe/a-2235141?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
   published: Wed, 25 Jun 2008 11:06:00 GMT
   summary: "Die Zeit wird langsam knapp und Anna muss sich von Paul verabschieden,\
     \ um zum 9. November 2006 zur\xFCckzukehren. F\xFCr die Erf\xFCllung ihrer Mission\
@@ -36,7 +42,10 @@ entries:
     \ die Musik. Aber kommt sie noch rechtzeitig, um das Schlimmste zu verhindern?\
     \ Es bleiben nur noch 5 Minuten, um die Mission erfolgreich zu beenden."
   title: "Mission Berlin 25 \u2013 Sand im Getriebe"
-- link: https://www.dw.com/de/mission-berlin-24-die-uhr-tickt/a-2235140?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/de/2291_DKpodcast_missionberlin_de/MissionEurope_Berlin_Episode24_Francais-podcast-2291-2235140.mp3
+  link: https://www.dw.com/de/mission-berlin-24-die-uhr-tickt/a-2235140?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
   published: Wed, 25 Jun 2008 10:56:00 GMT
   summary: "Anna findet das Metallk\xE4stchen wieder, das sie im Jahr 1961 versteckt\
     \ hat, kann es aber nicht \xF6ffnen, weil es verrostet ist. Als es ihr doch gelingt,\
@@ -48,7 +57,10 @@ entries:
     \ Frau in Rot einen Strich durch die Rechnung zu machen. Nur bleibt ihr daf\xFC\
     r noch gen\xFCgend Zeit?"
   title: "Mission Berlin 24 \u2013 Die Uhr tickt"
-- link: "https://www.dw.com/de/mission-berlin-23-bis-sp\xE4ter/a-2235138?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/de/2291_DKpodcast_missionberlin_de/MissionEurope_Berlin_Episode23_English-podcast-2291-2235138.mp3
+  link: "https://www.dw.com/de/mission-berlin-23-bis-sp\xE4ter/a-2235138?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss"
   published: Wed, 25 Jun 2008 10:49:00 GMT
   summary: "Anna wird auf einem Mofa zur Bernauer Stra\xDFe mitgenommen. Ihr Helfer\
     \ ist Emre Ogur, der ihr viel Gl\xFCck in Berlin w\xFCnscht. Aber reicht das,\
@@ -60,7 +72,10 @@ entries:
     \ k\xF6nnen sie verjagen. W\xE4hrenddessen macht sich Anna auf den Weg, das Etui\
     \ zur\xFCckzuholen. Aber ist es nach so vielen Jahren noch in seinem Versteck?"
   title: "Mission Berlin 23 \u2013 Bis sp\xE4ter"
-- link: https://www.dw.com/de/mission-berlin-22-setz-dich-in-bewegung/a-2235136?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/de/2291_DKpodcast_missionberlin_de/MissionEurope_Berlin_Episode22_English-podcast-2291-2235136.mp3
+  link: https://www.dw.com/de/mission-berlin-22-setz-dich-in-bewegung/a-2235136?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
   published: Wed, 25 Jun 2008 10:47:00 GMT
   summary: "Anna wird ins Berlin des Jahres 1989 versetzt, wo gerade gro\xDFe Freude\
     \ wegen des Mauerfalls herrscht. Sie muss sich durch die Menschenmassen dr\xE4\
@@ -73,7 +88,10 @@ entries:
     \ Wird sie schnell genug durch die Menschenmassen der ehemals geteilten Stadt\
     \ finden?"
   title: "Mission Berlin 22 \u2013 Setz dich in Bewegung"
-- link: https://www.dw.com/de/mission-berlin-21-ein-neuer-plan/a-2235132?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/de/2291_DKpodcast_missionberlin_de/MissionEurope_Berlin_Episode21_English-podcast-2291-2235132.mp3
+  link: https://www.dw.com/de/mission-berlin-21-ein-neuer-plan/a-2235132?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
   published: Wed, 25 Jun 2008 10:42:00 GMT
   summary: "Anna kehrt ins Jahr 2006 zur\xFCck. Pastor Kavalier wurde von der Frau\
     \ in Rot entf\xFChrt. Weil sie nicht herausfinden kann, wo der Pastor festgehalten\
@@ -85,7 +103,10 @@ entries:
     \ sie eine Stadt im Freudentaumel, die den Fall der Mauer feiert. In diesem Trubel\
     \ will sie unbemerkt das Etui zur\xFCckholen."
   title: "Mission Berlin 21 \u2013 Ein neuer Plan"
-- link: https://www.dw.com/de/mission-berlin-20-von-zeit-zu-zeit/a-2235130?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/de/2291_DKpodcast_missionberlin_de/MissionEurope_Berlin_Episode20_Francais-podcast-2291-2235130.mp3
+  link: https://www.dw.com/de/mission-berlin-20-von-zeit-zu-zeit/a-2235130?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
   published: Wed, 25 Jun 2008 10:38:00 GMT
   summary: "Anna ist der L\xF6sung des R\xE4tsels immer noch nicht n\xE4her gekommen.\
     \ Welches Ereignis will RATAVA verhindern? Nach ihrer R\xFCckkehr ins Jahr 2006\
@@ -97,7 +118,10 @@ entries:
     \ nicht um den Bau, sondern um den Fall der Mauer geht. Der Spieler entscheidet,\
     \ dass Anna sofort ins Jahr 1989 reisen muss, um den Fall der Mauer mitzuerleben."
   title: "Mission Berlin 20 \u2013 Von Zeit zu Zeit"
-- link: https://www.dw.com/de/mission-berlin-19-liebe-im-kalten-krieg/a-2235127?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/de/2291_DKpodcast_missionberlin_de/MissionEurope_Berlin_Episode19_English-podcast-2291-2235127.mp3
+  link: https://www.dw.com/de/mission-berlin-19-liebe-im-kalten-krieg/a-2235127?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
   published: Wed, 25 Jun 2008 10:33:00 GMT
   summary: "Nur noch 40 Minuten: Anna und Paul entkommen der Frau in Rot und landen\
     \ in West-Berlin. Paul macht die Situation noch komplizierter, indem er Anna eine\
@@ -109,7 +133,10 @@ entries:
     \ auszuarbeiten. Werden die verbleibenden 35 Minuten reichen, um eine L\xF6sung\
     \ zu finden?"
   title: "Mission Berlin 19 \u2013 Liebe im Kalten Krieg"
-- link: https://www.dw.com/de/mission-berlin-18-das-versteckte-etui/a-2235043?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/de/2291_DKpodcast_missionberlin_de/MissionEurope_Berlin_Episode18_English-podcast-2291-2235043.mp3
+  link: https://www.dw.com/de/mission-berlin-18-das-versteckte-etui/a-2235043?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
   published: Wed, 25 Jun 2008 10:32:00 GMT
   summary: "Anna findet heraus, dass die Frau in Rot die Chefin von RATAVA ist. Es\
     \ bleiben nur noch 45 Minuten. Annas wichtigster Hinweis ist nun ein Etui, das\
@@ -125,7 +152,10 @@ entries:
     \ zu finden, wie sie das Etui sp\xE4ter holen k\xF6nnen. Aber reichen die verbleibenden\
     \ 40 Minuten daf\xFCr aus?"
   title: "Mission Berlin 18 \u2013 Das versteckte Etui"
-- link: https://www.dw.com/de/mission-berlin-17-barrikadenbau/a-2235042?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/de/2291_DKpodcast_missionberlin_de/MissionEurope_Berlin_Episode17_English-podcast-2291-2235042.mp3
+  link: https://www.dw.com/de/mission-berlin-17-barrikadenbau/a-2235042?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
   published: Wed, 25 Jun 2008 10:30:00 GMT
   summary: "Noch 50 Minuten: Der Spieler entscheidet, alles zu riskieren und der Kassiererin\
     \ zu vertrauen. Im Radio wird von den Barrikaden der ostdeutschen Soldaten berichtet.\
@@ -137,7 +167,10 @@ entries:
     une errichtet. Der Spieler erkl\xE4rt Anna, dass dies der Beginn des Mauerbaus\
     \ ist. Es bleiben Anna nur noch 45 Minuten, um Deutschland zu retten."
   title: "Mission Berlin 17 \u2013 Barrikadenbau"
-- link: https://www.dw.com/de/mission-berlin-16-alte-bekannte/a-2235039?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/de/2291_DKpodcast_missionberlin_de/MissionEurope_Berlin_Episode16_English-podcast-2291-2235039.mp3
+  link: https://www.dw.com/de/mission-berlin-16-alte-bekannte/a-2235039?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
   published: Wed, 25 Jun 2008 10:27:00 GMT
   summary: "Auch im Jahr 1961 wird Anna von den bewaffneten Motorradfahrern verfolgt.\
     \ In dieser gef\xE4hrlichen Situation bekommt sie Hilfe von einer unbekannten\
@@ -149,7 +182,10 @@ entries:
     \ davon halten soll, aber der Spieler sagt ihr, dass sie der Frau vertrauen soll.\
     \ Zuhause bei der Kassiererin lernt Anna deren Bruder Paul Winkler kennen."
   title: "Mission Berlin 16 \u2013 Alte Bekannte"
-- link: https://www.dw.com/de/mission-berlin-15-zeitreise/a-2235037?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/de/2291_DKpodcast_missionberlin_de/MissionEurope_Berlin_Episode15_English-podcast-2291-2235037.mp3
+  link: https://www.dw.com/de/mission-berlin-15-zeitreise/a-2235037?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
   published: Wed, 25 Jun 2008 10:21:00 GMT
   summary: "Anna muss im geteilten Berlin vom Osten in den Westen gelangen. Doch damit\
     \ nicht genug. In nur 55 Minuten muss sie herausfinden, welches Ereignis RATAVA\
@@ -162,7 +198,10 @@ entries:
     nnten: Den Bau oder den Fall der Berliner Mauer. Anna und dem Spieler bleiben\
     \ nur 55 Minuten, um das herauszufinden."
   title: "Mission Berlin 15 \u2013 Zeitreise"
-- link: https://www.dw.com/de/mission-berlin-14-in-die-vergangenheit/a-2235035?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/de/2291_DKpodcast_missionberlin_de/MissionEurope_Berlin_Episode14_English-podcast-2291-2235035.mp3
+  link: https://www.dw.com/de/mission-berlin-14-in-die-vergangenheit/a-2235035?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
   published: Wed, 25 Jun 2008 10:13:00 GMT
   summary: "Anna entdeckt die Zeitmaschine und erf\xE4hrt, dass die Terroristen ein\
     \ historisches Ereignis ausradieren wollen. Aber welches? Der Spieler schickt\
@@ -175,7 +214,10 @@ entries:
     \ 13. August 1961. Ihr bleiben nur noch 60 Minuten zur Erf\xFCllung ihrer Mission.\
     \ Ist das genug?"
   title: "Mission Berlin 14 \u2013 In die Vergangenheit"
-- link: "https://www.dw.com/de/mission-berlin-13-g\xF6ttliche-hilfe/a-2235034?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/de/2291_DKpodcast_missionberlin_de/MissionEurope_Berlin_Episode13_English-podcast-2291-2235034.mp3
+  link: "https://www.dw.com/de/mission-berlin-13-g\xF6ttliche-hilfe/a-2235034?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss"
   published: Wed, 25 Jun 2008 09:59:00 GMT
   summary: "Die Kirche scheint der richtige Ort zu sein, um Informationen zu sammeln.\
     \ Der Pastor erkl\xE4rt Anna die Melodie und teilt ihr mit, dass sie der Schl\xFC\
@@ -187,7 +229,10 @@ entries:
     \ der Schl\xFCssel zu einer Zeitmaschine ist. Dieser Durchbruch beschert Anna\
     \ und dem Spieler einen Zeitbonus von 10 Minuten. Aber wird das reichen?"
   title: "Mission Berlin 13 \u2013 G\xF6ttliche Hilfe"
-- link: https://www.dw.com/de/mission-berlin-12-kirchenmusik/a-2235033?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/de/2291_DKpodcast_missionberlin_de/MissionEurope_Berlin_Episode12_English-podcast-2291-2235033.mp3
+  link: https://www.dw.com/de/mission-berlin-12-kirchenmusik/a-2235033?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
   published: Wed, 25 Jun 2008 09:56:00 GMT
   summary: "Anna bleiben noch 65 Minuten. In der Kirche entdeckt sie, dass die Spieldose\
     \ ein fehlendes Element der Kirchenorgel ist. Die Frau in Rot taucht auf und fordert\
@@ -200,7 +245,10 @@ entries:
     \ steht der Frau in Rot gegen\xFCber. Sie verliert ein weiteres Leben und hat\
     \ nur noch 60 Minuten Zeit."
   title: "Mission Berlin 12 \u2013 Kirchenmusik"
-- link: https://www.dw.com/de/mission-berlin-11-fast-food/a-2235006?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/de/2291_DKpodcast_missionberlin_de/MissionEurope_Berlin_Episode11_English-podcast-2291-2235006.mp3
+  link: https://www.dw.com/de/mission-berlin-11-fast-food/a-2235006?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
   published: Wed, 25 Jun 2008 09:53:00 GMT
   summary: "Als Anna Paul beim Essen von dem geheimnisvollen Satz \"In der Teilung\
     \ liegt die L\xF6sung; folge der Musik!\" erz\xE4hlt, erkennt er die Gefahr und\
@@ -212,7 +260,10 @@ entries:
     hrt vom Spieler, dass die Kirche ein Treffpunkt f\xFCr Gegner der DDR-Regierung\
     \ war."
   title: "Mission Berlin 11 \u2013 Fast Food"
-- link: https://www.dw.com/de/mission-berlin-10-in-der-sackgasse/a-2235002?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/de/2291_DKpodcast_missionberlin_de/MissionEurope_Berlin_Episode10_English-podcast-2291-2235002.mp3
+  link: https://www.dw.com/de/mission-berlin-10-in-der-sackgasse/a-2235002?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
   published: Wed, 25 Jun 2008 09:51:00 GMT
   summary: "Der Spieler findet heraus, dass der 13. August 1961 das Datum des Mauerbaus\
     \ in Berlin ist und der 9. November 1989 der Tag, an dem sie fiel. Die Mission\
@@ -223,7 +274,10 @@ entries:
     \ und des Falls der Berliner Mauer sind. Anna merkt, dass die L\xF6sung der gesamten\
     \ Mission in der Teilung Berlins liegt."
   title: "Mission Berlin 10 \u2013 In der Sackgasse"
-- link: https://www.dw.com/de/mission-berlin-09-fehlende-hinweise/a-2235001?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/de/2291_DKpodcast_missionberlin_de/MissionEurope_Berlin_Episode09_English-podcast-2291-2235001.mp3
+  link: https://www.dw.com/de/mission-berlin-09-fehlende-hinweise/a-2235001?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
   published: Wed, 25 Jun 2008 09:50:00 GMT
   summary: "Anna flieht aus dem Theater, aber die Frau in Rot verfolgt sie bis in\
     \ Pauls Gesch\xE4ft. Dank Heidruns Hilfe kann Anna wieder entkommen. Sie hat nun\
@@ -236,7 +290,10 @@ entries:
     \ und Anna die Flucht. Anna hat nun zwei Daten als Anhaltspunkte: den 13. August\
     \ 1961 und den 9. November. Doch welches Jahr ist gemeint?"
   title: "Mission Berlin 09 \u2013 Fehlende Hinweise"
-- link: https://www.dw.com/de/mission-berlin-08-offene-rechnungen/a-2235000?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/de/2291_DKpodcast_missionberlin_de/MissionEurope_Berlin_Episode08_English-podcast-2291-2235000.mp3
+  link: https://www.dw.com/de/mission-berlin-08-offene-rechnungen/a-2235000?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
   published: Wed, 25 Jun 2008 09:48:00 GMT
   summary: "Ogur wird beim Schusswechsel mit der Frau in Rot verwundet und kl\xE4\
     rt Anna \xFCber die RATAVA auf, die historische Ereignisse ausradieren will. Mit\
@@ -248,7 +305,10 @@ entries:
     \ der Kommissar t\xF6dlich verwundet wird, gibt er Anna noch einen Hinweis auf\
     \ ein wichtiges Datum: den 9. November. Aber von welchem Jahr spricht er?"
   title: "Mission Berlin 08 \u2013 Offene Rechnungen"
-- link: https://www.dw.com/de/mission-berlin-07-der-unbekannte-feind/a-2234999?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/de/2291_DKpodcast_missionberlin_de/MissionEurope_Berlin_Episode07_Francais-podcast-2291-2234999.mp3
+  link: https://www.dw.com/de/mission-berlin-07-der-unbekannte-feind/a-2234999?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
   published: Wed, 25 Jun 2008 09:42:00 GMT
   summary: "Anna entkommt den Motorradfahrern, indem sie in ein Variet\xE9-Theater\
     \ fl\xFCchtet. Dort trifft sie Heidrun und erf\xE4hrt von Kommissar Ogur, dass\
@@ -260,7 +320,10 @@ entries:
     \ dass Anna sich im Theater versteckt und warnt sie, dass RATAVA ihr auf der Spur\
     \ ist. Pl\xF6tzlich taucht die Frau in Rot auf. Was will sie von Anna?"
   title: "Mission Berlin 07 \u2013 Der unbekannte Feind"
-- link: https://www.dw.com/de/mission-berlin-06-die-frau-in-rot/a-2234997?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/de/2291_DKpodcast_missionberlin_de/MissionEurope_Berlin_Episode06_English-podcast-2291-2234997.mp3
+  link: https://www.dw.com/de/mission-berlin-06-die-frau-in-rot/a-2234997?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
   published: Wed, 25 Jun 2008 09:38:00 GMT
   summary: "Anna st\xF6\xDFt mit einer Frau zusammen, die behauptet, mit ihr im Jahr\
     \ 1961 befreundet gewesen zu sein. Au\xDFerdem wird Anna von der Nachricht \xFC\
@@ -270,7 +333,10 @@ entries:
     \ bei ihrer schwierigen Mission helfen und warnt vor einer Frau in Rot, die hinter\
     \ ihr her sein soll. Aber woher wei\xDF Heidrun Drei das alles?"
   title: "Mission Berlin 06 \u2013 Die Frau in Rot"
-- link: https://www.dw.com/de/mission-berlin-05-kennen-wir-uns-nicht/a-2234992?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/de/2291_DKpodcast_missionberlin_de/MissionEurope_Berlin_Episode05_English-podcast-2291-2234992.mp3
+  link: https://www.dw.com/de/mission-berlin-05-kennen-wir-uns-nicht/a-2234992?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
   published: Wed, 25 Jun 2008 09:34:00 GMT
   summary: "Anna bringt die Spieldose zum Uhrmacher, um sie zu reparieren. Aber f\xFC\
     r Paul Winkler ist das mehr als nur ein Arbeitsauftrag. Er meint, Anna von fr\xFC\
@@ -283,7 +349,10 @@ entries:
     \ Leben. Sie ist der Musik gefolgt, aber was bedeutet \"In der Teilung liegt die\
     \ L\xF6sung\"?"
   title: "Mission Berlin 05 \u2013 Kennen wir uns nicht?"
-- link: https://www.dw.com/de/mission-berlin-04-warnsignale/a-2234988?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/de/2291_DKpodcast_missionberlin_de/MissionEurope_Berlin_Episode04_Francais-podcast-2291-2234988.mp3
+  link: https://www.dw.com/de/mission-berlin-04-warnsignale/a-2234988?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
   published: Wed, 25 Jun 2008 09:30:00 GMT
   summary: "Anna findet in der Kantstra\xDFe ein Uhrengesch\xE4ft, das aber geschlossen\
     \ ist. Sie erf\xE4hrt, dass der Besitzer in einem Caf\xE9 ist. Die beiden scheinen\
@@ -296,7 +365,10 @@ entries:
     \ warnt Anna, dass ihre Mission gef\xE4hrlich sei \u2013 ebenso wie die Organisation\
     \ RATAVA. Neugierig folgt Anna dem \xE4lteren Mann mit dem silbernen Anh\xE4nger."
   title: "Mission Berlin 04 \u2013 Warnsignale"
-- link: "https://www.dw.com/de/mission-berlin-03-richtung-kantstra\xDFe/a-2234982?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/de/2291_DKpodcast_missionberlin_de/MissionEurope_Berlin_Episode03_English-podcast-2291-2234982.mp3
+  link: "https://www.dw.com/de/mission-berlin-03-richtung-kantstra\xDFe/a-2234982?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss"
   published: Wed, 25 Jun 2008 09:25:00 GMT
   summary: "Anna macht sich auf den Weg zur Kantstra\xDFe, wird aber aufgehalten,\
     \ weil sie nach dem Weg fragen muss. Sie verliert noch mehr Zeit, als die Motorradfahrer\
@@ -307,7 +379,10 @@ entries:
     \ des Spiels gelangt sie schlie\xDFlich sicher zur Kantstra\xDFe. Aber wird sie\
     \ dort finden, was sie sucht?"
   title: "Mission Berlin 03 \u2013 Richtung Kantstra\xDFe"
-- link: https://www.dw.com/de/mission-berlin-02-auf-der-flucht/a-2234971?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/de/2291_DKpodcast_missionberlin_de/MissionEurope_Berlin_Episode02_English-podcast-2291-2234971.mp3
+  link: https://www.dw.com/de/mission-berlin-02-auf-der-flucht/a-2234971?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss
   published: Wed, 25 Jun 2008 09:18:00 GMT
   summary: "Als Anna die Fragen des Kommissars beantwortet, werden sie von Motorradger\xE4\
     uschen und Sch\xFCssen unterbrochen. Anna flieht und entdeckt, dass auf ihrer\
@@ -318,7 +393,10 @@ entries:
     \ der alten Spieldose: Sie verweist auf einen Leo Winkler in der Kantstra\xDF\
     e. Lebt Winkler noch und kann er ihr weiterhelfen?"
   title: "Mission Berlin 02 \u2013 Auf der Flucht"
-- link: "https://www.dw.com/de/mission-berlin-01-b\xF6ses-erwachen/a-2234942?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss"
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/de/2291_DKpodcast_missionberlin_de/MissionEurope_Berlin_Episode01_English-podcast-2291-2234942.mp3
+  link: "https://www.dw.com/de/mission-berlin-01-b\xF6ses-erwachen/a-2234942?maca=de-DKpodcast_missionberlin_de-2291-xml-mrss"
   published: Wed, 25 Jun 2008 09:17:00 GMT
   summary: "Annas Mission ist es, Deutschland vor einem Ungl\xFCck zu bewahren. Sie\
     \ muss das R\xE4tsel l\xF6sen und sich vor unbekannten M\xE4nnern auf Motorr\xE4\
