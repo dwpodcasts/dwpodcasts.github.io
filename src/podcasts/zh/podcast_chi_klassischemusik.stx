@@ -1,7 +1,7 @@
 ---
 title: "古典音樂風"
 id: podcast_chi_klassischemusik
-published: "Thu, 13 Jan 2022 07:19:54 GMT"
+published: "Thu, 13 Jan 2022 15:05:47 GMT"
 page_link: "https://www.dw.com?maca=chi-podcast_chi_klassischemusik-26733-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_chi_klassischemusik"
 language: zh
@@ -11,6 +11,21 @@ tags: [ "Music" ]
 image_url: https://static.dw.com/image/42456914_7.png
 image_title: ""
 entries:
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/chi/26733_podcast_chi_klassischemusik/39B023BA_2-podcast-26733-59794459.mp3
+  link: "https://www.dw.com/zh/\u7F57\u5E15\u8328\uFF1A\u964De\u5C0F\u8C03\u957F\u53F7\
+    \u548C\u94A2\u7434\u66F2/av-59794459?maca=chi-podcast_chi_klassischemusik-26733-xml-mrss"
+  published: Thu, 13 Jan 2022 14:34:00 GMT
+  summary: "\u6CD5\u56FD\u4F5C\u66F2\u5BB6\u3001\u6307\u6325\u5BB6\u7EA6\u745F\u592B\
+    \xB7\u5C45\u4F0A\xB7\u7F57\u5E15\u8328\uFF08Joseph Guy Ropartz\uFF09\u88AB\u89C6\
+    \u4E3A\u5178\u578B\u7684\u5E03\u5217\u5854\u5C3C\u4F5C\u66F2\u5BB6\uFF0C\u8BF7\
+    \u542C\u4ED6\u521B\u4F5C\u7684\u964DE\u5C0F\u8C03\u957F\u53F7\u548C\u94A2\u7434\
+    \u66F2\uFF0C\u7531\u7C73\u6B47\u5C14\xB7\u5E03\u574E\u5357\uFF08Michael Buchanan\uFF09\
+    \u548C\u5361\u5854\u5179\u5A1C\xB7\u7EF4\u4F50\u96F7\u514B(Katarzyna Wieczorek)\u6F14\
+    \u594F\u3002"
+  title: "\u7F57\u5E15\u8328\uFF1A\u964DE\u5C0F\u8C03\u957F\u53F7\u548C\u94A2\u7434\
+    \u66F2"
 - enclosure:
     type: audio/mpeg
     url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/chi/26733_podcast_chi_klassischemusik/B0AF7D83_2-podcast-26733-59794457.mp3
@@ -591,19 +606,6 @@ entries:
     \u5929\u4F7F\u822C\u7684\u7EAF\u6D01\u548C\u4E0D\u53EF\u6297\u62D2\u7684\u67D4\
     \u60C5\u871C\u610F\u3002"
   title: "\u8D1D\u591A\u82AC\u7B2C\u56DB\u4EA4\u54CD\u66F2\u7B2C\u4E8C\u4E50\u7AE0"
-- enclosure:
-    type: audio/mpeg
-    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/chi/26733_podcast_chi_klassischemusik/7B4ED7F9_2-podcast-26733-54031789.mp3
-  link: "https://www.dw.com/zh/\u8D1D\u591A\u82AC\u7B2C\u56DB\u4EA4\u54CD\u66F2\u7B2C\
-    \u4E00\u4E50\u7AE0/av-54031789?maca=chi-podcast_chi_klassischemusik-26733-xml-mrss"
-  published: Sun, 25 Oct 2020 12:41:00 GMT
-  summary: "\u8D1D\u591A\u82AC\u964DB\u5927\u8C03\u7B2C\u56DB\u4EA4\u54CD\u66F2\u5B8C\
-    \u6210\u4E8E1806\u5E74\u3002\u4E0E\u5145\u6EE1\u6218\u6597\u548C\u6297\u4E89\u7CBE\
-    \u795E\u7684\u82F1\u96C4\u4EA4\u54CD\u66F2\u53CA\u547D\u8FD0\u4EA4\u54CD\u66F2\
-    \u4E0D\u540C\uFF0C\u7B2C\u56DB\u4EA4\u54CD\u66F2\u4F18\u96C5\u3001\u6D3B\u6CFC\
-    \u3001\u8F7B\u677E\u800C\u6D6A\u6F2B\u3002\u4F5C\u54C1\u7684\u7B2C\u4E00\u4E50\
-    \u7AE0\u4E3A\u6D3B\u6CFC\u7684\u5FEB\u677F\u3002"
-  title: "\u8D1D\u591A\u82AC\u7B2C\u56DB\u4EA4\u54CD\u66F2\u7B2C\u4E00\u4E50\u7AE0"
 
 ---
 聆聽德國的音樂會，欣賞古典音樂曲目。

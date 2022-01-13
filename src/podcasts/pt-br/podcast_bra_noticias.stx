@@ -1,7 +1,7 @@
 ---
 title: "DW Brasil Notícias"
 id: podcast_bra_noticias
-published: "Thu, 13 Jan 2022 07:21:52 GMT"
+published: "Thu, 13 Jan 2022 15:07:13 GMT"
 page_link: "https://www.dw.com/pt-br/not%C3%ADcias/s-7111?maca=bra-podcast_bra_noticias-32059-xml-mrss"
 atom_link: "https://rss.dw.com/xml/podcast_bra_noticias"
 language: pt-br
@@ -11,6 +11,14 @@ tags: [ "News & Politics" ]
 image_url: https://static.dw.com/image/54807520_7.png
 image_title: ""
 entries:
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/bra/32059_podcast_bra_noticias/C8C8526F_2-podcast-32059-60407858.mp3
+  link: "https://www.dw.com/pt-br/boletim-de-not\xEDcias-13-01-22/audio-60407858?maca=bra-podcast_bra_noticias-32059-xml-mrss"
+  published: Thu, 13 Jan 2022 09:49:00 GMT
+  summary: "Alta de casos de covid no Brasil gera escassez de testes. Ou\xE7a esse\
+    \ e outros destaques desta quinta-feira, no Boletim de Not\xEDcias da DW Brasil."
+  title: "Boletim de Not\xEDcias (13/01/22)"
 - enclosure:
     type: audio/mpeg
     url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/bra/32059_podcast_bra_noticias/A2D82910_2-podcast-32059-60404796.mp3
@@ -130,15 +138,6 @@ entries:
   summary: "Rio de Janeiro cancela carnaval de rua em 2022. Ou\xE7a esse e outros\
     \ destaques desta quarta-feira no Boletim de Not\xEDcias da DW Brasil."
   title: "Boletim de Not\xEDcias (05/01/22)"
-- enclosure:
-    type: audio/mpeg
-    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/bra/32059_podcast_bra_noticias/00CA192D_2-podcast-32059-60332237.mp3
-  link: "https://www.dw.com/pt-br/boletim-de-not\xEDcias-04-01-21-segunda-edi\xE7\xE3\
-    o/audio-60332237?maca=bra-podcast_bra_noticias-32059-xml-mrss"
-  published: Tue, 4 Jan 2022 20:44:00 GMT
-  summary: "EUA registram recorde de mais de um milh\xE3o de casos de coronav\xED\
-    rus em um \xFAnico dia. Ou\xE7a este e outros destaques desta ter\xE7a-feira."
-  title: "Boletim de Not\xEDcias (04/01/21) - Segunda edi\xE7\xE3o"
 
 ---
 Um resumo das principais notícias do Brasil e do mundo sobre política,
