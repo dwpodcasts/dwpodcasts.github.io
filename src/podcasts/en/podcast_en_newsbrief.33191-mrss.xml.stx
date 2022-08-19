@@ -1,8 +1,8 @@
 ---
 title: "DW News Brief"
 id: podcast_en_newsbrief.33191-mrss.xml
-published: "Thu, 13 Jan 2022 15:09:46 GMT"
-page_link: "https://www.dw.com/en/tv/dw-news/s-3232?ad=699767&maca=en-podcast_en_newsbrief-33191-xml-mrss"
+published: "Fri, 19 Aug 2022 14:04:29 GMT"
+page_link: "https://www.dw.com/en/tv/dw-news/s-3232?ad=714977&maca=en-podcast_en_newsbrief-33191-xml-mrss"
 atom_link: "https://rss.dw.com/syndication/feeds/podcast_en_newsbrief.33191-mrss.xml"
 language: en
 deutschkurs: False
@@ -13,11 +13,39 @@ image_title: ""
 entries:
 - enclosure:
     type: audio/mpeg
-    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/33191_podcast_en_newsbrief/2022_01_13_Top_Stories___Thursday_11_00_UTC_699767-128KB-podcast-33191-699767.mp3
-  link: http://www.dw.com/en/tv/dw-news/s-3232?ad=699767&maca=en-podcast_en_newsbrief-33191-xml-mrss
-  published: Thu, 13 Jan 2022 11:00:00 GMT
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/33191_podcast_en_newsbrief/2022_08_19_Top_Stories___Friday_05_00_UTC_714992-128KB-podcast-33191-714992.mp3
+  link: http://www.dw.com/en/tv/dw-news/s-3232?ad=714992&maca=en-podcast_en_newsbrief-33191-xml-mrss
+  published: Fri, 19 Aug 2022 05:00:00 GMT
   summary: Up-to-the-minute news from around the world.
-  title: The world news at 11:00 UTC on 01/13/2022
+  title: The world news at 05:00 UTC on 08/19/2022
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/33191_podcast_en_newsbrief/2022_08_19_Top_Stories___Friday_02_00_UTC_714987-128KB-podcast-33191-714987.mp3
+  link: http://www.dw.com/en/tv/dw-news/s-3232?ad=714987&maca=en-podcast_en_newsbrief-33191-xml-mrss
+  published: Fri, 19 Aug 2022 02:00:00 GMT
+  summary: Up-to-the-minute news from around the world.
+  title: The world news at 02:00 UTC on 08/19/2022
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/33191_podcast_en_newsbrief/2022_08_19_Top_Stories___Friday_00_00_UTC_714986-128KB-podcast-33191-714986.mp3
+  link: http://www.dw.com/en/tv/dw-news/s-3232?ad=714986&maca=en-podcast_en_newsbrief-33191-xml-mrss
+  published: Fri, 19 Aug 2022 00:00:00 GMT
+  summary: Up-to-the-minute news from around the world.
+  title: The world news at 00:00 UTC on 08/19/2022
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/33191_podcast_en_newsbrief/2022_08_19_Top_Stories___Thursday_22_00_UTC_714984-128KB-podcast-33191-714984.mp3
+  link: http://www.dw.com/en/tv/dw-news/s-3232?ad=714984&maca=en-podcast_en_newsbrief-33191-xml-mrss
+  published: Thu, 18 Aug 2022 22:00:00 GMT
+  summary: Up-to-the-minute news from around the world.
+  title: The world news at 22:00 UTC on 08/18/2022
+- enclosure:
+    type: audio/mpeg
+    url: https://radiodownloaddw-a.akamaihd.net/Events/podcasts/en/33191_podcast_en_newsbrief/2022_08_18_Top_Stories___Thursday_19_00_UTC_714977-128KB-podcast-33191-714977.mp3
+  link: http://www.dw.com/en/tv/dw-news/s-3232?ad=714977&maca=en-podcast_en_newsbrief-33191-xml-mrss
+  published: Thu, 18 Aug 2022 19:00:00 GMT
+  summary: Up-to-the-minute news from around the world.
+  title: The world news at 19:00 UTC on 08/18/2022
 
 ---
 News, Analysis and Service from Germany and Europe - in 30 Languages
